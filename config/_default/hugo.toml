@@ -15,9 +15,6 @@ target = "content"
 source = "page_layouts"
 target = "layouts"
 
-[[module.mounts]]
-source = "css"
-target = "static"
 
 
 [taxonomies]

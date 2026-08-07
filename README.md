@@ -50,7 +50,7 @@ Recipe content goes here in Markdown format.
 ## 3. Development & Usage
 
 ### Re-Building the Site (`./gen.sh`)
-By default, `./gen.sh` cleans non-image site artifacts from `dest/` (while preserving `dest/images/`) before rebuilding the static site:
+By default, `./gen.sh` cleans generated site artifacts from `dest/` (while preserving static assets in `dest/images/` and `dest/css/`) before rebuilding the site:
 
 ```bash
 ./gen.sh
@@ -73,7 +73,7 @@ Useful flags:
 - Include draft posts: `hugo server --port 8080 -D`
 - Include future-dated posts: `hugo server --port 8080 --buildFuture`
 
-The development server serves the site at `http://localhost:8080/` and automatically watches `src/`, `page_layouts/`, and `css/` for live updates. Image assets live directly in `dest/images/` and are preserved during `./gen.sh` builds.
+The development server serves the site at `http://localhost:8080/` and automatically watches `src/` and `page_layouts/` for live updates. Image assets live directly in `dest/images/` and CSS assets live in `dest/css/`, both preserved across `./gen.sh` builds.
 
 ---
 
