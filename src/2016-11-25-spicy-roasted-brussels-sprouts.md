@@ -37,6 +37,3 @@ Preheat the oven to 400°F. Trim the base away from the brussels sprouts and dis
 In a small bowl, whisk the oil with the vinegar, sugar/maple syrup, and Sriracha to combine. Pour into the bag with the brussels sprouts and toss until they are fully coated. Season with salt and pepper to taste.
 
 Spread the brussels sprouts on a baking sheet, cut sides down. Roast until the crispy on the outside and golden and caramelized on the cut sides, 20 to 30 minutes. Serve immediately.
-
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; -webkit-text-stroke: #000000}
-span.s1 {font-kerning: none}

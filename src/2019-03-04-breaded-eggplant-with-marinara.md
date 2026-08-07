@@ -10,11 +10,6 @@ featured_image: "/images/eggplant-served.JPG"
 description: "Breaded Eggplant with Marinara recipe."
 ---
 
-**
-
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
-
 Cyndy visited this weekend, and we made this for a dinner with Munira and Vinod. She soaked some dried mushrooms overnight and cut them up in small pieces to add to the marinara. it was really good!  I need to look at [Judi's eggplant recipe](https://veryveryverygreen.blogspot.com/2015/12/christmas-eve.html)too; she fries it forever, but doesn't bread it (her dad never did). Then she bakes it with her homemade marinara, alternating layers so it's like a little lasagna. She says it melts in your mouth.
 
 [![](/images/eggplant-served.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwEN60Bn9wrPT58tzhlrFTlwxYIxM7XlmF3pOrX9tL9CN9-g_fxtkXaNwjtT8kIF2zUEnZPysLzVWDqmzyHSC1nIdNFR8nhyphenhyphen_vkmfo1F00dkpK0VKZ0kHF1qBCseIQNBN9l2b6EVHiQ18o/s1600/eggplant-served.JPG)

@@ -37,6 +37,3 @@ Peel the yams, dice, and roast in the oven with a little olive oil. (Or boil or 
 Put cooled yams in a big bowl. Add spices and syrup and mash. Add coconut milk.  Serve warm. Yum!
 
 Chloe's original recipe called for a full can of coconut milk, but I found half a can was enough. Use any leftover coconut milk to make a quick [coconut chia pudding](http://peachykeengreen.blogspot.com/2015/05/chia-pudding.html) :)
-
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; -webkit-text-stroke: #000000}
-span.s1 {font-kerning: none}
