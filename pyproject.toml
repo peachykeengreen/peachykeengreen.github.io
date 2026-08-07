@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "peachykeengreen-tools"
+version = "0.1.0"
+description = "Tools and configuration for Peachy Keen Green static site content and builds"
+readme = "README.md"
+requires-python = ">=3.13"
+authors = [
+    { name = "Peachy Keen Green" }
+]
+keywords = ["hugo", "static-site", "peachykeengreen"]
+
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "ruff>=0.1.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.pytest.ini_options]
+testpaths = ["."]
+python_files = ["test_*.py"]

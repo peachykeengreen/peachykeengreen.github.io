@@ -1,0 +1,32 @@
+---
+title: "Squash Spaghetti with Meatless Meatballs"
+slug: "squash-spaghetti-with-meatless-meatballs"
+date: "2016-02-14T18:50:00Z"
+lastmod: "2016-02-18T05:41:32.255Z"
+draft: false
+categories: ["Entree"]
+aliases: ["/2016/02/squash-spaghetti-with-meatless-meatballs.html"]
+featured_image: "/images/squashspag.jpg"
+description: "Squash Spaghetti with Meatless Meatballs recipe."
+---
+
+A new twist on pasta from Larry's sister Cyndy. Delicious and super healthy. Here's the recipe for 2 people; increase proportionally for 4. (Okay, way too much yellow in this photo; I'll get a better one later.)**
+
+[![](/images/squashspag.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmeSbqJP0XtRl1GebHsBUTgZ4KnpAgoZOEi2_lVuYcmTv8s0RMN3Cqw1rfU7DGaDsYlE_O7ekeWKPVNDrN6-aG246ZbnC2GcBHzm7GEpylpOdY7gI7w4LT34YG1TluL7oa8eTrLPC2yVb/s1600/squashspag.jpg)Ingredients****
+4 zucchini squash
+
+[homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html) (with onion and mushroom to make it thicker)
+
+TJ's meatless meatballs
+
+Instructions**
+
+Using a spiral slicer, create julienne strips of the zucchini. Be careful not to cut yourself against the blades when you're twisting near the end of the zucchini!
+
+Put the zucchini on a plate covered with a paper towel, and nuke for 3 minutes. (You may need to do a couple plates worth; nuke one plate while you're finishing the rest the zucchini.) Slice of the ends of the squash and nuke it, too. Optionally, put the nuked zucchini in a casserole dish, put a little pasta on it, and bake it in the oven for a few minutes.
+
+In a sauce pan, warm up the marinara with TJs' meatless meatballs, using about 6 meatballs for each person. The bag has about 32, enough for about 5-6 servings; just keep the rest in your freezer for next time.
+
+Dish it up! The picture above is a tiny leftover portion because we ate it sooooo fast. Yum.
+
+[![](/images/spiralslicer.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqfSzjUi3ZY77Bm4ZkMmLb9pGJU7HKULubE-gbXF0_pvnYkDdkrJ667z5wENZt5R_fMihj24VRU6jTluwn2aUffU2kwhmRpdGJHOL3arXzE6pqlXGIc2Y4PTw2E7mYt73dOMhxbDhDMYAB/s1600/spiralslicer.jpg)

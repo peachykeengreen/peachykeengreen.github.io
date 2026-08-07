@@ -1,0 +1,54 @@
+---
+title: "Cilantro Mint Chutney"
+slug: "green-chutney"
+date: "2019-05-19T18:40:00.006Z"
+lastmod: "2021-06-20T04:23:14.910Z"
+draft: false
+categories: ["Appetizer", "Indian", "Sauce"]
+aliases: ["/2019/05/green-chutney.html"]
+featured_image: "/images/IMG_2328.jpg"
+description: "Cilantro Mint Chutney recipe."
+---
+
+Munira gave us some delicious homemade hot green chutney. I tried to replicate it - with success: even Munira and Vinod liked it! This is adapted from a video Munira shared for this r[ecipe for Green Chutney (Mind & Coriander)](https://www.youtube.com/watch?v=Ef8IV-jmnRQ) and also Neelam Batra's The Indian Vegetarian cookbook. Most of the ingredients came from our garden, which was extra fun. Serve with samosas, on veggie burgers or sandwiches like [Pav Bhaji](http://peachykeengreen.blogspot.com/2019/05/pav-bhaji-and-muniras-secrets.html) (but that might make it too hot to eat!).
+
+[![](/images/IMG_2328.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5K4yRaIq8-aIlZ0GpXrZbHc3CUxrNYabNW-3hCq0u5NinIsNsoLURyWtMhBnSOTC88UFMl84rQfxnnhK5f1lJr1GckrXSGUZSn5A7WhkxQZQN3V_8w3U-HYOFiQocUf0ZYy4cZYDqZcCB/s1600/IMG_2328.jpg)
+
+## **Ingredients**
+
+1 red onion or 2 long scallions, sliced
+
+2 jalapeno peppers, sliced (carefully!)
+
+2 inches of ginger, sliced
+
+**
+2 C cilantro (fresh coriander)
+
+1 C fresh mint
+
+(or 2 parts cilantro to 1 part mint)
+
+1 tsp cumin
+
+juice from one lime (or lemon)
+
+optional:
+
+1/4 cup seeds from pomegranate
+
+2 cloves garlic
+
+1 green or yellow pepper
+
+salt and pepper to taste
+
+## Instructions**
+
+In the food processor, grind the onion, peppers, and ginger coarsely (and any optional ingredients like pomegranate and garlic, if using). Add the rest of the ingredients and blend. (Don't blend cilantro too long; it's nice to be a little course)
+
+I like to freeze some in ice cube trays so I can grab some when I want it for a veggie burger.
+
+[![](/images/IMG_2325.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUrKCjUGB9smuUekAt5kd8QMKTTJfpfeHEZ77I9rIBpGOYp65-LYh6sQMqIVvZ_xdtX7XqgSgio4RFJh5Y5gnx1RMuqoifc9CNbLq-cjhbY8oAvK48XQUR-U-nM_F1JNo5DiLWWmVCW-JQ/s1600/IMG_2325.JPG)
+
+[![](/images/IMG_2329.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhyphenhyphenWDXFk1WQggruZm5tfJpnJ-1Vax_WTe7qHAjxlq3pk-kVsNfzGTtag7nBbmKE6QoXG88zn6y90IcNQdo08epTwE50putt6hpRhsmKjT15wvAVtRCsc-UrdxwOtUEhxmbwADCgjHR9vVa/s1600/IMG_2329.jpg)

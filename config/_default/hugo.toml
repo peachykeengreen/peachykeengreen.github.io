@@ -1,0 +1,35 @@
+baseURL = "/"
+title = "Peachy Keen Green"
+locale = "en"
+summaryLength = 30
+
+contentDir = "src"
+layoutDir = "page_layouts"
+publishDir = "dest"
+
+[[module.mounts]]
+source = "src"
+target = "content"
+
+[[module.mounts]]
+source = "page_layouts"
+target = "layouts"
+
+[[module.mounts]]
+source = "css"
+target = "static"
+
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  posts = "/:slug/"
+
+[params]
+  version = "1.0.0"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+

@@ -1,0 +1,44 @@
+---
+title: "Kala Chana (Black Chickpea Curry)"
+slug: "kala-chana-black-chickpea-curry"
+date: "2022-01-03T05:38:00.005Z"
+lastmod: "2023-03-04T20:07:05.175Z"
+draft: false
+categories: ["Indian", "Entree"]
+aliases: ["/2022/01/kala-chana-black-chickpea-curry.html"]
+featured_image: "/images/kala-chana-black-chickpea-curry-img-1.jpg"
+description: "Kala Chana (Black Chickpea Curry) recipe."
+---
+
+Another of Munira's yummy recipes. Black chickpeas have such a nice flavor. Of course all the measures are approximate guesses; no actual measurement tools were used in the making :)
+
+## Ingredients
+
+[![](/images/kala-chana-black-chickpea-curry-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEi39cfcp7oHTseyrSEXwRKqUSEFDEd7oTNRvGktCNcvPNAWHNv-o_Ha3zdYp6XXbJAobVealcr62S7tX9OFnzWyhQUKYkpeg0zZqhdhej7ZdN376iHeugvDBXcJyvygvMQ6DPeciVVTaSWYcx7qAQiHF7ZdW3awci5eMGEXropAMk-vgCP2N0W9RWF3gQ=s990)
+2 C dry black chickpeas
+
+2 T canola oil
+1 hot pepper, diced
+1" ginger, diced
+2 tsp mustard seed
+2 tsp cumin seed
+1/2 tsp hing
+1 small onion, diced
+1/2 tsp salt
+
+5 large garlic cloves, sliced
+1/2 C cilantro, chopped
+
+2 tsp coriander
+1 tsp red chili powder
+1 tsp turmeric
+2 T dry (not sweet) coconut (optional)
+1 tsp garam masala
+
+## Instructions
+
+Cook chickpeas in instant pot: 15 minutes with 3 C water if soaked; 30 min w/5 C water if not.
+
+Saute pepper, ginger, mustard seed, cumin seed, hing, onion, and salt a few minutes in oil. Add garlic and cilantro, and stir. Add remaining spices and cooked chana, including water (may need to add more water, depending). Simmer 30 minutes and serve!
+
+[![](/images/kala-chana-black-chickpea-curry-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjOlancldwc2qh1TnpwkoPNDgz_PrcLd169I7Zy1cwF7fKB2sdqyw0IhFs56GdJGjLJ1Yr1bvjoHgW5gflbYjqv98FzAe6MjsHX0Q8hUqo27HZD6raKmsUWz9kGhechf7UtICi2ZWt0iEawfU0M-Ou-W1-XchjxA3ZFQsaIdnuJJxlN8nbUVP9zxmhqfw=s954)

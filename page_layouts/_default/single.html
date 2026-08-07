@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article>
+  <div class="recipe-single-header">
+    <div class="recipe-single-categories">
+      {{ range .Params.categories }}
+        <a href="/categories/{{ . | urlize }}/" class="category-pill">{{ . }}</a>
+      {{ end }}
+    </div>
+    <h1 class="recipe-single-title">{{ .Title }}</h1>
+    <div class="recipe-single-meta">
+      Published on <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>
+      {{ if ne .Date .Lastmod }}
+        | Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "January 02, 2006" }}</time>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="recipe-action-bar">
+    <button onclick="window.print();" class="btn-print">🖨️ Print Recipe</button>
+    <a href="/" class="button btn-print">&larr; Back to Recipes</a>
+  </div>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

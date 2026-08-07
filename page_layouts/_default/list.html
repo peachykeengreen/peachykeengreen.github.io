@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div style="margin-bottom: 2rem; text-align: center;">
+  <h1>{{ .Title }}</h1>
+  <p class="lead" style="color: var(--muted-color);">Browsing {{ len .Pages }} recipes in this section.</p>
+  <div style="margin-top: 1rem;">
+    <button onclick="pickRandomCategoryRecipe();" class="category-pill random-recipe-btn">
+      🎲 Pick a Random {{ .Title }} Recipe
+    </button>
+  </div>
+</div>
+
+<div class="recipe-grid">
+  {{ range .Pages }}
+    {{ partial "recipe-card.html" . }}
+  {{ end }}
+</div>
+
+<script>
+  function pickRandomCategoryRecipe() {
+    const recipes = [
+      {{ range $i, $e := .Pages }}{{ if $i }},{{ end }}"{{ $e.RelPermalink }}"{{ end }}
+    ];
+    if (recipes.length > 0) {
+      const randomIndex = Math.floor(Math.random() * recipes.length);
+      window.location.href = recipes[randomIndex];
+    }
+  }
+</script>
+{{ end }}

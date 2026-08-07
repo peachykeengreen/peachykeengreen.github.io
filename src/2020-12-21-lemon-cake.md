@@ -1,0 +1,76 @@
+---
+title: "Lemon Cake or Bread"
+slug: "lemon-cake"
+date: "2020-12-21T03:53:00.020Z"
+lastmod: "2021-02-13T22:23:35.325Z"
+draft: false
+categories: ["Bread", "Dessert"]
+tags: ["Bread", "Dessert"]
+aliases: ["/2020/12/lemon-cake.html"]
+featured_image: "/images/IMG_8289.jpg"
+description: "Lemon Cake or Bread recipe."
+---
+
+It's lemon season! When the frost comes they go bad, so Larry is bringing in scores of meyer lemons and limes. After success with [key lime yogurt](https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html), I got a craving for lemon cake. Larry said yes, please! (And Sandy says lemon cake is one of her favorites - good to know!) I tried this [loving it vegan recipe](https://lovingitvegan.com/vegan-lemon-cake/), and the cake was delish. The powdered-sugar frosting was sweeter than we liked, though. Then I tried a vegan cream cheese frosting from [Vegan Richa](https://www.veganricha.com/vegan-lemon-cake-with-cream-cheese-frosting/), which was pretty good.
+
+It's yummy without any frosting, just as a lemon bread -- which is probably how I'll use this recipe in the future
+
+## Ingredients
+[![](/images/IMG_8289.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIfYsLEHxh-4Ac0BAitpswLfbI5RjmenexGekQH31ClRj4zBU1C0TQJtbwi8MzWNMDNTXDfPRu1zfdHE-ivmUgwmt5XNS8AJscEcBjhBehcA-l771DajqiNz0IoGmmQXmbgZvHsHs6Hnhj/)
+
+Dry:
+1 C + 1 T whole-wheat flour
+1 1/2 C white flour
+1 1/2 C sugar
+1 1/2 tsp. baking soda
+1/2 tsp salt
+1/3 tsp turmeric for color (optional)
+
+Wet:
+1 T vinegar
+1 1/2 C non-dairy milk (oat, soy, or almond)
+1/2 C canola oil
+1 tsp vanilla
+Zest and juice from 3 lemons
+
+Cream cheese frosting (OPTIONAL; don't need it for bread):
+8 oz (vegan) cream cheese
+1/3 C maple syrup
+zest and juice from 2 lemons
+2 drops vanilla
+2 T powdered sugar for sweeter frosting (optional)
+pinch of salt
+
+## Instructions
+
+Preheat the oven to 350°F (180°C).
+
+Butter or spray 8 inch cake pans and line the bottoms with parchment paper. Set aside.
+
+Put nondairy milk and vinegar in a bowl and mix; set aside.
+
+Mix together dry ingredients. Make a well, and add wet ingredients. Mix until nicely combined, but don't overmix.
+
+Divide the batter between the two cake pans and place into the oven to bake for 30 minutes or until a toothpick inserted into the center of one of the cakes comes out clean.
+
+Remove the cakes from the pans and place onto a wire cooling rack to cool completely before frosting.
+
+Prepare the frosting: mix by hand is fine, or can an electric mixer. (Can chill 15 min too flowy.)
+
+Frost the cooled cakes and decorate with lemon zest.
+
+[![](/images/IMG_8287.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZTJbUCe4wuaHlcpfGrqEcRjGEYzbaXTZj1hPaV77XQoAB0ISf5Up_DEUQ2Nv-op92IADkniqrkWnX0XvAGD9Pg9p6Tc7AE58W-kl2pJOW8T5g-Wrq7z4iQYtRch6s6D9gZdO15i23RnI2/)
+
+[![](/images/IMG_8288.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJGzz-UMU0T0X4TlbuFhoznmG17-JMQWA0-PUKopE3DjyRFYvwHS7nNo-VRRNaYatlZXDM0Pdhu_F-qepnLRsZtog874-mFarCbflHktcifP22wVtQ0BchE3uQTZHmE7A1YU9v-U-WzDf/)
+
+Frost with cream cheese frosting, and top with lemon zest!
+
+[![](/images/IMG_8311.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhol_UfEUrkfsLte_r6vV3zS74MSeulW_2df9g2F9VH8ctN710Roa7xVaAGWbA5UvZeuyJV8AhxSOvZEX0YqI7UktcTWJkmfQ1A8Fh1NkPbvEH_p0B1CpG94nojT_09X4l8nWJKGcbuOlgE/)
+
+Earlier powdered sugar frosting version below. Beautiful, but a little too sweet.
+
+[![](/images/IMG_8297.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDji1NfMfuh6y8Dp5KmBDrJiesbB2DcG1PjsA3AcUeywysF2PAFw4Bfze389bN7V45OoFgOaRuYmM_rxV3SzDAkKIDedSxpHicyt2pKWflLdFfeyWKtX52_EaSHHOC1DIs4jajPx0OmcUu/)
+
+[![](/images/IMG_8302.jpg)
+
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbLr0jT_vNmGw3Sxa9jHUn1DGsi6udXFV4zCqqjiJ6kewCwaOhalg_RaFEgyoFsAjULaS70weuvLNttvGLrEwLsQxeJUbEhh8WA3qKk75Yyf41mVJ4cND8wNcjwil6ivktTaCIxCLf3FMc/)

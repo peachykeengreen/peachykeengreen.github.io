@@ -1,0 +1,46 @@
+---
+title: "Jeff's Flavorful Favas"
+slug: "jeffs-flavorful-favas"
+date: "2016-02-17T06:45:00.001Z"
+lastmod: "2017-01-02T21:55:46.098Z"
+draft: false
+categories: ["Entree"]
+aliases: ["/2016/02/jeffs-flavorful-favas.html"]
+featured_image: "/images/jeffsflavorfulfava.jpg"
+description: "Jeff's Flavorful Favas recipe."
+---
+
+My brother Jeff gave me a couple bags of dried fava beans this weekend. He gets them at his local farmers market. I soaked, boiled, and then sautéed them with some garlic and pepper. It was good, but needed something. Then I remembered that Jeff made a yummy fava dish a few months ago in Nebraska. So I called him up to ask what all he put in it. "Tomatoes and onion really go well with favas," he said. I had some chard in the back yard; how about that, too? "That's great, chop it up well!" And so I did. Later: "Didn't chopping the greens change everything? I think chopping releases more flavor and improves the texture." Yes, it does! It was delicious.**
+
+Next: reminder to self to try this [Portugese Fava recipe](http://www.foodnetwork.com/recipes/emeril-lagasse/hildas-favas-recipe2.html) (sans chorizo or with vegan chorizo).
+
+[![](/images/jeffsflavorfulfava.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNe81OIh8zWt-AJkzz_UGrXJAiH2VwuBnWKT4z9lRjLbRS4-e-El4yk_ozDsUL-uqItz_bULIbGs1QbCOpZNwcxCQbmlA86foAeB2Kmmgui2u7PidYM7hwPuMzcN_lPluXC5RmTzvGSnuB/s1600/jeffsflavorfulfava.jpg)Ingredients****
+fava beans
+
+onion, chopped
+
+tomatoes (1 can, or a few romas)
+
+chard or kale, chopped
+
+garlic to taste
+
+olive oil
+
+cayenne pepper
+
+salt
+
+other spices to taste
+
+Instructions**
+
+If using dried favas, soak them over night, rinse, bring to a boil, and simmer 45 minutes. (I leave the shell on.) Jeff says save the broth and use it in the saute; I had already drained the beans when I asked him, so I missed that.
+
+Saute the onion in a little oil until translucent. Add tomatoes and greens, and a little fava broth or water if it needs it. Add garlic and spices and stir well. Add favas and let it all cook on low for a bit (15-20 minutes?) until all the ingredients kinda become one.
+
+Serve over rice. Yum! And OMG healthy.
+
+[![](/images/driedfavas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdi1PVQq6wr7Z4fpUiPZG8KdAFeGBt3EPoQKHbRwa581JpojLe5omV_-unVrovAI_QHsA275cGnvF1YLQm2PynCKRZ808yTUhwtQ9dmB51Bzb1KlTlMWFK9Cc-PnOkOvEHjil_MC04IpaX/s1600/driedfavas.jpg)
+
+Dried fava beans

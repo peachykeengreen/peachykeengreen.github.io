@@ -1,0 +1,42 @@
+---
+title: "Coconut Mashed Yams"
+slug: "coconut-mashed-yams"
+date: "2017-03-13T05:13:00.001Z"
+lastmod: "2017-03-13T05:13:07.896Z"
+draft: false
+categories: ["Side Dish"]
+aliases: ["/2017/03/coconut-mashed-yams.html"]
+featured_image: "/images/coconutmashedyam.jpg"
+description: "Coconut Mashed Yams recipe."
+---
+
+Adapted from [Chloe's Kitchen](http://chefchloe.com/books), a simple delicious dish.**
+
+[![](/images/coconutmashedyam.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiyNZTg6TypctrHFz9xweW-jCP_Afxs65jNhkRvswouVoR9cx6Cf2uCsIbvK7OpflchZLaOMJGudpnDz0b0RaTDsuc_0ARg6R4ZZe_HUi5f4olniek8iVQaQm51_JZ6kRQlmteECISA2C/s1600/coconutmashedyam.jpg)
+
+Ingredients****
+
+3 large yams, peeled, cut, roasted in oven
+
+1/2  can lite coconut milk
+
+1 T maple syrup
+
+1 t salt
+
+1/2 t cinnamon
+
+1/2 t cloves
+
+1/2 t ginger
+
+Instructions**
+
+Peel the yams, dice, and roast in the oven with a little olive oil. (Or boil or microwave, but roasting is easy, and you can throw in some other veggies to much while you mash!)
+
+Put cooled yams in a big bowl. Add spices and syrup and mash. Add coconut milk.  Serve warm. Yum!
+
+Chloe's original recipe called for a full can of coconut milk, but I found half a can was enough. Use any leftover coconut milk to make a quick [coconut chia pudding](http://peachykeengreen.blogspot.com/2015/05/chia-pudding.html) :)
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; -webkit-text-stroke: #000000}
+span.s1 {font-kerning: none}

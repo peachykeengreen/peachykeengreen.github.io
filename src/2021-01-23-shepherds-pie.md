@@ -1,0 +1,60 @@
+---
+title: "Shepherd's Pie"
+slug: "shepherds-pie"
+date: "2021-01-23T03:00:00.010Z"
+lastmod: "2026-06-28T18:05:10.233Z"
+draft: false
+categories: ["Entree"]
+aliases: ["/2021/01/shepherds-pie.html"]
+featured_image: "/images/shepherds-pie-img-1.jpg"
+description: "Shepherd's Pie recipe."
+---
+
+Updated from the 2026 Blue Zone Cookbook. Originally from the [How Not To Die Cookbook](https://nutritionfacts.org/book/how-not-to-die-cookbook/) that Susie gave me, I asked Larry what he thought; he said "I always like pie." The following is a mashup between the one in the book and this
+[minimalist baker](https://nutritionfacts.org/book/how-not-to-die-cookbook/)
+ recipe, and the Blue SAone cookbook plus some ideas from our favorite
+[pot pie](https://peachykeengreen.blogspot.com/2018/11/vegan-chicken-pot-pie.html)
+. It was very good!
+
+## Ingredients
+
+[![](/images/shepherds-pie-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiEk-cC1pWlWti_eq4cHrrCDEAPINd4WvlGgOt-LS6g9Y0cVabHukQyxCKzTIIaj0c2foUTGuMsFomz9EbOuiFhwGDEloqPCu4i3uFPk1HyKZl6N10VL4j312oigRt4FM8xA2VDaq_YlbaD4Z8q3sQTcFpKaBqgDsbJ5NV3mDBPBaLUPoF542KZ2wVW0Xxj)
+2 T canola oil
+1/2 hot pepper, diced, or 1/2 tsp pepper flakes
+1 onion, chopped
+
+3 carrot, sliced
+3 stalks celery, chopped
+8+ oz mushrooms, sliced
+Or other veggies, like zuccinni, or mixed frozen veggies
+
+2-3 C cooked lentils
+1/4 C red wine vinegar
+
+Slurry:
+1 T potato starch or cornstarch
+1 tsp soy sauce
+1 T miso
+2 C veggie broth
+
+Seasoning:
+1 tsp dried thyme (or more fresh)
+1 tsp dried oregano (or more fresh)
+1 bay leaf
+1/2 tsp black pepper
+1 tsp salt
+
+Topping: Mashed potatoes, or [Cauliflower mashed potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html)
+Fresh parsley & chives, chopped
+
+## Instructions
+
+Mix flour, arrowroot, and broth into a slurry, and set aside.
+
+Saute onion and pepper in oil about 5 minutes. Add veggies and cook, stirring frequently, a few more more minutes. Deglaze the pan with the vinegar, stirring to scrape up any bits stuck to the pan. . Add slurry, lentils, and seasoning to the pan. Bring to a boil and then simmer about 15 minutes.
+
+Pour into large pie pan and top with mashed potatoes/cauliflower.  Bake for about 20 min at 375! Top with fresh herbs.
+
+Out of the oven:
+
+[![](/images/IMG_8588.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbQcJ9tSJfY0kuNITbDuBOqDM2NEW7G8Y_UkpsqG85CjBabLmus4uTVUBp3u_ExYm7E2eMVt0vRPlfmoKt7LQamC2mpwW9yX7nfL7Q8-vlWVS-T23Sk685JwuMD2MGhaW9wGH2l8Tz0NiY/s640/IMG_8588.jpg)

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Salad | Peachy Keen Green</title>
+  <meta name="description" content="Vegan recipes and tips.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Damion&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/pico.min.css">
+  <link rel="stylesheet" href="/styles.css?v=1.0.0">
+  <script defer src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
+</head>
+<body>
+  <header class="site-header">
+  <div class="site-header-container">
+    <nav class="site-nav">
+      <div class="site-brand">
+        <a href="/" class="site-logo">🌱 Peachy Keen Green</a>
+        <div class="site-subtitle">Vegan recipes and tips.</div>
+      </div>
+      <div class="site-nav-right">
+        <ul class="site-nav-links">
+          <li><a href="/categories/">Categories</a></li>
+          <li><a href="#" onclick="pickRandomSiteRecipe(event)">Random</a></li>
+        </ul>
+        <form action="/" method="GET" class="header-search-form" id="headerSearchForm" role="search">
+          <input type="search" name="q" id="headerSearchInput" class="header-search-input" placeholder="Search recipes..." aria-label="Search recipes" autocomplete="off" />
+          <button type="button" id="headerSearchBtn" class="header-search-btn" aria-label="Toggle search">🔍</button>
+        </form>
+      </div>
+    </nav>
+  </div>
+</header>
+
+  
+  <main class="container" style="margin-top: 2rem; min-height: 70vh;">
+    
+<div style="margin-bottom: 2rem; text-align: center;">
+  <h1>Salad</h1>
+  <p class="lead" style="color: var(--muted-color);">Browsing 15 recipes in this section.</p>
+  <div style="margin-top: 1rem;">
+    <button onclick="pickRandomCategoryRecipe();" class="category-pill random-recipe-btn">
+      🎲 Pick a Random Salad Recipe
+    </button>
+  </div>
+</div>
+
+<div class="recipe-grid">
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/cranberry-walnut-chickpea-salad/">
+      <img src="/images/cranberry-walnut-chickpea-salad-img-1.jpg" alt="Cranberry Walnut Chickpea Salad" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2025-08-14">Aug 14, 2025</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/cranberry-walnut-chickpea-salad/">Cranberry Walnut Chickpea Salad</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/cranberry-walnut-chickpea-salad/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Cyndy made this salad for us during a visit. It has a great mix of sweetness, heartiness, and crunch. Beautiful and delicious!
+Ingredients 1 can drained chickpeas 1 C fresh spinach, chopped into...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/cauliflower-walnut-apple-salad/">
+      <img src="/images/cauliflower-salad.jpg" alt="Cauliflower Walnut Apple Salad" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2023-05-28">May 28, 2023</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+        <a href="/categories/entree/" class="category-pill">Entree</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/cauliflower-walnut-apple-salad/">Cauliflower Walnut Apple Salad</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/cauliflower-walnut-apple-salad/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Marina shared a recipe for Cauliflower Salad Sandwiches from the New York Times; delicious! If you make sandwiches, a roll handy to keep everything in place, since it&rsquo;s a bit chunky....</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/beet-quinoa-salad/">
+      <img src="/images/beet-quinoa-salad-img-1.jpg" alt="Roasted Beet Quinoa Salad" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2022-12-01">Dec 01, 2022</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/beet-quinoa-salad/">Roasted Beet Quinoa Salad</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/beet-quinoa-salad/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Cyndy made this delish salad for us when we visited a few days ago, along with her wild rice salad. This recipe is super fast if you buy pre-cooked beats, which we get at Trader Joes. Trader Joes also...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/chickpea-of-sea-salad-sandwiches/">
+      <img src="/images/chickpea-of-sea-salad-sandwiches-img-1.jpg" alt="Chicky &#39;Tuna&#39; Salad Sandwich" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2022-07-15">Jul 15, 2022</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+        <a href="/categories/entree/" class="category-pill">Entree</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/chickpea-of-sea-salad-sandwiches/">Chicky &#39;Tuna&#39; Salad Sandwich</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/chickpea-of-sea-salad-sandwiches/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Our grape vines are prolific, but the grapes are teeeeeeny. Larry&rsquo;s sister Cyndy mentioned that she loved putting grapes in any sandwich, like tuna or turkey. That reminded me of a nice...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/roasted-cauliflower-tofu-and-black/">
+      <img src="/images/tofu-cauli.jpg" alt="Roasted Cauliflower, Tofu, and Black Lentil Salad with Cilantro-Lime Dressing" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2022-01-03">Jan 03, 2022</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+        <a href="/categories/entree/" class="category-pill">Entree</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/roasted-cauliflower-tofu-and-black/">Roasted Cauliflower, Tofu, and Black Lentil Salad with Cilantro-Lime Dressing</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/roasted-cauliflower-tofu-and-black/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">After a lovely, spur-of-the-moment hike with Judy and Robert on New Year&rsquo;s Day, Judy made us a fabulous dinner of pasta and lettuce salad (with olive oil, rice vinegar, and cumin dressing),...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/japanese-spinach-salad/">
+      <img src="/images/IMG_5896.jpg" alt="Japanese Spinach Salad (Gomae)" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2020-07-03">Jul 03, 2020</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+        <a href="/categories/appetizer/" class="category-pill">Appetizer</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/japanese-spinach-salad/">Japanese Spinach Salad (Gomae)</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/japanese-spinach-salad/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Larry has fond memories of cold spinach salad in Japan. We compared several recipes, and did a mix of several (from salu salo, fine cooking, iheartumami, and bon appetit - seriously, you used frozen...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/vikis-carrot-greens-chimichurri/">
+      <img src="/images/chim.png" alt="Viki&#39;s Carrot Greens Chimichurri" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2020-06-30">Jun 30, 2020</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+        <a href="/categories/appetizer/" class="category-pill">Appetizer</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/vikis-carrot-greens-chimichurri/">Viki&#39;s Carrot Greens Chimichurri</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/vikis-carrot-greens-chimichurri/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Viki brought her adaptation of a carrot-top chimichurri to our outdoor distance gathering, and I fell in love with it! The tang and garlic are amazing on bread, or as a salad dressing (see...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/fried-chickn-salad/">
+      <img src="/images/chicknsalad.jpg" alt="Fried Chickn Salad" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2020-06-27">Jun 27, 2020</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+        <a href="/categories/entree/" class="category-pill">Entree</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/fried-chickn-salad/">Fried Chickn Salad</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/fried-chickn-salad/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">During the pandemic, I ordered some soy curls and made fake chick&rsquo;n nuggets out of of them, adapting this &ldquo;chicken&rdquo; soy curl salad. It was quite good! But it&rsquo;s much easier to...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/colorful-coleslaw-with-orange-cilantro/">
+      <img src="/images/cilantro-orange-coleslaw.jpg" alt="Colorful Coleslaw with Orange &amp; Cilantro Vinaigrette" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2020-04-30">Apr 30, 2020</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/colorful-coleslaw-with-orange-cilantro/">Colorful Coleslaw with Orange &amp; Cilantro Vinaigrette</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/colorful-coleslaw-with-orange-cilantro/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">We have a ton of fresh cilantro growing in our side yard, to I searched for recipes that use a lot of it. This coleslaw recipe looked good, and also uses oranges, which we have tons of. Here&rsquo;s...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/lentil-salad-with-cumin-roasted-carrots/">
+      <img src="/images/IMG_3067.jpg" alt="Lentil Arugula Salad with Cumin Roasted Carrots" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2019-08-08">Aug 08, 2019</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/lentil-salad-with-cumin-roasted-carrots/">Lentil Arugula Salad with Cumin Roasted Carrots</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/lentil-salad-with-cumin-roasted-carrots/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Shelley followed up the wonderful mango guacamole with a fresh pea soup and this fantastic masala lentil salad, which is pretty easy to make if you buy the lentils &amp; arugula ready to eat at trader...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/roasted-garlic-potato-salad-warugula/">
+      <img src="/images/potatosalad.png" alt="Roasted Garlic Potato Salad w/Arugula" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2018-10-08">Oct 08, 2018</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/roasted-garlic-potato-salad-warugula/">Roasted Garlic Potato Salad w/Arugula</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/roasted-garlic-potato-salad-warugula/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">This cashew cream potato salad is delicious, but I wanted to try a not-creamy potato salad. I found a Roasted Garlic Potato Salad from Oh She Glows that looked easy and worth trying. I don&rsquo;t...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/wild-rice-salad-with-apples-and-walnuts/">
+      <img src="/images/IMG_4555.JPG" alt="Wild Rice Salad with Apples and Walnuts" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2016-11-22">Nov 22, 2016</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/wild-rice-salad-with-apples-and-walnuts/">Wild Rice Salad with Apples and Walnuts</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/wild-rice-salad-with-apples-and-walnuts/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Larry&rsquo;s sister Cyndy made this for us a decade or more ago, and then made it again for Thanksgiving this year, which reminded me how delicious it is!
+Ingredients 1 C wild rice, dry
+</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/creamy-potato-salad-with-fresh-herbs/">
+      <img src="/images/potatosalad.jpg" alt="Creamy Potato Salad with Fresh Herbs" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2015-02-21">Feb 21, 2015</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/creamy-potato-salad-with-fresh-herbs/">Creamy Potato Salad with Fresh Herbs</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/creamy-potato-salad-with-fresh-herbs/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">A delicious vegan potato salad. Fools the omnivores! Can make it the day before a summer bbq. Adapted from epicurious recipe, and uses cashew mayo.
+**
+Ingredients**
+3 pounds baby red potatoes
+</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/shredded-kale-salad-with-cranberry/">
+      <img src="/images/kale2.jpg" alt="Kale Salad with Cranberry, Walnuts, &amp; Quinoa" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2015-02-08">Feb 08, 2015</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/shredded-kale-salad-with-cranberry/">Kale Salad with Cranberry, Walnuts, &amp; Quinoa</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/shredded-kale-salad-with-cranberry/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">An alternative to the fresh blueberry kale salad that is also amazing––maybe more so, with the candied walnuts. This is adapted from Oh She Glows Best Shredded Kale Saladto use candied walnuts instead...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="recipe-card">
+  
+  <div class="recipe-card-img-wrapper">
+    <a href="/massaged-kale-salad/">
+      <img src="/images/kale-salad.jpg" alt="Massaged Kale Salad with Fresh Blueberries" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2015-01-22">Jan 22, 2015</time>
+      <div class="recipe-card-categories">
+        
+        <a href="/categories/side-dish/" class="category-pill">Side Dish</a>
+        
+        <a href="/categories/salad/" class="category-pill">Salad</a>
+        
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/massaged-kale-salad/">Massaged Kale Salad with Fresh Blueberries</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/massaged-kale-salad/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">The avocado in the dressing makes this, as does massaging the dressing into the kale for a few minutes to soften the leaves. I got this idea from Judy Stern in May 2014. I had tried to make kale...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+  
+</div>
+
+<script>
+  function pickRandomCategoryRecipe() {
+    const recipes = [
+      "\/cranberry-walnut-chickpea-salad\/","\/cauliflower-walnut-apple-salad\/","\/beet-quinoa-salad\/","\/chickpea-of-sea-salad-sandwiches\/","\/roasted-cauliflower-tofu-and-black\/","\/japanese-spinach-salad\/","\/vikis-carrot-greens-chimichurri\/","\/fried-chickn-salad\/","\/colorful-coleslaw-with-orange-cilantro\/","\/lentil-salad-with-cumin-roasted-carrots\/","\/roasted-garlic-potato-salad-warugula\/","\/wild-rice-salad-with-apples-and-walnuts\/","\/creamy-potato-salad-with-fresh-herbs\/","\/shredded-kale-salad-with-cranberry\/","\/massaged-kale-salad\/"
+    ];
+    if (recipes.length > 0) {
+      const randomIndex = Math.floor(Math.random() * recipes.length);
+      window.location.href = recipes[randomIndex];
+    }
+  }
+</script>
+
+  </main>
+
+  <footer>
+  <div class="container">
+    <p>&copy; 2026 <strong>Peachy Keen Green</strong> — Vegan recipes and tips.</p>
+  </div>
+</footer>
+
+
+  <script>
+    window.allSiteRecipes = [
+      "\/vegan-shahi-paneer\/","\/sabji-dal-soup\/","\/homemade-electrolyte-powder\/","\/lemon-cake-2\/","\/lemon-cake\/","\/tuscan-white-bean-soup\/","\/kimchi\/","\/ratatouille\/","\/cranberry-walnut-chickpea-salad\/","\/roasted-vegetables\/","\/collard-greens-ethiopian-style\/","\/baked-chickpeas-and-vegetables\/","\/lemon-blueberry-coffee-cake\/","\/chocolate-cake-with-gooey-ganache\/","\/crispy-sheet-pan-tofu\/","\/whole-wheat-bread\/","\/mushroom-white-bean-gratin\/","\/cabbage-turmeric-coconut-soup\/","\/roasted-tofu-with-chickpeas-tomatoes\/","\/muniras-tofu-and-corn\/","\/judis-marinated-baked-tofu\/","\/cauliflower-walnut-apple-salad\/","\/kumquat-upside-down-cake\/","\/nut-medley-granola\/","\/beet-quinoa-salad\/","\/crispy-thin-pizza-pizza\/","\/overnight-oats\/","\/mujadara\/","\/lentil-dosa\/","\/fig-banana-bread\/","\/vegan-pie-crust\/","\/chickpea-of-sea-salad-sandwiches\/","\/cashew-cream-sauces\/","\/kiras-soba-noodles-with-tahini-sauce\/","\/fried-rice\/","\/fried-tofu\/","\/spice-cake\/","\/chana-masala\/","\/roasted-cauliflower-tofu-and-black\/","\/kala-chana-black-chickpea-curry\/","\/muniras-secret-gobi\/","\/almond-butter-chocolate-chip-oatmeal\/","\/apple-crisp-turnover\/","\/oh-la-la-lasagna\/","\/apricot-sheet-cake\/","\/blood-orange-chocolate-olive-oil-cake\/","\/impossible-lasagna\/","\/shepherds-pie\/","\/lemon-cake-2\/","\/lemon-cake\/","\/persimmon-cookies\/","\/persimmon-bread\/","\/impossible-meatloaf\/","\/vegan-pumpkin-pie\/","\/cmon-man-sloppy-joes\/","\/cauliflower-potato-curry\/","\/cabbage-steak-with-mashed-potatoes\/","\/strawberry-rhubarb-pie\/","\/blueberry-bran-muffins\/","\/celery-black-pepper-tempeh\/","\/peanut-butter-oatmeal-chocolate-chip\/","\/fig-apple-compote\/","\/japanese-spinach-salad\/","\/white-wine-risotto-with-mushrooms-and\/","\/vikis-carrot-greens-chimichurri\/","\/fried-chickn-salad\/","\/marmalade\/","\/masala-dabba\/","\/larrys-miso-soup\/","\/mushroom-leek-quiche-with-red-pepper\/","\/muniras-roti\/","\/colorful-coleslaw-with-orange-cilantro\/","\/applesauce\/","\/soyrizo\/","\/sweet-potato-pizza-with-rosemary-red\/","\/sources\/","\/split-pea-soup\/","\/pb2-chocolate-chip-cookies\/","\/pb2-chocolate-brownies\/","\/yellow-split-pea-dal\/","\/aloo-patta-gobhi-indian-spiced-potato\/","\/soy-yogurt-with-instant-pot\/","\/lentil-curry-soup\/","\/biscotti\/","\/candied-buddhas-hand-citron\/","\/lightly-candied-sweet-potatoes\/","\/yammy-chocolate-pudding\/","\/chocolate-applesauce-walnut-cake\/","\/dried-figs\/","\/buffalo-cauliflower\/","\/seville-gazpacho\/","\/blackberry-syrup\/","\/lentil-salad-with-cumin-roasted-carrots\/","\/mango-guacamole\/","\/chocolate-chip-apricot-bars\/","\/ginger-molasses-cookies\/","\/green-chutney\/","\/coconut-rum-cake\/","\/pav-bhaji-and-muniras-secrets\/","\/vegan-palak-paneer-with-curried-tofu\/","\/breaded-tofu-appetizer\/","\/breaded-eggplant-with-marinara\/","\/jeffs-blueberry-pancakes\/","\/yummy-healthy-oatmeal\/","\/jeffs-black-bean-soup\/","\/muniras-date-and-nut-cookie-khajoor-ki\/","\/judis-pecan-puffs\/","\/chelseys-tomato-soup\/","\/vegan-chicken-pot-pie\/","\/dans-masala-dal\/","\/collaborative-couscous\/","\/roasted-garlic-potato-salad-warugula\/","\/best-beet-burgers\/","\/carrot-leek-soup\/","\/homemade-bbq-sauce\/","\/coconut-pineapple-banana-pecan-cream-pie\/","\/pizza-or-pita-dough\/","\/gado-gado-peanut-sauce-stir-fry\/","\/persian-chickpea-cookies-nokhodchi\/","\/puff-pastry-mini-tarts\/","\/apple-banana-apricot-walnut-danger-bread\/","\/meringue-cookies\/","\/pear-spice-upside-down-cake\/","\/vegan-double-double-burgers-fieldroast\/","\/carrot-walnut-muffins\/","\/pennies-from-heaven\/","\/indian-cabbage-with-mung-beans\/","\/cornbread-muffins\/","\/vegetable-bean-chili\/","\/grandmas-lemon-meringue-pie\/","\/stuffed-mushroom-phyllo-role\/","\/coconut-mashed-yams\/","\/grandmas-ostakaka\/","\/spicy-roasted-brussels-sprouts\/","\/mung-bean-sprout-saute\/","\/wild-rice-salad-with-apples-and-walnuts\/","\/royal-eggplant-baingan-bharta\/","\/red-beans\/","\/indian-diced-potatoes-with-onion-and\/","\/berry-lemon-energy-bites\/","\/judis-chocolately-walnut-crust\/","\/3-bean-salad\/","\/pasta-primavera\/","\/fried-honey-bananas\/","\/chocolate-cashew-cream-mousse-tarts_8\/","\/white-bean-kale-and-chorizo-soup\/","\/shuchis-salsa-verde\/","\/thai-vegetable-curry\/","\/garden-smoothie\/","\/jeffs-flavorful-favas\/","\/squash-spaghetti-with-meatless-meatballs\/","\/corn-chowder\/","\/easy-peach-or-other-fruit-pie\/","\/beet-hummus\/","\/veggie-burger\/","\/roasted-spiced-chickpeas\/","\/scrambled-tofu\/","\/overnight-steel-cut-oatmeal\/","\/berry-crisp\/","\/tandori-roasted-cauliflower\/","\/chia-pudding\/","\/mashed-cauliflower-potatoes\/","\/festive-chickpea-tart\/","\/strawberry-coconut-yogurt-crunch\/","\/chocolate-chia-walnut-bars\/","\/soy-curls\/","\/vegan-jam-cookies\/","\/french-green-lentil-soup\/","\/fresh-bruschetta-and-toast\/","\/creamy-potato-salad-with-fresh-herbs\/","\/tunisian-eggplant-appetizer\/","\/nutty-meatless-loaf\/","\/pumpkin-bread\/","\/chipotle-mexican-lasagna\/","\/baked-winter-squash-soup\/","\/carrot-and-orange-soup\/","\/gypsy-soup\/","\/eggplant-zucchini-bread-crumb-fettuccine\/","\/hummus-with-various-flavors\/","\/shredded-kale-salad-with-cranberry\/","\/marinara\/","\/caramelized-ginger-pears\/","\/vegan-pancakes\/","\/zucchini-bread\/","\/veggie-bean-kale-soup\/","\/massaged-kale-salad\/","\/hearty-chocolate-chip-cookie\/","\/peanut-butter-granola-judi\/","\/classic-vegan-pesto\/"
+    ];
+
+    function pickRandomSiteRecipe(e) {
+      if (e) e.preventDefault();
+      if (window.allSiteRecipes && window.allSiteRecipes.length > 0) {
+        const randomIndex = Math.floor(Math.random() * window.allSiteRecipes.length);
+        window.location.href = window.allSiteRecipes[randomIndex];
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+      const searchForm = document.getElementById("headerSearchForm");
+      const searchInput = document.getElementById("headerSearchInput");
+      const searchBtn = document.getElementById("headerSearchBtn");
+
+      if (!searchForm || !searchInput) return;
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const currentQuery = urlParams.get("q") || "";
+      if (currentQuery) {
+        searchInput.value = currentQuery;
+      }
+
+      function executeSearch() {
+        const q = searchInput.value.trim();
+        if (q.length > 0) {
+          window.location.href = "/?q=" + encodeURIComponent(q);
+        }
+      }
+
+      if (searchBtn) {
+        searchBtn.addEventListener("click", function(e) {
+          e.preventDefault();
+          executeSearch();
+        });
+      }
+
+      searchForm.addEventListener("submit", function(e) {
+        e.preventDefault();
+        executeSearch();
+      });
+    });
+  </script>
+</body>
+</html>

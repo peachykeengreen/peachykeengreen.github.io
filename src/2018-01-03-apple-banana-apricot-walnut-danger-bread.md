@@ -1,0 +1,51 @@
+---
+title: "Apple, Banana, Apricot, Walnut \"Danger\" Bread"
+slug: "apple-banana-apricot-walnut-danger-bread"
+date: "2018-01-03T20:55:00Z"
+lastmod: "2018-08-22T17:12:28.277Z"
+draft: false
+categories: ["Bread"]
+aliases: ["/2018/01/apple-banana-apricot-walnut-danger-bread.html"]
+featured_image: "/images/miniloaf.jpg"
+description: "Apple, Banana, Apricot, Walnut \"Danger\" Bread recipe."
+---
+
+Larry calls this "danger bread" because he can't stop eating it :)**
+
+Ingredients**
+
+[![](/images/miniloaf.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImAafFYmuZizhxh0cYErp6hqSAde8efvBRVJ9Ytb578fKFiUBUSJSq3nBOHngm99Q0ds6KldXAEc0CXwcYN2SsOAzLHUhe70Bvq5YQvzcinkgIHhQZDH1Ovd4BS58mu5R-KT9ss6j-_kT/s1600/miniloaf.jpg)**
+
+Dry:
+
+3 cups whole wheat flour
+
+1 tsp salt
+
+2 tsp baking soda
+
+1 cup walnut pieces
+
+Wet:
+
+3 medium bananas, mashed
+
+3 medium apples, chopped
+
+10 dried apricots, chopped
+
+1 cup sugar
+
+3 flax eggs (3 T flax meal, 9 T warm water)
+
+1 cup canola oil
+
+Instructions**
+
+Make the flax eggs in a bowl; set aside to soak. Mash the bananas, chop the apples (I leave the skin on) and apricots, and mix them together.  Mix in the sugar, flax eggs, and oil. Then add the dry ingredients and walnuts. Stir until the flour is moistened.
+
+Pour into loaf pans (I used 4 small silicon loaf pans plus a dozen cupcake/mini silicon loaves). No need to grease and flour if you use silicon! Bake at 350 degrees for 30 minutes; check and take out mini loaves. Leave larger loaves in for another 20 minutes or so (50 min total). Let them cool in the pans for 20 minutes, and then pop them out of the silicon onto a cooling rack to continue cooling.
+
+[![](/images/smallloaf.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Rc8wtnKqm99d1bOKSn4ZYhzZ51S_xpaWVap8_VFBwv_vndC_W210GscpVs4NYEHzqJknxgFU6SVyAf4PlVbhIqRU5siEi2TVuhyphenhyphenafpD81r849NvJcK95cFDn5PDlDzDetc1gBJUWWfor/s1600/smallloaf.jpg)
+
+ Small loaves in silicon loaf pan. (Mini loaves above.)

@@ -1,0 +1,69 @@
+---
+title: "Lemon Cake"
+slug: "lemon-cake"
+date: "2026-01-19T03:46:00Z"
+lastmod: "2026-01-19T04:42:33.737Z"
+draft: false
+categories: ["Dessert"]
+aliases: ["/2026/01/lemon-cake.html"]
+featured_image: "/images/lemon-cake-img-1.jpg"
+description: "Lemon Cake recipe."
+---
+
+Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so I asked what kind she liked. Lemon was among her choices, and sounded delish to me, so I looked through vegan lemon cake recipes and settled on trying this [best vegan lemon cake](https://lovingitvegan.com/vegan-lemon-cake/) with a few small changes. Y
+um!
+
+## Ingredients
+
+[![](/images/lemon-cake-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgAwX1ulbG_cGw25w1wn7O602SGcEUHOJFvPS8-2j7-u9ZuqAXieB6-cw2jV9AwNP7FSgrXj-f5tq8cqVUFiIfXOxbEsvReSRvJo2No_qRS8iRdYVmWfvUIsiRvpawuvbideX_xdMvQVg0VK6cwlMv-3W2BY_ZwrBF_-wKC26Ax3COST1QLOChCtaNfkH7-)
+Dry:
+
+2 2/3 C flour
+
+1 1/2 C sugar
+
+1 1/2 tsp baking soda
+
+3/4 tsp salt
+
+Wet:
+
+1 1/3 C non-dairy milk
+
+1/2 C canola oil
+
+zest of 3 lemons
+
+juice of 3 lemons
+
+1 tsp vanilla
+
+Frosting:
+4 C powdered sugar
+
+1/2 C vegan butter
+
+1/4 C vegan cream cheese (optional)
+
+3 T lemon juice
+
+zest of one lemon
+
+## Instructions
+
+[![](/images/lemon-cake-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEh2d7L64oRfx99WSkHwygGC7FLZqrF71g07oSNiNjQI9bmAwfZeYqY7vpgXk4WEiA2_V5KV7aLZVVtG-nzAQxuFkTfhcKEmy6_2Po9A2x2gaw8kfU8BJw8cjD9aBISQ589ZBJC5Nrd_GLCrMClR4Gbmio6T7jSAhxyWsxgZw82RXvx9Z0PiXcVgC-q03_wR)
+Zest lemons into olive oil and set aside.
+
+Lightly oil two 8-inch cake pans and line the bottoms with parchment paper. Set aside.
+
+Preheat the oven to 350°F.
+
+Mix the dry ingredients. Add the wet ingredients and zest. Mix briefly until nicely combined and no big lumps remain. Don't overmix, tiny lumps are okay.
+
+Divide the batter between the two cake pans and place into the oven to bake for 30 minutes or until a toothpick inserted into the center of one of the cakes comes out clean.
+
+Remove the cakes from the pans and place onto a wire cooling rack to cool completely before frosting.
+
+Prepare the frosting by placing ingredients in an electric mixer. Start off at slow speed, gradually increasing speed until thick and smooth.
+
+Frost the cooled cakes and decorate with lemon zest.
