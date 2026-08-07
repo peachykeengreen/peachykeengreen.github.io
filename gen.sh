@@ -2,8 +2,8 @@
 # gen.sh - Rebuild Peachy Keen Green Hugo Website
 #
 # Usage:
-#   ./gen.sh           Clean dest/ (preserving dest/images/ and dest/css/) and build static site
-#   ./gen.sh --no-clean Build static site without cleaning dest/
+#   ./gen.sh           Clean docs/ (preserving docs/images/ and docs/css/) and build static site
+#   ./gen.sh --no-clean Build static site without cleaning docs/
 
 set -e
 
@@ -29,15 +29,15 @@ echo "🌱 Peachy Keen Green - Site Generator"
 echo "=================================================="
 
 if [ "$CLEAN" = true ]; then
-  if [ -d "dest" ]; then
-    echo "🧹 Cleaning dest/ (preserving dest/images/ and dest/css/)..."
-    find dest -mindepth 1 ! -path 'dest/images*' ! -path 'dest/css*' -delete 2>/dev/null || true
+  if [ -d "docs" ]; then
+    echo "🧹 Cleaning docs/ (preserving docs/images/ and docs/css/)..."
+    find docs -mindepth 1 ! -path 'docs/images*' ! -path 'docs/css*' -delete 2>/dev/null || true
   fi
 fi
 
-# Rebuild Hugo static site into dest/
+# Rebuild Hugo static site into docs/
 hugo build
 
 echo "=================================================="
-echo "✅ Build Complete! Generated site is ready in dest/"
+echo "✅ Build Complete! Generated site is ready in docs/"
 echo "=================================================="

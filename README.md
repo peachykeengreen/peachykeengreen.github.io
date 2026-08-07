@@ -50,13 +50,13 @@ Recipe content goes here in Markdown format.
 ## 3. Development & Usage
 
 ### Re-Building the Site (`./gen.sh`)
-By default, `./gen.sh` cleans generated site artifacts from `dest/` (while preserving static assets in `dest/images/` and `dest/css/`) before rebuilding the site:
+By default, `./gen.sh` cleans generated site artifacts from `docs/` (while preserving static assets in `docs/images/` and `docs/css/`) before rebuilding the site:
 
 ```bash
 ./gen.sh
 ```
 
-To skip the clean step and build directly into `dest/`:
+To skip the clean step and build directly into `docs/`:
 
 ```bash
 ./gen.sh --no-clean
@@ -73,13 +73,13 @@ Useful flags:
 - Include draft posts: `hugo server --port 8080 -D`
 - Include future-dated posts: `hugo server --port 8080 --buildFuture`
 
-The development server serves the site at `http://localhost:8080/` and automatically watches `src/` and `page_layouts/` for live updates. Image assets live directly in `dest/images/` and CSS assets live in `dest/css/`, both preserved across `./gen.sh` builds.
+The development server serves the site at `http://localhost:8080/` and automatically watches `src/` and `page_layouts/` for live updates. Image assets live directly in `docs/images/` and CSS assets live in `docs/css/`, both preserved across `./gen.sh` builds.
 
 ---
 
 ## 4. Search System & GitHub Pages Serving
 
 The search system operates statically on GitHub Pages:
-- **Hugo Index Template (`dest/index.json`)**: Generated automatically during `./gen.sh` via Hugo's native `outputs.home = ["HTML", "JSON"]` template (`page_layouts/index.json`).
+- **Hugo Index Template (`docs/index.json`)**: Generated automatically during `./gen.sh` via Hugo's native `outputs.home = ["HTML", "JSON"]` template (`page_layouts/index.json`).
 - **Inline Header Search**: Clicking the 🔍 icon in the header expands an inline search input field. Pressing **Return / Enter** or clicking 🔍 executes search (`/?q=query`).
 - **Edge CDN JS Delivery**: Uses [Fuse.js](https://fusejs.io/) via jsDelivr Edge CDN (`https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js`) loaded with `defer` for zero initial page load impact.
