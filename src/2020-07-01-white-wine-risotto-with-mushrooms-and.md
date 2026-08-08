@@ -14,7 +14,6 @@ Alba clamshell mushrooms and fresh zucchini arrived in our last farmer's market 
 
 ## Ingredients
 
-[![](/images/blogger_img_a47a024644.jpg)](/images/blogger_img_a47a024644.jpg)
 - 1-2 T canola oil
 - 2 zucchinis OR acorn squash, chopped
 - 8 oz mushrooms

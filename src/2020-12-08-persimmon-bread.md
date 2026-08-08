@@ -14,7 +14,6 @@ Pat and Allen shared at least a dozen persimmons with us from their bountiful ha
 
 ## Ingredients
 
-[![](/images/blogger_img_dc4df7b72d.jpg)](/images/blogger_img_dc4df7b72d.jpg)
 - 1 tsp. baking soda
 - 2 T lukewarm water
 - 1 1/2 C persimmon puree

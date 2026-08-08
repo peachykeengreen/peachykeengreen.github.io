@@ -16,7 +16,6 @@ Update 1/2/21: Larry asked for more veggie to meat ratio, so I increased the veg
 
 ## Ingredients
 
-[![](/images/blogger_img_eb9bb32e9f.jpg)](/images/blogger_img_eb9bb32e9f.jpg)
 - 2 T vegan butter
 - 1 tsp cumin seed (or 1 tsp cumin powder later)
 - 1/2 tsp hot pepper flakes (or 1/4 tsp cayenne later)

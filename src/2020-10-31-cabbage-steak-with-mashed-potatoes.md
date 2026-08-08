@@ -15,7 +15,6 @@ Laurie tried out some new recipes for dinner when we stopped by on our way back 
 
 ## Ingredients
 
-[![](/images/cabbage-steak-with-mashed-potatoes-img-1.jpg)](/images/cabbage-steak-with-mashed-potatoes-img-1.jpg)
 - 1 cabbage, green or purple
 - Canola oil for brushing
 - garlic powder
