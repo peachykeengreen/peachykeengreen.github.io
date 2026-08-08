@@ -12,26 +12,24 @@ description: "Apple Crisp Turnovers recipe."
 
 I had some phyllo dough to use up, and adapted [this recipe](https://www.bigoven.com/recipe/apple-turnovers-using-phyllo-dough/170816) for apple turnovers. I ended up having a fair bit of the fruit mixture left, so I also made a small apple crisp. Both were great!
 
-## [![](/images/turnover.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7tvYlOaiVbNWtq3fDNa4AM4_6eLR5wpSlTXJi86MiLX_N1YvR-3z6kZ2exIQbghlTTmcr3OiaXDYjqgZrIr7vvpMaRYsmOXNwM_SKelbc7bjKO_osnkn8_X0EEjyQTJMz44-ARafAtFZF/)Ingredients
+## Ingredients
 
-4 medium apples, diced
-2 tsp lemon zest
-1/4 C sugar
-1 tsp vanilla extract
-1 T arrowroot
-1 tsp cinnamon
-
-For turnovers:
-9-12 phyllo sheets
-1/2 stick miyoko (vegan) butter
-
-OR for crumble:
-1 C flour
-1 C oats
-1/2 C brown sugar
-1 tsp ground cinnamon
-1/3 C canola oil
-1/4 C water
+- 4 medium apples, diced
+- 2 tsp lemon zest
+- 1/4 C sugar
+- 1 tsp vanilla extract
+- 1 T arrowroot
+- 1 tsp cinnamon
+- For turnovers:
+- 9-12 phyllo sheets
+- 1/2 stick miyoko (vegan) butter
+- OR for crumble:
+- 1 C flour
+- 1 C oats
+- 1/2 C brown sugar
+- 1 tsp ground cinnamon
+- 1/3 C canola oil
+- 1/4 C water
 
 ## Instructions
 

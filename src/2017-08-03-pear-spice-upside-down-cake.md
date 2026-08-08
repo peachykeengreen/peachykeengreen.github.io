@@ -10,53 +10,35 @@ featured_image: "/images/screenshot_1020.png"
 description: "Pear Spice Upside-Down Cake recipe."
 ---
 
-So many pears on our tree! So I googled for a pear dessert, and found this recipe for [Pear Spice Upside-Down Cak](http://blog.fatfreevegan.com/2015/12/pear-spice-upside-down-cake.html)e that looked good - and it was! And relatively healthy, too. The freshly pureed pears makes it spongy and light, and removes the need for oil. I adapted it to make two 8-inch rounds (rather than one 9-inch) since that's what I have -- and why not round up? For the bottom, you can use pear (or other fruit) slices, or  a [berry topping from this NYT recipe](https://www.nytimes.com/2022/07/28/dining/upside-down-cake-easy-summer-recipes.html) (I did that when we had lots of blackberries!). If you use pear slices, make sure they are very ripe or they can be too hard even when cooked. The pears used in the puree can (optionally) be more green. The pear sauce, ginger, and spice combination in the cake is delicious.**
+So many pears on our tree! So I googled for a pear dessert, and found this recipe for [Pear Spice Upside-Down Cak](http://blog.fatfreevegan.com/2015/12/pear-spice-upside-down-cake.html)e that looked good - and it was! And relatively healthy, too. The freshly pureed pears makes it spongy and light, and removes the need for oil. I adapted it to make two 8-inch rounds (rather than one 9-inch) since that's what I have -- and why not round up? For the bottom, you can use pear (or other fruit) slices, or  a [berry topping from this NYT recipe](https://www.nytimes.com/2022/07/28/dining/upside-down-cake-easy-summer-recipes.html) (I did that when we had lots of blackberries!). If you use pear slices, make sure they are very ripe or they can be too hard even when cooked. The pears used in the puree can (optionally) be more green. The pear sauce, ginger, and spice combination in the cake is delicious.
 
 ## Ingredients
 
-[![](/images/screenshot_1020.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMndCkQ5Wc4pPKMVj_uX0wNSz1zaKnPDoHyVvv6W7HQHY7ioOImAuOtulAXANldUiV01ufFYp4vA8YpSo57swZU89DUkhr-thwASnijbteRtOZe_i2SxQMqnCT6N2VJAejwcje84H3x9QD/s1600/screenshot_1020.png)
-Dry:
-
-2 1/4 cups whole wheat flour
-
-4 tsp tapioca or 1.5 T cornstarch
-
-2 tsp baking soda
-
-1 tsp cinnamon
-
-1 tsp ground ginger
-
-1 tsp nutmeg
-
-1/2 tsp salt
-
-1/4 tsp cloves
-
-Wet:
-
-2 cups (generous) freshly pureed pears (4-5 large pears whipped in a food processor)
-
-3 T water
-
-1/2 C maple syrup
-1 T lemon zest
-1 1/2 T lemon juice
-
-1 1/2 tsp vanilla extract
-
-Pear topping:
-
-2 ripe pears, sliced
-1/2 C maple syrup
-
-Alternate berry bottom:
-
-4 T vegan butter
-1/3 C brown sugar
-1/4 tsp salt
-1 T lemon juice
-3 C fresh or frozen berries (can toss in some chopped pears)
+- Dry:
+- 2 1/4 cups whole wheat flour
+- 4 tsp tapioca or 1.5 T cornstarch
+- 2 tsp baking soda
+- 1 tsp cinnamon
+- 1 tsp ground ginger
+- 1 tsp nutmeg
+- 1/2 tsp salt
+- 1/4 tsp cloves
+- Wet:
+- 2 cups (generous) freshly pureed pears (4-5 large pears whipped in a food processor)
+- 3 T water
+- 1/2 C maple syrup
+- 1 T lemon zest
+- 1 1/2 T lemon juice
+- 1 1/2 tsp vanilla extract
+- Pear topping:
+- 2 ripe pears, sliced
+- 1/2 C maple syrup
+- Alternate berry bottom:
+- 4 T vegan butter
+- 1/3 C brown sugar
+- 1/4 tsp salt
+- 1 T lemon juice
+- 3 C fresh or frozen berries (can toss in some chopped pears)
 
 ## Instructions
 
@@ -76,7 +58,7 @@ Combine dry ingredients. Set aside.
 
 Blend the rest of the pears with 3 T water, until consistency of applesauce. Use enough pears to get 2 generous cups worth of sauce. Add blended pears, syrup, lemon juice and vanilla to dry and mix until just combined; don't over-stir. It will feel light and airy!
 
-(Note: Using fresh pears whipped to a puree in a food processor gives the cake a very light, spongy texture**. If you're using canned or frozen & thawed puree,  you'll end up with a heavier cake. Try to whip air into it, or use portion of some freshly whipped.)
+(Note: Using fresh pears whipped to a puree in a food processor gives the cake a very light, spongy texture. If you're using canned or frozen & thawed puree,  you'll end up with a heavier cake. Try to whip air into it, or use portion of some freshly whipped.)
 
 Pour batter over the fruit. Back for 40-45 minutes at 350 (or until toothpick comes out clean).
 

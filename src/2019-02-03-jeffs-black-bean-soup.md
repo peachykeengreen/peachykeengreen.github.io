@@ -10,40 +10,26 @@ featured_image: "/images/IMG_1446.JPG"
 description: "Jeff's Black Bean Soup recipe."
 ---
 
-Jeff made a batch of his black bean soup and told me his recipe, so I thought I'd give it a try! TJs didn't have collard greens so I tried kale. He cooks his beans in a big pot where he makes the soup, but I made the beans in the Instant Pot and added them at the end. It makes a very hearty soup!**
+Jeff made a batch of his black bean soup and told me his recipe, so I thought I'd give it a try! TJs didn't have collard greens so I tried kale. He cooks his beans in a big pot where he makes the soup, but I made the beans in the Instant Pot and added them at the end. It makes a very hearty soup!
 
-[![](/images/IMG_1446.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnoi53aifI6XtjasH5rLe8bZFF0FS3Hfqs4C2lZtbmZLkP0sRi68Mi7bMDaonBXtaZr3EULr0P3XQlqnnGahBujmFP32HzQyKtlkJQAwog3BIRGXpsTxkuhG-UN11g50NyzVqajfhbiMy/s1600/IMG_1446.JPG)
+## Ingredients
 
-## Ingredients**
+- 1 lb black beans, soaked overnight
+- 3-4 purple carrots, chopped
+- 2-3 stalks celery, chopped
+- 1 onion, chopped
+- 1 jalapeno pepper, diced
+- Collard greens or kale, chopped
+- vegetable broth (or just bean broth)
+- Tomatoes, chopped (optional)
+- Spices:
+- 1 T cumin seeds
+- 1 T coriander
+- 1 bay leaf
+- 2-3 cloves garlic
+- 1 tsp salt
 
-1 lb black beans, soaked overnight**
-3-4 purple carrots, chopped
-
-2-3 stalks celery, chopped
-
-1 onion, chopped
-
-1 jalapeno pepper, diced
-
-Collard greens or kale, chopped
-
-vegetable broth (or just bean broth)
-
-Tomatoes, chopped (optional)
-
-Spices:
-
-1 T cumin seeds
-
-1 T coriander
-
-1 bay leaf
-
-2-3 cloves garlic
-
-1 tsp salt
-
-## Instructions**
+## Instructions
 
 Put the soaked beans in the Instant Pot to cook. (If soaked overnight, set pot to 20 minutes.)
 

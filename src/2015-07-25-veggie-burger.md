@@ -10,21 +10,17 @@ featured_image: "/images/burgers.png"
 description: "Nutty Black Bean Carrot Veggie Burger recipe."
 ---
 
-Our perfect veggie burger from [Oh She Glows](http://ohsheglows.com/2011/07/13/our-perfect-veggie-burger/). The nuts and seeds really make it, it's crispy outside, and it stays together well. I'm not a big parsley fan, so I use fresh basil instead of parsley, but otherwise I follow the recipe pretty much exactly. I usually make them for summer bbqs, so I prebake them 15 minutes and then we grill them a few minutes outside. Makes 8 burgers; sometimes I double it to have leftovers.**
+Our perfect veggie burger from [Oh She Glows](http://ohsheglows.com/2011/07/13/our-perfect-veggie-burger/). The nuts and seeds really make it, it's crispy outside, and it stays together well. I'm not a big parsley fan, so I use fresh basil instead of parsley, but otherwise I follow the recipe pretty much exactly. I usually make them for summer bbqs, so I prebake them 15 minutes and then we grill them a few minutes outside. Makes 8 burgers; sometimes I double it to have leftovers.
 
 (
 Image from [Oh She Glows](http://ohsheglows.com/2011/07/13/our-perfect-veggie-burger/))
 
-[![](/images/burgers.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQDn1xDrODOtSwZrJ-YUmvIRcLSSv0d1Mqabrf-5JS_t6Bm6DGYkvdzQNkgSzn0xP1B_4eYQNrUbtRPyYXx87X4jKHI5dJX99-hAcyKKcQCiyPe1Yfwr6v1UCZDmrMNUzvC_yLkVgRkVyL/s1600/burgers.png)
+## Ingredients
 
-Ingredients****
-1/2 cup diced onion,
-
-1 large garlic clove
-
-Flax eggs: 2.5 tbsp ground flax + 1/2 cup warm water, mixed in bowl
-
-1 cup oats, processed into flour
+- 1/2 cup diced onion,
+- 1 large garlic clove
+- Flax eggs: 2.5 tbsp ground flax + 1/2 cup warm water, mixed in bowl
+- 1 cup oats, processed into flour
 
 1.5 cups bread crumbs
 
@@ -52,7 +48,7 @@ Flax eggs: 2.5 tbsp ground flax + 1/2 cup warm water, mixed in bowl
 
 ground pepper to taste
 
-Instructions**
+## Instructions
 
 Preheat oven to 350F (if baking).
 

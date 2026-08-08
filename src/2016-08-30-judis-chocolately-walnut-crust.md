@@ -12,19 +12,15 @@ description: "Judi's Chocolately Walnut Crust recipe."
 
 Yummy chocolately walnut crust from Judi (bottom crust only); try with pumpkin pie or [pudding pie](https://peachykeengreen.blogspot.com/2019/12/yammy-chocolate-pudding.html).
 
-## **Ingredients**
+## Ingredients
 
-Chocolately walnut crust (1 crust)**2 C walnuts
+- Chocolately walnut crust (1 crust)2 C walnuts
+- 6 dates + 2 T maple syrup or some combo
+- 1 t vanilla
+- pinch salt
+- 1/4 C cocoa
 
-6 dates + 2 T maple syrup or some combo
-
-1 t vanilla
-
-pinch salt
-
-1/4 C cocoa
-
-## Instructions**
+## Instructions
 
 Mix ingredients in food processor.
 Press into pie plate.

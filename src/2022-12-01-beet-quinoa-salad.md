@@ -12,21 +12,18 @@ description: "Roasted Beet Quinoa Salad recipe."
 
 Cyndy made this delish salad for us when we visited a few days ago, along with her [wild rice salad](https://peachykeengreen.blogspot.com/2016/11/wild-rice-salad-with-apples-and-walnuts.html). This recipe is super fast if you buy pre-cooked beats, which we get at Trader Joes. Trader Joes also carries a good vegan feta, but of course you could use real feta if you prefer.
 
-##
-[![](/images/beet-quinoa-salad-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiQuySP_-3T1MySCrndY834nz3C6_1coETbLeKdvRfXIQ8je_uqLG578HH82TOy2IQ6TbyFH5CwKc3BvNYlMLFzN3Zl5rWc1YY8WbxKmpj6Sam8ZTzN9crX0TgluwNg_MzoHjzZUfuBpqwkC74DgQVT5X2FK2mJ5G54xmIp28XtwRDvir2uY-ra4qLVpw)
-Ingredients
+## Ingredients
 
-6 medium roasted beets, chopped
-1 C dry quinoa + 2 C water
-1 cup fresh spinach leaves, ribboned
-3 scallions (green onions), chopped
-3 oz feta (vegan, from Trader Joes), crumbled on top
-1/4 C pine nuts (best!) or pumpkin seeds, roasted
-
-Dressing:
-3 T olive oil
-Juice from 1 lemon or lime juice
-Salt and pepper to taste
+- 6 medium roasted beets, chopped
+- 1 C dry quinoa + 2 C water
+- 1 cup fresh spinach leaves, ribboned
+- 3 scallions (green onions), chopped
+- 3 oz feta (vegan, from Trader Joes), crumbled on top
+- 1/4 C pine nuts (best!) or pumpkin seeds, roasted
+- Dressing:
+- 3 T olive oil
+- Juice from 1 lemon or lime juice
+- Salt and pepper to taste
 
 ## Instructions
 

@@ -10,16 +10,15 @@ featured_image: "/images/squashspag.jpg"
 description: "Squash Spaghetti with Meatless Meatballs recipe."
 ---
 
-A new twist on pasta from Larry's sister Cyndy. Delicious and super healthy. Here's the recipe for 2 people; increase proportionally for 4. (Okay, way too much yellow in this photo; I'll get a better one later.)**
+A new twist on pasta from Larry's sister Cyndy. Delicious and super healthy. Here's the recipe for 2 people; increase proportionally for 4. (Okay, way too much yellow in this photo; I'll get a better one later.)
 
-[![](/images/squashspag.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmeSbqJP0XtRl1GebHsBUTgZ4KnpAgoZOEi2_lVuYcmTv8s0RMN3Cqw1rfU7DGaDsYlE_O7ekeWKPVNDrN6-aG246ZbnC2GcBHzm7GEpylpOdY7gI7w4LT34YG1TluL7oa8eTrLPC2yVb/s1600/squashspag.jpg)Ingredients****
-4 zucchini squash
+## Ingredients
 
+- 4 zucchini squash
 [homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html) (with onion and mushroom to make it thicker)
+- TJ's meatless meatballs
 
-TJ's meatless meatballs
-
-Instructions**
+## Instructions
 
 Using a spiral slicer, create julienne strips of the zucchini. Be careful not to cut yourself against the blades when you're twisting near the end of the zucchini!
 

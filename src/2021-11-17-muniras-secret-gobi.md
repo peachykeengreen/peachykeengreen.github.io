@@ -14,36 +14,21 @@ Shhhhhh.... Munira shared her marvelous gobi recipe with me! I'm not sure what g
 
 ## Ingredients
 
-[![](/images/gobi.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1WEsf81rBjLYNR1AaKfsWZ8zbFRvoPYcW6tbDjdJTc2cGPaQgP6Rrbso27KNY1BM87xDjPK4x77ktOVn5vg6Q8Mh3gMc35DzzYqDqiarvnim9qkeotBRBSeIz-oZ6PnsS8A2ASpk4ETuu/s640/gobi.jpg)
-2 T canola oil
-
-1" ginger, ground or diced
-
-1 hot pepper, ground or diced
-
-1 T cumin seed
-
-2 tsp mustard seed
-
-1/2 tsp hing
-
-1 T nigella seed
-
-1 head cauliflower, cut into small pieces
-
-1/2 C methi (fenugreek leaves)
-
-1 C peas (not sweet)
-
-2 tsp turmeric
-
-2 tsp coriander
-
-1 tsp ground cumin
-
-1 tsp chili pepper
-
-1 tsp salt
+- 2 T canola oil
+- 1" ginger, ground or diced
+- 1 hot pepper, ground or diced
+- 1 T cumin seed
+- 2 tsp mustard seed
+- 1/2 tsp hing
+- 1 T nigella seed
+- 1 head cauliflower, cut into small pieces
+- 1/2 C methi (fenugreek leaves)
+- 1 C peas (not sweet)
+- 2 tsp turmeric
+- 2 tsp coriander
+- 1 tsp ground cumin
+- 1 tsp chili pepper
+- 1 tsp salt
 
 ## Instructions
 

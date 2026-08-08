@@ -12,49 +12,27 @@ description: "Indian Cabbage with Lentils recipe."
 
 Our favorite local Indian restaurant, [Janta](https://www.yelp.com/biz/janta-indian-cuisine-palo-alto), had a buffet with several delicious dishes the other day, including a cabbage dish and a mung bean dal. I had lots of cabbage and [mung beans](http://www.wholefoodsmarket.com/blog/whole-story/mighty-mung-bean) at home to use up, and I found a few recipes that combined them, so I gave this adaptation a try. It was totally easy and delish! The second time I made it, I used [brown lentils](http://www.thekitchn.com/whats-the-difference-brown-gre-111139). Just as good; maybe even better. I'm more likely to have lentils than mung beans around, so I think I'll stick with lentils for this from now on.
 
-**
+## Ingredients
 
-Ingredients****
+- 1 1/2 cups lentils or mung beans, soaked overnight
+- 1 small onion, diced
+- 1 small head cabbage, shredded
+- (try half green, half purple)
+- 1/2 cup diced tomato
+- Saute:
+- 2 T oil
+- 1 jalapeno pepper, diced (or ground red pepper)
+- 2 tsp cumin seed
+- 2 tsp ginger, minced
+- Spices:
+- 2 tsp garlic, minced
+- 1 tsp turmeric
+- 1 T ground coriander
+- 1 tsp salt
+- ground black pepper to taste
+- ground red pepper to taste
 
-[![](/images/mungcabbage.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje1jnMDrtjSOUO8g1tObNeJhYbGQ0WxFeB9mDsOm0IgSePlpoRlf36Ziy75NgUpp6o5XoLq2iTuzVIRVFXAVvSwFTfmFlrVXL-QMgveqq4sAi6C4QpEa2lA8FiDAbXkH0Np_LFM2F6Bbtm/s1600/mungcabbage.jpg)**
-
-**
-
-1 1/2 cups lentils or mung beans, soaked overnight
-
-1 small onion, diced
-
-1 small head cabbage, shredded
-
-   (try half green, half purple)
-
-1/2 cup diced tomato
-
-Saute:
-
-2 T oil
-
-1 jalapeno pepper, diced (or ground red pepper)
-
-2 tsp cumin seed
-
-2 tsp ginger, minced
-
-Spices:
-
-2 tsp garlic, minced
-
-1 tsp turmeric
-
-1 T ground coriander
-
-1 tsp salt
-
-ground black pepper to taste
-
-ground red pepper to taste
-
-Instructions**
+## Instructions
 
 Soak the beans/lentils for several hours or overnight; can drain and let them sprout a little, too.
 

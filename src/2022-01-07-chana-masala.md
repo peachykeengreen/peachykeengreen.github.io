@@ -12,34 +12,26 @@ description: "Chana Masala recipe."
 
 I've been meaning to try to make a chana masala for awhile, and today I found a nice recipe in [Vegan Richa's Indian Kitchen](https://www.veganricha.com/vegan-richas-indian-kitchen-cookbook/)that I adapted slightly, using wisdom from Munira, some canned tomatoes since I didn't have enough fresh, and adding cilantro and mushrooms, which I love in masala. It was super good!
 
-## [![](/images/chana-masala-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgDHs0QWoOanS-cZPxjs77ZJ01un2R4S0nE5TzaOFK4GGP-vceRNDvvtwEg-dvYBKKlHVINgB7oGa82ps520jmKa_87v4_DXUmm2SSNCP5G5SNgU15BubYiNJyqhtd_3RhzMj_gFs6aKSwnbv3JxH1qmNntHuzG9oudPNxKYEmQ1btVjj96_NhCtk1Qow=s640)Ingredients
+## Ingredients
 
-4 C chickpeas (2 cans, or 2 cups dried, cooked in instant pot)
-
-2 fresh tomatoes
-2" knob of ginger
-6 garlic cloves
-1 hot chili pepper
-1 tsp lemon juice
-
-2 T canola oil
-1 tsp cumin seeds
-
-1/4 tsp hing
-
-1 red onion, chopped
-1 tsp salt
-
-8 oz mushrooms, chopped (optional)
-
-1 can diced tomatoes
-1/2 C cilantro, chopped
-
-1/2 tsp turmeric
-1/2 tsp chili
-2 tsp masala powder or garam masala (or both! I used both, including some of Munira's homemade garam masala mix plus part of a masala packet from an Indian store)
-
-2 1/2 C water
+- 4 C chickpeas (2 cans, or 2 cups dried, cooked in instant pot)
+- 2 fresh tomatoes
+- 2" knob of ginger
+- 6 garlic cloves
+- 1 hot chili pepper
+- 1 tsp lemon juice
+- 2 T canola oil
+- 1 tsp cumin seeds
+- 1/4 tsp hing
+- 1 red onion, chopped
+- 1 tsp salt
+- 8 oz mushrooms, chopped (optional)
+- 1 can diced tomatoes
+- 1/2 C cilantro, chopped
+- 1/2 tsp turmeric
+- 1/2 tsp chili
+- 2 tsp masala powder or garam masala (or both! I used both, including some of Munira's homemade garam masala mix plus part of a masala packet from an Indian store)
+- 2 1/2 C water
 
 ## Instructions
 

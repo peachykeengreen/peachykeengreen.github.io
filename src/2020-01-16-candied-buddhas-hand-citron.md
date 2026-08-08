@@ -12,19 +12,16 @@ description: "Candied Buddha's Hand Citron recipe."
 
 Our friends Pat and Allen have a Buddha's Hand Tree, and offered us a chance to harvest a couple of the fruits! Pat also shared her [recipe](https://www.instructables.com/Candied-Buddhas-Hand-Citron/) for delicious candied Buddha's citron. It's yummy as candy or in cookies -- and it makes your kitchen smell heavenly as you cook it up.
 
-## **Ingredients**
+## Ingredients
 
-1-2 Buddha's hand citron, washed well, and chopped (as described below).**
-
-For every 3 C chopped buddha's hand (I often have 6-9 C), use:
+- 1-2 Buddha's hand citron, washed well, and chopped (as described below).
+- For every 3 C chopped buddha's hand (I often have 6-9 C), use:
 - 2 C water (takes longer to reduce the more water you use)
 - 3 C granulated sugar (sometimes I use 2 C and it seems to work fine)
 
-## Instructions**
+## Instructions
 
-[![](/images/buddhas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOHQSBCQtzQ-DrSe-j3NjK3KYStUD0zjlFFYcCaC6GtsSrCO5bV98vb2LOZ66HlJGpggpKIMpHR6bfqMpfnjqq84AloQLWa7HaE3z5GgmA-EHRAzvgMjHRdDtaLxi_fcmYr9XR6QZ28fk/s1600/buddhas.jpg)Dice the citron, taking care to use only the portions that include the zest and some pith. Discard interior pith portion that has no zest.
-
-**
+Dice the citron, taking care to use only the portions that include the zest and some pith. Discard interior pith portion that has no zest.
 
 Option: To reduce cooking time below, place diced citron in saucepan covered with water, bring to boil and simmer 30-40 min; drain.
 
@@ -36,9 +33,8 @@ Put it on medium heat and wait for it to boil, stirring to dissolve sugar.
 
 As it reduces, the sugar syrup will become thicker and the fruit will start to become translucent. Toward the later stage of thickening, the temperature will finally begin to climb above 220. Begin watching closely, checking every 5 minutes.
 
-Bring to 230 degrees F, the soft thread stage, then remove from heat. Do not allow the temperature to exceed this stage or you will not be able to separate the candy and it will become brittle.****
+Bring to 230 degrees F, the soft thread stage, then remove from heat. Do not allow the temperature to exceed this stage or you will not be able to separate the candy and it will become brittle.
 
-**
 [![](/images/IMG_4889.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjolWCGwpOlYh4AFBXXAgugavG1rZwv23LhgKabA28dfiYBBw1eVvnAZ18nmEL8YUpyVLqjS23as1o-5rKZ_JouCbcJzqnPJSGyh1sW6EDMp0jwxNMIH6CHlQNi1HIeqVTD0ldUCUKekjl/s1600/IMG_4889.jpg)Turn off the heat and rest the citron in the syrup for 30 minutes or so. The resting period helps the syrup to fully penetrate the fruit.
 
 Drain the citron through a sieve or colander, retaining the delicious syrup, which should be refrigerated.

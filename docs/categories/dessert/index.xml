@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dessert on Peachy Keen Green</title>
-		<link>/categories/dessert/</link>
+		<link>//localhost:8000/categories/dessert/</link>
 		<description>Recent content in Dessert on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,370 +12,370 @@
 		
 			<lastBuildDate>Fri, 19 Jun 2026 02:40:55 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:8000/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lemon Cake</title>
-				<link>/lemon-cake-2/</link>
+				<link>//localhost:8000/lemon-cake-2/</link>
 				<pubDate>Mon, 19 Jan 2026 03:46:00 +0000</pubDate>
-				<guid>/lemon-cake-2/</guid>
+				<guid>//localhost:8000/lemon-cake-2/</guid>
 				<description>&lt;p&gt;Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so I asked what kind she liked. Lemon was among her choices, and sounded delish to me, so I looked through vegan lemon cake recipes and settled on trying this &lt;a href=&#34;https://lovingitvegan.com/vegan-lemon-cake/&#34;&gt;best vegan lemon cake&lt;/a&gt; with a few small changes. Y&#xA;um!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lemon Cake</title>
-				<link>/lemon-cake/</link>
+				<link>//localhost:8000/lemon-cake/</link>
 				<pubDate>Mon, 19 Jan 2026 03:46:00 +0000</pubDate>
-				<guid>/lemon-cake/</guid>
+				<guid>//localhost:8000/lemon-cake/</guid>
 				<description>&lt;p&gt;Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so I asked what kind she liked. Lemon was among her choices, and sounded delish to me, so I looked through vegan lemon cake recipes and settled on trying this &lt;a href=&#34;https://lovingitvegan.com/vegan-lemon-cake/&#34;&gt;best vegan lemon cake&lt;/a&gt; with a few small changes. Y&#xA;um!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lemon Blueberry Coffee Cake</title>
-				<link>/lemon-blueberry-coffee-cake/</link>
+				<link>//localhost:8000/lemon-blueberry-coffee-cake/</link>
 				<pubDate>Wed, 31 Jul 2024 23:26:00 +0000</pubDate>
-				<guid>/lemon-blueberry-coffee-cake/</guid>
+				<guid>//localhost:8000/lemon-blueberry-coffee-cake/</guid>
 				<description>&lt;p&gt;Elsa hosted a birthday brunch last week, cooking up several experiments for us, all delicious! Larry went back for 3 pieces of this yummy lemon blueberry coffee cake. The &lt;a href=&#34;https://thebananadiaries.com/vegan-lemon-blueberry-coffee-cake-with-cream-cheese-swirl/&#34;&gt;original recipe&lt;/a&gt; called for a vegan cream cheese swirl and a powerdered sugar icing, but she skipped both, and it was great without.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chocolate Cake with Gooey Ganache</title>
-				<link>/chocolate-cake-with-gooey-ganache/</link>
+				<link>//localhost:8000/chocolate-cake-with-gooey-ganache/</link>
 				<pubDate>Sat, 25 May 2024 05:04:00 +0000</pubDate>
-				<guid>/chocolate-cake-with-gooey-ganache/</guid>
-				<description>&lt;p&gt;A nice vegan &lt;a href=&#34;http://www.theppk.com/2008/08/just-chocolate-cake/&#34;&gt;chocolate cake recipe from Isa&lt;/a&gt; that I adjusted slightly &amp;ndash; by doubling it (because her recipe makes just one 8&amp;quot; round). For a 2-tier round cake, I add more milk to the ganache, which makes it more like a spreadable frosting when it cools. For a rectangular pan cake, I sometimes poke holes all over the top of the cake before it cools completely and then pour on ganache on warm so it seeps into the holes. The photos on the right show the same cake with cool vs. warm versions of ganache. You could also try this &lt;a href=&#34;https://www.noracooks.com/vegan-chocolate-frosting/&#34;&gt;alternative frosting&lt;/a&gt; (with vegan butter) for a lighter whipped frosting.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/chocolate-cake-with-gooey-ganache/</guid>
+				<description>&lt;p&gt;A nice vegan &lt;a href=&#34;http://www.theppk.com/2008/08/just-chocolate-cake/&#34;&gt;chocolate cake recipe from Isa&lt;/a&gt; that I adjusted slightly &amp;ndash; by doubling it (because her recipe makes just one 8&amp;quot; round). For a 2-tier round cake, I add more milk to the ganache, which makes it more like a spreadable frosting when it cools. For a rectangular pan cake, I sometimes poke holes all over the top of the cake before it cools completely and then pour on ganache on warm so it seeps into the holes. The photos on the right show the same cake with cool vs. warm versions of ganache. You could also try this &lt;a href=&#34;https://www.noracooks.com/vegan-chocolate-frosting/&#34;&gt;alternative frosting&lt;/a&gt; (with vegan butter) for a lighter whipped frosting.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Upside Down Cake (Pineapple or Kumquat!)</title>
-				<link>/kumquat-upside-down-cake/</link>
+				<link>//localhost:8000/kumquat-upside-down-cake/</link>
 				<pubDate>Wed, 01 Mar 2023 23:24:00 +0000</pubDate>
-				<guid>/kumquat-upside-down-cake/</guid>
+				<guid>//localhost:8000/kumquat-upside-down-cake/</guid>
 				<description>&lt;p&gt;Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Marilyn&amp;rsquo;s frozen kumquats (which had thawed out during our 2.5 day power outage). Omg, it was one of the best cakes I&amp;rsquo;ve had. Rick did a mashup of this &lt;a href=&#34;https://familyspice.com/kumquat-upside-down-cake&#34;&gt;non-vegan kumquat upside down cake&lt;/a&gt; and this &lt;a href=&#34;https://lovingitvegan.com/vegan-pineapple-upside-down-cake/&#34;&gt;vegan pineapple upside down cake&lt;/a&gt;. Definitely use a cast iron skillet if you have one; I think it makes a difference (and I bought a 10&amp;quot; skillet just for this recipe!) If you don&amp;rsquo;t have kumquats, try with pineapple or another citrus-y fruit!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Whole Wheat Pie Crust</title>
-				<link>/vegan-pie-crust/</link>
+				<link>//localhost:8000/vegan-pie-crust/</link>
 				<pubDate>Tue, 23 Aug 2022 00:42:00 +0000</pubDate>
-				<guid>/vegan-pie-crust/</guid>
-				<description>&lt;p&gt;I like making pies, including&#xA;&lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/04/mushroom-leek-quiche-with-red-pepper.html&#34;&gt;tofu quiche&lt;/a&gt;&#xA;and&lt;/p&gt;&#xA;&lt;p&gt; &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html&#34;&gt;fruit pie&lt;/a&gt; and&#xA;&lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/05/vegan-pumpkin-pie.html&#34;&gt;pumpkin pie&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Good pie crust is hard to make, though. I buy&#xA;&lt;a href=&#34;https://www.whollywholesome.com/category/products/rolled-pie-dough/&#34;&gt;Wholly Wholesome rolled pie dough&lt;/a&gt; when we can find it. But it&amp;rsquo;s been hard to find nowadays. Cousin Ann Mattson and friend Allen shared their (similar) oil-based pie crust recipes, which were tasty. Then I found this &lt;a href=&#34;https://www.karissasvegankitchen.com/easy-vegan-pie-crust/&#34;&gt;easy vegan pie crust recipe&lt;/a&gt; and found that using a food processor in cutting in the butter seemed to yield an easier dough to roll.&#xA;**&lt;/p&gt;</description>
+				<guid>//localhost:8000/vegan-pie-crust/</guid>
+				<description>&lt;p&gt;I like making pies, including&#xA;&lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/04/mushroom-leek-quiche-with-red-pepper.html&#34;&gt;tofu quiche&lt;/a&gt;&#xA;and&lt;/p&gt;&#xA;&lt;p&gt; &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html&#34;&gt;fruit pie&lt;/a&gt; and&#xA;&lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/05/vegan-pumpkin-pie.html&#34;&gt;pumpkin pie&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Good pie crust is hard to make, though. I buy&#xA;&lt;a href=&#34;https://www.whollywholesome.com/category/products/rolled-pie-dough/&#34;&gt;Wholly Wholesome rolled pie dough&lt;/a&gt; when we can find it. But it&amp;rsquo;s been hard to find nowadays. Cousin Ann Mattson and friend Allen shared their (similar) oil-based pie crust recipes, which were tasty. Then I found this &lt;a href=&#34;https://www.karissasvegankitchen.com/easy-vegan-pie-crust/&#34;&gt;easy vegan pie crust recipe&lt;/a&gt; and found that using a food processor in cutting in the butter seemed to yield an easier dough to roll.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Spice Cake - with optional Pumpkin and Cream Cheese Frosting</title>
-				<link>/spice-cake/</link>
+				<link>//localhost:8000/spice-cake/</link>
 				<pubDate>Tue, 25 Jan 2022 06:53:00 +0000</pubDate>
-				<guid>/spice-cake/</guid>
+				<guid>//localhost:8000/spice-cake/</guid>
 				<description>&lt;p&gt;For our acappella rehearsal, Harold&amp;rsquo;s wife Chris served this delicious, easy spice cake without frosting. The recipe came from her kids elementary class, made vegan so more kids could eat it. It&amp;rsquo;s delish without any frosting, and I&amp;rsquo;ve made it as muffins, too. For a special occasion, add pumpkin to the mix and top with a cream cheese frosting.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Apple Crisp Turnovers</title>
-				<link>/apple-crisp-turnover/</link>
+				<link>//localhost:8000/apple-crisp-turnover/</link>
 				<pubDate>Mon, 18 Oct 2021 04:10:00 +0000</pubDate>
-				<guid>/apple-crisp-turnover/</guid>
+				<guid>//localhost:8000/apple-crisp-turnover/</guid>
 				<description>&lt;p&gt;I had some phyllo dough to use up, and adapted &lt;a href=&#34;https://www.bigoven.com/recipe/apple-turnovers-using-phyllo-dough/170816&#34;&gt;this recipe&lt;/a&gt; for apple turnovers. I ended up having a fair bit of the fruit mixture left, so I also made a small apple crisp. Both were great!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Apricot Sheet Cake</title>
-				<link>/apricot-sheet-cake/</link>
+				<link>//localhost:8000/apricot-sheet-cake/</link>
 				<pubDate>Thu, 17 Jun 2021 19:04:00 +0000</pubDate>
-				<guid>/apricot-sheet-cake/</guid>
+				<guid>//localhost:8000/apricot-sheet-cake/</guid>
 				<description>&lt;p&gt;We harvested some of Judi&amp;rsquo;s apricots while her family was out of town. Her tree has the best apricots I&amp;rsquo;ve ever tasted! Sherry came to visit and shared her &lt;a href=&#34;https://veganonboard.com/vegan-apricot-cake-marillenkuchen/&#34;&gt;vegan apricot cake recipe&lt;/a&gt;, which we made together this morning. The secrets: Lots of fruit, and use sparkling water or soda to make it light and fluffy. I made this with white flour, but will try whole wheat next time. The original recipe says this is a twist on an Austrian sheet cake - a flat sponge cake baked on a sheet.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Blood Orange Chocolate Olive Oil Cake</title>
-				<link>/blood-orange-chocolate-olive-oil-cake/</link>
+				<link>//localhost:8000/blood-orange-chocolate-olive-oil-cake/</link>
 				<pubDate>Wed, 19 May 2021 03:55:00 +0000</pubDate>
-				<guid>/blood-orange-chocolate-olive-oil-cake/</guid>
+				<guid>//localhost:8000/blood-orange-chocolate-olive-oil-cake/</guid>
 				<description>&lt;p&gt;Shelley Million gave us a &lt;a href=&#34;https://tasty.co/recipe/blood-orange-chocolate-olive-oil-cake&#34;&gt;blood orange cake&lt;/a&gt; when we made a backyard visit in March, and it was divine! I asked Larry what he wanted for his birthday, and he said this cake. Shelley made it with regular oranges and without the topping, and we had lots of oranges on our tree, so I did the same - except I made the topping and used a few blood oranges there, figuring I&amp;rsquo;d make it extra pretty for the birthday boy. I also doubled the recipe to make 2 rounds since we had 2 birthday parties, but 1 round is plenty for one group. (Also, our tree&amp;rsquo;s oranges are HUGE, and blood oranges at the store were much smaller, so I used fewer oranges; adjust depending on your orange size.)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lemon Cake or Bread</title>
-				<link>/lemon-cake-2/</link>
+				<link>//localhost:8000/lemon-cake-2/</link>
 				<pubDate>Mon, 21 Dec 2020 03:53:00 +0000</pubDate>
-				<guid>/lemon-cake-2/</guid>
+				<guid>//localhost:8000/lemon-cake-2/</guid>
 				<description>&lt;p&gt;It&amp;rsquo;s lemon season! When the frost comes they go bad, so Larry is bringing in scores of meyer lemons and limes. After success with &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html&#34;&gt;key lime yogurt&lt;/a&gt;, I got a craving for lemon cake. Larry said yes, please! (And Sandy says lemon cake is one of her favorites - good to know!) I tried this &lt;a href=&#34;https://lovingitvegan.com/vegan-lemon-cake/&#34;&gt;loving it vegan recipe&lt;/a&gt;, and the cake was delish. The powdered-sugar frosting was sweeter than we liked, though. Then I tried a vegan cream cheese frosting from &lt;a href=&#34;https://www.veganricha.com/vegan-lemon-cake-with-cream-cheese-frosting/&#34;&gt;Vegan Richa&lt;/a&gt;, which was pretty good.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lemon Cake or Bread</title>
-				<link>/lemon-cake/</link>
+				<link>//localhost:8000/lemon-cake/</link>
 				<pubDate>Mon, 21 Dec 2020 03:53:00 +0000</pubDate>
-				<guid>/lemon-cake/</guid>
+				<guid>//localhost:8000/lemon-cake/</guid>
 				<description>&lt;p&gt;It&amp;rsquo;s lemon season! When the frost comes they go bad, so Larry is bringing in scores of meyer lemons and limes. After success with &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html&#34;&gt;key lime yogurt&lt;/a&gt;, I got a craving for lemon cake. Larry said yes, please! (And Sandy says lemon cake is one of her favorites - good to know!) I tried this &lt;a href=&#34;https://lovingitvegan.com/vegan-lemon-cake/&#34;&gt;loving it vegan recipe&lt;/a&gt;, and the cake was delish. The powdered-sugar frosting was sweeter than we liked, though. Then I tried a vegan cream cheese frosting from &lt;a href=&#34;https://www.veganricha.com/vegan-lemon-cake-with-cream-cheese-frosting/&#34;&gt;Vegan Richa&lt;/a&gt;, which was pretty good.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Persimmon Cookies</title>
-				<link>/persimmon-cookies/</link>
+				<link>//localhost:8000/persimmon-cookies/</link>
 				<pubDate>Sat, 12 Dec 2020 21:11:00 +0000</pubDate>
-				<guid>/persimmon-cookies/</guid>
+				<guid>//localhost:8000/persimmon-cookies/</guid>
 				<description>&lt;p&gt;Pat brought over more persimmons! We sliced and dried a dozen unripe ones. We still had half a dozen ripe ones, and I owe cookies to some members of our movie-review SupPort group, so time to try persimmon cookies! (The group recently watched the original &lt;a href=&#34;https://en.wikipedia.org/wiki/Ghostbusters&#34;&gt;Ghostbusters&lt;/a&gt; movie; I offered cookies to anyone who also watched the &lt;a href=&#34;https://en.wikipedia.org/wiki/Ghostbusters_(2016_film)&#34;&gt;Ghostbusters 2016&lt;/a&gt; remake with SNL women, and two couples took up that offer.)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Vegan Pumpkin Pie</title>
-				<link>/vegan-pumpkin-pie/</link>
+				<link>//localhost:8000/vegan-pumpkin-pie/</link>
 				<pubDate>Sun, 22 Nov 2020 18:40:00 +0000</pubDate>
-				<guid>/vegan-pumpkin-pie/</guid>
+				<guid>//localhost:8000/vegan-pumpkin-pie/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://www.blogger.com/#&#34;&gt;&#xA;&lt;/a&gt;&lt;a href=&#34;https://www.blogger.com/#&#34;&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A super easy, yummy vegan pumpkin pie, great for using up that 2-pack of Wholly Wholesome pie crust (use the other one for the&#xA;&lt;a href=&#34;https://www.blogger.com/#&#34;&gt;Festive Chickpea Tart&lt;/a&gt;&#xA;).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Strawberry Rhubarb Pie</title>
-				<link>/strawberry-rhubarb-pie/</link>
+				<link>//localhost:8000/strawberry-rhubarb-pie/</link>
 				<pubDate>Mon, 31 Aug 2020 02:26:00 +0000</pubDate>
-				<guid>/strawberry-rhubarb-pie/</guid>
+				<guid>//localhost:8000/strawberry-rhubarb-pie/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;ve made half a dozen &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html&#34;&gt;fruit pies&lt;/a&gt; in the past few weeks because of our prolific pear tree. I usually mix blackberries with the pears, because we have to use those up, too. But recently, for something different, I mixed strawberries with the pears, and it was delicious. Color-wise, it reminded me of the rhubarb pie we loved as kids; Mom made it from wild rhubarb we picked from patches near the corn crib. (&lt;a href=&#34;https://history.nebraska.gov/blog/rhubarb-pie-lover%E2%80%99s-delight&#34;&gt;Rhubarb pie is a big deal in Nebraska.&lt;/a&gt;) She made it straight &amp;ndash; all rhubarb &amp;ndash; but I decided to look for recipes with strawberries, so I wouldn&amp;rsquo;t have to add a ton of sugar (rhubarb is pretty tart). I gave the following a try, and it was amazing! It&amp;rsquo;s different enough from my other &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html&#34;&gt;fruit pies&lt;/a&gt; that it earns its own post. Serve this with (vegan) vanilla ice cream.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Peanut Butter Oatmeal Chocolate Chip Cookies</title>
-				<link>/peanut-butter-oatmeal-chocolate-chip/</link>
+				<link>//localhost:8000/peanut-butter-oatmeal-chocolate-chip/</link>
 				<pubDate>Mon, 20 Jul 2020 20:49:00 +0000</pubDate>
-				<guid>/peanut-butter-oatmeal-chocolate-chip/</guid>
+				<guid>//localhost:8000/peanut-butter-oatmeal-chocolate-chip/</guid>
 				<description>&lt;p&gt;I needed some cookies to fill the empty space in a box I&amp;rsquo;m mailing to Dad, and I&amp;rsquo;ve had these &lt;a href=&#34;https://www.veganricha.com/vegan-peanut-butter-oatmeal-chocolate-chip-cookies/&#34;&gt;cookies by Vegan Richa&lt;/a&gt; on my list for awhile to try. I actually made some &amp;ldquo;regular&amp;rdquo; chocolate chips cookies (very similar except with vegan butter, a flax egg, and no oats) at the same time so I could compare the two, and these were much better! Here&amp;rsquo;s a very slightly adapted version. Makes about 2 dozen cookies.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fig Apple Compote</title>
-				<link>/fig-apple-compote/</link>
+				<link>//localhost:8000/fig-apple-compote/</link>
 				<pubDate>Mon, 20 Jul 2020 02:43:00 +0000</pubDate>
-				<guid>/fig-apple-compote/</guid>
+				<guid>//localhost:8000/fig-apple-compote/</guid>
 				<description>&lt;p&gt;So many figs! I made a&lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html&#34;&gt;fig pie&lt;/a&gt;, which was pretty good, and we actually tried our hand at canning fig jam (see photos below). The result was yummy, though quite the effort and a bit sweet (so much sugar!), so I wanted to try something different, even if it meant filling my freezer instead of my pantry. I also have some apples to use up, and wondered if they might go together well. So I googled &amp;ldquo;fig apple sauce&amp;rdquo; and found several recipes for compotes. Here&amp;rsquo;s my adaptation of what I found - and it was delicious! Not too sweet, and the mix of fruits is nice. I bet this (uncooked) would also make a great pie filling. Hm&amp;hellip;.. :)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Marmalade</title>
-				<link>/marmalade/</link>
+				<link>//localhost:8000/marmalade/</link>
 				<pubDate>Mon, 22 Jun 2020 17:59:00 +0000</pubDate>
-				<guid>/marmalade/</guid>
+				<guid>//localhost:8000/marmalade/</guid>
 				<description>&lt;p&gt;Every year we have so many oranges! They&amp;rsquo;re more difficult to give away this year given COVID&amp;hellip; we give to a few neighbors and friends, but I can&amp;rsquo;t take them to the office and hand them out like in past years. An abundance of pears lead to &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html&#34;&gt;ginger pear sauce&lt;/a&gt; and too many fingers led to &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/01/candied-buddhas-hand-citron.html&#34;&gt;candied buddha&amp;rsquo;s hands&lt;/a&gt;&amp;hellip; so doh, why not try my hand at marmalade? After skimming several recipes on the web, I decided to adapt this &lt;a href=&#34;https://www.culinaryhill.com/orange-marmalade-recipe/&#34;&gt;orange lemon marmalade recipe&lt;/a&gt; slightly to use less sugar and more oranges. It&amp;rsquo;s just a little tart, and really delicious! The neighbors loved it. One request from Kurt &amp;amp; Pete: Cut the rinds into even smaller pieces.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Applesauce</title>
-				<link>/applesauce/</link>
+				<link>//localhost:8000/applesauce/</link>
 				<pubDate>Wed, 29 Apr 2020 23:06:00 +0000</pubDate>
-				<guid>/applesauce/</guid>
-				<description>&lt;p&gt;Growing up, Larry&amp;rsquo;s family had a tradition of eating applesauce at most meals. Since we&amp;rsquo;ve started doing weekly zoom dinners with his family, they decided everyone should always have applesauce for dessert. Cute! But it&amp;rsquo;s been hard to find jars of applesauce. We&amp;rsquo;re just seeing pouches and single-serve containers as options at Costco and our Instacart orders. Yuck.  But apples are easy to get. And I make a mean &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html&#34;&gt;ginger pear sauce&lt;/a&gt;&amp;hellip;. So why not make applesauce, too? Of course!**&lt;/p&gt;</description>
+				<guid>//localhost:8000/applesauce/</guid>
+				<description>&lt;p&gt;Growing up, Larry&amp;rsquo;s family had a tradition of eating applesauce at most meals. Since we&amp;rsquo;ve started doing weekly zoom dinners with his family, they decided everyone should always have applesauce for dessert. Cute! But it&amp;rsquo;s been hard to find jars of applesauce. We&amp;rsquo;re just seeing pouches and single-serve containers as options at Costco and our Instacart orders. Yuck.  But apples are easy to get. And I make a mean &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html&#34;&gt;ginger pear sauce&lt;/a&gt;&amp;hellip;. So why not make applesauce, too? Of course!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>PB2 Chocolate Chip Cookies</title>
-				<link>/pb2-chocolate-chip-cookies/</link>
+				<link>//localhost:8000/pb2-chocolate-chip-cookies/</link>
 				<pubDate>Wed, 08 Apr 2020 00:46:00 +0000</pubDate>
-				<guid>/pb2-chocolate-chip-cookies/</guid>
-				<description>&lt;p&gt;We really like these &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/03/pb2-chocolate-brownies.html&#34;&gt;PB2 brownies&lt;/a&gt; - super easy to make, not too sweet, and very satisfying. But it&amp;rsquo;s time to try some other desserts. I still have a lot of PB2 and almond butter; surely one can make a good chocolate chip cookie from that? I googled, looked through several recipes, and decided to try a twist on these vegan &lt;a href=&#34;https://beamingbaker.com/gluten-free-almond-butter-chocolate-chip-cookies-vegan-gf-dairy-free-refined-sugar-free/&#34;&gt;chocolate chip almond butter cookies&lt;/a&gt; by Beaming Baker. I made several changes, including using half PB2 and making them less sweet (most desserts are always too sweet!), and used brown sugar and fewer chocolate chips (half the amount listed was plenty!)**&lt;/p&gt;</description>
+				<guid>//localhost:8000/pb2-chocolate-chip-cookies/</guid>
+				<description>&lt;p&gt;We really like these &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/03/pb2-chocolate-brownies.html&#34;&gt;PB2 brownies&lt;/a&gt; - super easy to make, not too sweet, and very satisfying. But it&amp;rsquo;s time to try some other desserts. I still have a lot of PB2 and almond butter; surely one can make a good chocolate chip cookie from that? I googled, looked through several recipes, and decided to try a twist on these vegan &lt;a href=&#34;https://beamingbaker.com/gluten-free-almond-butter-chocolate-chip-cookies-vegan-gf-dairy-free-refined-sugar-free/&#34;&gt;chocolate chip almond butter cookies&lt;/a&gt; by Beaming Baker. I made several changes, including using half PB2 and making them less sweet (most desserts are always too sweet!), and used brown sugar and fewer chocolate chips (half the amount listed was plenty!)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>PB2 Chocolate Brownies</title>
-				<link>/pb2-chocolate-brownies/</link>
+				<link>//localhost:8000/pb2-chocolate-brownies/</link>
 				<pubDate>Fri, 27 Mar 2020 00:13:00 +0000</pubDate>
-				<guid>/pb2-chocolate-brownies/</guid>
-				<description>&lt;p&gt;Thinking about alternatives to my (limited) flour as we go shopping less during the pandemic, I recalled that I have two big jars of PB2 (powdered peanut butter) that have been in my cupboard for awhile. Googling brought up several lists of &lt;a href=&#34;https://dailyburn.com/life/recipes/powdered-peanut-butter-pb2-recipes/&#34;&gt;healthy&lt;/a&gt; &lt;a href=&#34;https://legionathletics.com/healthy-pb2-recipes/&#34;&gt;PB2&lt;/a&gt; &lt;a href=&#34;https://www.weightwatchers.com/us/blog/food/peanut-butter-powder-pb2-recipes&#34;&gt;recipes&lt;/a&gt; including some &lt;a href=&#34;https://www.skinnytaste.com/pb2-flourless-chocolate-brownies/#_a5y_p=1556183&#34;&gt;PB2 Flourless Chocolate Brownies&lt;/a&gt;. I played with the recipe and made a few changes. In particular, it worked best for me with half PB2 and half flour, sugar in place of honey, and fewer chocolate chips. (And of course flaxmeal in place of eggs!). It&amp;rsquo;s really yummy and not too sweet!**&lt;/p&gt;</description>
+				<guid>//localhost:8000/pb2-chocolate-brownies/</guid>
+				<description>&lt;p&gt;Thinking about alternatives to my (limited) flour as we go shopping less during the pandemic, I recalled that I have two big jars of PB2 (powdered peanut butter) that have been in my cupboard for awhile. Googling brought up several lists of &lt;a href=&#34;https://dailyburn.com/life/recipes/powdered-peanut-butter-pb2-recipes/&#34;&gt;healthy&lt;/a&gt; &lt;a href=&#34;https://legionathletics.com/healthy-pb2-recipes/&#34;&gt;PB2&lt;/a&gt; &lt;a href=&#34;https://www.weightwatchers.com/us/blog/food/peanut-butter-powder-pb2-recipes&#34;&gt;recipes&lt;/a&gt; including some &lt;a href=&#34;https://www.skinnytaste.com/pb2-flourless-chocolate-brownies/#_a5y_p=1556183&#34;&gt;PB2 Flourless Chocolate Brownies&lt;/a&gt;. I played with the recipe and made a few changes. In particular, it worked best for me with half PB2 and half flour, sugar in place of honey, and fewer chocolate chips. (And of course flaxmeal in place of eggs!). It&amp;rsquo;s really yummy and not too sweet!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Almond Citron Biscotti</title>
-				<link>/biscotti/</link>
+				<link>//localhost:8000/biscotti/</link>
 				<pubDate>Tue, 21 Jan 2020 17:35:00 +0000</pubDate>
-				<guid>/biscotti/</guid>
-				<description>&lt;p&gt;We bumped into Elsa the other evening on a walk, and asked how she uses &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/01/candied-buddhas-hand-citron.html&#34;&gt;Candied Buddha&amp;rsquo;s Hand&lt;/a&gt;. She makes biscotti! Larry turned to me and said, &amp;ldquo;Biscotti, please.&amp;rdquo; I found a recipe for vegan &lt;a href=&#34;https://minimalistbaker.com/orange-almond-biscotti/&#34;&gt;orange almond biscotti by Minimalist Baker&lt;/a&gt; and made a few small adaptations (like adding orange juice as &lt;a href=&#34;https://holycowvegan.net/vegan-orange-almond-biscotti/&#34;&gt;holycowvegan&lt;/a&gt; does). After experimenting with various flours (whole wheat, almond, and oat flour), eventually I landed on just white flour and cornmeal, which holds together well and is still yummy!**&lt;/p&gt;</description>
+				<guid>//localhost:8000/biscotti/</guid>
+				<description>&lt;p&gt;We bumped into Elsa the other evening on a walk, and asked how she uses &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/01/candied-buddhas-hand-citron.html&#34;&gt;Candied Buddha&amp;rsquo;s Hand&lt;/a&gt;. She makes biscotti! Larry turned to me and said, &amp;ldquo;Biscotti, please.&amp;rdquo; I found a recipe for vegan &lt;a href=&#34;https://minimalistbaker.com/orange-almond-biscotti/&#34;&gt;orange almond biscotti by Minimalist Baker&lt;/a&gt; and made a few small adaptations (like adding orange juice as &lt;a href=&#34;https://holycowvegan.net/vegan-orange-almond-biscotti/&#34;&gt;holycowvegan&lt;/a&gt; does). After experimenting with various flours (whole wheat, almond, and oat flour), eventually I landed on just white flour and cornmeal, which holds together well and is still yummy!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Candied Buddha&#39;s Hand Citron</title>
-				<link>/candied-buddhas-hand-citron/</link>
+				<link>//localhost:8000/candied-buddhas-hand-citron/</link>
 				<pubDate>Thu, 16 Jan 2020 00:15:00 +0000</pubDate>
-				<guid>/candied-buddhas-hand-citron/</guid>
+				<guid>//localhost:8000/candied-buddhas-hand-citron/</guid>
 				<description>&lt;p&gt;Our friends Pat and Allen have a Buddha&amp;rsquo;s Hand Tree, and offered us a chance to harvest a couple of the fruits! Pat also shared her &lt;a href=&#34;https://www.instructables.com/Candied-Buddhas-Hand-Citron/&#34;&gt;recipe&lt;/a&gt; for delicious candied Buddha&amp;rsquo;s citron. It&amp;rsquo;s yummy as candy or in cookies &amp;ndash; and it makes your kitchen smell heavenly as you cook it up.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Yammy Chocolate Pudding (Optionally Pie)</title>
-				<link>/yammy-chocolate-pudding/</link>
+				<link>//localhost:8000/yammy-chocolate-pudding/</link>
 				<pubDate>Mon, 23 Dec 2019 01:10:00 +0000</pubDate>
-				<guid>/yammy-chocolate-pudding/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNQRq1uP_sKy-P6Q7n9rZRapbD2-wVpYpmsy7W47Q8YfaSulq9ZvffMSaPtu2dvQZKhu9VRAdn9XFqbuIx-afdQDC88xPVAiF5dAZw3Yhmyrbm0juyOw0aIqezpa2pmvjh2sH0UFdVmqj/s1600/IMG_4628.jpg&#34;&gt;&lt;img src=&#34;/images/IMG_4628.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;Shelley shared a delicious chocolate pudding with us today, packed with healthy ingredients! It&amp;rsquo;s super easy to make, too. She recommends a dark cocoa like Hershey&amp;rsquo;s Dark or Guittard Dutched Cocoa rather than regular cocoa, as it makes it taste more fudgy. She also used TJs soy creamer because she thinks it tastes more neutral than nut milks or coconut creamers.&#xA;**&lt;/p&gt;</description>
+				<guid>//localhost:8000/yammy-chocolate-pudding/</guid>
+				<description>&lt;p&gt;Shelley shared a delicious chocolate pudding with us today, packed with healthy ingredients! It&amp;rsquo;s super easy to make, too. She recommends a dark cocoa like Hershey&amp;rsquo;s Dark or Guittard Dutched Cocoa rather than regular cocoa, as it makes it taste more fudgy. She also used TJs soy creamer because she thinks it tastes more neutral than nut milks or coconut creamers.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chocolate Applesauce Walnut Cake</title>
-				<link>/chocolate-applesauce-walnut-cake/</link>
+				<link>//localhost:8000/chocolate-applesauce-walnut-cake/</link>
 				<pubDate>Mon, 25 Nov 2019 17:06:00 +0000</pubDate>
-				<guid>/chocolate-applesauce-walnut-cake/</guid>
-				<description>&lt;p&gt;A vegan variation on a cake recipe by my college roommate Elizabeth, with orange promoted to a primary flavor &amp;ndash; increasing the zest in the cake from 1/2 tsp to at least a tablespoon, and adding a very zesty orange glaze. Yum! Larry loved it. And as cakes go, it&amp;rsquo;s fairly healthy, with whole wheat flour, apples, and walnuts as main ingredients and not much oil.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/chocolate-applesauce-walnut-cake/</guid>
+				<description>&lt;p&gt;A vegan variation on a cake recipe by my college roommate Elizabeth, with orange promoted to a primary flavor &amp;ndash; increasing the zest in the cake from 1/2 tsp to at least a tablespoon, and adding a very zesty orange glaze. Yum! Larry loved it. And as cakes go, it&amp;rsquo;s fairly healthy, with whole wheat flour, apples, and walnuts as main ingredients and not much oil.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Dried Figs</title>
-				<link>/dried-figs/</link>
+				<link>//localhost:8000/dried-figs/</link>
 				<pubDate>Sat, 28 Sep 2019 17:10:00 +0000</pubDate>
-				<guid>/dried-figs/</guid>
-				<description>&lt;p&gt;Figs! We have so many figs. Larry is picking a dozen a day, scrambling onto the roof to get half of them from the top of the tree. During an afternoon get-together, Shuchi tells us that she gets a lot of different fruits off her trees and dries them &amp;ndash; the sugar concentrates, and they taste like candy! She keeps them in jars on her counter and they snack on them for days. So we bought a &lt;a href=&#34;https://www.macys.com/shop/product/cuisinart-dhr-20-food-dehydrator?ID=8299131&#34;&gt;Cuisinart dehydrator&lt;/a&gt; and tried it out with some figs and pears and other fruits. Figs are pretty juicy and took a lot longer to dry than the others, so we decided they were better when cut into smaller sizes, and perhaps dried by themselves - or if you do other fruits, just check the others earlier.**&#xA;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDUKB4DOma2QZHesjPvnLl-Ta6f1Pnfu3WZbNgykxR64a44ALZX-ovWmWZ_Rmo3ZQOFY9v8Q-FFW5LA5Waik875Op1iuBhZW12qozQfMYYdLUuzOHscIF52w3iY3I6YEFi93KTJSxsoAt/s1600/IMG_3319.JPG&#34;&gt;&lt;img src=&#34;/images/IMG_3319.JPG&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>//localhost:8000/dried-figs/</guid>
+				<description>&lt;p&gt;Figs! We have so many figs. Larry is picking a dozen a day, scrambling onto the roof to get half of them from the top of the tree. During an afternoon get-together, Shuchi tells us that she gets a lot of different fruits off her trees and dries them &amp;ndash; the sugar concentrates, and they taste like candy! She keeps them in jars on her counter and they snack on them for days. So we bought a &lt;a href=&#34;https://www.macys.com/shop/product/cuisinart-dhr-20-food-dehydrator?ID=8299131&#34;&gt;Cuisinart dehydrator&lt;/a&gt; and tried it out with some figs and pears and other fruits. Figs are pretty juicy and took a lot longer to dry than the others, so we decided they were better when cut into smaller sizes, and perhaps dried by themselves - or if you do other fruits, just check the others earlier.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Blackberry Syrup</title>
-				<link>/blackberry-syrup/</link>
+				<link>//localhost:8000/blackberry-syrup/</link>
 				<pubDate>Fri, 16 Aug 2019 04:39:00 +0000</pubDate>
-				<guid>/blackberry-syrup/</guid>
-				<description>&lt;p&gt;We have SO many blackberries we can&amp;rsquo;t keep up. I started putting cups and cups of them in bags in our freezer - which is getting WAY too full. I got an idea: What if I try to use up some of these by making a blackberry syrup? I found this recipe for &lt;a href=&#34;https://www.daringgourmet.com/homemade-blackberry-syrup/&#34;&gt;homemade blackberry syrup from daring gourmet&lt;/a&gt;. Oh. My. Flying. Spaghetti. Monster. It&amp;rsquo;s &lt;em&gt;incredible&lt;/em&gt;. I&amp;rsquo;ll NEVER complain about too many blackberries again!**&lt;/p&gt;</description>
+				<guid>//localhost:8000/blackberry-syrup/</guid>
+				<description>&lt;p&gt;We have SO many blackberries we can&amp;rsquo;t keep up. I started putting cups and cups of them in bags in our freezer - which is getting WAY too full. I got an idea: What if I try to use up some of these by making a blackberry syrup? I found this recipe for &lt;a href=&#34;https://www.daringgourmet.com/homemade-blackberry-syrup/&#34;&gt;homemade blackberry syrup from daring gourmet&lt;/a&gt;. Oh. My. Flying. Spaghetti. Monster. It&amp;rsquo;s &lt;em&gt;incredible&lt;/em&gt;. I&amp;rsquo;ll NEVER complain about too many blackberries again!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chocolate Chip Apricot Bars</title>
-				<link>/chocolate-chip-apricot-bars/</link>
+				<link>//localhost:8000/chocolate-chip-apricot-bars/</link>
 				<pubDate>Sat, 27 Jul 2019 18:04:00 +0000</pubDate>
-				<guid>/chocolate-chip-apricot-bars/</guid>
-				<description>&lt;p&gt;Wanda shared a chocolate chip apricot bar recipe&#xA;with me more than a decade ago, when I made it for our SRI chili cookoff and it won&#xA;best dessert! The recipe is adapted from a &lt;a href=&#34;https://www.epicurious.com/recipes/food/views/chocolate-chip-apricot-bars-10136&#34;&gt;Gourmet 1995&lt;/a&gt; recipe. I forgot about it until&#xA;yesterday, when I was thinking about what dessert to take to a neighbor&amp;rsquo;s&#xA;barbecue. I mentioned to my dad that I thought I&amp;rsquo;d take cookies, and he said,&#xA;&amp;ldquo;Chocolate chip? Those would disappear!&amp;rdquo; He&amp;rsquo;s right! But this is an&#xA;interesting twist on that &amp;ndash; with just a tweak to the butter to make it vegan, and reducing the brown sugar a bit (it&amp;rsquo;s pretty sweet as is).&#xA;**&#xA;**&lt;/p&gt;</description>
+				<guid>//localhost:8000/chocolate-chip-apricot-bars/</guid>
+				<description>&lt;p&gt;Wanda shared a chocolate chip apricot bar recipe&#xA;with me more than a decade ago, when I made it for our SRI chili cookoff and it won&#xA;best dessert! The recipe is adapted from a &lt;a href=&#34;https://www.epicurious.com/recipes/food/views/chocolate-chip-apricot-bars-10136&#34;&gt;Gourmet 1995&lt;/a&gt; recipe. I forgot about it until&#xA;yesterday, when I was thinking about what dessert to take to a neighbor&amp;rsquo;s&#xA;barbecue. I mentioned to my dad that I thought I&amp;rsquo;d take cookies, and he said,&#xA;&amp;ldquo;Chocolate chip? Those would disappear!&amp;rdquo; He&amp;rsquo;s right! But this is an&#xA;interesting twist on that &amp;ndash; with just a tweak to the butter to make it vegan, and reducing the brown sugar a bit (it&amp;rsquo;s pretty sweet as is).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ginger Molasses Crinkles</title>
-				<link>/ginger-molasses-cookies/</link>
+				<link>//localhost:8000/ginger-molasses-cookies/</link>
 				<pubDate>Sat, 25 May 2019 16:36:00 +0000</pubDate>
-				<guid>/ginger-molasses-cookies/</guid>
-				<description>&lt;p&gt;I made these cookies to bring to Munira &amp;amp; Vinod&amp;rsquo;s for dinner because I know they love ginger. The recipe is a cross between my grad roommate Elizabeth&amp;rsquo;s Molasses Crinkles and Vegan with a Vengeance&amp;rsquo;s Sparkled Ginger Cookies. I put in more ginger than called for in either. They were really good! But Munira said add &lt;em&gt;more&lt;/em&gt; ginger - and use fresh ginger! Don&amp;rsquo;t be shy. (Elizabeth&amp;rsquo;s had 1 tsp dry ginger; Vengeance had 3 tsp; I tried 2 tsp dry + 2 T ginger paste, and then later, just changed to using all fresh grated ginger!). Makes about 3 dozen cookies. Sometimes I double it and freeze some (as formed raw cookie dough dipped in sugar) to bake later.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/ginger-molasses-cookies/</guid>
+				<description>&lt;p&gt;I made these cookies to bring to Munira &amp;amp; Vinod&amp;rsquo;s for dinner because I know they love ginger. The recipe is a cross between my grad roommate Elizabeth&amp;rsquo;s Molasses Crinkles and Vegan with a Vengeance&amp;rsquo;s Sparkled Ginger Cookies. I put in more ginger than called for in either. They were really good! But Munira said add &lt;em&gt;more&lt;/em&gt; ginger - and use fresh ginger! Don&amp;rsquo;t be shy. (Elizabeth&amp;rsquo;s had 1 tsp dry ginger; Vengeance had 3 tsp; I tried 2 tsp dry + 2 T ginger paste, and then later, just changed to using all fresh grated ginger!). Makes about 3 dozen cookies. Sometimes I double it and freeze some (as formed raw cookie dough dipped in sugar) to bake later.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Yummy Rummy Cake</title>
-				<link>/coconut-rum-cake/</link>
+				<link>//localhost:8000/coconut-rum-cake/</link>
 				<pubDate>Fri, 10 May 2019 23:59:00 +0000</pubDate>
-				<guid>/coconut-rum-cake/</guid>
-				<description>&lt;p&gt;Munira is cooking us another delicious dinner, and wants rum cake! So I gave it a try. I googled and found a few recipes, and two stood out to me: A &lt;a href=&#34;http://www.the350degreeoven.com/2017/11/cake/vegan-coconut-rum-cake-no-eggs-no-dairy/&#34;&gt;vegan coconut rum cake&lt;/a&gt; that was somewhat similar to my favorite &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/05/chocolate-cake-with-gooey-ganache.html&#34;&gt;vegan chocolate cake&lt;/a&gt;, and a &lt;a href=&#34;https://www.myrecipes.com/recipe/rum-glaze-0&#34;&gt;brown sugar and molasses based rum glaze.&lt;/a&gt; Since then, I&amp;rsquo;ve made both &lt;strong&gt;vanilla-coconut&lt;/strong&gt; and &lt;strong&gt;chocolate-walnut&lt;/strong&gt; versions of this (after Munira said try walnuts!). We thought the chocolate walnut was the best, but both are good depending on what you&amp;rsquo;re looking for, so both variations are described below.**&#xA;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkJRUzXNAZU_SqdBSpNJwHTtvOTb3aV8kgdEAry5cKF_bRR9CwIQ4l16UIbGt8_uteBfkhraZneFF7iTbUUMweiMRnvF2UieFh8Hfo_rV5xOwIcMeIixbBKs1ftkek5TL4d0emA2cFHypH/s1600/rumcake.jpg&#34;&gt;&lt;img src=&#34;/images/rumcake.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>//localhost:8000/coconut-rum-cake/</guid>
+				<description>&lt;p&gt;Munira is cooking us another delicious dinner, and wants rum cake! So I gave it a try. I googled and found a few recipes, and two stood out to me: A &lt;a href=&#34;http://www.the350degreeoven.com/2017/11/cake/vegan-coconut-rum-cake-no-eggs-no-dairy/&#34;&gt;vegan coconut rum cake&lt;/a&gt; that was somewhat similar to my favorite &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/05/chocolate-cake-with-gooey-ganache.html&#34;&gt;vegan chocolate cake&lt;/a&gt;, and a &lt;a href=&#34;https://www.myrecipes.com/recipe/rum-glaze-0&#34;&gt;brown sugar and molasses based rum glaze.&lt;/a&gt; Since then, I&amp;rsquo;ve made both **vanilla-coconut and **chocolate-walnut versions of this (after Munira said try walnuts!). We thought the chocolate walnut was the best, but both are good depending on what you&amp;rsquo;re looking for, so both variations are described below.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Munira&#39;s Date and Nut Cookie (Khajoor Ki Mithai)</title>
-				<link>/muniras-date-and-nut-cookie-khajoor-ki/</link>
+				<link>//localhost:8000/muniras-date-and-nut-cookie-khajoor-ki/</link>
 				<pubDate>Fri, 04 Jan 2019 05:39:00 +0000</pubDate>
-				<guid>/muniras-date-and-nut-cookie-khajoor-ki/</guid>
-				<description>&lt;p&gt;Omg, these date cookies are so good. Munira and her friend Shobha made them for a party we went to last night, and we got to take some home. The date, pistachio, cardamom, and coconut flavors are fantastic together. Here&amp;rsquo;s how to make them!**&lt;/p&gt;</description>
+				<guid>//localhost:8000/muniras-date-and-nut-cookie-khajoor-ki/</guid>
+				<description>&lt;p&gt;Omg, these date cookies are so good. Munira and her friend Shobha made them for a party we went to last night, and we got to take some home. The date, pistachio, cardamom, and coconut flavors are fantastic together. Here&amp;rsquo;s how to make them!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Judi&#39;s Pecan Puffs</title>
-				<link>/judis-pecan-puffs/</link>
+				<link>//localhost:8000/judis-pecan-puffs/</link>
 				<pubDate>Wed, 26 Dec 2018 04:39:00 +0000</pubDate>
-				<guid>/judis-pecan-puffs/</guid>
-				<description>&lt;p&gt;**&#xA;Judi makes the best pecan cookies! This recipe is super fast and easy and tasty. The photo below shows puffs along with a happy chocolate xmas dog from Sandy:)&lt;/p&gt;</description>
+				<guid>//localhost:8000/judis-pecan-puffs/</guid>
+				<description>&lt;p&gt;Judi makes the best pecan cookies! This recipe is super fast and easy and tasty. The photo below shows puffs along with a happy chocolate xmas dog from Sandy:)&lt;/p&gt;&#xA;&lt;p&gt;The recipe below about 15 cookies.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Coconut Pineapple Banana Pecan Cream Pie</title>
-				<link>/coconut-pineapple-banana-pecan-cream-pie/</link>
+				<link>//localhost:8000/coconut-pineapple-banana-pecan-cream-pie/</link>
 				<pubDate>Sun, 20 May 2018 17:16:00 +0000</pubDate>
-				<guid>/coconut-pineapple-banana-pecan-cream-pie/</guid>
-				<description>&lt;p&gt;We bought a big pineapple. It&amp;rsquo;s kinda sour, and that&amp;rsquo;s a lot to eat! So I googled recipes, and found a &lt;a href=&#34;https://werefarfromnormal.com/healthy-no-bake-pineapple-coconut-pie&#34;&gt;couple&lt;/a&gt; of no-bake pineapple cream &lt;a href=&#34;https://chocolatecoveredkatie.com/2015/08/20/5-minute-pineapple-fantasy-pie/&#34;&gt;pies&lt;/a&gt; that I combined. It&amp;rsquo;s actually surprisingly healthy! Our friend Munira was here to enjoy the pie experiment with us, and she recommended that we add bananas to get a bit more sweetness.  I was out of fresh bananas but some frozen bananas (cut up to make &amp;ldquo;ice cream&amp;rdquo; - frozen bananas and peanut butter in a food processor, whipped, yuuuuum) &amp;ndash; and since we ate the first pie in a few hours,  I needed to fill that freezer space with something, right? OMG the pecan crust is delish; I&amp;rsquo;ll use that for other pies, too.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/coconut-pineapple-banana-pecan-cream-pie/</guid>
+				<description>&lt;p&gt;We bought a big pineapple. It&amp;rsquo;s kinda sour, and that&amp;rsquo;s a lot to eat! So I googled recipes, and found a &lt;a href=&#34;https://werefarfromnormal.com/healthy-no-bake-pineapple-coconut-pie&#34;&gt;couple&lt;/a&gt; of no-bake pineapple cream &lt;a href=&#34;https://chocolatecoveredkatie.com/2015/08/20/5-minute-pineapple-fantasy-pie/&#34;&gt;pies&lt;/a&gt; that I combined. It&amp;rsquo;s actually surprisingly healthy! Our friend Munira was here to enjoy the pie experiment with us, and she recommended that we add bananas to get a bit more sweetness.  I was out of fresh bananas but some frozen bananas (cut up to make &amp;ldquo;ice cream&amp;rdquo; - frozen bananas and peanut butter in a food processor, whipped, yuuuuum) &amp;ndash; and since we ate the first pie in a few hours,  I needed to fill that freezer space with something, right? OMG the pecan crust is delish; I&amp;rsquo;ll use that for other pies, too.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Persian Chickpea Cookies (Nokhodchi)</title>
-				<link>/persian-chickpea-cookies-nokhodchi/</link>
+				<link>//localhost:8000/persian-chickpea-cookies-nokhodchi/</link>
 				<pubDate>Fri, 19 Jan 2018 22:28:00 +0000</pubDate>
-				<guid>/persian-chickpea-cookies-nokhodchi/</guid>
-				<description>&lt;p&gt;At my (new) work, Masha brought back some delicious cookies from her holidays in Iran. I have lots of chickpea flour I need a use for, and these were delicious and not too sweet. Masha sent this &lt;a href=&#34;https://www.aheadofthyme.com/2017/03/nan-e-nokhodchi-persian-chickpea-cookies/&#34;&gt;recipe&lt;/a&gt; and a &lt;a href=&#34;https://www.youtube.com/watch?v=N1FWMVdUZDs&#34;&gt;video&lt;/a&gt; (use oil instead of butter). Here&amp;rsquo;s another &lt;a href=&#34;https://www.thedeliciouscrescent.com/cardamom-chickpea-cookies-with-pistachios/&#34;&gt;recipe&lt;/a&gt; that puts pistachios on top.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/persian-chickpea-cookies-nokhodchi/</guid>
+				<description>&lt;p&gt;At my (new) work, Masha brought back some delicious cookies from her holidays in Iran. I have lots of chickpea flour I need a use for, and these were delicious and not too sweet. Masha sent this &lt;a href=&#34;https://www.aheadofthyme.com/2017/03/nan-e-nokhodchi-persian-chickpea-cookies/&#34;&gt;recipe&lt;/a&gt; and a &lt;a href=&#34;https://www.youtube.com/watch?v=N1FWMVdUZDs&#34;&gt;video&lt;/a&gt; (use oil instead of butter). Here&amp;rsquo;s another &lt;a href=&#34;https://www.thedeliciouscrescent.com/cardamom-chickpea-cookies-with-pistachios/&#34;&gt;recipe&lt;/a&gt; that puts pistachios on top.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Puff Pastry Mini Tarts</title>
-				<link>/puff-pastry-mini-tarts/</link>
+				<link>//localhost:8000/puff-pastry-mini-tarts/</link>
 				<pubDate>Fri, 19 Jan 2018 22:10:00 +0000</pubDate>
-				<guid>/puff-pastry-mini-tarts/</guid>
-				<description>&lt;p&gt;Larrys&amp;rsquo;s sister Cyndy made these for our long-weekend get-together; easy and yummy.**&lt;/p&gt;&#xA;&lt;p&gt;Ingredients****&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9kWinliBYw7wlcKLRHSmYvoPYc-8a0Jj08PE7kMQM8MNcRlJNjF9I29x7e9FsUvTYk55mG7ljqeJlV685RnuwS7tQnjbjIRrWHgMATVJ3vJ93D_wGsRE2RbgEvC22gAYl6NnQRMOHIXS8/s1600/IMG_0137.jpg&#34;&gt;&lt;img src=&#34;/images/IMG_0137.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;**&lt;/p&gt;&#xA;&lt;p&gt;1 box Pepperidge Farm Puff Pastry (17 oz)**&lt;/p&gt;&#xA;&lt;p&gt;2 cups fresh or frozen berries&lt;/p&gt;&#xA;&lt;p&gt;2 T water&lt;/p&gt;</description>
+				<guid>//localhost:8000/puff-pastry-mini-tarts/</guid>
+				<description>&lt;p&gt;Larrys&amp;rsquo;s sister Cyndy made these for our long-weekend get-together; easy and yummy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 box Pepperidge Farm Puff Pastry (17 oz)&lt;/li&gt;&#xA;&lt;li&gt;2 cups fresh or frozen berries&lt;/li&gt;&#xA;&lt;li&gt;2 T water&lt;/li&gt;&#xA;&lt;li&gt;1/4 tsp cinnamon&lt;/li&gt;&#xA;&lt;li&gt;1 tsp chia seeds or tapioca (to gel a bit)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;In a pan, heat fruit and water on medium. Once bubbling, reduce heat and simmer 5-10 minutes, mixing frequently. Add cinnamon and chia or tapioca, mix, and let cool.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Meringue Cookies</title>
-				<link>/meringue-cookies/</link>
+				<link>//localhost:8000/meringue-cookies/</link>
 				<pubDate>Fri, 22 Dec 2017 00:13:00 +0000</pubDate>
-				<guid>/meringue-cookies/</guid>
-				<description>&lt;p&gt;Wait, vegan meringue cookies? Aren&amp;rsquo;t meringues made from whipped egg whites and sugar? Ya, that&amp;rsquo;s right. And you won&amp;rsquo;t believe what can be used in place of egg. Garbanzo bean liquid.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/meringue-cookies/</guid>
+				<description>&lt;p&gt;Wait, vegan meringue cookies? Aren&amp;rsquo;t meringues made from whipped egg whites and sugar? Ya, that&amp;rsquo;s right. And you won&amp;rsquo;t believe what can be used in place of egg. Garbanzo bean liquid.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Pear Spice Upside-Down Cake</title>
-				<link>/pear-spice-upside-down-cake/</link>
+				<link>//localhost:8000/pear-spice-upside-down-cake/</link>
 				<pubDate>Thu, 03 Aug 2017 16:54:00 +0000</pubDate>
-				<guid>/pear-spice-upside-down-cake/</guid>
-				<description>&lt;p&gt;So many pears on our tree! So I googled for a pear dessert, and found this recipe for &lt;a href=&#34;http://blog.fatfreevegan.com/2015/12/pear-spice-upside-down-cake.html&#34;&gt;Pear Spice Upside-Down Cak&lt;/a&gt;e that looked good - and it was! And relatively healthy, too. The freshly pureed pears makes it spongy and light, and removes the need for oil. I adapted it to make two 8-inch rounds (rather than one 9-inch) since that&amp;rsquo;s what I have &amp;ndash; and why not round up? For the bottom, you can use pear (or other fruit) slices, or  a &lt;a href=&#34;https://www.nytimes.com/2022/07/28/dining/upside-down-cake-easy-summer-recipes.html&#34;&gt;berry topping from this NYT recipe&lt;/a&gt; (I did that when we had lots of blackberries!). If you use pear slices, make sure they are very ripe or they can be too hard even when cooked. The pears used in the puree can (optionally) be more green. The pear sauce, ginger, and spice combination in the cake is delicious.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/pear-spice-upside-down-cake/</guid>
+				<description>&lt;p&gt;So many pears on our tree! So I googled for a pear dessert, and found this recipe for &lt;a href=&#34;http://blog.fatfreevegan.com/2015/12/pear-spice-upside-down-cake.html&#34;&gt;Pear Spice Upside-Down Cak&lt;/a&gt;e that looked good - and it was! And relatively healthy, too. The freshly pureed pears makes it spongy and light, and removes the need for oil. I adapted it to make two 8-inch rounds (rather than one 9-inch) since that&amp;rsquo;s what I have &amp;ndash; and why not round up? For the bottom, you can use pear (or other fruit) slices, or  a &lt;a href=&#34;https://www.nytimes.com/2022/07/28/dining/upside-down-cake-easy-summer-recipes.html&#34;&gt;berry topping from this NYT recipe&lt;/a&gt; (I did that when we had lots of blackberries!). If you use pear slices, make sure they are very ripe or they can be too hard even when cooked. The pears used in the puree can (optionally) be more green. The pear sauce, ginger, and spice combination in the cake is delicious.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Grandma&#39;s Lemon Meringue Pie</title>
-				<link>/grandmas-lemon-meringue-pie/</link>
+				<link>//localhost:8000/grandmas-lemon-meringue-pie/</link>
 				<pubDate>Mon, 13 Mar 2017 17:24:00 +0000</pubDate>
-				<guid>/grandmas-lemon-meringue-pie/</guid>
-				<description>&lt;p&gt;Another recipe of my grandma Esther&amp;rsquo;s, easier to make than her &lt;a href=&#34;http://peachykeengreen.blogspot.com/2016/12/grandmas-ostakaka.html&#34;&gt;ostakaka&lt;/a&gt; and also not vegan, but vegetarian of course. Blogging it here for posterity and so I have access to it when I&amp;rsquo;m visiting Dad, in case we need to use up some of his eggs :) And here is a &lt;a href=&#34;http://allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/&#34;&gt;similar recipe&lt;/a&gt;.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/grandmas-lemon-meringue-pie/</guid>
+				<description>&lt;p&gt;Another recipe of my grandma Esther&amp;rsquo;s, easier to make than her &lt;a href=&#34;http://peachykeengreen.blogspot.com/2016/12/grandmas-ostakaka.html&#34;&gt;ostakaka&lt;/a&gt; and also not vegan, but vegetarian of course. Blogging it here for posterity and so I have access to it when I&amp;rsquo;m visiting Dad, in case we need to use up some of his eggs :) And here is a &lt;a href=&#34;http://allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/&#34;&gt;similar recipe&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Grandma&#39;s Ostakaka</title>
-				<link>/grandmas-ostakaka/</link>
+				<link>//localhost:8000/grandmas-ostakaka/</link>
 				<pubDate>Sat, 24 Dec 2016 05:51:00 +0000</pubDate>
-				<guid>/grandmas-ostakaka/</guid>
-				<description>&lt;p&gt;This is my grandma Esther&amp;rsquo;s recipe for Ostakaka (Ost = cheese, kaka = cake), a custard from her Swedish family (*) and one of Dad&amp;rsquo;s favorites. It&amp;rsquo;s not vegan, but I&amp;rsquo;m blogging it for posterity (and I may try to make it for Dad some day.) &lt;a href=&#34;http://awesomecookery.com/2013/12/04/ostkake-swedish-cheesecake/&#34;&gt;This recipe is similar&lt;/a&gt;. Another favorite dessert recipe is &lt;a href=&#34;http://peachykeengreen.blogspot.com/2017/03/grandmas-lemon-meringue-pie.html&#34;&gt;grandma&amp;rsquo;s lemon meringue pie&lt;/a&gt;.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/grandmas-ostakaka/</guid>
+				<description>&lt;p&gt;This is my grandma Esther&amp;rsquo;s recipe for Ostakaka (Ost = cheese, kaka = cake), a custard from her Swedish family (*) and one of Dad&amp;rsquo;s favorites. It&amp;rsquo;s not vegan, but I&amp;rsquo;m blogging it for posterity (and I may try to make it for Dad some day.) &lt;a href=&#34;http://awesomecookery.com/2013/12/04/ostkake-swedish-cheesecake/&#34;&gt;This recipe is similar&lt;/a&gt;. Another favorite dessert recipe is &lt;a href=&#34;http://peachykeengreen.blogspot.com/2017/03/grandmas-lemon-meringue-pie.html&#34;&gt;grandma&amp;rsquo;s lemon meringue pie&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Berry energy bites</title>
-				<link>/berry-lemon-energy-bites/</link>
+				<link>//localhost:8000/berry-lemon-energy-bites/</link>
 				<pubDate>Sat, 03 Sep 2016 18:18:00 +0000</pubDate>
-				<guid>/berry-lemon-energy-bites/</guid>
-				<description>&lt;p&gt;Judi found a &amp;ldquo;divine&amp;rdquo; recipe for &lt;a href=&#34;http://dishingupthedirt.com/featured/blueberry-lemon-energy-bites/&#34;&gt;blueberry lemon energy bites&lt;/a&gt; that she &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2013/06/a-blueberrilicious-treat.html&#34;&gt;modified slightly&lt;/a&gt; to use walnuts (for the omega-3s) instead, and she skipped the coconut. I tried with different dried fruits (blueberries, cherries) and add back the coconut (sometimes). Super easy and delicious! I want to try rolling these in cocoa powder next time&amp;hellip;**&lt;/p&gt;</description>
+				<guid>//localhost:8000/berry-lemon-energy-bites/</guid>
+				<description>&lt;p&gt;Judi found a &amp;ldquo;divine&amp;rdquo; recipe for &lt;a href=&#34;http://dishingupthedirt.com/featured/blueberry-lemon-energy-bites/&#34;&gt;blueberry lemon energy bites&lt;/a&gt; that she &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2013/06/a-blueberrilicious-treat.html&#34;&gt;modified slightly&lt;/a&gt; to use walnuts (for the omega-3s) instead, and she skipped the coconut. I tried with different dried fruits (blueberries, cherries) and add back the coconut (sometimes). Super easy and delicious! I want to try rolling these in cocoa powder next time&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Judi&#39;s Chocolately Walnut Crust</title>
-				<link>/judis-chocolately-walnut-crust/</link>
+				<link>//localhost:8000/judis-chocolately-walnut-crust/</link>
 				<pubDate>Tue, 30 Aug 2016 22:23:00 +0000</pubDate>
-				<guid>/judis-chocolately-walnut-crust/</guid>
-				<description>&lt;p&gt;Yummy chocolately walnut crust from Judi (bottom crust only); try with pumpkin pie or &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/12/yammy-chocolate-pudding.html&#34;&gt;pudding pie&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Chocolately walnut crust (1 crust)**2 C walnuts&lt;/p&gt;&#xA;&lt;p&gt;6 dates + 2 T maple syrup or some combo&lt;/p&gt;</description>
+				<guid>//localhost:8000/judis-chocolately-walnut-crust/</guid>
+				<description>&lt;p&gt;Yummy chocolately walnut crust from Judi (bottom crust only); try with pumpkin pie or &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/12/yammy-chocolate-pudding.html&#34;&gt;pudding pie&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chocolately walnut crust (1 crust)2 C walnuts&lt;/li&gt;&#xA;&lt;li&gt;6 dates + 2 T maple syrup or some combo&lt;/li&gt;&#xA;&lt;li&gt;1 t vanilla&lt;/li&gt;&#xA;&lt;li&gt;pinch salt&lt;/li&gt;&#xA;&lt;li&gt;1/4 C cocoa&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Mix ingredients in food processor.&#xA;Press into pie plate.&#xA;Bake 10 min at 350 and then remove and let cool.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fried Bananas</title>
-				<link>/fried-honey-bananas/</link>
+				<link>//localhost:8000/fried-honey-bananas/</link>
 				<pubDate>Mon, 11 Jul 2016 04:18:00 +0000</pubDate>
-				<guid>/fried-honey-bananas/</guid>
-				<description>&lt;p&gt;We got a batch of bananas that wasn&amp;rsquo;t so tasty, so I thought hey, why don&amp;rsquo;t I try to sweeten them up a bit and fry them? A quick google search found a good recipe for &lt;a href=&#34;http://rachelschultz.com/2013/05/15/fried-honey-bananas/&#34;&gt;fried honey bananas&lt;/a&gt; that I adapted a bit. Photo courtesy of that recipe page, because we ate them too fast to get a photo! Super easy and delicious.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/fried-honey-bananas/</guid>
+				<description>&lt;p&gt;We got a batch of bananas that wasn&amp;rsquo;t so tasty, so I thought hey, why don&amp;rsquo;t I try to sweeten them up a bit and fry them? A quick google search found a good recipe for &lt;a href=&#34;http://rachelschultz.com/2013/05/15/fried-honey-bananas/&#34;&gt;fried honey bananas&lt;/a&gt; that I adapted a bit. Photo courtesy of that recipe page, because we ate them too fast to get a photo! Super easy and delicious.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chocolate Cashew Cream Mousse Tarts</title>
-				<link>/chocolate-cashew-cream-mousse-tarts_8/</link>
+				<link>//localhost:8000/chocolate-cashew-cream-mousse-tarts_8/</link>
 				<pubDate>Fri, 08 Jul 2016 22:51:00 +0000</pubDate>
-				<guid>/chocolate-cashew-cream-mousse-tarts_8/</guid>
-				<description>&lt;p&gt;Matthias and Petra from Lugano left a box of Pepperidge Farm Puff Pastry cups in our freezer when they left, and surprise, the pastry cups are vegan! Our house is being painted this week, so I decided to try out a treat for the painters, who are doing an awesome job. It was yummy and easy! The painters gobbled them up. I definitely need to make these again.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/chocolate-cashew-cream-mousse-tarts_8/</guid>
+				<description>&lt;p&gt;Matthias and Petra from Lugano left a box of Pepperidge Farm Puff Pastry cups in our freezer when they left, and surprise, the pastry cups are vegan! Our house is being painted this week, so I decided to try out a treat for the painters, who are doing an awesome job. It was yummy and easy! The painters gobbled them up. I definitely need to make these again.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Garden Smoothie</title>
-				<link>/garden-smoothie/</link>
+				<link>//localhost:8000/garden-smoothie/</link>
 				<pubDate>Thu, 18 Feb 2016 05:35:00 +0000</pubDate>
-				<guid>/garden-smoothie/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFo0G41lGpXc_bnDLVCquyRNbBUKoDHGZI2G0n6BCc9Sb-lshUGK0hDC7t7XnQVmAMmoi43z0c_nQsWUoumvT7lMSWlZDKmRRXuCGmNDT-x8ZCZ8vEBIHHYUbgzKAfa_T7Hmn9J-yXrlGN/s1600/momba1.jpg&#34;&gt;&lt;img src=&#34;/images/momba1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;After enjoying our friend &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2014/06/momba-v2.html&#34;&gt;Judi&amp;rsquo;s &amp;ldquo;momba&amp;rdquo; smoothies&lt;/a&gt; so many times, we finally bought a good (Ninja) blender so we could make our own. Dr. Gregor has some &lt;a href=&#34;http://nutritionfacts.org/video/green-smoothies-what-does-the-science-say/&#34;&gt;videos about research&lt;/a&gt; that shows you get all the benefits of the kale and berries in blended form, but that&amp;rsquo;s not true for all fruits. And Larry notes that they taste better than they look :)**&lt;/p&gt;</description>
+				<guid>//localhost:8000/garden-smoothie/</guid>
+				<description>&lt;p&gt;After enjoying our friend &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2014/06/momba-v2.html&#34;&gt;Judi&amp;rsquo;s &amp;ldquo;momba&amp;rdquo; smoothies&lt;/a&gt; so many times, we finally bought a good (Ninja) blender so we could make our own. Dr. Gregor has some &lt;a href=&#34;http://nutritionfacts.org/video/green-smoothies-what-does-the-science-say/&#34;&gt;videos about research&lt;/a&gt; that shows you get all the benefits of the kale and berries in blended form, but that&amp;rsquo;s not true for all fruits. And Larry notes that they taste better than they look :)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Easy Delicious Fruit Pie</title>
-				<link>/easy-peach-or-other-fruit-pie/</link>
+				<link>//localhost:8000/easy-peach-or-other-fruit-pie/</link>
 				<pubDate>Mon, 24 Aug 2015 17:16:00 +0000</pubDate>
-				<guid>/easy-peach-or-other-fruit-pie/</guid>
+				<guid>//localhost:8000/easy-peach-or-other-fruit-pie/</guid>
 				<description>&lt;p&gt;During a visit to Nebraska, Dad&amp;rsquo;s friend Jack gave him a bag of about 30 fresh-picked peaches. I decided to try to make a pie, and after a little googling and experimenting, came up with an easy, yummy recipe. When our ripe pears and blackberries start entering the house in buckets, I can easily make a dozen pies. I freeze some blackberries and sliced-up pears so as to spread that out over time. Pears and strawberries are another great combination. That mix reminded me of &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/08/strawberry-rhubarb-pie.html&#34;&gt;rhubarb pie&lt;/a&gt;, another great mix. And figs work, too!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Berry Crisp</title>
-				<link>/berry-crisp/</link>
+				<link>//localhost:8000/berry-crisp/</link>
 				<pubDate>Mon, 11 May 2015 03:38:00 +0000</pubDate>
-				<guid>/berry-crisp/</guid>
-				<description>&lt;p&gt;A berry crisp that combines elements of a few recipes I&amp;rsquo;ve tried, including Judi&amp;rsquo;s. Delish!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw3B4MaIuFhBD7Pj_pbqIz22TeKau-KjYBgeqf5jcE2yJ1trBi08tl5LTxWtMXsfCLPimh6vl28MNLFBuNnsH1HfLecZCDMWQm0hXqUgno5pXgJi23E0NPU-D3Fc5a1fKcz9oTcEpZJXtE/&#34;&gt;&lt;img src=&#34;/images/IMG_8708.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fruit (berries, pears, apricots, etc.)&lt;/p&gt;&#xA;&lt;p&gt;2 T canola oil&lt;/p&gt;&#xA;&lt;p&gt;1/4 C brown sugar&lt;/p&gt;</description>
+				<guid>//localhost:8000/berry-crisp/</guid>
+				<description>&lt;p&gt;A berry crisp that combines elements of a few recipes I&amp;rsquo;ve tried, including Judi&amp;rsquo;s. Delish!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fruit (berries, pears, apricots, etc.)&lt;/li&gt;&#xA;&lt;li&gt;2 T canola oil&lt;/li&gt;&#xA;&lt;li&gt;1/4 C brown sugar&lt;/li&gt;&#xA;&lt;li&gt;1/2 lemon&lt;/li&gt;&#xA;&lt;li&gt;Topping:&lt;/li&gt;&#xA;&lt;li&gt;1 C all-purpose flour&lt;/li&gt;&#xA;&lt;li&gt;1 C quick-cooking oats&lt;/li&gt;&#xA;&lt;li&gt;1/3 - 1/2 C brown sugar&lt;/li&gt;&#xA;&lt;li&gt;1 1/2 tsp ground cinnamon&lt;/li&gt;&#xA;&lt;li&gt;1/4 tsp salt&lt;/li&gt;&#xA;&lt;li&gt;1/2 C canola oil&lt;/li&gt;&#xA;&lt;li&gt;1/4 C water&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Pour oil in pan. Put fruit in pan and sprinkle brown sugar and lemon over.  Mix up the topping and spread it over the fruit. Bake at 350 until the juice is all bubbly, about 30 minutes or so.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chia Pudding</title>
-				<link>/chia-pudding/</link>
+				<link>//localhost:8000/chia-pudding/</link>
 				<pubDate>Sat, 09 May 2015 18:52:00 +0000</pubDate>
-				<guid>/chia-pudding/</guid>
-				<description>&lt;p&gt;Happy Healthy and Oh She Glows both have recipes for chocolate chia pudding. One serving gives you all the omega 3&amp;rsquo;s you need in a day! Happy Healthy has her &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2012/09/overnight-chocolate-berry-buckwheat-breakfast-groats-oats.html&#34;&gt;Overnight Chocolate Berry Breakfast Pudding&lt;/a&gt; for breakfast, and Oh She Glows dresses up her &lt;a href=&#34;http://ohsheglows.com/2012/01/11/healthy-chocolate-chia-pudding/&#34;&gt;Healthy Chocolate Chia Pudding&lt;/a&gt; for dessert with a little shaved chocolate (see photos below). They&amp;rsquo;re similar, and I can verify that even the breakfast version works for dessert! You can omit the chocolate if you want a change; it&amp;rsquo;s fine plain. You might also try using white chia seeds then, and maybe a bit more vanilla extract.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/chia-pudding/</guid>
+				<description>&lt;p&gt;Happy Healthy and Oh She Glows both have recipes for chocolate chia pudding. One serving gives you all the omega 3&amp;rsquo;s you need in a day! Happy Healthy has her &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2012/09/overnight-chocolate-berry-buckwheat-breakfast-groats-oats.html&#34;&gt;Overnight Chocolate Berry Breakfast Pudding&lt;/a&gt; for breakfast, and Oh She Glows dresses up her &lt;a href=&#34;http://ohsheglows.com/2012/01/11/healthy-chocolate-chia-pudding/&#34;&gt;Healthy Chocolate Chia Pudding&lt;/a&gt; for dessert with a little shaved chocolate (see photos below). They&amp;rsquo;re similar, and I can verify that even the breakfast version works for dessert! You can omit the chocolate if you want a change; it&amp;rsquo;s fine plain. You might also try using white chia seeds then, and maybe a bit more vanilla extract.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Strawberry Coconut Yogurt Crunch</title>
-				<link>/strawberry-coconut-yogurt-crunch/</link>
+				<link>//localhost:8000/strawberry-coconut-yogurt-crunch/</link>
 				<pubDate>Wed, 29 Apr 2015 05:21:00 +0000</pubDate>
-				<guid>/strawberry-coconut-yogurt-crunch/</guid>
-				<description>&lt;p&gt;A super easy, yummy vegan dessert. We used to make it with Grapenuts, but then Costco had some &lt;a href=&#34;http://us.naturespath.com/product/love-crunchr-dark-chocolate-red-berries&#34;&gt;Love Crunch Dark Chocolate and Red Berries&lt;/a&gt; organic granola one day, and now we have another favorite topping. It&amp;rsquo;s more dangerous, though, because you&amp;rsquo;ll eat a few handfuls while you&amp;rsquo;re preparing it! For yogurt, any vegan yogurt will do, or even &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2013/09/yogurts-back-in-the-house.html&#34;&gt;make your own vegan yogurt&lt;/a&gt; (maybe some day I&amp;rsquo;ll try that).&#xA;**&#xA;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptfx3sPbbHciPWq0JAwbbHGoAu-3BINkPQ0jHqrTtCjxZ8yw1fZ1wa0OEaGFZxIVwX8oHDg3TzBFIrV2fQkNBZ1bPDCdeBpulfWAPCISQ-nzuIh-AMrb_qwjQcomtR1Kd2GkSfcPVJPjC/s1600/strawberry-yogurt.jpg&#34;&gt;&lt;img src=&#34;/images/strawberry-yogurt.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>//localhost:8000/strawberry-coconut-yogurt-crunch/</guid>
+				<description>&lt;p&gt;A super easy, yummy vegan dessert. We used to make it with Grapenuts, but then Costco had some &lt;a href=&#34;http://us.naturespath.com/product/love-crunchr-dark-chocolate-red-berries&#34;&gt;Love Crunch Dark Chocolate and Red Berries&lt;/a&gt; organic granola one day, and now we have another favorite topping. It&amp;rsquo;s more dangerous, though, because you&amp;rsquo;ll eat a few handfuls while you&amp;rsquo;re preparing it! For yogurt, any vegan yogurt will do, or even &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2013/09/yogurts-back-in-the-house.html&#34;&gt;make your own vegan yogurt&lt;/a&gt; (maybe some day I&amp;rsquo;ll try that).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chocolate Chia Walnut Bars</title>
-				<link>/chocolate-chia-walnut-bars/</link>
+				<link>//localhost:8000/chocolate-chia-walnut-bars/</link>
 				<pubDate>Thu, 12 Mar 2015 03:51:00 +0000</pubDate>
-				<guid>/chocolate-chia-walnut-bars/</guid>
-				<description>&lt;p&gt;A raw, easy, yummy vegan dessert; see Happy Healthy Librarian&amp;rsquo;s&#xA;&lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2010/10/chia-bars.html&#34;&gt;Chocolate Chia Walnut Bars&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;**&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcBalUbS4Di0rDv3OqHprdDHuaqJw1Y0k0pFlucopBMURyJ-3zTAGHtqogYrDejADd5PW6mXaRo_jXt4Ou4cu7taWcVBBPgFv4RQw7qKx9jmqyfJU3cxgn3_ZE6fnOm017Yql5Kd5WN5AK/s1600/chocolate-chia-bars.jpg&#34;&gt;&lt;img src=&#34;/images/chocolate-chia-bars.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&#xA;Ingredients**&#xA;**&lt;/p&gt;&#xA;&lt;p&gt;1 1/2 cups pitted Medjool dates (be sure all pits are gone!)&lt;/p&gt;&#xA;&lt;p&gt;1/3 cup raw usweetened cocoa powder&#xA;1/3 cup whole chia seeds&#xA;3/4 tsp vanilla extract, optional&#xA;1 cup raw walnut pieces&#xA;Oat flour for dusting&lt;/p&gt;</description>
+				<guid>//localhost:8000/chocolate-chia-walnut-bars/</guid>
+				<description>&lt;p&gt;A raw, easy, yummy vegan dessert; see Happy Healthy Librarian&amp;rsquo;s&#xA;&lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2010/10/chia-bars.html&#34;&gt;Chocolate Chia Walnut Bars&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 1/2 cups pitted Medjool dates (be sure all pits are gone!)&lt;/li&gt;&#xA;&lt;li&gt;1/3 cup raw usweetened cocoa powder&lt;/li&gt;&#xA;&lt;li&gt;1/3 cup whole chia seeds&lt;/li&gt;&#xA;&lt;li&gt;3/4 tsp vanilla extract, optional&lt;/li&gt;&#xA;&lt;li&gt;1 cup raw walnut pieces&lt;/li&gt;&#xA;&lt;li&gt;Oat flour for dusting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;1.  Place dates in bowl of food processor; puree until thick paste forms.  If the dates are on the dry side, you may need to add small amounts of warm water to moisten them up.&#xA;2.  Add cocoa powder, chia seeds, and vanilla.  Pulse until all ingredients are combined.&#xA;3. Add walnuts; pulse until nuts are finely chopped and well distributed through date mixture.&#xA;4. Spread large sheet of wax paper on work surface, and dust with oat flour.&#xA;5.  Transfer date mixture to wax paper, and press mixture into 1/2 inch thick rectangle.  Wrap tightly with the waxed paper, and then with foil.  Chill overnight.&#xA;6.  Unwrap block, and cut into bars. Store in the refrigerator&amp;ndash;they keep for days!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Vegan Jam Cookies</title>
-				<link>/vegan-jam-cookies/</link>
+				<link>//localhost:8000/vegan-jam-cookies/</link>
 				<pubDate>Wed, 11 Mar 2015 20:30:00 +0000</pubDate>
-				<guid>/vegan-jam-cookies/</guid>
-				<description>&lt;p&gt;Adapted from &lt;a href=&#34;http://fechanging-veg-134691/&#34;&gt;Life-changing Vegan Thumbprint Cookies&lt;/a&gt;. I halved this recipe, used a combination of walnut pieces and sliced almonds (NOT ground up), and added a little flax meal. Note: It&amp;rsquo;s hard to get these to stick together as balls when you put them on the cookie sheet; the dough wants to stick to your hands instead of to itself. You can add a little more water, or put a little oil on your fingers when you form the packed cookies. Or just grind up the nuts (so they aren&amp;rsquo;t pieces) and there will be less texture (and less falling apart when you try to pack them into balls).**&lt;/p&gt;</description>
+				<guid>//localhost:8000/vegan-jam-cookies/</guid>
+				<description>&lt;p&gt;Adapted from &lt;a href=&#34;http://fechanging-veg-134691/&#34;&gt;Life-changing Vegan Thumbprint Cookies&lt;/a&gt;. I halved this recipe, used a combination of walnut pieces and sliced almonds (NOT ground up), and added a little flax meal. Note: It&amp;rsquo;s hard to get these to stick together as balls when you put them on the cookie sheet; the dough wants to stick to your hands instead of to itself. You can add a little more water, or put a little oil on your fingers when you form the packed cookies. Or just grind up the nuts (so they aren&amp;rsquo;t pieces) and there will be less texture (and less falling apart when you try to pack them into balls).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ginger Pear Sauce</title>
-				<link>/caramelized-ginger-pears/</link>
+				<link>//localhost:8000/caramelized-ginger-pears/</link>
 				<pubDate>Mon, 02 Feb 2015 17:22:00 +0000</pubDate>
-				<guid>/caramelized-ginger-pears/</guid>
-				<description>&lt;p&gt;Ginger pears are yummy and a great gift. We have a pear tree, so in the fall I make a bunch of it and refrigerate it (up to a couple of weeks). You can also freeze it (canning is too much work :) It&amp;rsquo;s delicious over pancakes, or eat it like you would applesauce.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/caramelized-ginger-pears/</guid>
+				<description>&lt;p&gt;Ginger pears are yummy and a great gift. We have a pear tree, so in the fall I make a bunch of it and refrigerate it (up to a couple of weeks). You can also freeze it (canning is too much work :) It&amp;rsquo;s delicious over pancakes, or eat it like you would applesauce.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hearty Chocolate Chip Cookie</title>
-				<link>/hearty-chocolate-chip-cookie/</link>
+				<link>//localhost:8000/hearty-chocolate-chip-cookie/</link>
 				<pubDate>Tue, 20 Jan 2015 06:33:00 +0000</pubDate>
-				<guid>/hearty-chocolate-chip-cookie/</guid>
-				<description>&lt;p&gt;Judi found this &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2013/08/a-breakfast-cookie.html?m=1&#34;&gt;Hearty Cookie recipe&lt;/a&gt; and tweaked it a little; then I tweaked it, too. I took them down to Larry&amp;rsquo;s family for his dad&amp;rsquo;s birthday. They were a hit, yay! They are vegan, of course, but also gluten free, in case you need that. And just yummy, generally, with all the nuts and seeds.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/hearty-chocolate-chip-cookie/</guid>
+				<description>&lt;p&gt;Judi found this &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2013/08/a-breakfast-cookie.html?m=1&#34;&gt;Hearty Cookie recipe&lt;/a&gt; and tweaked it a little; then I tweaked it, too. I took them down to Larry&amp;rsquo;s family for his dad&amp;rsquo;s birthday. They were a hit, yay! They are vegan, of course, but also gluten free, in case you need that. And just yummy, generally, with all the nuts and seeds.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

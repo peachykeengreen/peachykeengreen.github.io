@@ -10,31 +10,21 @@ featured_image: "/images/mango-guac.png"
 description: "Mango Guacamole recipe."
 ---
 
-Shelley made this mango guacamole and served it with pita chips and sliced jicama. Delish!**
+Shelley made this mango guacamole and served it with pita chips and sliced jicama. Delish!
 
-[![](/images/mango-guac.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB08hUTui1JuNNEWqoPQQzbDRUhOF5nvyZAN8zB5KcC0zKC-de2ZNznCtz96T5XRbVm9g5aHZc33tEzLHDB9hSC5oh6eSkQuMvBEh4rQp3_Xe9gnUoNpiZs201ex9YJicAPkzDBa7fiPsh/s1600/mango-guac.png)
+## Ingredients
 
-## Ingredients**
+- 3 large avocados, peeled and pitted
+- 1 small red onion, chopped
+- 1 mango - peeled, pitted, and chopped
+- 1 lime, juiced
+- 1 tablespoon minced garlic
+- 1 tablespoon salt
+- 3 tablespoons chopped fresh cilantro
+- For serving:
+- pita chips
+- sliced jicama
 
-3 large avocados, peeled and pitted**
-1 small red onion, chopped
-
-1 mango - peeled, pitted, and chopped
-
-1 lime, juiced
-
-1 tablespoon minced garlic
-
-1 tablespoon salt
-
-3 tablespoons chopped fresh cilantro
-
-For serving:
-
-pita chips
-
-sliced jicama
-
-## Instructions **
+## Instructions
 
 Mash avocados in a medium bowl to a lumpy consistency. Mix onion, mango, lime juice, garlic, salt, and cilantro into avocado.

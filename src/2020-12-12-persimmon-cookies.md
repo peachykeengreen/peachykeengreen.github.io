@@ -14,30 +14,24 @@ Pat brought over more persimmons! We sliced and dried a dozen unripe ones. We st
 
 This makes about 4 dozen cookies. I froze half the dough and halved the glaze for those I cooked, using the juice and zest from one tangerine with the powdered sugar.
 
-[![](/images/IMG_8266.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQJU6bxosRRHVU1liL8JCPU-0OfXLYWTGpj53ZkU1XWNQCS-b3IG24th99Ytbxs1wnbdXOrK1SIaMDi8icztJUfkQZpo0ZP41JOvyXo4kRwRP2WNBnDd-Nat0BhTy10ZcsVufYpmyjR9I_/)
-
 ## Ingredients
 
-1 cup Hachiya persimmon pulp (2-3 ripe persimmons)
-1 tsp baking soda
-
-1 C sugar
-1/2 C vegan butter, at room temperature
-1 flax egg (1 T flaxmeal, 3 T warm water)
-
-2 C flour
-1/2 tsp cloves
-1 tsp cinnamon
-1/2 tsp nutmeg
-1/2 tsp salt
-
-1 C chopped walnuts
-1 C raisins
-
-Glaze:
-2 C powdered sugar
-1/4 C fresh orange or tangerine juice
-1 tsp orange zest
+- 1 cup Hachiya persimmon pulp (2-3 ripe persimmons)
+- 1 tsp baking soda
+- 1 C sugar
+- 1/2 C vegan butter, at room temperature
+- 1 flax egg (1 T flaxmeal, 3 T warm water)
+- 2 C flour
+- 1/2 tsp cloves
+- 1 tsp cinnamon
+- 1/2 tsp nutmeg
+- 1/2 tsp salt
+- 1 C chopped walnuts
+- 1 C raisins
+- Glaze:
+- 2 C powdered sugar
+- 1/4 C fresh orange or tangerine juice
+- 1 tsp orange zest
 
 ## Instructions
 

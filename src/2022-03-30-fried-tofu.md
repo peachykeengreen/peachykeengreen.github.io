@@ -12,22 +12,16 @@ description: "Fried Tofu recipe."
 
 Over the holidays, I tried an air fryer to try to get more crispy tofu. The result was pretty good, but the fryer seemed like more of a hassle than benefit (wasn't easy to clean, took up a lot of space), so we returned it. Later, with the help of Munira, I discovered that pressing the tofu to get the water out, then frying it, resulted in really delicious tofu that is firm and absorbs the spicing more readily. And no extra appliances! After a few tries, here's a recipe that made some really delicious tofu. Once you get a tofu press, you won't go back!
 
-##
+## Ingredients
 
-[![](/images/fried-tofu-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhpIjRemFMWFk9ndLKvxjqafcRX9WkJeHVghdNtL8gI2iveNuevhpa65auuNffj4yHRBCRU5gCtYEAM0wO_Tq0kTPDfBPcSZaz6AMwbZlSt9wkFvlC8dhIzDqhglOynWGFXjDQ1NKdTKQnGR-CrE6thGVlH_306le1av_1Swu8lDCQ_2kmgYBxeMEcNFA)
-
-Ingredients
-
-1 firm tofu, pressed about 20 minutes
-
-1-2 T canola oil
-1 tsp black pepper flakes (or to taste)
-1/2 tsp black pepper (or to taste)
-1 tsp minced garlic
-1-2 T soy sauce
-1/4 tsp salt
-
-garlic salt to grind on top after (optional)
+- 1 firm tofu, pressed about 20 minutes
+- 1-2 T canola oil
+- 1 tsp black pepper flakes (or to taste)
+- 1/2 tsp black pepper (or to taste)
+- 1 tsp minced garlic
+- 1-2 T soy sauce
+- 1/4 tsp salt
+- garlic salt to grind on top after (optional)
 
 ##
 

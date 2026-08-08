@@ -10,48 +10,30 @@ featured_image: "/images/cake.jpg"
 description: "Chocolate Cake with Gooey Ganache recipe."
 ---
 
-A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/just-chocolate-cake/) that I adjusted slightly -- by doubling it (because her recipe makes just one 8" round). For a 2-tier round cake, I add more milk to the ganache, which makes it more like a spreadable frosting when it cools. For a rectangular pan cake, I sometimes poke holes all over the top of the cake before it cools completely and then pour on ganache on warm so it seeps into the holes. The photos on the right show the same cake with cool vs. warm versions of ganache. You could also try this [alternative frosting](https://www.noracooks.com/vegan-chocolate-frosting/) (with vegan butter) for a lighter whipped frosting.**
+A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/just-chocolate-cake/) that I adjusted slightly -- by doubling it (because her recipe makes just one 8" round). For a 2-tier round cake, I add more milk to the ganache, which makes it more like a spreadable frosting when it cools. For a rectangular pan cake, I sometimes poke holes all over the top of the cake before it cools completely and then pour on ganache on warm so it seeps into the holes. The photos on the right show the same cake with cool vs. warm versions of ganache. You could also try this [alternative frosting](https://www.noracooks.com/vegan-chocolate-frosting/) (with vegan butter) for a lighter whipped frosting.
 
-##
-[![](/images/cake.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0AacY72X9fX5-VIFuqYjYmcbLuMftRoxktawqVbSS4zcuZbD8VC8RN_L53eVXQL8Pgd7w-MGQSFcb2P2hMr1iFodF6UxMdcDAV0B4w9DQuJ2NAt_3mlXs9LCNn0S20dI2AzTuECp65Zx2yH6jtwgJ_eIlXb7k6Mo5QKZnSPcD81U5dGpVYz5A6aJ3dLuk/s640/cake.jpg)
-Ingredients
+## Ingredients
 
-2 cups plain, unsweetened almond milk
-
-2 tsp vinegar (apple cider or white balsamic)
-
-1 1/2 cups sugar
-3 tsp vanilla extract
-2/3 cup canola oil
-
+- 2 cups plain, unsweetened almond milk
+- 2 tsp vinegar (apple cider or white balsamic)
+- 1 1/2 cups sugar
+- 3 tsp vanilla extract
+- 2/3 cup canola oil
 [![](/images/cakewithganache.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCYLNLtl315uqIGYbhd6cztS4BxYbE7rol5cEPj3J-Tc63wBUcsUZ6MHVqdAlbSIQjpA8s4P0SgAgxWYi7W3xuRLt14zeUkK995szaH71EyOqThj3XdMZDRkNHuXXBrTscAXLLEeYYD9IA/s1600/cakewithganache.jpg)Zest of 1 orange (let it infuse in the oil; optional)
+- Dry mix:
+- 2 cups flour (I use white whole wheat)
+- 2/3 cup cocoa powder
+- 1 1/2 tsp baking soda
+- 1 tsp baking powder
+- 1/2 tsp salt
+- Ganache (for pouring):
+- 1 C nondairy milk
+- 12 oz semi sweet chocolate (like TJ Dark Chocolate or Chocolate Chunk Chips)
+- Frosting (more milk makes it softer, spreadable):
+- 8 oz semi-sweet chocolate
+- 1 1/4 C nondairy milk
 
-Dry mix:
-
-2 cups flour (I use white whole wheat)
-
-2/3 cup cocoa powder
-
-1 1/2 tsp baking soda
-
-1 tsp baking powder
-
-1/2 tsp salt
-
-Ganache (for pouring):
-
-1 C nondairy milk
-
-12 oz semi sweet chocolate (like TJ Dark Chocolate or Chocolate Chunk Chips)
-
-Frosting (more milk makes it softer, spreadable):
-
-8 oz semi-sweet chocolate
-
-1 1/4 C nondairy milk
-
-##
-Instructions
+## Instructions
 
 Preheat oven to 350 degrees.
 
@@ -59,15 +41,13 @@ Preheat oven to 350 degrees.
 
 Optional: Zest one orange into the oil and set aside to let it infuse. (This is really good!)
 
-In a separate bowl, mix flour, cocoa powder, baking soda, baking powder, and salt. Use your fingers to break up any dry chunks** (this helps in next step - less stirring, better rising).
-
-**
+In a separate bowl, mix flour, cocoa powder, baking soda, baking powder, and salt. Use your fingers to break up any dry chunks (this helps in next step - less stirring, better rising).
 
 Combine the almond milk, oil, sugar and vanilla extract and mix well.
 
 Add wet and dry ingredients and stir until no large lumps remain (a few tiny lumps are OK).
 
-Lightly grease cake pan (1 rectangular or 2 round). Pour in the batter and bake for 35 minutes** or longer, until a toothpick inserted through the center comes out clean.
+Lightly grease cake pan (1 rectangular or 2 round). Pour in the batter and bake for 35 minutes or longer, until a toothpick inserted through the center comes out clean.
 
 Optional: For single layer cake, using a toothpick or steel straw to make 20-30 holes in the top of the cake while it's warm. The ganache will drip down into the holes and make the cake deliciously gooey. Alternately, after the ganache has cooled you can use a knife to spread it on more like regular frosting.
 
@@ -76,8 +56,6 @@ Make the ganache or frosting: In a saucepan, head the milk to a boil. Add chocol
 If making ganache, let it cool for about 15 minutes, and pour it on to drip into the holes.  Don't try to use the ganache version to spread; it gets too hard when it cools.
 
 For frosting (uses more milk): let it cool completely and spread it on an hour later with a knife.
-
-[![](/images/cake.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglRcZ0k-4urKD__xhXyGk2TVMm4erlDOmnvzkIdD71K0TooVcheE0XRkg_O3qmBqoUipw2CSRlmvYx7DK2GRtl_ZT_2WCG9XecO67jcFgA6_UN6e5gjeTOkA-dn-pkgpRmY2bNKcu2bf95/s1600/cake.JPG)
 
 For Judi's 50th in 2019
 

@@ -12,43 +12,25 @@ description: "Scrambled Tofu recipe."
 
 Sightly adapted from a recipe in [Vegan with a Vengeance](http://www.theppk.com/books/vegan-with-a-vengeance/) mostly to add some greens and tomato, and a little more turmeric. Nice served with toast potatoes, guacamole and salsa.
 
-[![](/images/tofuscramble.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKUQghDwea1GNfVU4W0WCS1plpHGJoDhnc3-W5rnlli0LA8QDVIgI3u20UvyilqII7eFimsm0XR1EnuBb9Dr-LyiHTGYr_cKw87fRIeqR8e6URdmRbGIRwEEzk6bHKtNE1ksmuu3lF5b2/s1600/tofuscramble.jpg)
+## Ingredients
 
-## **Ingredients**
+- 1 T high heat oil (e.g., canola, grapeseed)
+- 1 medium onion, chipped
+- 2 C mushrooms
+- 2-3 cloves minced garlic
+- A few leaves of kale or chard or spinach
+- 2 tomatoes, chopped
+- 1 pound extra firm tofu, drained
+- 1/4 C (heaping) nutritional yeast
+- Juice of 1/2 lemon
+- Spice blend:
+- 2 t cumin
+- 1 t dried thyme
+- 1 t paprika
+- 1 t turmeric
+- 1 t salt
 
-1 T high heat oil (e.g., canola, grapeseed)
-
-1 medium onion, chipped
-
-2 C mushrooms
-
-2-3 cloves minced garlic
-
-A few leaves of kale or chard or spinach
-
-2 tomatoes, chopped
-
-1 pound extra firm tofu, drained
-
-1/4 C (heaping) nutritional yeast
-
-Juice of 1/2 lemon
-
-**
-
-Spice blend:
-
-2 t cumin
-
-1 t dried thyme
-
-1 t paprika
-
-1 t turmeric
-
-1 t salt
-
-## Instructions**
+## Instructions
 
 Saute onions over medium-high heat for about 3 minutes; add mushrooms and sauté for 5 minutes. Add garlic, leaves and tomato, and saute 2 minutes. Add spice blend and mix. Add 1/4 cup water to deglaze the pan, scraping the bottom to get all the garlic and spices.
 

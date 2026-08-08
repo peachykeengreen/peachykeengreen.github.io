@@ -10,39 +10,26 @@ featured_image: "/images/IMG_4551.JPG"
 description: "Mung Bean Sprout Saute recipe."
 ---
 
-[![](/images/IMG_4551.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisD3W-IARxSdQyNIEeTgskcLR6EuxqZi77vTR486Hk1wKQY9jS91tU5ukvz3Vt9mGPbOO3K8XWO23NwyPlqpc6svA87YCaMPdRFUZGhpiy_F3pWQxyeitI6gFtsDFpf0UUI5vGu4854WV9/s1600/IMG_4551.JPG)Munira's family gave us some sauteed mung bean sprouts last year, and they were such a treat; nutty and yummy. And, it turns out, pretty easy to make. I bought some [mung bean seeds](https://www.amazon.com/Sprouting-Seeds-Mung-Bean-Pound/dp/B0001W2W2Q) and a [sprouting jar with 3 different sizes of lids](https://www.amazon.com/dp/B004UB5GQ8?psc=1&smid=A3IQGL03Z0MNP5)(for different bean sizes and sprouting stages), and now make my own sprouts to saute!
+Munira's family gave us some sauteed mung bean sprouts last year, and they were such a treat; nutty and yummy. And, it turns out, pretty easy to make. I bought some [mung bean seeds](https://www.amazon.com/Sprouting-Seeds-Mung-Bean-Pound/dp/B0001W2W2Q) and a [sprouting jar with 3 different sizes of lids](https://www.amazon.com/dp/B004UB5GQ8?psc=1&smid=A3IQGL03Z0MNP5)(for different bean sizes and sprouting stages), and now make my own sprouts to saute!
 
 ## Ingredients
 
-Jar of sprouted mung beans
+- Jar of sprouted mung beans
+- 1 T canola oil
+- 1 tsp red pepper flakes
+- 1 tsp cumin seeds
+- 1 tsp mustard seeds
+- 1 tsp black cumin
+- 4 cloves garlic
+- 1 tsp turmeric
+- 1 tsp coriander
+- salt and pepper to taste
+- For mung bean sprouting:
+- 5 T mung bean seeds (about 1/3 cup seeds); I use [Todd's seeds](https://www.amazon.com/Sprouting-Seeds-Mung-Bean-Pound/dp/B0001W2W2Q/)
+- sprouting jar; I use [Jar Seed Sprouter](https://www.amazon.com/dp/B004UB5GQ8?psc=1&smid=A3IQGL03Z0MNP5)
+- cool water
 
-1 T canola oil
-
-1 tsp red pepper flakes
-
-1 tsp cumin seeds
-
-1 tsp mustard seeds
-
-1 tsp black cumin
-
-4 cloves garlic
-
-1 tsp turmeric
-
-1 tsp coriander
-
-salt and pepper to taste
-
-For mung bean sprouting:
-
-5 T mung bean seeds (about 1/3 cup seeds); I use [Todd's seeds](https://www.amazon.com/Sprouting-Seeds-Mung-Bean-Pound/dp/B0001W2W2Q/)
-
-sprouting jar; I use [Jar Seed Sprouter](https://www.amazon.com/dp/B004UB5GQ8?psc=1&smid=A3IQGL03Z0MNP5)
-cool water
-
-##
-Instructions
+## Instructions
 
 Put mung bean seeds in a sprouting jar. Soak 8 hours. Rinse with cool water 2-3 times a day; swirl and drain. Always store in a tipped position in a bowl, so the water doesn't sit, but rather drips out.
 

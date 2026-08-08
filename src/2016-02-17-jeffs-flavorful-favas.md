@@ -10,30 +10,23 @@ featured_image: "/images/jeffsflavorfulfava.jpg"
 description: "Jeff's Flavorful Favas recipe."
 ---
 
-My brother Jeff gave me a couple bags of dried fava beans this weekend. He gets them at his local farmers market. I soaked, boiled, and then sautéed them with some garlic and pepper. It was good, but needed something. Then I remembered that Jeff made a yummy fava dish a few months ago in Nebraska. So I called him up to ask what all he put in it. "Tomatoes and onion really go well with favas," he said. I had some chard in the back yard; how about that, too? "That's great, chop it up well!" And so I did. Later: "Didn't chopping the greens change everything? I think chopping releases more flavor and improves the texture." Yes, it does! It was delicious.**
+My brother Jeff gave me a couple bags of dried fava beans this weekend. He gets them at his local farmers market. I soaked, boiled, and then sautéed them with some garlic and pepper. It was good, but needed something. Then I remembered that Jeff made a yummy fava dish a few months ago in Nebraska. So I called him up to ask what all he put in it. "Tomatoes and onion really go well with favas," he said. I had some chard in the back yard; how about that, too? "That's great, chop it up well!" And so I did. Later: "Didn't chopping the greens change everything? I think chopping releases more flavor and improves the texture." Yes, it does! It was delicious.
 
 Next: reminder to self to try this [Portugese Fava recipe](http://www.foodnetwork.com/recipes/emeril-lagasse/hildas-favas-recipe2.html) (sans chorizo or with vegan chorizo).
 
-[![](/images/jeffsflavorfulfava.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNe81OIh8zWt-AJkzz_UGrXJAiH2VwuBnWKT4z9lRjLbRS4-e-El4yk_ozDsUL-uqItz_bULIbGs1QbCOpZNwcxCQbmlA86foAeB2Kmmgui2u7PidYM7hwPuMzcN_lPluXC5RmTzvGSnuB/s1600/jeffsflavorfulfava.jpg)Ingredients****
-fava beans
+## Ingredients
 
-onion, chopped
+- fava beans
+- onion, chopped
+- tomatoes (1 can, or a few romas)
+- chard or kale, chopped
+- garlic to taste
+- olive oil
+- cayenne pepper
+- salt
+- other spices to taste
 
-tomatoes (1 can, or a few romas)
-
-chard or kale, chopped
-
-garlic to taste
-
-olive oil
-
-cayenne pepper
-
-salt
-
-other spices to taste
-
-Instructions**
+## Instructions
 
 If using dried favas, soak them over night, rinse, bring to a boil, and simmer 45 minutes. (I leave the shell on.) Jeff says save the broth and use it in the saute; I had already drained the beans when I asked him, so I missed that.
 

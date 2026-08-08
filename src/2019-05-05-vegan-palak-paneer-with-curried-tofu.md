@@ -10,46 +10,31 @@ featured_image: "/images/IMG_2076.jpg"
 description: "Palak Paneer with Curried Tofu recipe."
 ---
 
-Shelley Million sent me this super [minimalist baker recipe for saag paneer](https://minimalistbaker.com/vegan-palak-paneer-with-curried-tofu/) with tofu in place of the cheese! I've tried a saag recipe or two and wasn't thrilled, but this one is different - we loved it. Here's a slightly simplified version that also incorporates tips from Munira -- in particular, using a mix of greens like Power Greens (kale, spinach, chard, etc.) from Costco.**
-[![](/images/IMG_2076.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVDEECy7HwMtS_Ui8FZA5lPjqMkNnFEeRTw0-Es2b_ckuGYkBfHq16lEvhgDJPalvhzhujmakzgeL4VZhRJiQmXIpDnBzew0Fn2RMOGAn3evxQZrK7mEW9byvd8Q1T91qLD_wxsYycLzj/s1600/IMG_2076.jpg)
+Shelley Million sent me this super [minimalist baker recipe for saag paneer](https://minimalistbaker.com/vegan-palak-paneer-with-curried-tofu/) with tofu in place of the cheese! I've tried a saag recipe or two and wasn't thrilled, but this one is different - we loved it. Here's a slightly simplified version that also incorporates tips from Munira -- in particular, using a mix of greens like Power Greens (kale, spinach, chard, etc.) from Costco.
 
-## Ingredients**
+## Ingredients
 
-2 T canola oil**
-2 tsp cumin seed
+- 2 T canola oil
+- 2 tsp cumin seed
+- 2 T ginger, minced
+- 1 onion, chopped
+- 1 serrano, habanero, or jalapeno pepper, diced
+- 4 cloves garlic, diced
+- 1 cup cilantro, chopped
+- 6+ cups Power Greens (from Costco) or spinach
+- 1/2 cup vegetable broth
+- 1/2 cup cashews, soaked in water and pureed
+- 2 tsp curry powder
+- 1 tsp garam masala
+- Tofu:
+- 15 oz block firm tofu, pressed
+- 1 1/2 tsp curry powder
+- 1 T soy sauce
+- 2 tsp nutritional yeast
+- Garnish (optional)
+- garam masala, cilantro
 
-2 T ginger, minced
-
-1 onion, chopped
-
-1 serrano, habanero, or jalapeno pepper, diced
-4 cloves garlic, diced
-
-1 cup cilantro, chopped
-6+ cups Power Greens (from Costco) or spinach
-1/2 cup vegetable broth
-
-1/2 cup cashews, soaked in water and pureed
-
-2 tsp curry powder
-
-1 tsp garam masala
-
-Tofu:
-
-15 oz block firm tofu, pressed
-
-1 1/2 tsp curry powder
-
-1 T soy sauce
-
-2 tsp nutritional yeast
-
-Garnish (optional)
-
-garam masala, cilantro
-
-## Instructions**
+## Instructions
 
 Cover the cashews in water to soak.
 

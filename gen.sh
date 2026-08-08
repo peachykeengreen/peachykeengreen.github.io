@@ -2,7 +2,7 @@
 # gen.sh - Rebuild Peachy Keen Green Hugo Website
 #
 # Usage:
-#   ./gen.sh           Clean docs/ (preserving docs/images/ and docs/css/) and build static site
+#   ./gen.sh           Clean docs/ (preserving static assets) and build static site
 #   ./gen.sh --no-clean Build static site without cleaning docs/
 
 set -e
@@ -27,6 +27,54 @@ done
 echo "=================================================="
 echo "🌱 Peachy Keen Green - Site Generator"
 echo "=================================================="
+
+# Auto-bump CSS version in config/_default/hugo.toml if docs/css/styles.css changed
+CSS_FILE="docs/css/styles.css"
+HASH_FILE="docs/css/.styles_hash"
+CONFIG_FILE="config/_default/hugo.toml"
+
+if [ -f "$CSS_FILE" ]; then
+  if command -v md5 >/dev/null 2>&1; then
+    CURRENT_HASH=$(md5 -q "$CSS_FILE")
+  elif command -v md5sum >/dev/null 2>&1; then
+    CURRENT_HASH=$(md5sum "$CSS_FILE" | awk '{print $1}')
+  else
+    CURRENT_HASH=$(cksum "$CSS_FILE" | awk '{print $1}')
+  fi
+
+  PREV_HASH=""
+  if [ -f "$HASH_FILE" ]; then
+    PREV_HASH=$(cat "$HASH_FILE")
+  fi
+
+  if [ -z "$PREV_HASH" ]; then
+    # Initialize hash file on first run without bumping version
+    echo "$CURRENT_HASH" > "$HASH_FILE"
+  elif [ "$CURRENT_HASH" != "$PREV_HASH" ]; then
+    CURRENT_VER=$(grep -E '^\s*version\s*=' "$CONFIG_FILE" | sed -E 's/.*"([^"]+)".*/\1/')
+    if [ -n "$CURRENT_VER" ]; then
+      MAJOR=$(echo "$CURRENT_VER" | cut -d. -f1)
+      MINOR=$(echo "$CURRENT_VER" | cut -d. -f2)
+      PATCH=$(echo "$CURRENT_VER" | cut -d. -f3)
+
+      if [ -n "$PATCH" ]; then
+        NEW_PATCH=$((PATCH + 1))
+        NEW_VER="${MAJOR}.${MINOR}.${NEW_PATCH}"
+      else
+        NEW_VER="${CURRENT_VER}.1"
+      fi
+
+      if [[ "$OSTYPE" == "darwin"* ]]; then
+        sed -i '' -E "s/version = \"[^\"]+\"/version = \"$NEW_VER\"/" "$CONFIG_FILE"
+      else
+        sed -i -E "s/version = \"[^\"]+\"/version = \"$NEW_VER\"/" "$CONFIG_FILE"
+      fi
+
+      echo "🎨 styles.css modified — bumped version to $NEW_VER in config/_default/hugo.toml"
+      echo "$CURRENT_HASH" > "$HASH_FILE"
+    fi
+  fi
+fi
 
 if [ "$CLEAN" = true ]; then
   if [ -d "docs" ]; then

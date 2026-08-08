@@ -14,45 +14,27 @@ So many vegetables work here; I go for a nice mix of color. I almost always use 
 
 ## Ingredients
 
-[![](/images/roasted-vegetables-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhmcTbHS_1z_BuGdGpbFQrdbMIyzhVG-KFhD2HJmJ7pThV72P5OA02nNK2IsNQaMipS-sgjHCco1NRjNNuX_r2HVPWwDZRKtyIn91u_oOGpqG_4f9W8ecqtAxnTau8Lac65IzCbE-Hy5zYaz0Je0QzDUkl5yMZYXNw5V6HX67p2qTpvykXBIwho0VRoW2ZK)
-
-A mix of vegetables, like:
-
-potatoes
-
-beets
-
-yams
-
-carrots (with part of tops!)
-
-onions
-
-brussel sprouts
-cauliflower
-
-red pepper
-mushrooms
-
-Optionally, some fast-cooking vegetables like:
-green beans
-
-asparagus
-
-Seasoning:
-
-1/4 C canola oil
-
-1 tsp sea salt
-
-1 tsp pepper
-
-Juice from 1/2 of a lemon
-
-2-3 cloves garlic, diced
-1 tsp TJs 21 spice blend
-
-Herbs like oregano, rosemary, basil
+- A mix of vegetables, like:
+- potatoes
+- beets
+- yams
+- carrots (with part of tops!)
+- onions
+- brussel sprouts
+- cauliflower
+- red pepper
+- mushrooms
+- Optionally, some fast-cooking vegetables like:
+- green beans
+- asparagus
+- Seasoning:
+- 1/4 C canola oil
+- 1 tsp sea salt
+- 1 tsp pepper
+- Juice from 1/2 of a lemon
+- 2-3 cloves garlic, diced
+- 1 tsp TJs 21 spice blend
+- Herbs like oregano, rosemary, basil
 
 ## Instructions
 

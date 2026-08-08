@@ -13,49 +13,32 @@ description: "Cabbage Steak with Mashed Potatoes & Mushroom Gravy recipe."
 Laurie tried out some new recipes for dinner when we stopped by on our way back from our Nebraska road trip -- and it was delicious! Who'da thought that cabbage could make such a good steak? The
  gravy (finely chopped mushrooms, cashew cream, nutritional yeast) is a perfect, rich complement to the potatoes and cabbage. Laurie used green cabbage; I've tried green and purple, and also cauliflower. All yum! The mushroom gravy ties it all together.
 
-##
-
-Ingredients
+## Ingredients
 
 [![](/images/cabbage-steak-with-mashed-potatoes-img-1.jpg)
-
-](https://blogger.googleusercontent.com/img/a/AVvXsEj-SEgi-_aV6Klk3QUOFZ8UyRFGD2CEtGP2vTAc0afEZtjJCh6iL2yMj4j0s77MdDIRPWvmeqhk7M5izehnWyfBOPPx9AEt7fDLVy1iZWiRx6d4MYCieazswM5PSALKbpQm5uHFl30eenzveIFQZJx7OCFbw4F-7AYkcZ3j_9E4lmJJ6l4naIz6wT0jcHmR)
-1 cabbage, green or purple
-
-Canola oil for brushing
-
-garlic powder
-
-red pepper flakes
-
-black pepper to taste
-
-salt to taste
-
-lemon juice (to squeeze on top after)
-
-Gravy:
-
-mushrooms, 8-10 oz
-
-1/2 onion, chopped
-
-2 T canola oil
-
-3 cloves garlic, minced
-
-red pepper flakes
-
-salt & pepper to taste
-1/2 C nutritional yeast
-
-Cashew cream (make in blender):
-1/2 C cashews
-2/3 C water
-2 T olive oil
-1 T lemon juice
-1 garlic clove
-1/2 tsp salt
+- ](https://blogger.googleusercontent.com/img/a/AVvXsEj-SEgi-_aV6Klk3QUOFZ8UyRFGD2CEtGP2vTAc0afEZtjJCh6iL2yMj4j0s77MdDIRPWvmeqhk7M5izehnWyfBOPPx9AEt7fDLVy1iZWiRx6d4MYCieazswM5PSALKbpQm5uHFl30eenzveIFQZJx7OCFbw4F-7AYkcZ3j_9E4lmJJ6l4naIz6wT0jcHmR)
+- 1 cabbage, green or purple
+- Canola oil for brushing
+- garlic powder
+- red pepper flakes
+- black pepper to taste
+- salt to taste
+- lemon juice (to squeeze on top after)
+- Gravy:
+- mushrooms, 8-10 oz
+- 1/2 onion, chopped
+- 2 T canola oil
+- 3 cloves garlic, minced
+- red pepper flakes
+- salt & pepper to taste
+- 1/2 C nutritional yeast
+- Cashew cream (make in blender):
+- 1/2 C cashews
+- 2/3 C water
+- 2 T olive oil
+- 1 T lemon juice
+- 1 garlic clove
+- 1/2 tsp salt
 
 ## Instructions
 

@@ -10,20 +10,17 @@ featured_image: "/images/cauliflowerpotatoes.jpg"
 description: "Mashed Cauliflower Potatoes recipe."
 ---
 
-Mashed cauliflower and potatoes are delicious and even healthier than potatoes-only. I steam the cauliflower and potatoes in batches in the microwave using a microwave steamer, and toss them in a big bowl when they come out (after a few minutes to cool) for mashing.**
+Mashed cauliflower and potatoes are delicious and even healthier than potatoes-only. I steam the cauliflower and potatoes in batches in the microwave using a microwave steamer, and toss them in a big bowl when they come out (after a few minutes to cool) for mashing.
 
-[![](/images/cauliflowerpotatoes.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVDucxRMZIpHHtNMDy4V-UtHqeeel5JIobLdfPK9IDlThiyUFDNRwl4hte-hnfurmAa6IIPhF-R_ZoTbm1hyy_rMQovD7bYt-f6NZ6CWGR74T6QIB2nfhs4Kb2IhhQmucJ4rBiex9RkFwh/s1600/cauliflowerpotatoes.jpg)Ingredients****
-1 head cauliflower, coarsely chopped
+## Ingredients
 
-2 medium or 3 small white potatoes, coarsely chopped (I leave the skin on)
+- 1 head cauliflower, coarsely chopped
+- 2 medium or 3 small white potatoes, coarsely chopped (I leave the skin on)
+- 3/4 cup regular soy milk (not flavored or sweetened)
+- 2 T vegan margarine (I use Earth Balance)
+- Salt and pepper to taste (fresh ground if possible)
 
-3/4 cup regular soy milk (not flavored or sweetened)
-
-2 T vegan margarine (I use Earth Balance)
-
-Salt and pepper to taste (fresh ground if possible)
-
-Instructions**
+## Instructions
 
 Steam the cauliflower and potatoes until soft but not mushy, 8-10 minutes. (I steam in batches in the microwave, but cook them however you prefer; you could boil, but you lose more nutrients to the water.)
 

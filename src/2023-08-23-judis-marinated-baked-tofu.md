@@ -12,21 +12,17 @@ description: "Marinated Baked Tofu recipe."
 
 Judi shared her easy marinated and baked tofu recipe, yay! I've tried other marinades and not been so happy with them; they've been too liquidy, and didn't turn out better than frying. This one was easy and the marinade really stuck to the tofu because it was thick from the cornstarch and nutritional yeast. Serve on salad or in a stir fry.
 
-##
-[![](/images/marinated-tofu.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYinJ7EA1pbvcqN3nITKpZ5hcrHYpHT7WjrwlmmL0X6_LXZrlLZPX9yGcPlHPydLSniH-KEFaOVjK82BUZMnSC2W0apXiVMfc2R9GJRvikwZ6KxXl07esNhtgFTUU0PmzbfXPorBk3Ue4cpg8KInPCTxKmGBont5jpsQoP1ShpZaoxQYhrC2GfYT_byKSh/s640/marinated-tofu.jpg)
-Ingredients
+## Ingredients
 
-1 tsp rice vinegar
-1 T soy sauce
-1 T oil
-2 tsp sesame oil
-
-onion pwd to taste
-garlic pwd to taste
-1 T cornstarch
-2 T nutritional yeast
-
-(try other spices as desired; maybe hot pepper?)
+- 1 tsp rice vinegar
+- 1 T soy sauce
+- 1 T oil
+- 2 tsp sesame oil
+- onion pwd to taste
+- garlic pwd to taste
+- 1 T cornstarch
+- 2 T nutritional yeast
+- (try other spices as desired; maybe hot pepper?)
 
 ## Instructions
 

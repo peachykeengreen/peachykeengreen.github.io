@@ -10,50 +10,32 @@ featured_image: "/images/pav-bhaji.jpg"
 description: "Pav Bhaji (Indian Street Food) recipe."
 ---
 
-My friend Munira is a wonderful cook! For years she would never share her recipes, saying why would we come over for dinner if we knew how to cook the food? :)**
+My friend Munira is a wonderful cook! For years she would never share her recipes, saying why would we come over for dinner if we knew how to cook the food? :)
 
 But last weekend we arrived as she was starting to make [Pav Bhaji (from Cook w/ Manali)](https://www.cookwithmanali.com/pav-bhaji/), a popular Indian street food where rolls/buns are served with spicy mashed veggies and butter (for us, no butter) -- and she allowed me to take photos! So lots of photos below. Munira says that many things she makes have this similar base -- just add beans or whatever you feel like at the end, or use different spice mixes (Indian stores have many masala mixes; experiment!)
 
-[![](/images/pav-bhaji.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJQOW13mato-sWv8JR83xeGRfYjX6lmPquJUNic_S-uzuouX6MuttBuANVRGcPtwMbVzRxc8p61Wkpr0Xu2581TuBDZMKfOdFEbGrvs8WkcR34GnsqLBsBrrIavsrr84OnRJHBG01v8n6/s1600/pav-bhaji.jpg)
+## Ingredients
 
-## Ingredients**
+- 2 T canola oil
+- 1 jalapeno pepper and/or
+- 1 dried red hot pepper (2 for super spicy)
+- 1 T cumin seed
+- 1 tsp mustard seed
+- 1 large onion (red best), chopped
+- 1 cup cilantro
+- 2 cups chopped tomato
+- Spices:
+- turmeric
+- coriander
+- chili powder
+- Pav Bhaji masala (or other spice blend)
+- various vegetables, like (roughly)...
+- 2 green peppers
+- head of cauliflower (steamed a bit first)
+- 2 potatoes (steamed a bit first)
+- 1 cup peas
 
-2 T canola oil**
-1 jalapeno pepper and/or
-
-   1 dried red hot pepper (2 for super spicy)
-
-1 T cumin seed
-
-1 tsp mustard seed
-
-1 large onion (red best), chopped
-
-1 cup cilantro
-
-2 cups chopped tomato
-
-Spices:
-
-turmeric
-
-coriander
-
-chili powder
-
-Pav Bhaji masala (or other spice blend)
-
-various vegetables, like (roughly)...
-
-2 green peppers
-
-head of cauliflower (steamed a bit first)
-
-2 potatoes (steamed a bit first)
-
-1 cup peas
-
-## Instructions**
+## Instructions
 
 See the photos! Saute cumin, mustard seed, and hot pepper in oil for a couple minutes. Add onion and cook a few minutes. Add cilantro and tomato and cook. Add spices and stir and cook. Add vegetables and stir and cook well - like 30 minutes to let everything blend together!
 

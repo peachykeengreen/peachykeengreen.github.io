@@ -14,26 +14,22 @@ Oh my, these are delicious and healthy. This recipe is adapted from my favorite 
 
 ## Ingredients
 
-[![](/images/bran-muffins.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJlMROSrAYcwkieUPAzGIpQu04pJEn2SqWhFC75x4QYpQOK0RiQxvKYpvOJbSI2HS__6ppih-grK9wMRL5-d6Qa9XrHyOtiwLfY1-FurAC9XdWBQpagKMoNhnexHj6giZOeQ8s_DrHfdcj/s640/bran-muffins.jpg)
-
-Dry:
-1 C whole wheat flour
-1 1/2 C wheat bran
-1/3 C sugar
-1 1/2 tsp baking powder
-1/2 tsp baking soda
-1/2 tsp salt
-
-Wet:
-1 C almond milk
-1 T apple cider
-1/4 C canola oil
-1/4 C applesauce
-2 T molasses
-1 T maple syrup
-1 tsp vanilla
-
-1 C blueberries (fresh or frozen; I like small wild frozen)
+- Dry:
+- 1 C whole wheat flour
+- 1 1/2 C wheat bran
+- 1/3 C sugar
+- 1 1/2 tsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- Wet:
+- 1 C almond milk
+- 1 T apple cider
+- 1/4 C canola oil
+- 1/4 C applesauce
+- 2 T molasses
+- 1 T maple syrup
+- 1 tsp vanilla
+- 1 C blueberries (fresh or frozen; I like small wild frozen)
 
 ## Instructions
 

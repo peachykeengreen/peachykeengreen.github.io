@@ -12,38 +12,23 @@ description: "Easy Delicious Fruit Pie recipe."
 
 During a visit to Nebraska, Dad's friend Jack gave him a bag of about 30 fresh-picked peaches. I decided to try to make a pie, and after a little googling and experimenting, came up with an easy, yummy recipe. When our ripe pears and blackberries start entering the house in buckets, I can easily make a dozen pies. I freeze some blackberries and sliced-up pears so as to spread that out over time. Pears and strawberries are another great combination. That mix reminded me of [rhubarb pie](https://peachykeengreen.blogspot.com/2020/08/strawberry-rhubarb-pie.html), another great mix. And figs work, too!
 
-[![](/images/pieeee.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7V-xiHVX4eSlhBxufbOK_l6N_XYO4EzDUP_H8ubX3TtfZsT__-CpEUQqZfeEABYqqgcRA3hWYYLuRkOd1ZM226C4r4M0MPoHfxfldGalShLW3I0nCJVjTqlR-Xq-56l863CPDanNhTkBE/s640/pieeee.jpg)
+## Ingredients
 
-## **Ingredients
-**
+- 4-5 cups fruit, fresh or frozen:
+- peaches, pears, apples, blackberries, strawberries, figs, or mix
+- Dry:
+- 2 T flour
+- 2 T arrowroot or cornstarch
+- 1/2 cup brown sugar
+- 1 tsp cinnamon
+- 1/2 tsp nutmeg (optional)
+- Wet:
+- 1 T lemon juice
+- 1 tsp vanilla
+- Dots of vegan butter
+- 2 vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
 
-4-5 cups fruit, fresh or frozen:
-
-peaches, pears, apples, blackberries, strawberries, figs, or mix
-
-**
-
-Dry:
-
-2 T flour
-
-2 T arrowroot or cornstarch
-1/2 cup brown sugar
-1 tsp cinnamon
-
-1/2 tsp nutmeg (optional)
-
-Wet:
-
-1 T lemon juice
-
-1 tsp vanilla
-
-Dots of vegan butter
-
-2 vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
-
-## Instructions**
+## Instructions
 
 Arrange pie crust in pie pan and chill.
 

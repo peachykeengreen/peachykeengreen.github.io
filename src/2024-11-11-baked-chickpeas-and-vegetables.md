@@ -13,24 +13,22 @@ description: "Baked Chickpeas and Vegetables recipe."
 Larry's cousin John and wife Lou hosted us at their Massachusetts home in early October, when we were on our way to Portugal. Lou made this delicious and easy [one-pan meal](https://www.youtube.com/watch?v=3KzvT3sBSmI) for us, and loved it so much, she made it two days in a row! It's quite easy, and we love that it has legumes and veggies together. Below is a slightly adapted version.
 
 ## Ingredients
-[![](/images/onepan.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG6QUICbzTC4fOShZGutWN4GcInp3IPaKFbOPg7KgvsSUOu27YhGBoFsLuw5dOdNpRCksGcaLxAUbJY3bSEg119IetIY4GGLnMoYcJ9cRSD0Rsv_tJqH8XXRJ88JVC7UwMYDAGRfftpxIyV4NMTTSt3TL4QSkEZYDV062qHgTrKiuudmGaQTZhLk5pv6R9/s640/onepan.jpg)
 
-Potatoes, cut into wedges
-1/2 large red onion
-Brussels sprouts or green beans or asparagus
-2 C (or 1 can) cooked chickpeas
-4 garlic cloves, finely chopped
-Cherry tomatoes (optional; if using diced tomatoes below, can skip)
-
-Dressing:
-1 C vegetable stock
-1 can diced tomatoes OR 1/4 C tomato puree
-1/2 tsp turmeric
-1/4 tsp cayenne or red pepper flakes
-Dill (fresh if possible, dried is fine)
-3 T oil
-Salt and pepper to taste
-Parsley, fresh (if you have it)
+- Potatoes, cut into wedges
+- 1/2 large red onion
+- Brussels sprouts or green beans or asparagus
+- 2 C (or 1 can) cooked chickpeas
+- 4 garlic cloves, finely chopped
+- Cherry tomatoes (optional; if using diced tomatoes below, can skip)
+- Dressing:
+- 1 C vegetable stock
+- 1 can diced tomatoes OR 1/4 C tomato puree
+- 1/2 tsp turmeric
+- 1/4 tsp cayenne or red pepper flakes
+- Dill (fresh if possible, dried is fine)
+- 3 T oil
+- Salt and pepper to taste
+- Parsley, fresh (if you have it)
 
 ## Instructions
 

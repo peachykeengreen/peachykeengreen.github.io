@@ -18,13 +18,10 @@ Larry put Japanese miso powder on his Christmas wish list; he wanted powder sinc
 
 ## Ingredients
 
-1 T miso powder (we like [marukome](https://www.amazon.com/Marukome-Organic-Powder-vegetable-dashi/dp/B0754GCJVG/) from Japan)
-
-1-2 roasted seaweed, cut up
-
-1/4 cup tofu, cubed
-
-1 T chives, chopped
+- 1 T miso powder (we like [marukome](https://www.amazon.com/Marukome-Organic-Powder-vegetable-dashi/dp/B0754GCJVG/) from Japan)
+- 1-2 roasted seaweed, cut up
+- 1/4 cup tofu, cubed
+- 1 T chives, chopped
 
 1.5 C hot water
 

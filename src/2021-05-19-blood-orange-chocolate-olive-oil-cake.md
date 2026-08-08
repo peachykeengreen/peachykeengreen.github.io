@@ -14,28 +14,23 @@ Shelley Million gave us a [blood orange cake](https://tasty.co/recipe/blood-oran
 
 ## Ingredients
 
-[![](/images/IMG_9293.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiXeMSEf9kDtIQm0X7QFTKnmkzxSQriRgxgJrtIE-Q5HpCfMqEgc-8qAhHSX8wBfN4fcRpWXcQVGW8MpYX3rn4PsSQ56NI0Wr3oyMCgwHFNlJNkcceUmAoW4HRO7i07zCdPNe-ujrcbIyO/)
-
-(Makes one tall round; double for 2 rounds)
-
-zest from 2 oranges
-1/2 C orange juice (from the 2 oranges)
-1/2 cup olive oil, plus more for greasing
-1 1/2 cups flour
-2/3 cup dark cocoa powder, unsweetened
-1 1/2 tsp baking soda
-1/2 tsp salt
-1 1/4 C sugar
-1 C water
-1 1/2 tsp white vinegar
-
-topping:
-
-1 C powdered sugar
-1-2 small oranges, sliced thin (use blood oranges for red color; regular orange also fine)
-zest from 1 orange
-3 T orange juice (from the orange)
-1/4 cup pistachio, raw, roughly chopped (can crush slightly in mortar and pestle)
+- (Makes one tall round; double for 2 rounds)
+- zest from 2 oranges
+- 1/2 C orange juice (from the 2 oranges)
+- 1/2 cup olive oil, plus more for greasing
+- 1 1/2 cups flour
+- 2/3 cup dark cocoa powder, unsweetened
+- 1 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1 1/4 C sugar
+- 1 C water
+- 1 1/2 tsp white vinegar
+- topping:
+- 1 C powdered sugar
+- 1-2 small oranges, sliced thin (use blood oranges for red color; regular orange also fine)
+- zest from 1 orange
+- 3 T orange juice (from the orange)
+- 1/4 cup pistachio, raw, roughly chopped (can crush slightly in mortar and pestle)
 
 ## Instructions
 

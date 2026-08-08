@@ -12,8 +12,6 @@ description: "Black Pepper Tempeh Stir Fry recipe."
 
 I came home from Nebraska to a couple of bunches of celery in the fridge that needed to be used. I adapted this [celery black pepper tofu recipe from Vegan Richa](https://www.blogger.com/#)and it was pretty good! Over time I changed added more spices and liquid to the marinade, substituted corn flour in place of arrowroot or cornstarch (tastier!), and added in more veggies. Gets better every iteration!
 
-[![](/images/celery-black-pepper-tempeh-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhOgMt1hfV4E5BGlkmWNFjCgX1-mUX5yCeSIX_C0kgHcE44v8kfsCiPok09xcWeg-wi99B7wajKA3IImZCuEUB_ltZO6Sg_nnFXuWVWiCUV7blxGLEjVqW30qiIyoCicTWNmo8ikoeLOQ9-Iq8Y9ZVZcA3-eojevgKqsSSEJL6DDeLbYxAgF5G8HeCY1Q=s640)
-
 ## Ingredients
 
 1.5 C tempeh or firm tofu, cubed in small chunks

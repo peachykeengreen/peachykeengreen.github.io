@@ -10,11 +10,12 @@ featured_image: "/images/DansDal.jpg"
 description: "Dan's Hypnotic Dal recipe."
 ---
 
-Dan Suthers shared his favorite dal recipe with me. Yay! For so long I've wanted a good dal recipe. How did he know? This dal is from [Vegan Richa's Indian Kitchen Cookbook](https://www.veganricha.com/vegan-richas-indian-kitchen-cookbook), which is now on my wish list. In the book it's called Masala Lentils or Sabut Masoor. Dan suggested doubling the recipe if you want a second meal, and since we always want a second meal, here's the recipe doubled. I made just a few other minor tweaks.**
+Dan Suthers shared his favorite dal recipe with me. Yay! For so long I've wanted a good dal recipe. How did he know? This dal is from [Vegan Richa's Indian Kitchen Cookbook](https://www.veganricha.com/vegan-richas-indian-kitchen-cookbook), which is now on my wish list. In the book it's called Masala Lentils or Sabut Masoor. Dan suggested doubling the recipe if you want a second meal, and since we always want a second meal, here's the recipe doubled. I made just a few other minor tweaks.
 
 ![](/images/DansDal.jpg)
 
-Ingredients****
+## Ingredients
+
 1.5 cups lentils, brown or yellow, rinsed
 
 4 cups water
@@ -55,7 +56,7 @@ spices:
 
 1 T vegan butter (optional, garnish)
 
-Instructions**
+## Instructions
 
 Combine the lentils and water in a saucepan. Partially cover and cook over medium heat until the lentils are tender, about 25-30 minutes.
 

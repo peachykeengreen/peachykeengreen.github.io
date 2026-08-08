@@ -10,40 +10,27 @@ featured_image: "/images/gadogado2.png"
 description: "Gado Gado (Peanut Sauce) Stir Fry recipe."
 ---
 
-An Indonesian dish with spicy peanut sauce that Tim and Karen made for us for dinner, to put on top of a delicious tofu and vegetable stir-fry. Yum!**
+An Indonesian dish with spicy peanut sauce that Tim and Karen made for us for dinner, to put on top of a delicious tofu and vegetable stir-fry. Yum!
 
-[![](/images/gadogado2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXq4HUQkVKOZef4LcP6USJu34Nr3iaq4fVIO4wu3GpDpTkxPhYNxjG9qy0tFGUNQos79mAd_oJAyXpJ1Znqv6bwAQm2M9ZzS1LdKGXasvC_RDiJCZ5ztJ59Xy1WWzKdPIVlpqgwJwQtnLA/s1600/gadogado2.png)Ingredients****
-2 T vegan butter for frying
+## Ingredients
 
-1 cup chopped onion
+- 2 T vegan butter for frying
+- 1 cup chopped onion
+- 2 medium cloves garlic (crushed)
+- 1 bay leaf
+- 1-2 T ginger (crushed)
+- 1 small red pepper, diced (optional)
+- 1 cup peanut butter
+- 1 T honey
+- 1 T vinegar
+- 3 cups water
+- 1 tsp salt
+- dash tamari
+- juice of 1 lemon
+- 1/4 tsp cayenne (or Sriracha to taste)
+- Optional garnish: sesame oil, sesame seeds
 
-2 medium cloves garlic (crushed)
-
-1 bay leaf
-
-1-2 T ginger (crushed)
-
-1 small red pepper, diced (optional)
-
-1 cup peanut butter
-
-1 T honey
-
-1 T vinegar
-
-3 cups water
-
-1 tsp salt
-
-dash tamari
-
-juice of 1 lemon
-
-1/4 tsp cayenne (or Sriracha to taste)
-
-Optional garnish: sesame oil, sesame seeds
-
-Instructions**
+## Instructions
 
 In a saucepan, cook the onions, garlic, bay leaf, pepper, and ginger in butter. When onions become translucent, add other ingredients. Simmer on low heat 30 minutes, stirring occasionally.
 

@@ -12,8 +12,7 @@ description: "Spiced Roti recipe."
 
 Our friend Judy shared this [roti for two recipe](https://veganyumyum.com/2007/01/roti-for-two/index.html)with us, which just uses flour and water, and is very good! Munira adds some spice to her roti, and luckily, she shared her secrets with me in Whatsapp. I also searched to see what other spices people use in rot. So I've adapted the recipe (below) to include some optional spicing :)
 
-##
-[![](/images/roti.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYo7hTxhruC5yjGqdCcUL1Xlhtgx3O6BlrNDL0p8xhUBOa-u2vmClViuOoDmVRPiLckFVMSBMFWtraXer8Tcj_tpM558w6FoZl2t0K4IQxJr1ycBre_hcL47sjtbi4x-gCZDqKiEnbdB8c/s1600/roti.png)Ingredients
+## Ingredients
 
 ##
 [
@@ -41,8 +40,7 @@ optional spices (mix and match)
 
 1/2 small red onion, finely chopped
 
-##
-Instructions
+## Instructions
 
 In a large bowl, mix the flour and optional spices/leaves of your choices. Add 2/3 cup water and see how wet your dough is; add water until you get pizza dough consistency (don't want it too gummy). Knead a bit. Cover the dough and let it rest for at least 30 minutes.
 

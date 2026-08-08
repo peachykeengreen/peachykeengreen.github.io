@@ -10,66 +10,38 @@ featured_image: "/images/slide2.jpg"
 description: "Sweet Potato Pizza with Almond Ricotta recipe."
 ---
 
-In one of our zoom chats with friends during the pandemic, Robert & Judy shared their desktop to flip through some random photos. I asked them to pause on a beautiful pizza they made for dinner. Judy said it was one of her favorites! So I had to give it a try. I found a [crust](https://www.foodnetwork.com/recipes/food-network-kitchen/no-yeast-pizza-dough-7262814) recipe and adapted it; the dough turned out crunchy and good! We wanted a bit more flavor, so I added kalamata olives, as well as [whipped almond ricotta](https://minimalistbaker.com/whipped-almond-ricotta-5-ingredients/),  like [True Food Kitchen does](https://www.veganosity.com/butternut-squash-and-almond-ricotta-pizza/).**
+In one of our zoom chats with friends during the pandemic, Robert & Judy shared their desktop to flip through some random photos. I asked them to pause on a beautiful pizza they made for dinner. Judy said it was one of her favorites! So I had to give it a try. I found a [crust](https://www.foodnetwork.com/recipes/food-network-kitchen/no-yeast-pizza-dough-7262814) recipe and adapted it; the dough turned out crunchy and good! We wanted a bit more flavor, so I added kalamata olives, as well as [whipped almond ricotta](https://minimalistbaker.com/whipped-almond-ricotta-5-ingredients/),  like [True Food Kitchen does](https://www.veganosity.com/butternut-squash-and-almond-ricotta-pizza/).
 
-[![](/images/slide2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnGThq7GtJQVha7RYdlYEYrSSER8EY65rz4LDWZWcMRNQpByUnxh4kdJRSo6JA5SPV8uKLbveDYGZlqiO6FaJOeHo6WVAwS3VW8fnvF3N8Y_iOso9c78lI9hZIgM5lm6VoyEdi1LkF8mik/s1600/slide2.jpg)
+## Ingredients
 
-##
-Ingredients**
+- Toppings:
+- Sweet potatoes or squash, cubed or sliced
+- Red onion, sliced
+- salt & pepper
+- 2 C kale or spinach
+- 1 T balsamic vinegar
+- 1 apple, chopped (optional)
+- 1 T fresh chopped rosemary (optional)
+- Kalamata olives (optional)
+- Whipped almond ricotta (or mozzarella for non-vegans)
+- Pizza dough (if making; TJ's whole wheat pita also works)
+- 1 1/3 C flour
+- 1 T cornmeal
+- 1 1/2 tsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1/2 tsp sugar
+- 3/4 C water
+- 1 T oil
+- Whipped almond ricotta:
+- 1 C blanched almonds (raw almonds in boiling water 60 seconds, cool, pop off skins)
+- 1/3 C water
+- 1 T lemon juice
+- 2 tsp nutritional yeast
+- 1/2 tsp garlic powder
+- 1/2 tsp salt
 
-Toppings:
-
-Sweet potatoes or squash, cubed or sliced
-
-Red onion, sliced
-
-salt & pepper
-
-2 C kale or spinach
-
-1 T balsamic vinegar
-
-1 apple, chopped (optional)
-
-1 T fresh chopped rosemary (optional)
-
-Kalamata olives (optional)**
-Whipped almond ricotta (or mozzarella for non-vegans)
-
-Pizza dough (if making; TJ's whole wheat pita also works)
-
-1 1/3 C flour
-
-1 T cornmeal
-
-1 1/2 tsp baking powder
-
-1/2 tsp baking soda
-
-1/2 tsp salt
-
-1/2 tsp sugar
-
-3/4 C water
-
-1 T oil
-
-Whipped almond ricotta:
-
-1 C blanched almonds (raw almonds in boiling water 60 seconds, cool, pop off skins)
-
-1/3 C water
-
-1 T lemon juice
-
-2 tsp nutritional yeast
-
-1/2 tsp garlic powder
-
-1/2 tsp salt
-
-##
-Instructions**
+## Instructions
 
 Preheat oven to 400 degrees. Toss sweet potato/squash, onion slices, oil, rosemary (if using), salt and pepper in ziplock or bowl. Place on large baking sheet and bake for 20 minutes, and turn them once halfway through. Remove from oven.
 

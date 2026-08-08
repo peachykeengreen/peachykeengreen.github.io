@@ -12,27 +12,16 @@ description: "Fresh Bruschetta and Toast recipe."
 
 An easy appetizer that is delish!
 
-**
+## Ingredients
 
-[![](/images/bruchetta.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6x8JILbkoqL9G2dZJ9V95BAeA65SXPYM7lPT1BPG6Fevb6nG0eyx0CLkPKnr5NzVoevMLNYZVYlUZUHD8jQY8WOtXJlnPDcQF81LOQu7yrLBM8oGkaL6ypbKBLc7uxEEUBnbnYXH91RnY/s1600/bruchetta.jpg)
+- 6 tomatoes
+- 3 cloves garlic
+- 1/2 cup fresh basil
+- 1T olive oil
+- salt to taste
+- baguette (french or sourdough)
 
-Ingredients**
-
-**
-
-6 tomatoes
-
-3 cloves garlic
-
-1/2 cup fresh basil
-
-1T olive oil
-
-salt to taste
-
-baguette (french or sourdough)
-
-Instructions**
+## Instructions
 
 Dice the tomatoes and garlic, and chop the basil. Toss together with olive oil and a little salt to taste.
 

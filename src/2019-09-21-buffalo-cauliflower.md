@@ -11,62 +11,36 @@ description: "Buffalo Cauliflower recipe."
 ---
 
 We've had some really good buffalo cauliflower at [Vegenation](https://vegenationlv.com/) in Las Vegas, and I finally got around to trying to make it. It was tasty! Here's what a did - which is a combination of a recipe in [Vegan Comfort Classics](https://www.amazon.com/Hot-Food-Vegan-Comfort-Classics-ebook/dp/B071PCM3Q3) and some recipes I found on the web, like [this one that has a nice video](https://tasty.co/recipe/buffalo-cauliflower). Yum!
-**
-[![](/images/IMG_3281.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijobtqpGZbwDpkpHOriUG28Mmx9a40xHrprVzeThnS6_UmQtoKzaSK58jlh4KpcixbAgj0U2HP2_OZ_Q4BVC0LZ2Hl7Np3b_VaAIa03YNN2FKLj9QpHvjHoV2uBzZQgcXbBycdZJMG2Zcu/s1600/IMG_3281.jpg)
 
-##
-Ingredient
-s**
+## Ingredients
 
-1 large (or 2 small) head cauliflower**
-2 cups bread crumbs
+- 1 large (or 2 small) head cauliflower
+- 2 cups bread crumbs
+- 1/2 cup wheat germ (optional)
+- Batter:
+- 3/4 cup flour
+- 2 tsp garlic powder
+- 2 tsp onion powder (optional)
+- 1 tsp cumin
+- 1 tsp paprika
+- 1/2 tsp each salt & pepper
+- 1 1/3 cup nondairy milk
+- Buffalo sauce:
+- 2 T vegan butter
+- 1/4 cup Sriracha (or more; 1/3 ?)
+- 1/4 cup ketchup
+- 1 T maple syrup
+- Ranch dressing:
+- 1/2 cup vegan mayo
+- 2 tsp apple cider
+- 1 T chopped fresh dill or 2 tsp dried
+- 1 T chopped chives
+- 1 tsp onion powder (optional)
+- 1/4 cup nondairy milk (optional; if you like it a little thinner; I do)
+- salt and pepper to taste
+- chopped chives for topping (optional)
 
-1/2 cup wheat germ (optional)
-
-Batter:
-
-3/4 cup flour
-
-2 tsp garlic powder
-
-2 tsp onion powder (optional)
-
-1 tsp cumin
-
-1 tsp paprika
-
-1/2 tsp each salt & pepper
-1 1/3 cup nondairy milk
-
-Buffalo sauce:
-
-2 T vegan butter
-
-1/4 cup Sriracha (or more; 1/3 ?)
-
-1/4 cup ketchup
-
-1 T maple syrup
-
-Ranch dressing:
-
-1/2 cup vegan mayo
-
-2 tsp apple cider
-
-1 T chopped fresh dill or 2 tsp dried
-
-1 T chopped chives
-
-1 tsp onion powder (optional)
-
-1/4 cup nondairy milk (optional; if you like it a little thinner; I do)
-
-salt and pepper to taste
-
-chopped chives for topping (optional)
-
-## Instructions**
+## Instructions
 
 Clean and cut up the cauliflower. Mix together the batter ingredients - and you can add more or less nondairy milk depending on how thick you want it. I like the batter thinner, so I use almost twice the amount of milk as flour.
 

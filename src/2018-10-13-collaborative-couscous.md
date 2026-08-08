@@ -10,36 +10,25 @@ featured_image: "/images/couscous.JPG"
 description: "Collaborative Couscous recipe."
 ---
 
-Dan Suthers is visiting! After a hike with Jeff, Jeremy invited us over for dinner, and allowed us to use his awesome kitchen to make Collaborative Couscous: a treasure hunt for ingredients that add color. Among the discoveries were figs, carrots, parsley, and green beans. Jeremy also grilled up fresh veggies from the local farmer's market, and prepared beets beforehand in the instant pot. Delicious!**
+Dan Suthers is visiting! After a hike with Jeff, Jeremy invited us over for dinner, and allowed us to use his awesome kitchen to make Collaborative Couscous: a treasure hunt for ingredients that add color. Among the discoveries were figs, carrots, parsley, and green beans. Jeremy also grilled up fresh veggies from the local farmer's market, and prepared beets beforehand in the instant pot. Delicious!
 
-[![](/images/couscous.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5jA6ElVV4nyKeyXRQnEyKTmB5MiNtYjKSMSqea0jbGMZoPxhIpJeA1FU1L1rcQ2PiBTUmrfPHHmZoKY896qMzTRnDR2fsq8ttDpV28hf3JHlTgL06mzQUM4PFkf845MFq_9gDyHyjHeqo/s1600/couscous.JPG)Ingredients****
-3 cups whole wheat couscous
+## Ingredients
 
-3.5 cups vegetable broth (we used [Better than Bouillon](https://www.betterthanbouillon.com/products/organic-seasoned-vegetable-base/) vegetable base + water)
+- 3 cups whole wheat couscous
+- 3.5 cups vegetable broth (we used [Better than Bouillon](https://www.betterthanbouillon.com/products/organic-seasoned-vegetable-base/) vegetable base + water)
+- 2 tsp olive oil
+- 2 cups dry garbanzo beans (about a pound, pre-soak optional)
+- whatever else you have on hand, for color; we had:
+- 3 fresh figs, chopped
+- 1 cup carrots, chopped
+- 1/2 cup green beans chopped
+- seasoning (for layers & top):
+- cumin
+- garam masala
+- salt & pepper
+- fresh chopped parsley
 
-2 tsp olive oil
-
-2 cups dry garbanzo beans (about a pound, pre-soak optional)
-
-whatever else you have on hand, for color; we had:
-
-3 fresh figs, chopped
-
-1 cup carrots, chopped
-
-1/2 cup green beans chopped
-
-seasoning (for layers & top):
-
-cumin
-
-garam masala
-
-salt & pepper
-
-fresh chopped parsley
-
-Instructions**
+## Instructions
 
 Make garbanzo beans in the InstantPot: For dry beans, we used 40 minutes on manual setting (if pre-soaked for hours, 20 minutes would probably do).
 

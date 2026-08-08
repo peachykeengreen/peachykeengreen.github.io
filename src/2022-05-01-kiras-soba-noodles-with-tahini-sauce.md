@@ -17,29 +17,26 @@ A week after posting Kira's recipe, I got the ingredients for this tahini-sauce 
 
 ## Ingredients
 
-[![](/images/IMG_1760.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiblR6MWLQkLQ2ygz818xZ_LbfYJYidazPADT_-LIunaueW3VrtrTFD-OZmeGryf1nU8USwTF6rr66-7x--dJSmK025tn1eLnmUBu35gStqSHjNpjBAegf9WAKCV3Un11czVYkBYlzv1e8VNoOOiLPOKvFy4UGvmA_U9apP-j4cWcZ2GxzHpPcrxvFWng/s640/IMG_1760.jpg)
-Sauce:
-2 T tahini
-1 T white miso
-2 tsp sriracha
-2 tsp soy sauce
-2 tsp rice vinegar
-1/2 tsp powdered ginger
-1/2 tsp powdered garlic
-2 t rice vinegar
-
-Toppings:
-2-4 Just Egg folded patties
-2 Sweet Earth Applewood Smoked Plant-based Ham deli slices
-2 diced scallions
-(optional) 1 zucchini, sliced into ribbons
-1 package buckwheat soba noodles
-Black sesame seed
-(optional) Himalayan black salt (lightly sprinkle on just egg for more sulfur egg flavor)
-
-1-2 T canola oil
-2-3 C broccoli, chopped (oops, took photo before I added this to the dish!)
-1 small red onion
+- Sauce:
+- 2 T tahini
+- 1 T white miso
+- 2 tsp sriracha
+- 2 tsp soy sauce
+- 2 tsp rice vinegar
+- 1/2 tsp powdered ginger
+- 1/2 tsp powdered garlic
+- 2 t rice vinegar
+- Toppings:
+- 2-4 Just Egg folded patties
+- 2 Sweet Earth Applewood Smoked Plant-based Ham deli slices
+- 2 diced scallions
+- (optional) 1 zucchini, sliced into ribbons
+- 1 package buckwheat soba noodles
+- Black sesame seed
+- (optional) Himalayan black salt (lightly sprinkle on just egg for more sulfur egg flavor)
+- 1-2 T canola oil
+- 2-3 C broccoli, chopped (oops, took photo before I added this to the dish!)
+- 1 small red onion
 
 ## Instructions
 

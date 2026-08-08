@@ -14,26 +14,22 @@ Another of Munira's yummy recipes. Black chickpeas have such a nice flavor. Of c
 
 ## Ingredients
 
-[![](/images/kala-chana-black-chickpea-curry-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEi39cfcp7oHTseyrSEXwRKqUSEFDEd7oTNRvGktCNcvPNAWHNv-o_Ha3zdYp6XXbJAobVealcr62S7tX9OFnzWyhQUKYkpeg0zZqhdhej7ZdN376iHeugvDBXcJyvygvMQ6DPeciVVTaSWYcx7qAQiHF7ZdW3awci5eMGEXropAMk-vgCP2N0W9RWF3gQ=s990)
-2 C dry black chickpeas
-
-2 T canola oil
-1 hot pepper, diced
-1" ginger, diced
-2 tsp mustard seed
-2 tsp cumin seed
-1/2 tsp hing
-1 small onion, diced
-1/2 tsp salt
-
-5 large garlic cloves, sliced
-1/2 C cilantro, chopped
-
-2 tsp coriander
-1 tsp red chili powder
-1 tsp turmeric
-2 T dry (not sweet) coconut (optional)
-1 tsp garam masala
+- 2 C dry black chickpeas
+- 2 T canola oil
+- 1 hot pepper, diced
+- 1" ginger, diced
+- 2 tsp mustard seed
+- 2 tsp cumin seed
+- 1/2 tsp hing
+- 1 small onion, diced
+- 1/2 tsp salt
+- 5 large garlic cloves, sliced
+- 1/2 C cilantro, chopped
+- 2 tsp coriander
+- 1 tsp red chili powder
+- 1 tsp turmeric
+- 2 T dry (not sweet) coconut (optional)
+- 1 tsp garam masala
 
 ## Instructions
 

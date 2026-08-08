@@ -10,34 +10,23 @@ featured_image: "/images/berryballs.jpg"
 description: "Berry energy bites recipe."
 ---
 
-Judi found a "divine" recipe for [blueberry lemon energy bites](http://dishingupthedirt.com/featured/blueberry-lemon-energy-bites/) that she [modified slightly](http://veryveryverygreen.blogspot.com/2013/06/a-blueberrilicious-treat.html) to use walnuts (for the omega-3s) instead, and she skipped the coconut. I tried with different dried fruits (blueberries, cherries) and add back the coconut (sometimes). Super easy and delicious! I want to try rolling these in cocoa powder next time...**
+Judi found a "divine" recipe for [blueberry lemon energy bites](http://dishingupthedirt.com/featured/blueberry-lemon-energy-bites/) that she [modified slightly](http://veryveryverygreen.blogspot.com/2013/06/a-blueberrilicious-treat.html) to use walnuts (for the omega-3s) instead, and she skipped the coconut. I tried with different dried fruits (blueberries, cherries) and add back the coconut (sometimes). Super easy and delicious! I want to try rolling these in cocoa powder next time...
 
-[![](/images/berryballs.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92UaZ2e4x_U8baTl-NCsFg0wJ6W4fODZSb7O4wVKeiNJuS4ntQGQdT4NEIMqM9sX3yzYEeq9dnqaoBBzHt32ENPgOfhODC7b7mntB3gQYWc8nYs6ubJl_hOLo4Gre5Z0jFZ1irQD3SLOq/s1600/berryballs.jpg)
+## Ingredients
 
-Ingredients****
-1 1/4 cups walnuts
+- 1 1/4 cups walnuts
+- 1/4 cup cashews
+- 1/4 cup oats
+- 1/3 cup chia seeds
+- 1 cup dates
+- 1 cup dried blueberries, or dried cherries, or mix
+- juice from half a lemon, and zest (optional)
+- 1 tsp vanilla
+- 1/4 tsp salt
+- shredded coconut (optional)
+- cocoa (optional)
 
-1/4 cup cashews
-
-1/4 cup oats
-
-1/3 cup chia seeds
-
-1 cup dates
-
-1 cup dried blueberries, or dried cherries, or mix
-
-juice from half a lemon, and zest (optional)
-
-1 tsp vanilla
-
-1/4 tsp salt
-
-shredded coconut (optional)
-
-cocoa (optional)
-
-Instructions**
+## Instructions
 
 In a food processor, blend walnuts and cashews. Add berries, dates, oats, lemon juice, vanilla. Process until the mixture forms a rough dough. Add chia seeds, salt, and (optionally) shredded coconut if you like. Process to mix in. Taste and add more lemon if necessary.
 

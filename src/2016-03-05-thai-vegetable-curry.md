@@ -10,38 +10,26 @@ featured_image: "/images/curry.jpg"
 description: "Thai Vegetable Curry recipe."
 ---
 
-I've made many veggie curries with Trader Joes bottled curry sauce, and they're okay, but never as good as what you get at a Thai restaurant. Once I tried to make curry with store-bought curry paste and coconut milk, but it was eh. What's the trick? Well, we went to Thailand last November and I brought back some curry packets for gifts; I decided to try one. The directions called for coconut cream (not coconut milk). We also had some fresh ginger that I had frozen (grated) in ice cube trays, so I tossed in a cube. (I didn't add the fish sauce it called for.) Boy, what a difference. It was nice and spicy and flavorful. We thought we were in a restaurant! Here's what I did.**
+I've made many veggie curries with Trader Joes bottled curry sauce, and they're okay, but never as good as what you get at a Thai restaurant. Once I tried to make curry with store-bought curry paste and coconut milk, but it was eh. What's the trick? Well, we went to Thailand last November and I brought back some curry packets for gifts; I decided to try one. The directions called for coconut cream (not coconut milk). We also had some fresh ginger that I had frozen (grated) in ice cube trays, so I tossed in a cube. (I didn't add the fish sauce it called for.) Boy, what a difference. It was nice and spicy and flavorful. We thought we were in a restaurant! Here's what I did.
 
-[![](/images/curry.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWX33lx_MM6bqcd0LZOC-4vwUk2JcTX1NuJKelQjXpIusWq28rCRU3qCmthyphenhyphenlKuMSxOOFScCGMlr26YeQWQSIgbKDp9LN4Lg2t0HlBrBbvUE1smLsK99Uz0w04tXasHDtneNNqCrmGSm4u/s1600/curry.jpg)Ingredients****
+## Ingredients
+
 [Blue Elephant Royal Thai Yellow Curry](http://www.amazon.com/Blue-Elephant-Royal-Thai-Cuisine/dp/B00DJPRSBW) paste (or similar)
+- 1 can coconut cream
+- Fresh ginger (optional)
+- Olive oil
+- 1/2 cup water
+- Veggies:
+- 1 onion, chopped
+- 12 cups mushrooms, chopped
+- 1 cup cabbage, chopped
+- 3 small potatoes, chopped and nuked 4 min
+- 1 sweet potato, chopped and nuked 4 min
+- 1/4 cauliflower, chopped and nuked 2 min
+- Tomatoes, chopped in large-ish chunks
+- Serve over a whole grain like [Purple Prairie Barley](https://www.timelessfood.com/shop/organic-purple-prairie-barley/). Whole grains take awhile to cook (like 1.5 hours) but if soak the grain for half a day, then boil and simmer, and it will cut the time in half (30-45 minutes).
 
-1 can coconut cream
-
-Fresh ginger (optional)
-
-Olive oil
-
-1/2 cup water
-
-Veggies:
-
-1 onion, chopped
-
-12 cups mushrooms, chopped
-
-1 cup cabbage, chopped
-
-3 small potatoes, chopped and nuked 4 min
-
-1 sweet potato, chopped and nuked 4 min
-
-1/4 cauliflower, chopped and nuked 2 min
-
-Tomatoes, chopped in large-ish chunks
-
-Serve over a whole grain like [Purple Prairie Barley](https://www.timelessfood.com/shop/organic-purple-prairie-barley/). Whole grains take awhile to cook (like 1.5 hours) but if soak the grain for half a day, then boil and simmer, and it will cut the time in half (30-45 minutes).
-
-Instructions**
+## Instructions
 
 Go to Thailand and get a packet of really good curry paste like [Blue Elephant](http://www.amazon.com/Blue-Elephant-Royal-Thai-Cuisine/dp/B00DJPRSBW), or look for something like it the international food aisle of your grocery store or on Amazon.
 

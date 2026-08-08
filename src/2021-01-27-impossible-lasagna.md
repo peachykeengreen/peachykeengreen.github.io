@@ -16,28 +16,26 @@ I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/la
 
 ## Ingredients
 
-[![](/images/IMG_9339.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdVNZ-yf0QIIx6-Ugep104TtxtAHUQg0MIUyfcKbC791pnGoLDRVi_CHB694EMwveciR2qkte00mXBVUu64wEQxpWPh5IOBRKdQY6_HLyQrnX755tK63abmONbQ2VgvQoRwcvyBqa_O13C/s640/IMG_9339.jpg)Sauce:
-2 T canola oil
-3/4 lb (1 pkg) Impossible Beef
-1 onion, diced
-2 carrots, diced
-8 oz mushrooms (optional but recommended)
-3-4 cloves garlic, diced
-1/2 tsp red pepper flakes
-1 tsp smoked paprika
-3 14 oz cans diced tomatoes
-2 tsp dried oregano
-1 tsp dried baslil
-1/2 tsp salt (or to taste)
-
-For layering:
-Fresh greens (spinach, kale, broccoli, or other leaf)
-1 tsp nutmeg
-1/2 tsp brown pepper
-1/2 jar marinara (optional, but extra sauce helps the noodles cook, especially for larger pan)
-
-10-12 pieces of TJ's lasagna noodles (no pre-cook!)
-10-12 oz TJs soy cheese blend (cheddar, mozzarella, jack) or other shredded vegan cheese
+- Sauce:
+- 2 T canola oil
+- 3/4 lb (1 pkg) Impossible Beef
+- 1 onion, diced
+- 2 carrots, diced
+- 8 oz mushrooms (optional but recommended)
+- 3-4 cloves garlic, diced
+- 1/2 tsp red pepper flakes
+- 1 tsp smoked paprika
+- 3 14 oz cans diced tomatoes
+- 2 tsp dried oregano
+- 1 tsp dried baslil
+- 1/2 tsp salt (or to taste)
+- For layering:
+- Fresh greens (spinach, kale, broccoli, or other leaf)
+- 1 tsp nutmeg
+- 1/2 tsp brown pepper
+- 1/2 jar marinara (optional, but extra sauce helps the noodles cook, especially for larger pan)
+- 10-12 pieces of TJ's lasagna noodles (no pre-cook!)
+- 10-12 oz TJs soy cheese blend (cheddar, mozzarella, jack) or other shredded vegan cheese
 
 ## Instructions
 

@@ -15,25 +15,21 @@ Pat and Allen shared at least a dozen persimmons with us from their bountiful ha
 ## Ingredients
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuP-JjNEN9HfWhAwJNVEakwrF5ByPNZTu4fchsQE3rR9wituoycawQvG2LcHfBjHyqeatdqXhqhUWc10TmnRPkVzJsBjk5iKJTrIbzFJcsIIXkEGARhiCS4QB-DWwqBhtuJktq-0pMQYUQ/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuP-JjNEN9HfWhAwJNVEakwrF5ByPNZTu4fchsQE3rR9wituoycawQvG2LcHfBjHyqeatdqXhqhUWc10TmnRPkVzJsBjk5iKJTrIbzFJcsIIXkEGARhiCS4QB-DWwqBhtuJktq-0pMQYUQ/)
-
-1 tsp. baking soda
-2 T lukewarm water
-1 1/2 C persimmon puree
-
-1 1/2 C sugar
-1/2 C salad oil
-2 flax eggs (2 T flaxmeal, 6 T warm water)
-
-Dry:
-2 C flour
-2 tsp. baking powder
-1 tsp. cinnamon
-1/8 tsp. cloves
-1/2 tsp nutmeg
-1/2 tsp. salt
-
-1 tsp. lemon juice
-1 C walnuts
+- 1 tsp. baking soda
+- 2 T lukewarm water
+- 1 1/2 C persimmon puree
+- 1 1/2 C sugar
+- 1/2 C salad oil
+- 2 flax eggs (2 T flaxmeal, 6 T warm water)
+- Dry:
+- 2 C flour
+- 2 tsp. baking powder
+- 1 tsp. cinnamon
+- 1/8 tsp. cloves
+- 1/2 tsp nutmeg
+- 1/2 tsp. salt
+- 1 tsp. lemon juice
+- 1 C walnuts
 
 ## Instructions
 

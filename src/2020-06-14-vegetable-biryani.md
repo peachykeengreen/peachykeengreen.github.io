@@ -12,53 +12,30 @@ description: "Vegetable Biryani recipe."
 
 Munira gave me a huge bag of dry rice, and I decided to try to make a biryani in the Instant Pot, somewhat like this recipe from [Piping Pot Curry](https://pipingpotcurry.com/instant-pot-vegetable-biryani/). It was pretty easy and good!  The recipe below is slightly updated with some ideas from Vegan Richa's Indian Kitchen, and more veggies and cashews. It was nice to have just one pot to clean at the end.
 
-##
-[![](/images/IMG_5821.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqDq-0QxOeaV73WaYapBFNieMDfle581GUdAsk1QdZS1S-Xrm9YNfIBLwBbz7fu7PZA0L12YdTsBlpnibeGHvjYQEAAE0F2aYtiQ-Q8KCv2wm_yFMGMGjccQBNBSHiTBytZq6jU7beZEv7/s640/IMG_5821.jpg)
-Ingredients
+## Ingredients
 
-Make vegetable mix and set aside:
-
-1 large potato, chopped
-
-2 C cauliflower, chopped
-
-1/2 C carrots, chopped
-
-1 C broccoli, chopped
-
-1/2 C geen peas
-
-3/4 C nondairy yogurt or cashew cream + 1 tsp vinegar
-
-2 T [green chutney](https://peachykeengreen.blogspot.com/2019/05/green-chutney.html) or 2 T each cilantro and mint leaves
-
-2 tsp biryani or garam masala blend
-
-1/2 tsp turmeric
-
-1-2 tsp salt
-
-Saute in Instant Pot:
-
-1 onion, chopped
-
-1 small jalapeno pepper, diced
-
-2 tsp cumin seeds
-
-1 1-inch knob ginger, minced
-
-4 cloves garlic, chopped
-
-4 cardamom pods
-
-1 cinnamon stick
-
-2 cloves or 1/4 tsp powder
-
-1 bay leaf
-
-4 T raw cashews
+- Make vegetable mix and set aside:
+- 1 large potato, chopped
+- 2 C cauliflower, chopped
+- 1/2 C carrots, chopped
+- 1 C broccoli, chopped
+- 1/2 C geen peas
+- 3/4 C nondairy yogurt or cashew cream + 1 tsp vinegar
+- 2 T [green chutney](https://peachykeengreen.blogspot.com/2019/05/green-chutney.html) or 2 T each cilantro and mint leaves
+- 2 tsp biryani or garam masala blend
+- 1/2 tsp turmeric
+- 1-2 tsp salt
+- Saute in Instant Pot:
+- 1 onion, chopped
+- 1 small jalapeno pepper, diced
+- 2 tsp cumin seeds
+- 1 1-inch knob ginger, minced
+- 4 cloves garlic, chopped
+- 4 cardamom pods
+- 1 cinnamon stick
+- 2 cloves or 1/4 tsp powder
+- 1 bay leaf
+- 4 T raw cashews
 
 1.5 C rice
 

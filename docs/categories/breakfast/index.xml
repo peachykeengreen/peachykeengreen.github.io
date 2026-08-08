@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Breakfast on Peachy Keen Green</title>
-		<link>/categories/breakfast/</link>
+		<link>//localhost:8000/categories/breakfast/</link>
 		<description>Recent content in Breakfast on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,111 +12,111 @@
 		
 			<lastBuildDate>Fri, 18 Apr 2025 23:29:52 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/breakfast/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:8000/categories/breakfast/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lemon Blueberry Coffee Cake</title>
-				<link>/lemon-blueberry-coffee-cake/</link>
+				<link>//localhost:8000/lemon-blueberry-coffee-cake/</link>
 				<pubDate>Wed, 31 Jul 2024 23:26:00 +0000</pubDate>
-				<guid>/lemon-blueberry-coffee-cake/</guid>
+				<guid>//localhost:8000/lemon-blueberry-coffee-cake/</guid>
 				<description>&lt;p&gt;Elsa hosted a birthday brunch last week, cooking up several experiments for us, all delicious! Larry went back for 3 pieces of this yummy lemon blueberry coffee cake. The &lt;a href=&#34;https://thebananadiaries.com/vegan-lemon-blueberry-coffee-cake-with-cream-cheese-swirl/&#34;&gt;original recipe&lt;/a&gt; called for a vegan cream cheese swirl and a powerdered sugar icing, but she skipped both, and it was great without.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Nut Medley Granola</title>
-				<link>/nut-medley-granola/</link>
+				<link>//localhost:8000/nut-medley-granola/</link>
 				<pubDate>Thu, 01 Dec 2022 22:38:00 +0000</pubDate>
-				<guid>/nut-medley-granola/</guid>
+				<guid>//localhost:8000/nut-medley-granola/</guid>
 				<description>&lt;p&gt;Laurie made an out-of-this-world granola when we visited last week. It&amp;rsquo;s all nuts, plus coconut.  (Larry exclaimed, &amp;ldquo;What, granola without oats?!&amp;rdquo;) This version is very keto, but of course you could add oats if you like. I might play with in the future. Serve as cereal or on yogurt!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Overnight Oats</title>
-				<link>/overnight-oats/</link>
+				<link>//localhost:8000/overnight-oats/</link>
 				<pubDate>Mon, 14 Nov 2022 19:25:00 +0000</pubDate>
-				<guid>/overnight-oats/</guid>
+				<guid>//localhost:8000/overnight-oats/</guid>
 				<description>&lt;p&gt;My brother Jeff turned me on to this, and it&amp;rsquo;s my new favorite thing! Delicious, high fiber, and lots of ways to mix it up. Oats are so good for you, as is wheat germ, berries, and nuts. This has replaced morning yogurt for us; it&amp;rsquo;s healthier (more fiber, less sugar), cheaper, and super easy to make. Years ago, I also made an &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/05/chia-pudding.html&#34;&gt;overnight chia pudding&lt;/a&gt; that we often had for breakfast and dessert. That&amp;rsquo;s also really tasty, and you can add more chia to this if you like, or a little maple syrup if you want something sweeter.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Almond Butter Chocolate Chip Oatmeal Cups</title>
-				<link>/almond-butter-chocolate-chip-oatmeal/</link>
+				<link>//localhost:8000/almond-butter-chocolate-chip-oatmeal/</link>
 				<pubDate>Sun, 14 Nov 2021 19:29:00 +0000</pubDate>
-				<guid>/almond-butter-chocolate-chip-oatmeal/</guid>
+				<guid>//localhost:8000/almond-butter-chocolate-chip-oatmeal/</guid>
 				<description>&lt;p&gt;Our pantry still has lots of oatmeal and almond butter from pandemic stockups. Looking for recipes to use up some of these ingredients, I came across these &lt;a href=&#34;https://thealmondeater.com/baked-almond-butter-oatmeal-cups/&#34;&gt;healthy almond butter baked oatmeal cups&lt;/a&gt;. Low in sugar, high in oatmeal, and super tasty! I didn&amp;rsquo;t change the recipe, am adding it to my blog to remember and share (and not have to do the endless scroll with ads&amp;ndash;the huge downside of most recipe sites. I&amp;rsquo;ll put up with ads the first time, but not a second time, if it&amp;rsquo;s blog worthy - and this is!)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Creamy Soy Yogurt</title>
-				<link>/soy-yogurt-with-instant-pot/</link>
+				<link>//localhost:8000/soy-yogurt-with-instant-pot/</link>
 				<pubDate>Fri, 21 Feb 2020 07:30:00 +0000</pubDate>
-				<guid>/soy-yogurt-with-instant-pot/</guid>
-				<description>&lt;p&gt;In 2020, I bought an instant pot to get the Yogurt button, and made some batches following this &lt;a href=&#34;https://thehiddenveggies.com/best-homemade-vegan-soy-yogurt/&#34;&gt;blog post on soy yogurt&lt;/a&gt;. I also tried soaked almonds processed in my ninja blender; it was pretty good but a little gritty and more work. Oat and coconut milk did not thicken. With soy, it&amp;rsquo;s critical that the milk you use has zero additives; Trader Joe&amp;rsquo;s soy milk works great. Even so, it was hard to get it to be as thick as I&amp;rsquo;d like. Cooking longer - I tried up to 15 hours &amp;ndash; helps, but was super tangy!**&lt;/p&gt;</description>
+				<guid>//localhost:8000/soy-yogurt-with-instant-pot/</guid>
+				<description>&lt;p&gt;In 2020, I bought an instant pot to get the Yogurt button, and made some batches following this &lt;a href=&#34;https://thehiddenveggies.com/best-homemade-vegan-soy-yogurt/&#34;&gt;blog post on soy yogurt&lt;/a&gt;. I also tried soaked almonds processed in my ninja blender; it was pretty good but a little gritty and more work. Oat and coconut milk did not thicken. With soy, it&amp;rsquo;s critical that the milk you use has zero additives; Trader Joe&amp;rsquo;s soy milk works great. Even so, it was hard to get it to be as thick as I&amp;rsquo;d like. Cooking longer - I tried up to 15 hours &amp;ndash; helps, but was super tangy!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Blackberry Syrup</title>
-				<link>/blackberry-syrup/</link>
+				<link>//localhost:8000/blackberry-syrup/</link>
 				<pubDate>Fri, 16 Aug 2019 04:39:00 +0000</pubDate>
-				<guid>/blackberry-syrup/</guid>
-				<description>&lt;p&gt;We have SO many blackberries we can&amp;rsquo;t keep up. I started putting cups and cups of them in bags in our freezer - which is getting WAY too full. I got an idea: What if I try to use up some of these by making a blackberry syrup? I found this recipe for &lt;a href=&#34;https://www.daringgourmet.com/homemade-blackberry-syrup/&#34;&gt;homemade blackberry syrup from daring gourmet&lt;/a&gt;. Oh. My. Flying. Spaghetti. Monster. It&amp;rsquo;s &lt;em&gt;incredible&lt;/em&gt;. I&amp;rsquo;ll NEVER complain about too many blackberries again!**&lt;/p&gt;</description>
+				<guid>//localhost:8000/blackberry-syrup/</guid>
+				<description>&lt;p&gt;We have SO many blackberries we can&amp;rsquo;t keep up. I started putting cups and cups of them in bags in our freezer - which is getting WAY too full. I got an idea: What if I try to use up some of these by making a blackberry syrup? I found this recipe for &lt;a href=&#34;https://www.daringgourmet.com/homemade-blackberry-syrup/&#34;&gt;homemade blackberry syrup from daring gourmet&lt;/a&gt;. Oh. My. Flying. Spaghetti. Monster. It&amp;rsquo;s &lt;em&gt;incredible&lt;/em&gt;. I&amp;rsquo;ll NEVER complain about too many blackberries again!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Jeff&#39;s Blueberry Pancakes</title>
-				<link>/jeffs-blueberry-pancakes/</link>
+				<link>//localhost:8000/jeffs-blueberry-pancakes/</link>
 				<pubDate>Fri, 08 Feb 2019 05:59:00 +0000</pubDate>
-				<guid>/jeffs-blueberry-pancakes/</guid>
-				<description>&lt;p&gt;Jeff texted us (siblings) a photo of his blueberry pancake dinner. It looked delicious, so I called him for the recipe! He made it up (of course),  and says that yeast pancakes &amp;ndash; and these in particular &amp;ndash; are the best he&amp;rsquo;s ever had. And they are SUPER healthy. (Yay, more spermidine from wheat germ.) So I added them to my blog so that I&amp;rsquo;ll make them! Makes 12 pancakes.**&#xA;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibxnzlbUm3KMQ04Vx2fqL2Y3Ne9I1BGAGhYIegXQ1DrGCAjJYjiLklhW544ea4oWhzAM0JMiPpcu9jYFQS_02mN4XA4me6RifwCzbNJZDkuSdYEGYENcqxzGAOrsuqsc4zDCtfDQDO-UJY/s1600/blueberry-pancakes.jpg&#34;&gt;&lt;img src=&#34;/images/blueberry-pancakes.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>//localhost:8000/jeffs-blueberry-pancakes/</guid>
+				<description>&lt;p&gt;Jeff texted us (siblings) a photo of his blueberry pancake dinner. It looked delicious, so I called him for the recipe! He made it up (of course),  and says that yeast pancakes &amp;ndash; and these in particular &amp;ndash; are the best he&amp;rsquo;s ever had. And they are SUPER healthy. (Yay, more spermidine from wheat germ.) So I added them to my blog so that I&amp;rsquo;ll make them! Makes 12 pancakes.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hearty Healthy Oatmeal</title>
-				<link>/yummy-healthy-oatmeal/</link>
+				<link>//localhost:8000/yummy-healthy-oatmeal/</link>
 				<pubDate>Sun, 03 Feb 2019 01:10:00 +0000</pubDate>
-				<guid>/yummy-healthy-oatmeal/</guid>
-				<description>&lt;p&gt;When we visited Chelsey and Josh last November, Chelsey made a delicious, super thick oatmeal. The secret? Almond milk and oats, almost equal amount! Then the other day, Jeff suggested adding wheat germ to oatmeal to get the maximal &lt;a href=&#34;https://www.chalmers.se/en/areas-of-advance/lifescience/news/Pages/Spermidine.aspx&#34;&gt;autophagy benefits of spermadine&lt;/a&gt;, so that&amp;rsquo;s a new addition. (See another nice summary of &lt;a href=&#34;http://www.resveratrolnews.com/live-young-wheat-germ/1246/&#34;&gt;spermidine and other anti-aging agents&lt;/a&gt;.)**&#xA;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkX4UzAyGkxA6dyQC8YB7LFeAljVE8mE9V21zWsvABUcH7zSBh8DqTfcEEWh2jQwyUdaYuO5dDkNdC6r3zx61dLrAHB3q8uAetGzlc3dUq0iniugHc7O0rokN-FQKIXZVerImdNRQy_rbT/s1600/oatmeal.jpg&#34;&gt;&lt;img src=&#34;/images/oatmeal.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>//localhost:8000/yummy-healthy-oatmeal/</guid>
+				<description>&lt;p&gt;When we visited Chelsey and Josh last November, Chelsey made a delicious, super thick oatmeal. The secret? Almond milk and oats, almost equal amount! Then the other day, Jeff suggested adding wheat germ to oatmeal to get the maximal &lt;a href=&#34;https://www.chalmers.se/en/areas-of-advance/lifescience/news/Pages/Spermidine.aspx&#34;&gt;autophagy benefits of spermadine&lt;/a&gt;, so that&amp;rsquo;s a new addition. (See another nice summary of &lt;a href=&#34;http://www.resveratrolnews.com/live-young-wheat-germ/1246/&#34;&gt;spermidine and other anti-aging agents&lt;/a&gt;.)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Pear Spice Upside-Down Cake</title>
-				<link>/pear-spice-upside-down-cake/</link>
+				<link>//localhost:8000/pear-spice-upside-down-cake/</link>
 				<pubDate>Thu, 03 Aug 2017 16:54:00 +0000</pubDate>
-				<guid>/pear-spice-upside-down-cake/</guid>
-				<description>&lt;p&gt;So many pears on our tree! So I googled for a pear dessert, and found this recipe for &lt;a href=&#34;http://blog.fatfreevegan.com/2015/12/pear-spice-upside-down-cake.html&#34;&gt;Pear Spice Upside-Down Cak&lt;/a&gt;e that looked good - and it was! And relatively healthy, too. The freshly pureed pears makes it spongy and light, and removes the need for oil. I adapted it to make two 8-inch rounds (rather than one 9-inch) since that&amp;rsquo;s what I have &amp;ndash; and why not round up? For the bottom, you can use pear (or other fruit) slices, or  a &lt;a href=&#34;https://www.nytimes.com/2022/07/28/dining/upside-down-cake-easy-summer-recipes.html&#34;&gt;berry topping from this NYT recipe&lt;/a&gt; (I did that when we had lots of blackberries!). If you use pear slices, make sure they are very ripe or they can be too hard even when cooked. The pears used in the puree can (optionally) be more green. The pear sauce, ginger, and spice combination in the cake is delicious.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/pear-spice-upside-down-cake/</guid>
+				<description>&lt;p&gt;So many pears on our tree! So I googled for a pear dessert, and found this recipe for &lt;a href=&#34;http://blog.fatfreevegan.com/2015/12/pear-spice-upside-down-cake.html&#34;&gt;Pear Spice Upside-Down Cak&lt;/a&gt;e that looked good - and it was! And relatively healthy, too. The freshly pureed pears makes it spongy and light, and removes the need for oil. I adapted it to make two 8-inch rounds (rather than one 9-inch) since that&amp;rsquo;s what I have &amp;ndash; and why not round up? For the bottom, you can use pear (or other fruit) slices, or  a &lt;a href=&#34;https://www.nytimes.com/2022/07/28/dining/upside-down-cake-easy-summer-recipes.html&#34;&gt;berry topping from this NYT recipe&lt;/a&gt; (I did that when we had lots of blackberries!). If you use pear slices, make sure they are very ripe or they can be too hard even when cooked. The pears used in the puree can (optionally) be more green. The pear sauce, ginger, and spice combination in the cake is delicious.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Garden Smoothie</title>
-				<link>/garden-smoothie/</link>
+				<link>//localhost:8000/garden-smoothie/</link>
 				<pubDate>Thu, 18 Feb 2016 05:35:00 +0000</pubDate>
-				<guid>/garden-smoothie/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFo0G41lGpXc_bnDLVCquyRNbBUKoDHGZI2G0n6BCc9Sb-lshUGK0hDC7t7XnQVmAMmoi43z0c_nQsWUoumvT7lMSWlZDKmRRXuCGmNDT-x8ZCZ8vEBIHHYUbgzKAfa_T7Hmn9J-yXrlGN/s1600/momba1.jpg&#34;&gt;&lt;img src=&#34;/images/momba1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;After enjoying our friend &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2014/06/momba-v2.html&#34;&gt;Judi&amp;rsquo;s &amp;ldquo;momba&amp;rdquo; smoothies&lt;/a&gt; so many times, we finally bought a good (Ninja) blender so we could make our own. Dr. Gregor has some &lt;a href=&#34;http://nutritionfacts.org/video/green-smoothies-what-does-the-science-say/&#34;&gt;videos about research&lt;/a&gt; that shows you get all the benefits of the kale and berries in blended form, but that&amp;rsquo;s not true for all fruits. And Larry notes that they taste better than they look :)**&lt;/p&gt;</description>
+				<guid>//localhost:8000/garden-smoothie/</guid>
+				<description>&lt;p&gt;After enjoying our friend &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2014/06/momba-v2.html&#34;&gt;Judi&amp;rsquo;s &amp;ldquo;momba&amp;rdquo; smoothies&lt;/a&gt; so many times, we finally bought a good (Ninja) blender so we could make our own. Dr. Gregor has some &lt;a href=&#34;http://nutritionfacts.org/video/green-smoothies-what-does-the-science-say/&#34;&gt;videos about research&lt;/a&gt; that shows you get all the benefits of the kale and berries in blended form, but that&amp;rsquo;s not true for all fruits. And Larry notes that they taste better than they look :)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Scrambled Tofu</title>
-				<link>/scrambled-tofu/</link>
+				<link>//localhost:8000/scrambled-tofu/</link>
 				<pubDate>Mon, 11 May 2015 04:15:00 +0000</pubDate>
-				<guid>/scrambled-tofu/</guid>
-				<description>&lt;p&gt;Sightly adapted from a recipe in &lt;a href=&#34;http://www.theppk.com/books/vegan-with-a-vengeance/&#34;&gt;Vegan with a Vengeance&lt;/a&gt; mostly to add some greens and tomato, and a little more turmeric. Nice served with toast potatoes, guacamole and salsa.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKUQghDwea1GNfVU4W0WCS1plpHGJoDhnc3-W5rnlli0LA8QDVIgI3u20UvyilqII7eFimsm0XR1EnuBb9Dr-LyiHTGYr_cKw87fRIeqR8e6URdmRbGIRwEEzk6bHKtNE1ksmuu3lF5b2/s1600/tofuscramble.jpg&#34;&gt;&lt;img src=&#34;/images/tofuscramble.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>//localhost:8000/scrambled-tofu/</guid>
+				<description>&lt;p&gt;Sightly adapted from a recipe in &lt;a href=&#34;http://www.theppk.com/books/vegan-with-a-vengeance/&#34;&gt;Vegan with a Vengeance&lt;/a&gt; mostly to add some greens and tomato, and a little more turmeric. Nice served with toast potatoes, guacamole and salsa.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 T high heat oil (e.g., canola, grapeseed)&lt;/li&gt;&#xA;&lt;li&gt;1 medium onion, chipped&lt;/li&gt;&#xA;&lt;li&gt;2 C mushrooms&lt;/li&gt;&#xA;&lt;li&gt;2-3 cloves minced garlic&lt;/li&gt;&#xA;&lt;li&gt;A few leaves of kale or chard or spinach&lt;/li&gt;&#xA;&lt;li&gt;2 tomatoes, chopped&lt;/li&gt;&#xA;&lt;li&gt;1 pound extra firm tofu, drained&lt;/li&gt;&#xA;&lt;li&gt;1/4 C (heaping) nutritional yeast&lt;/li&gt;&#xA;&lt;li&gt;Juice of 1/2 lemon&lt;/li&gt;&#xA;&lt;li&gt;Spice blend:&lt;/li&gt;&#xA;&lt;li&gt;2 t cumin&lt;/li&gt;&#xA;&lt;li&gt;1 t dried thyme&lt;/li&gt;&#xA;&lt;li&gt;1 t paprika&lt;/li&gt;&#xA;&lt;li&gt;1 t turmeric&lt;/li&gt;&#xA;&lt;li&gt;1 t salt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Saute onions over medium-high heat for about 3 minutes; add mushrooms and sauté for 5 minutes. Add garlic, leaves and tomato, and saute 2 minutes. Add spice blend and mix. Add 1/4 cup water to deglaze the pan, scraping the bottom to get all the garlic and spices.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Overnight Steel Cut Oatmeal</title>
-				<link>/overnight-steel-cut-oatmeal/</link>
+				<link>//localhost:8000/overnight-steel-cut-oatmeal/</link>
 				<pubDate>Mon, 11 May 2015 04:01:00 +0000</pubDate>
-				<guid>/overnight-steel-cut-oatmeal/</guid>
+				<guid>//localhost:8000/overnight-steel-cut-oatmeal/</guid>
 				<description>&lt;p&gt;A wonderful chocolate oatmeal, or make it plain with maple and brown sugar. I found the chocolate version first, on &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2012/01/chocolate-oatmeal.html&#34;&gt;Happy Healthy&lt;/a&gt;, and made up the plain version when I needed a change. Both are wonderful with berries on top. I add walnuts and chia to the chocolate version, and flax seeds to the maple and brown sugar version. I also tend to use more water and less almond milk for the plain version. Sometimes I make extra and freeze muffin-size portions like &lt;a href=&#34;http://www.seriouseats.com/2010/06/trader-joes-frozen-steelcut-oatmeal-might-cha.html&#34;&gt;Trader Joes&lt;/a&gt; does, to microwave during the week.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chia Pudding</title>
-				<link>/chia-pudding/</link>
+				<link>//localhost:8000/chia-pudding/</link>
 				<pubDate>Sat, 09 May 2015 18:52:00 +0000</pubDate>
-				<guid>/chia-pudding/</guid>
-				<description>&lt;p&gt;Happy Healthy and Oh She Glows both have recipes for chocolate chia pudding. One serving gives you all the omega 3&amp;rsquo;s you need in a day! Happy Healthy has her &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2012/09/overnight-chocolate-berry-buckwheat-breakfast-groats-oats.html&#34;&gt;Overnight Chocolate Berry Breakfast Pudding&lt;/a&gt; for breakfast, and Oh She Glows dresses up her &lt;a href=&#34;http://ohsheglows.com/2012/01/11/healthy-chocolate-chia-pudding/&#34;&gt;Healthy Chocolate Chia Pudding&lt;/a&gt; for dessert with a little shaved chocolate (see photos below). They&amp;rsquo;re similar, and I can verify that even the breakfast version works for dessert! You can omit the chocolate if you want a change; it&amp;rsquo;s fine plain. You might also try using white chia seeds then, and maybe a bit more vanilla extract.**&lt;/p&gt;</description>
+				<guid>//localhost:8000/chia-pudding/</guid>
+				<description>&lt;p&gt;Happy Healthy and Oh She Glows both have recipes for chocolate chia pudding. One serving gives you all the omega 3&amp;rsquo;s you need in a day! Happy Healthy has her &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2012/09/overnight-chocolate-berry-buckwheat-breakfast-groats-oats.html&#34;&gt;Overnight Chocolate Berry Breakfast Pudding&lt;/a&gt; for breakfast, and Oh She Glows dresses up her &lt;a href=&#34;http://ohsheglows.com/2012/01/11/healthy-chocolate-chia-pudding/&#34;&gt;Healthy Chocolate Chia Pudding&lt;/a&gt; for dessert with a little shaved chocolate (see photos below). They&amp;rsquo;re similar, and I can verify that even the breakfast version works for dessert! You can omit the chocolate if you want a change; it&amp;rsquo;s fine plain. You might also try using white chia seeds then, and maybe a bit more vanilla extract.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Vegan Pancakes with Strawberries and Bananas</title>
-				<link>/vegan-pancakes/</link>
+				<link>//localhost:8000/vegan-pancakes/</link>
 				<pubDate>Mon, 02 Feb 2015 17:12:00 +0000</pubDate>
-				<guid>/vegan-pancakes/</guid>
+				<guid>//localhost:8000/vegan-pancakes/</guid>
 				<description>&lt;p&gt;Thanks to Wanda and Judi, who gave me their great recipes, which I merged and played with to get this! Makes about 28 4&amp;quot; pancakes - breakfast for about 5 people, or just store the unused dry mix for later use. I love the light peanut butter taste from the &lt;a href=&#34;http://www.amazon.com/Plantation-PB2-Powdered-Peanut-16-Ounce/dp/B004P4POZ8&#34;&gt;PB2&lt;/a&gt;. The flax acts as an egg substitute (helps bind) and is a great source of omega-3 fatty acids.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Peanut Butter Granola</title>
-				<link>/peanut-butter-granola-judi/</link>
+				<link>//localhost:8000/peanut-butter-granola-judi/</link>
 				<pubDate>Wed, 14 Jan 2015 20:09:00 +0000</pubDate>
-				<guid>/peanut-butter-granola-judi/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_pelooEziYB5EcWuodrYeNW2QF6TNW3PE_Bz1XVfugUf_W_S1QNxcJvOa9_yeEub1_QXJtntUuPRBeSDaHSn7SD3_t1l0x1-rcRWI_mAZqSwMNX-vhtT2hdve4SXI7BXYHBKkhx-tDAjF/s1600/granola.jpg&#34;&gt;&lt;img src=&#34;/images/granola.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;Judi just gave me a sample of this at work. Oh my. It&amp;rsquo;s delicious. And soooo simple to make. Just oats, flax, peanutbutter, maple syrup, salt &amp;ndash; and optional chocolate chips.&lt;/p&gt;</description>
+				<guid>//localhost:8000/peanut-butter-granola-judi/</guid>
+				<description>&lt;p&gt;Judi just gave me a sample of this at work. Oh my. It&amp;rsquo;s delicious. And soooo simple to make. Just oats, flax, peanutbutter, maple syrup, salt &amp;ndash; and optional chocolate chips.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

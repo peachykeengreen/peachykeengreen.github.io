@@ -10,12 +10,11 @@ featured_image: "/images/brussels.png"
 description: "Umami Brussels Sprouts recipe."
 ---
 
-Judi's [sriracha brussels](https://peachykeengreen.blogspot.com/2016/11/spicy-roasted-brussels-sprouts.html) dish is yummy. Last night we joined Judi at True Food Kitchen, and couldn't get over their incredible [brussels with umami sauce](https://camillestyles.com/food/10-healthy-foods-that-will-help-you-feel-full-for-longer/). We also loved their [roasted cauliflower with tahini dressing](http://www.hermodernkitchen.com/roasted-mediterranean-cauliflower/) too - I now link to that from my [roasted cauliflower](https://peachykeengreen.blogspot.com/2015/05/tandori-roasted-cauliflower.html) dish - another to try!**
-[![](/images/brussels.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgomBAKczQmlxvnp2duwwyY_SIhfHgBINxyobkmLoSQJxRBPUIyUfIkU9BBrXVVU4HYG8T-ZXCVwOzGKdJiAqQnZtp_QDEM2H0Ed0fzWgU5Zl9GnCeTXxocQKHZgxyovEL_An_X3GdJyOVd/s1600/brussels.png)
+Judi's [sriracha brussels](https://peachykeengreen.blogspot.com/2016/11/spicy-roasted-brussels-sprouts.html) dish is yummy. Last night we joined Judi at True Food Kitchen, and couldn't get over their incredible [brussels with umami sauce](https://camillestyles.com/food/10-healthy-foods-that-will-help-you-feel-full-for-longer/). We also loved their [roasted cauliflower with tahini dressing](http://www.hermodernkitchen.com/roasted-mediterranean-cauliflower/) too - I now link to that from my [roasted cauliflower](https://peachykeengreen.blogspot.com/2015/05/tandori-roasted-cauliflower.html) dish - another to try!
 
-## Ingredients**
+## Ingredients
 
-1.5 pounds brussels sprouts, halved**
+1.5 pounds brussels sprouts, halved
 2 garlic cloves, chopped
 
 1/3 cup umami sauce (see below)
@@ -44,7 +43,7 @@ Judi's [sriracha brussels](https://peachykeengreen.blogspot.com/2016/11/spicy-r
 
 3 cloves garlic, mashed
 
-## Instructions**
+## Instructions
 
 If making umami sauce: add everything to food processor and mix.
 

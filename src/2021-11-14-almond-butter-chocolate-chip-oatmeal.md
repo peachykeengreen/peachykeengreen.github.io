@@ -14,16 +14,15 @@ Our pantry still has lots of oatmeal and almond butter from pandemic stockups. L
 
 ## Ingredients
 
-[![](/images/oatmeal-muffins.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh2MBB1USrMwlT32iMYrVQtEtDRuhy9xSjve5RMKzrW1-UgzFGulsKIkhCzhee5XE8Dpx3b9mA4vcvN498fe8V_DVW7nN7Z26dmlqs4fvJHiLGvk8gVo1zmTHZFLlHEPip1dhXthPuG8gz/s640/oatmeal-muffins.jpg)
-1 ripe banana
-1/4 C almond butter
-1/4 C agave or maple syrup
-1 1/4 C almond milk
-3 C rolled oats
-1 tsp baking powder
-1/2 tsp cinnamon
-1/4 tsp salt
-1/3 C chocolate chips
+- 1 ripe banana
+- 1/4 C almond butter
+- 1/4 C agave or maple syrup
+- 1 1/4 C almond milk
+- 3 C rolled oats
+- 1 tsp baking powder
+- 1/2 tsp cinnamon
+- 1/4 tsp salt
+- 1/3 C chocolate chips
 
 ## Instructions
 

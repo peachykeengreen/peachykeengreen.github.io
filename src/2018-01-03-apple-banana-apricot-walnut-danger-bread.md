@@ -10,37 +10,24 @@ featured_image: "/images/miniloaf.jpg"
 description: "Apple, Banana, Apricot, Walnut \"Danger\" Bread recipe."
 ---
 
-Larry calls this "danger bread" because he can't stop eating it :)**
+Larry calls this "danger bread" because he can't stop eating it :)
 
-Ingredients**
+## Ingredients
 
-[![](/images/miniloaf.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImAafFYmuZizhxh0cYErp6hqSAde8efvBRVJ9Ytb578fKFiUBUSJSq3nBOHngm99Q0ds6KldXAEc0CXwcYN2SsOAzLHUhe70Bvq5YQvzcinkgIHhQZDH1Ovd4BS58mu5R-KT9ss6j-_kT/s1600/miniloaf.jpg)**
+- Dry:
+- 3 cups whole wheat flour
+- 1 tsp salt
+- 2 tsp baking soda
+- 1 cup walnut pieces
+- Wet:
+- 3 medium bananas, mashed
+- 3 medium apples, chopped
+- 10 dried apricots, chopped
+- 1 cup sugar
+- 3 flax eggs (3 T flax meal, 9 T warm water)
+- 1 cup canola oil
 
-Dry:
-
-3 cups whole wheat flour
-
-1 tsp salt
-
-2 tsp baking soda
-
-1 cup walnut pieces
-
-Wet:
-
-3 medium bananas, mashed
-
-3 medium apples, chopped
-
-10 dried apricots, chopped
-
-1 cup sugar
-
-3 flax eggs (3 T flax meal, 9 T warm water)
-
-1 cup canola oil
-
-Instructions**
+## Instructions
 
 Make the flax eggs in a bowl; set aside to soak. Mash the bananas, chop the apples (I leave the skin on) and apricots, and mix them together.  Mix in the sugar, flax eggs, and oil. Then add the dry ingredients and walnuts. Stir until the flour is moistened.
 

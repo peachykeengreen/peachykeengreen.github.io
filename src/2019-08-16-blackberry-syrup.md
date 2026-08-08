@@ -10,22 +10,18 @@ featured_image: "/images/IMG_3094.JPG"
 description: "Blackberry Syrup recipe."
 ---
 
-We have SO many blackberries we can't keep up. I started putting cups and cups of them in bags in our freezer - which is getting WAY too full. I got an idea: What if I try to use up some of these by making a blackberry syrup? I found this recipe for [homemade blackberry syrup from daring gourmet](https://www.daringgourmet.com/homemade-blackberry-syrup/). Oh. My. Flying. Spaghetti. Monster. It's *incredible*. I'll NEVER complain about too many blackberries again!**
+We have SO many blackberries we can't keep up. I started putting cups and cups of them in bags in our freezer - which is getting WAY too full. I got an idea: What if I try to use up some of these by making a blackberry syrup? I found this recipe for [homemade blackberry syrup from daring gourmet](https://www.daringgourmet.com/homemade-blackberry-syrup/). Oh. My. Flying. Spaghetti. Monster. It's *incredible*. I'll NEVER complain about too many blackberries again!
 
 The following recipe (slightly adapted with a bit less sugar) makes about 1.5 cups syrup. Try it over pancakes or (vegan) ice cream! Double if you can! Oh, and put on an apron -- or wear clothes you don't mind getting stained!
 
-[![](/images/IMG_3094.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkAPwVJEAxGIo63t9Atrg3DaxQweRLklhp_afM43uPLesNx9WTNI2h7eDOp4-Dhu3WQdszfTHj_LzdNc5sVQIgke2qDlEM0hzZo6Lfr_mOluU-LAO67NmZpKXm6R-i2SKjSVA5BiJ5nJJ/s1600/IMG_3094.JPG)
+## Ingredients
 
-## Ingredients**
+- 4-5 cups blackberries (fresh or frozen)
+- 1 cup extra fine sugar
+- 1 T lemon juice
+- 1 tsp pectin
 
-4-5 cups blackberries (fresh or frozen)**
-1 cup extra fine sugar
-
-1 T lemon juice
-
-1 tsp pectin
-
-## Instructions**
+## Instructions
 
 Place the blackberries in a medium-sized pot and bring them to a boil over medium-high heat.  Once boiling, reduce the heat and simmer for 15-20 minutes until very soft and mushy.  Remove from heat and mash with a potato masher to further break up the berries.
 

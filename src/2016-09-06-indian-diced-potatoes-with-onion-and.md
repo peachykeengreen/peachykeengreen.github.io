@@ -10,41 +10,26 @@ featured_image: "/images/potatoes.jpg"
 description: "Indian Diced Potatoes with Onion and Tomatoes recipe."
 ---
 
-This potato dish is adapted from a recipe in [The Indian Vegetarian](https://www.amazon.com/Indian-Vegetarian-Neelam-Batra/dp/0028622855) cookbook by Neelam Batra, who also has a web site, [Neelam's California Indian Cuisine](http://californiaindiancuisine.com/). Thanks to my friend Munira for recommending it! I made this dish for a bbq at Judi's the other night, and she said it was blog worthy :)**
+This potato dish is adapted from a recipe in [The Indian Vegetarian](https://www.amazon.com/Indian-Vegetarian-Neelam-Batra/dp/0028622855) cookbook by Neelam Batra, who also has a web site, [Neelam's California Indian Cuisine](http://californiaindiancuisine.com/). Thanks to my friend Munira for recommending it! I made this dish for a bbq at Judi's the other night, and she said it was blog worthy :)
 
-[![](/images/potatoes.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgydARZOW1clN8FRVmGZmepuCGvDvo9fkxss2-_hG0Piu77ollhSCH1rldP-2WijPnqWf-JNy_GScJ7wqmlaM92AhmLNVQSZVJRv4Hq1QsDFMf7_Hj6DLYKYSekwWp3veja4S8OdfSACCoF/s1600/potatoes.jpg)
+## Ingredients
 
-Ingredients****
+- 5 cups diced potatoes (~8-10 small red)
+- 3 T olive oil
+- 1-2 jalepenos, chopped (the original said 5!)
+- 1 1/2 cups chopped onion
+- 2 cups finely chopped fresh tomatoes
+- 1 cup loosely packed finely chopped cilantro
+- 2 T coriander
+- 1 tsp cumin
+- 1/2 tsp paprika
+- 1 tsp salt
+- fresh ground black pepper
+- 1/2 tsp garam masala
+- 3 T chopped cilantro for garnish
+- Other vegetables as desired (I sometimes add peas or kale)
 
-5 cups diced potatoes (~8-10 small red)
-
-3 T olive oil
-
-1-2 jalepenos, chopped (the original said 5!)
-
-1 1/2 cups chopped onion
-
-2 cups finely chopped fresh tomatoes
-
-1 cup loosely packed finely chopped cilantro
-
-2 T coriander
-
-1 tsp cumin
-
-1/2 tsp paprika
-
-1 tsp salt
-
-fresh ground black pepper
-
-1/2 tsp garam masala
-
-3 T chopped cilantro for garnish
-
-Other vegetables as desired (I sometimes add peas or kale)
-
-Instructions**
+## Instructions
 
 Pre-cook the potatoes: I cut them into chunks and use a microwave steamer (5 minutes), in batches.
 

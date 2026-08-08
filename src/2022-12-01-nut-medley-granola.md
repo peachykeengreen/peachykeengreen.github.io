@@ -12,22 +12,19 @@ description: "Nut Medley Granola recipe."
 
 Laurie made an out-of-this-world granola when we visited last week. It's all nuts, plus coconut.  (Larry exclaimed, "What, granola without oats?!") This version is very keto, but of course you could add oats if you like. I might play with in the future. Serve as cereal or on yogurt!
 
-##
-[![](/images/IMG_3426.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVh8KW7juja1BfHi1cGqAPg_jKEVoyDpHT1KZxfafQXTMGr-6LSEIYM0EeXfzZ_u9wjaf0gAu4IZucwIrEmUUARoiYTnGmZBfcThTmA8_RM2dtQeWTTTSZJcB6z3AGwuzPSSXAR4whRG8ercNtwwbzp02773YP36PA7XvSPk5b8kkTuBu5H99_O8Zvg/s640/IMG_3426.jpg)
-Ingredients
+## Ingredients
 
-Toss:
-2 C shredded unsweetened coconut
-1 C sliced almonds
-1 C raw sunflower seeds
-1/2 C raw pumpkin seeds
-1/2 C walnuts
-
-Stir:
-1/2 C melted coconut oil
-2 T maple syrup (to replace 10 drops stevia; we don't like artificial sweeteners)
-1 tsp cinnamon
-1 tsp nutmeg
+- Toss:
+- 2 C shredded unsweetened coconut
+- 1 C sliced almonds
+- 1 C raw sunflower seeds
+- 1/2 C raw pumpkin seeds
+- 1/2 C walnuts
+- Stir:
+- 1/2 C melted coconut oil
+- 2 T maple syrup (to replace 10 drops stevia; we don't like artificial sweeteners)
+- 1 tsp cinnamon
+- 1 tsp nutmeg
 
 ## Instructions
 

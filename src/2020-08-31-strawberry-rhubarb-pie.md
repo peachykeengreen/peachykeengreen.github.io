@@ -14,42 +14,28 @@ I've made half a dozen [fruit pies](https://peachykeengreen.blogspot.com/2015/08
 
 If you're generous with the filling, this easily makes 2 pies.
 
-## **
-[![](/images/rhubarb.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHDY4zQJkgM6MVzf0kjel6Vu1MFqeRrPzFZVdswq0WSOLtUvtO8QjlLbn-KLEXO44nWMsDN8dZgQuX4aDuvMTzOfc152wJJKPO1uoIb0emiKzU_DQlMx-kw8JaFcOUYX4W4LBgQq9AOjTy/s640/rhubarb.jpg)
-Ingredients**
+##
 
-3 C strawberries, fresh or frozen
+## Ingredients
 
-2 stalks rhubarb, chopped (about 2-3 cups)
+- 3 C strawberries, fresh or frozen
+- 2 stalks rhubarb, chopped (about 2-3 cups)
+- 2 T flour
+- 2 T arrowroot or cornstarch
+- 1/3 C brown sugar
+- 1/3 C granulated sugar
+- 1 tsp vanilla
+- 1 T orange juice
+- Vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
+- Easier alternative crumble top:
+- 1 C flour
+- 1/4 C oats
+- 1/3 C brown sugar
+- 1/4 tsp cinnamon
+- 1/4 tsp salt
+- 6 T vegan butter (room temp)
 
-**
-
-2 T flour
-
-2 T arrowroot or cornstarch
-1/3 C brown sugar
-
-1/3 C granulated sugar
-1 tsp vanilla
-1 T orange juice
-
-Vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
-
-Easier alternative crumble top:
-
-1 C flour
-
-1/4 C oats
-
-1/3 C brown sugar
-
-1/4 tsp cinnamon
-
-1/4 tsp salt
-
-6 T vegan butter (room temp)
-
-## Instructions**
+## Instructions
 
 Cut up the rhubarb in 1/4" slices. Mix with strawberries. Mix other ingredients in a bowl, and then add the fruit and mix.
 

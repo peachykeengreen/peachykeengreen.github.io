@@ -12,24 +12,19 @@ description: "Cabbage Turmeric Coconut Soup recipe."
 
 I've been looking for more good soup recipes, and got this yummy recipe from Shelley Million. It's very easy to make, and has an earthy, yummy taste from the cumin and turmeric. The version below is just slightly adapted, including adding a small bit of onion.
 
-##
-[![](/images/cabbage.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleZyKXWxwDUvOdIyfJolflqM78gouACheiqVXqySRGG7XKBaBmDsebKLzBuf8W8rZWGc4H-8Eh5aqJpOEbL1FoRT5c5DjS8x_McJ0Ru3XONlNWrKyLsqiIZ3_ppsqTDXdoHrYDk0Nj0sCPjkhNLV9ZIRkXQI-iYAoj2qcp7GBSqBSAkI_BrvwikD9CMDE/s640/cabbage.jpg)
-Ingredients
+## Ingredients
 
-2 T oil
-1 T cumin seed
-1 head cabbage, chopped
-1/2 small onion, chopped
-2 potatoes, chopped (optional)
-2-4 cloves garlic, diced
-
-2 tsp turmeric
-1/2 tsp salt
-1/2 tsp black pepper
-
-4 C vegetable broth
-
-1/2 C cashew cream or coconut milk
+- 2 T oil
+- 1 T cumin seed
+- 1 head cabbage, chopped
+- 1/2 small onion, chopped
+- 2 potatoes, chopped (optional)
+- 2-4 cloves garlic, diced
+- 2 tsp turmeric
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 4 C vegetable broth
+- 1/2 C cashew cream or coconut milk
 
 ## Instructions
 

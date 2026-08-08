@@ -14,22 +14,20 @@ After a lovely, spur-of-the-moment hike with Judy and Robert on New Year's Day, 
 
 ## Ingredients
 
-[![](/images/tofu-cauli.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTfzgRKNjx0TVSsVlzo86nwK9iLecuu47zGSki1H8TywQfDNvD3Z8xogOdLs2fBp__yTJH19JG2X_HLu6J2UZJ4Ktfdg-WqqV95IVFhTHUPZ6opD6f4QVrhucGh9JO1dTsSrK23hhZUCsuKHgXyK1eakRv6Ap9BtM0ts0pdWQPIq2xbqEsljygvSofRw/s640/tofu-cauli.jpg)
-1 C lentils, black beluga or french green, or a mix
-1 small head cauliflower
-1 block tofu, drained and cut into 1/2-inch cubes
-1 tsp salt
-1/2 tsp pepper
-1 T canola oil
-4 scallions, thinly sliced
-
-Dressing:
-3/4 C olive oil
-1 C fresh cilantro leaves, tightly packed
-1 small serrano chili (or half a medium chili)
-Juice of 1 lime (about 1/4 C)
-1/2 tsp salt
-1/2 tsp pepper
+- 1 C lentils, black beluga or french green, or a mix
+- 1 small head cauliflower
+- 1 block tofu, drained and cut into 1/2-inch cubes
+- 1 tsp salt
+- 1/2 tsp pepper
+- 1 T canola oil
+- 4 scallions, thinly sliced
+- Dressing:
+- 3/4 C olive oil
+- 1 C fresh cilantro leaves, tightly packed
+- 1 small serrano chili (or half a medium chili)
+- Juice of 1 lime (about 1/4 C)
+- 1/2 tsp salt
+- 1/2 tsp pepper
 
 ## Instructions
 

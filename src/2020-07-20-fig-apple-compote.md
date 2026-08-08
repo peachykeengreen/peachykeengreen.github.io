@@ -12,15 +12,13 @@ description: "Fig Apple Compote recipe."
 
 So many figs! I made a[fig pie](https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html), which was pretty good, and we actually tried our hand at canning fig jam (see photos below). The result was yummy, though quite the effort and a bit sweet (so much sugar!), so I wanted to try something different, even if it meant filling my freezer instead of my pantry. I also have some apples to use up, and wondered if they might go together well. So I googled "fig apple sauce" and found several recipes for compotes. Here's my adaptation of what I found - and it was delicious! Not too sweet, and the mix of fruits is nice. I bet this (uncooked) would also make a great pie filling. Hm..... :)
 
-[![](/images/IMG_6976.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8AXdcRNPQo7sSK0Edy3GM_ZfKBaSuCjibHW-fB6t0zY2gNcLcGNs2DjrEZh6Of3tEY_sy0olbnvMnqkslYxa9o5NcAVeBzPAoX-BNYo-ivtK1LMI1sN64ZF0T9KrJ4EKjnpPwLBxHrayj/s640/IMG_6976.jpg)
-
 ## Ingredients
 
-15 fresh figs (roughly)
-2 large apples
-Juice from 1-2 lemons
-1/4 cup brown sugar
-1/2 tsp cinnamon
+- 15 fresh figs (roughly)
+- 2 large apples
+- Juice from 1-2 lemons
+- 1/4 cup brown sugar
+- 1/2 tsp cinnamon
 
 ## Instructions
 

@@ -10,27 +10,21 @@ featured_image: "/images/yogurt.jpg"
 description: "Creamy Soy Yogurt recipe."
 ---
 
-In 2020, I bought an instant pot to get the Yogurt button, and made some batches following this [blog post on soy yogurt](https://thehiddenveggies.com/best-homemade-vegan-soy-yogurt/). I also tried soaked almonds processed in my ninja blender; it was pretty good but a little gritty and more work. Oat and coconut milk did not thicken. With soy, it's critical that the milk you use has zero additives; Trader Joe's soy milk works great. Even so, it was hard to get it to be as thick as I'd like. Cooking longer - I tried up to 15 hours -- helps, but was super tangy!**
+In 2020, I bought an instant pot to get the Yogurt button, and made some batches following this [blog post on soy yogurt](https://thehiddenveggies.com/best-homemade-vegan-soy-yogurt/). I also tried soaked almonds processed in my ninja blender; it was pretty good but a little gritty and more work. Oat and coconut milk did not thicken. With soy, it's critical that the milk you use has zero additives; Trader Joe's soy milk works great. Even so, it was hard to get it to be as thick as I'd like. Cooking longer - I tried up to 15 hours -- helps, but was super tangy!
 
 My brother Jeff bought an instant pot and experimented with combinations of soy milk and thickeners (like soy flour & cornstarch) and syrup for the yeasties to eat, dissolved in the boiling milk. His winning combo then was to boil 1 qt soy milk with 4T almond flour and 2T ginger syrup, cool, add 3 TJ [probiotics](https://www.traderjoes.com/fearless-flyer/article/4852) pills, and then cook in the instant pot with water around the jars to better distribute the heat. It took almost half the time (roughly 9 hours) and was amazing - thick, creamy, and tasty! But a bit of work. After a few months, we started buying vegan yogurt (Kite Hill being our favorite), and then I transitioned to making [overnight oats](https://peachykeengreen.blogspot.com/2022/11/overnight-oats.html) instead.
 
 Then in 2025, Munira's friend Rajshree treated us to delicious thick, homemade soy yogurt. She said it was simple: the key was to have the right starter. We found [yogourmet](https://www.amazon.com/dp/B0C9R45S5K/) and after a little experimenting, this simple recipe worked great: Just bring a quart of soy milk to a boil, let cool, add yogourmet, and put in jars in the instant pot (no water needed) for 10-12 hours. Very easy and delicious. I've updated the recipe below to reflect this easy path!
 
-##
-[![](/images/yogurt.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq7t8eHJN-56ywTJnz1Gh9Z6nEa9Hf5qyZnfpLx7YBO9ga5neoGIGnk_BinbHtdFlnch6s3MKPjaUsnnKUXGSBk6Ln_OY9iM7H8nAQu85HXR2PrIFn1jxyNDaf6eo3n3TPbc38XxYCgj3v/s1600/yogurt.jpg)Ingredients**
+## Ingredients
 
-1 qt soy milk (no additives)
+- 1 qt soy milk (no additives)
+- 1 packet [yogourmet](https://www.amazon.com/dp/B0C9R45S5K/) starter
+- Toppings:
+- Berries, bananasa, walnuts, granola
+- Jam or honey if you want it sweeter
 
-1 packet [yogourmet](https://www.amazon.com/dp/B0C9R45S5K/) starter**
-
-Toppings:
-
-Berries, bananasa, walnuts, granola
-
-Jam or honey if you want it sweeter
-
-##
-Instructions**
+## Instructions
 
 Pour the soy milk into a large sauce pan. Bring to a boil and cook for a minute or two, stirring constantly. Turn off and come back in a couple of hours after it's cooled. (If there is a little skin on, I mix it in, but you could take it off.) Add the starter and stir well. Pour into glass jars of your preferred size.  Put the jars in the Instant Pot and press Yogurt. I set it for 10-12 hours; adjust as you like. More time means more less tangy (more sugar eaten up by the little yeasties).
 

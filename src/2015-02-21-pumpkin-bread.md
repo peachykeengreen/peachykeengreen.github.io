@@ -12,38 +12,23 @@ description: "Pumpkin Bread recipe."
 
 My mom's recipe, with less sugar and whole wheat flour instead of white. Really easy to make, not overly sweet, and hard to stop eating! I like to make mini loafs to give as gifts. (Like for Judi. Her family loves this, yay!)
 
-[![](/images/pumpkinbread.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY2rVyjm4Eh_HqLTooY0w0DX1IQ_a9obsVyr97QXbVQEEjiQJrxLT3JMgcTr_Pb-5hqg1tEvlQPFXcVNCAbMv7adgGwe57JLYwsmxV-YtiPvG0rWpQ1qCdaRiX2_zQRVqRDhNbsR-uH5Fc/s1600/pumpkinbread.jpg)
+## Ingredients
 
-**
+- Dry:
+- 3 1/3 cups whole wheat flour
+- 1 1/2 cups sugar
+- 1 tsp salt
+- 1 tsp cinnamon (heaping)
+- 1 tsp nutmeg (heaping)
+- 2 tsp baking soda
+- Wet:
+- 1 cup oil (I use canola)
+- 4 flax eggs (1/4 C flax meal + 3/4 C water)
+- 2/3 cup water
+- 1 15oz can cooked pumpkin (2 cups)
+- Optional: Chocolate chunks (I use Trader Joes)
 
-Ingredients**
-
-Dry:**
-3 1/3 cups whole wheat flour
-
-1 1/2 cups sugar
-
-1 tsp salt
-
-1 tsp cinnamon (heaping)
-
-1 tsp nutmeg (heaping)
-
-2 tsp baking soda
-
-Wet:
-
-1 cup oil (I use canola)
-
-4 flax eggs (1/4 C flax meal + 3/4 C water)
-
-2/3 cup water
-
-1 15oz can cooked pumpkin (2 cups)
-
-Optional: Chocolate chunks (I use Trader Joes)
-
-Instructions**
+## Instructions
 
 Preheat oven to 350 degrees. Mix all the ingredients in a bowl by hand. (Don't use a mixer; if you overmix, it will be dense and not rise properly.)
 

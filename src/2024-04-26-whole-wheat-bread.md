@@ -14,45 +14,37 @@ When we visit Robert and Judy, we often get to sample Robert's latest delicious 
 
 Notes: 1/4 tsp yeast is enough for slow rise white; Robert suggested 1/2 tsp for heavier whole wheat bread, or even1 tsp yeast if you want to try shorter rise time (e.g., 10-hour instead of 18 hr). He also adds some flax meal and tries a mix of a few different flours.
 
-## Ingredients**
+## Ingredients
 
-[![](/images/whole-wheat-bread-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhpYp5y2NheEVpiOBgBGRcEahEH4mCPJnlfu0_JChrgELRNuG2w65L2Gn4QscSnW2eXQTW-cfOtUZx4Sis4249yvT1iFet0mNozNnhG7p8vjnEa8V7fTLuyRNKMJSeewd_x3jS6z_xza5TyyRSEHPAxd0ILMhaBt_XKiFjVmmEBRObGsN7p56fhQDB5Szzn)
-
-3 C flour: at least 1/2 C white or oat, rest whole grain; for example:
-1 C white flour (or oat flour)
-1 C whole wheat flour
-1 C whole wheat or rye
-
-2 T flax meal (optional)
-1 T honey (optional, food for yeast)
-
-1/2 tsp instant or active dry yeast
-1 1/2 tsp salt
-1 5/8 C water (approximately; so the dough is wet but not sticky)
-
-For dusting:
-wheat bran
-corn meal
-rice flour
-
-Parchment paper for transfer to dutch oven
-
-optional additions to dough:
-1 C chopped walnuts, OR
-2 T finely chopped rosemary
-1 C kalamata olives
-
-Time needed: 18 hours + 2 hours + 40 min
+- 3 C flour: at least 1/2 C white or oat, rest whole grain; for example:
+- 1 C white flour (or oat flour)
+- 1 C whole wheat flour
+- 1 C whole wheat or rye
+- 2 T flax meal (optional)
+- 1 T honey (optional, food for yeast)
+- 1/2 tsp instant or active dry yeast
+- 1 1/2 tsp salt
+- 1 5/8 C water (approximately; so the dough is wet but not sticky)
+- For dusting:
+- wheat bran
+- corn meal
+- rice flour
+- Parchment paper for transfer to dutch oven
+- optional additions to dough:
+- 1 C chopped walnuts, OR
+- 2 T finely chopped rosemary
+- 1 C kalamata olives
+- Time needed: 18 hours + 2 hours + 40 min
 
 ## Instructions
 
-In a large bowl combine flour, flax meal (if using), yeast and salt. Add water until the dough is shaggy and sticky (no dry spots, but not too wet). Cover bowl with glass lid or plastic wrap. Let dough rest at least 12 hours, preferably about 18 hours**, at warm room temperature, about 70 degrees. ([Let time do the work](https://www.nytimes.com/2006/11/08/dining/08mini.html) - longer is better.) I often put the dough in the oven with the oven light on (just the right amount of heat).
+In a large bowl combine flour, flax meal (if using), yeast and salt. Add water until the dough is shaggy and sticky (no dry spots, but not too wet). Cover bowl with glass lid or plastic wrap. Let dough rest at least 12 hours, preferably about 18 hours, at warm room temperature, about 70 degrees. ([Let time do the work](https://www.nytimes.com/2006/11/08/dining/08mini.html) - longer is better.) I often put the dough in the oven with the oven light on (just the right amount of heat).
 
 Dough is ready when its surface is dotted with bubbles. Lightly flour a work surface and place dough on it; sprinkle it with a little more flour and fold it over on itself once or twice. See the [NY Times video](https://www.nytimes.com/2006/12/06/dining/06mini.html) on this page. Cover loosely with plastic wrap and let rest about 15 minutes.
 
-Using just enough flour to keep dough from sticking to work surface or to your fingers, gently and quickly shape dough into a ball. Generously coat a cotton towel with **wheat bran** or cornmeal; put dough** seam side down** **in a batard** and dust with more wheat bran or cornmeal. Cover with a cotton towel and let rise for about **2 more hours**. When it is ready, dough will be more than double in size and will not readily spring back when poked with a finger.
+Using just enough flour to keep dough from sticking to work surface or to your fingers, gently and quickly shape dough into a ball. Generously coat a cotton towel with **wheat bran or cornmeal; put dough seam side down **in a batard and dust with more wheat bran or cornmeal. Cover with a cotton towel and let rise for about **2 more hours. When it is ready, dough will be more than double in size and will not readily spring back when poked with a finger.
 
-A half-hour before dough is ready, heat oven to **450 degrees**. Put a 6-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in oven as it heats. When dough is ready, carefully remove pot from oven.
+A half-hour before dough is ready, heat oven to **450 degrees. Put a 6-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in oven as it heats. When dough is ready, carefully remove pot from oven.
 
 Place parchment paper on top of the batard and flip dough out onto paper, seam side up. Lift paper with dough and place into the dutch oven.
 

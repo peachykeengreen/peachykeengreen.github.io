@@ -10,22 +10,17 @@ featured_image: "/images/yam.jpg"
 description: "Lightly Candied Sweet Potatoes recipe."
 ---
 
-Jeff made some delicious sweet potatoes for Thanksgiving in Nebraska. We ate them so fast that a couple days later I asked him to help me make them again, and I took pictures. I made them again for Christmas, slightly tweaked to include vegan butter - a nice addition. Here's the super easy, yummy recipe!**
+Jeff made some delicious sweet potatoes for Thanksgiving in Nebraska. We ate them so fast that a couple days later I asked him to help me make them again, and I took pictures. I made them again for Christmas, slightly tweaked to include vegan butter - a nice addition. Here's the super easy, yummy recipe!
 
-## Ingredients**
+## Ingredients
 
-**[![](/images/yam.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKJ3iABPSKVUljP8RVqECzTaHSHtiPfTa_exPHUYygu5I3nQHa-zaeGcI2IxS_xaW_MaTe2EfAJk5vRv3YLfwyapVfF36i4LS_OZMYhLTTI2h8EN1FWNJveHNBkJGfmYocQvFjCpNk_ln/s1600/yam.jpg)**
+- 2 lb bag of sweet potatoes
+- 2 T vegan butter
+- 1/2 cup vegetable broth
+- 1/3 cup brown sugar (not packed)
+- salt & pepper
 
-2 lb bag of sweet potatoes**
-2 T vegan butter
-
-1/2 cup vegetable broth
-
-1/3 cup brown sugar (not packed)
-
-salt & pepper
-
-## Instructions**
+## Instructions
 
 Preheat oven to 350 degrees.
 

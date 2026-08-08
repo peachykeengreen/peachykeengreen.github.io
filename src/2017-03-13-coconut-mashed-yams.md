@@ -10,27 +10,19 @@ featured_image: "/images/coconutmashedyam.jpg"
 description: "Coconut Mashed Yams recipe."
 ---
 
-Adapted from [Chloe's Kitchen](http://chefchloe.com/books), a simple delicious dish.**
+Adapted from [Chloe's Kitchen](http://chefchloe.com/books), a simple delicious dish.
 
-[![](/images/coconutmashedyam.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiyNZTg6TypctrHFz9xweW-jCP_Afxs65jNhkRvswouVoR9cx6Cf2uCsIbvK7OpflchZLaOMJGudpnDz0b0RaTDsuc_0ARg6R4ZZe_HUi5f4olniek8iVQaQm51_JZ6kRQlmteECISA2C/s1600/coconutmashedyam.jpg)
+## Ingredients
 
-Ingredients****
+- 3 large yams, peeled, cut, roasted in oven
+- 1/2  can lite coconut milk
+- 1 T maple syrup
+- 1 t salt
+- 1/2 t cinnamon
+- 1/2 t cloves
+- 1/2 t ginger
 
-3 large yams, peeled, cut, roasted in oven
-
-1/2  can lite coconut milk
-
-1 T maple syrup
-
-1 t salt
-
-1/2 t cinnamon
-
-1/2 t cloves
-
-1/2 t ginger
-
-Instructions**
+## Instructions
 
 Peel the yams, dice, and roast in the oven with a little olive oil. (Or boil or microwave, but roasting is easy, and you can throw in some other veggies to much while you mash!)
 

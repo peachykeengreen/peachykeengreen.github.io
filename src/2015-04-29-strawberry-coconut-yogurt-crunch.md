@@ -11,18 +11,14 @@ description: "Strawberry Coconut Yogurt Crunch recipe."
 ---
 
 A super easy, yummy vegan dessert. We used to make it with Grapenuts, but then Costco had some [Love Crunch Dark Chocolate and Red Berries](http://us.naturespath.com/product/love-crunchr-dark-chocolate-red-berries) organic granola one day, and now we have another favorite topping. It's more dangerous, though, because you'll eat a few handfuls while you're preparing it! For yogurt, any vegan yogurt will do, or even [make your own vegan yogurt](http://www.happyhealthylonglife.com/happy_healthy_long_life/2013/09/yogurts-back-in-the-house.html) (maybe some day I'll try that).
-**
-[![](/images/strawberry-yogurt.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptfx3sPbbHciPWq0JAwbbHGoAu-3BINkPQ0jHqrTtCjxZ8yw1fZ1wa0OEaGFZxIVwX8oHDg3TzBFIrV2fQkNBZ1bPDCdeBpulfWAPCISQ-nzuIh-AMrb_qwjQcomtR1Kd2GkSfcPVJPjC/s1600/strawberry-yogurt.jpg)
 
-Ingredients**
-**
-Fresh strawberries (or other fresh berry/mix)
+## Ingredients
 
-Crunchy topping like Grapenuts or Love Crunch
+- Fresh strawberries (or other fresh berry/mix)
+- Crunchy topping like Grapenuts or Love Crunch
+- Vegan yogurt, like Trader Joes Vanilla Cultured Coconut Milk
 
-Vegan yogurt, like Trader Joes Vanilla Cultured Coconut Milk
-
-Instructions**
+## Instructions
 
 1. Get a pretty bowl and plop in some yogurt.
 

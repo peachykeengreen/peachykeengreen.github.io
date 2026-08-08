@@ -12,33 +12,20 @@ description: "Tunisian Eggplant Appetizer recipe."
 
 This is a South Mediterranean version of caponata, the famous Italian eggplant salad. I often double the recipe if we make it for a party, so we have leftovers at home.Thanks to Christine for the delicious recipe. Serve with pita bread (whole wheat, lightly toasted if desired) or pita chips or baguette.
 
-[![](/images/caponata.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-x1ycTTW8L28h8CHcy3OAly-0QjPmXto_15QBhYjFmsEdB_4-WnS2AoMGiccBrlyDmv5FbebLj8KPEM0FCcz_ADcMxoqukW_55CqAU-6HS8P_z-_MyhomPWvWinCYMk4lhyphenhyphentFV1j_53m/s1600/caponata.jpg)
+## Ingredients
 
-##
-Ingredients
+- 1/4 cup olive oil (or more, as needed)
+- 1 medium onion, finely chopped
+- 2 medium cloves garlic, minced
+- 1/2 tsp salt
+- 1 large eggplant, cut into 1 inch cubes
+- 3 T tomato paste
+- 1/4 cup red wine vinegar
+- 1 cup small pitted green olives
+- 1 small jar (6 ounces) marinated artichoke hearts, (drained, each piece cut into 2 or 3 smaller pieces)
+- 1/4 cup toasted pinenuts
 
-1/4 cup olive oil (or more, as needed)
-
-1 medium onion, finely chopped
-
-2 medium cloves garlic, minced
-
-1/2 tsp salt
-
-1 large eggplant, cut into 1 inch cubes
-
-3 T tomato paste
-
-1/4 cup red wine vinegar
-
-1 cup small pitted green olives
-
-1 small jar (6 ounces) marinated artichoke hearts, (drained, each piece cut into 2 or 3 smaller pieces)
-
-1/4 cup toasted pinenuts
-
-##
-Instructions
+## Instructions
 
 1. Heat the olive oil in a large skillet. Add the onion, garlic, and salt, and saute over medium heat until the onion is soft and translucent (5 to 8 minutes).
 

@@ -10,22 +10,18 @@ featured_image: "/images/bananas2.jpg"
 description: "Fried Bananas recipe."
 ---
 
-We got a batch of bananas that wasn't so tasty, so I thought hey, why don't I try to sweeten them up a bit and fry them? A quick google search found a good recipe for [fried honey bananas](http://rachelschultz.com/2013/05/15/fried-honey-bananas/) that I adapted a bit. Photo courtesy of that recipe page, because we ate them too fast to get a photo! Super easy and delicious.**
+We got a batch of bananas that wasn't so tasty, so I thought hey, why don't I try to sweeten them up a bit and fry them? A quick google search found a good recipe for [fried honey bananas](http://rachelschultz.com/2013/05/15/fried-honey-bananas/) that I adapted a bit. Photo courtesy of that recipe page, because we ate them too fast to get a photo! Super easy and delicious.
 
-[![](/images/bananas2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguAIShWtQHnR5-_QlEWmyA0NJ58_nG2Zspa5_EkV661pEXQciSkbaQCQV2hO99AysDQA28aBMEHB7maxBbBlFCXDUZAqB46GtTY8lGP5nyplBpuTPzeqSphsoqP_EWVkrZqZesUwC5Dgie/s1600/bananas2.jpg)Ingredients****
-2 bananas, slightly under-ripened, sliced
+## Ingredients
 
-1-2 T maple or agave syrup
+- 2 bananas, slightly under-ripened, sliced
+- 1-2 T maple or agave syrup
+- 2 T water
+- olive oil
+- cinnamon
+- shredded coconut (optional, but yum!)
 
-2 T water
-
-olive oil
-
-cinnamon
-
-shredded coconut (optional, but yum!)
-
-Instructions**
+## Instructions
 
 Drizzle a little olive oil in a skillet over medium heat. Arrange banana slices in pan and cook for a couple of minutes on each side.
 

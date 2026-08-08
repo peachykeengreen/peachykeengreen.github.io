@@ -12,43 +12,25 @@ description: "Fried Chickn Salad recipe."
 
 During the pandemic, I ordered some [soy curls](https://butlerfoods.com/index.html) and made fake chick'n nuggets out of of them, adapting this "[chicken" soy curl salad](https://blog.fatfreevegan.com/2019/06/spicy-vegan-fried-chicken-soy-curls.html). It was quite good! But it's much easier to buy fake chick'n from the store.The recipe for soy curl chick'n is at the bottom, in case you're inspired to try,  but nowadays I just buy and bake fake chick'n nuggets from Trader Joe's and cut those up over the salad. Delish.
 
-##
-[![](/images/chicknsalad.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcxP8VMWCKrf86Te1aoKIgWIixErCHSVWhm-eEnLPN3oGcrkgDhPJBKONw_R6EvIpNtDJMKz9-duok-kNJ15uMnWLNDZjvbY3S329s2pCXfWnM_qDgQzJcnPDKq0S8fsePPdmBasFId30/s640/chicknsalad.jpg)
-Ingredients
+## Ingredients
 
-Fake chick'n, like TJ's fake nuggets, baked and cooled
-
-Lettuce
-
-Mix of veggies, like:
-
-Tomatoes
-
-Cucumber
-
-Radish
-
-Carrots
-
-Sprouts
-
-Bell pepper
-
-Black olives (sliced)
-
-Ranch dressing:
-
-3 T vegan mayo
-
-1 T non-dairy milk
-
-2 tsp vinegar
-
-1 tsp poppy seed
-
-a few chives, chopped (optional)
-
-1 tsp dill
+- Fake chick'n, like TJ's fake nuggets, baked and cooled
+- Lettuce
+- Mix of veggies, like:
+- Tomatoes
+- Cucumber
+- Radish
+- Carrots
+- Sprouts
+- Bell pepper
+- Black olives (sliced)
+- Ranch dressing:
+- 3 T vegan mayo
+- 1 T non-dairy milk
+- 2 tsp vinegar
+- 1 tsp poppy seed
+- a few chives, chopped (optional)
+- 1 tsp dill
 
 ## Instructions
 

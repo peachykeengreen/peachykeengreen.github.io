@@ -11,44 +11,32 @@ description: "French Green Lentil Soup recipe."
 ---
 
 A delicious lentil soup that Larry's sisters Laurie and Cyndy discovered. It's particularly good with real French Green Lentils, but green lentils from Trader Joes is also delish.
-[![](/images/lentilsoup.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxlMZ_dOnQmN4oqI9xLXhPmrMmSFmfUd1cMOsypXVXnC5qLBYN-t1_HXrTdSfNVbFX4I2gNACZkO2DGRV9F7nHR43UVGvICQeCiCcpiP6V4TsIBwcMKd2H6YlX8CpimR_IFXwbyYRvNReJ/s1600/lentilsoup.jpg)
 
-## **Ingredients**
+## Ingredients
 
-1 onion, chopped
+- 1 onion, chopped
+- 1/2 tsp red pepper flakes
+- 2 T canola oil
+- 3 carrots, diced
+- 3 stalks celery, chopped
+- 3 cloves garlic, minced
+- 1 14 oz crushed or diced tomatoes
+- 2 cups dry green lentils
+- 6 cups veggie broth
+- 2 cups greens (kale, spinach, cabbage), chopped
+- 2 T white balsamic vinegar
+- Spices:
+- 1 tsp dried oregano
+- 1 bay leaf
+- 1 tsp dried basil
+- salt to taste
 
-1/2 tsp red pepper flakes**
-2 T canola oil
-3 carrots, diced
-3 stalks celery, chopped
-3 cloves garlic, minced
-
-1 14 oz crushed or diced tomatoes
-
-2 cups dry green lentils
-
-6 cups veggie broth
-2 cups greens (kale, spinach, cabbage), chopped
-
-2 T white balsamic vinegar
-
-Spices:****
-1 tsp dried oregano
-
-1 bay leaf
-
-1 tsp dried basil
-
-salt to taste
-
-## Instructions**
+## Instructions
 
 In large soup pot, cook onion, pepper, carrots, and celery in oil until onion is tender.
-
-**
 
 Stir in garlic and spices and cook another 3-5 minutes.
 
 Add tomato, lentils, broth, and greens. Bring to a boil, reduce heat, and simmer 30 minutes.
 
-When ready to serve, stir in** **vinegar** (important, this is delish!)
+When ready to serve, stir in **vinegar (important, this is delish!)

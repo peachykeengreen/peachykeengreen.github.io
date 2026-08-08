@@ -10,23 +10,17 @@ featured_image: "/images/IMG_0137.jpg"
 description: "Puff Pastry Mini Tarts recipe."
 ---
 
-Larrys's sister Cyndy made these for our long-weekend get-together; easy and yummy.**
+Larrys's sister Cyndy made these for our long-weekend get-together; easy and yummy.
 
-Ingredients****
+## Ingredients
 
-[![](/images/IMG_0137.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9kWinliBYw7wlcKLRHSmYvoPYc-8a0Jj08PE7kMQM8MNcRlJNjF9I29x7e9FsUvTYk55mG7ljqeJlV685RnuwS7tQnjbjIRrWHgMATVJ3vJ93D_wGsRE2RbgEvC22gAYl6NnQRMOHIXS8/s1600/IMG_0137.jpg)**
+- 1 box Pepperidge Farm Puff Pastry (17 oz)
+- 2 cups fresh or frozen berries
+- 2 T water
+- 1/4 tsp cinnamon
+- 1 tsp chia seeds or tapioca (to gel a bit)
 
-1 box Pepperidge Farm Puff Pastry (17 oz)**
-
-2 cups fresh or frozen berries
-
-2 T water
-
-1/4 tsp cinnamon
-
-1 tsp chia seeds or tapioca (to gel a bit)
-
-Instructions**
+## Instructions
 
 In a pan, heat fruit and water on medium. Once bubbling, reduce heat and simmer 5-10 minutes, mixing frequently. Add cinnamon and chia or tapioca, mix, and let cool.
 

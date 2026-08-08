@@ -10,56 +10,35 @@ featured_image: "/images/vegan-chicken-pot-pie-img-1.jpg"
 description: "Chick'n Pot Pie recipe."
 ---
 
-We ate at [Vegenation](https://vegenationlv.com/) in Las Vegas during our Southwest vacation, and their Chicken Pot Pie Gnocchi was amazing! The Chicky Chicky Bang Bang sandwich came in a close second, followed by the Strawberry Crepes and Lemon Merengue Tart. But oh, the pot pie. It was a comfort food for Larry growing up. For one of our early dates, I made Chicken Pot Pie Nouveau for Larry from the New Basics cookbook; it used pearl onions, snap peas, sliced carrots, fresh rosemary, and puff pastry. I've wanted to make it again - and now I can! Below is an adapted version of a [recipe inspired by vegenation pot pie](https://www.vegederrian.com/recipes/vegan-chicken-pot-pie-gnocchi). Larry's sisters Cyndy and Laurie made this when we visited from Vegas a few days later. Serve with garlic bread! (Shown here with delicious [wild rice salad](https://peachykeengreen.blogspot.com/2016/11/wild-rice-salad-with-apples-and-walnuts.html).)**
+We ate at [Vegenation](https://vegenationlv.com/) in Las Vegas during our Southwest vacation, and their Chicken Pot Pie Gnocchi was amazing! The Chicky Chicky Bang Bang sandwich came in a close second, followed by the Strawberry Crepes and Lemon Merengue Tart. But oh, the pot pie. It was a comfort food for Larry growing up. For one of our early dates, I made Chicken Pot Pie Nouveau for Larry from the New Basics cookbook; it used pearl onions, snap peas, sliced carrots, fresh rosemary, and puff pastry. I've wanted to make it again - and now I can! Below is an adapted version of a [recipe inspired by vegenation pot pie](https://www.vegederrian.com/recipes/vegan-chicken-pot-pie-gnocchi). Larry's sisters Cyndy and Laurie made this when we visited from Vegas a few days later. Serve with garlic bread! (Shown here with delicious [wild rice salad](https://peachykeengreen.blogspot.com/2016/11/wild-rice-salad-with-apples-and-walnuts.html).)
 
-## Ingredients**
+## Ingredients
 
-[![](/images/vegan-chicken-pot-pie-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEh9vhiiksfLeQ45iFSCPfTeBrD0FTzp1GF2FWfYK6TpBlCrzdD8wi_QhA7bDcA4PEcbrDRS8FvTCiSwmVVkzh10tosGc_JX5BvmtdLOTKx-4EmW_Ys1F4BbgSyTH6cFpAKL9LuRYEPqAi_RNVds-i911aEBrURgVuoXL26tqLL5w3R9wFmS-8wAwvUly9fJ)
-1 large onion, diced**
-4 stalks celery, diced
+- 1 large onion, diced
+- 4 stalks celery, diced
+- 10 oz mushrooms, washed and sliced
+- 1 large potato, diced
+- 2 T canola oil
+- Liquids:
+- 1/2 cup flour
+- 2 T arrowroot
+- 1 cup water
+- 3 cups veggie broth
+- 1/2 cup plant-based milk
+- Seasoning:
+- 4 T nutritional yeast
+- 1 tsp black pepper
+- 1 tsp salt
+- 2 tsp dried thyme
+- 2 tsp dried sage (or 4T fresh)
+- 2 tsp Kirkland 21 spice seasoning (optional)
+- 1 bag frozen peas & carrots
+- 1 C fake chicken, cut in large chunks
+- ([Gardein](https://www.gardein.com/products/chickn-strips/), or TJs [chick'n tenders](https://www.cookinglight.com/news/vegan-chicken-tenders-trader-joes-lightlife) or [crispy tenders](https://www.fooducate.com/app#!page=product&id=C22457CA-D3E0-11E1-956E-1231381BA074) work)
+- Optional (but recommended): Pie crust
+- Notes: The original recipe at Veganation used gnocchi, but I prefer potatoes (easier, healthier). Cyndy also found this was great inside of a pie crust; I tried it and agree; we always do pie crust now; sometimes mini pies (in ramekins), sometimes regular pies.
 
-10 oz mushrooms, washed and sliced
-
-1 large potato, diced
-
-2 T canola oil
-
-Liquids:
-
-1/2 cup flour
-2 T arrowroot
-
-1 cup water
-
-3 cups veggie broth
-
-1/2 cup plant-based milk
-
-Seasoning:
-
-4 T nutritional yeast
-
-1 tsp black pepper
-
-1 tsp salt
-
-2 tsp dried thyme
-
-2 tsp dried sage (or 4T fresh)
-
-2 tsp Kirkland 21 spice seasoning (optional)
-
-1 bag frozen peas & carrots
-
-1 C fake chicken, cut in large chunks
-
-  ([Gardein](https://www.gardein.com/products/chickn-strips/), or TJs [chick'n tenders](https://www.cookinglight.com/news/vegan-chicken-tenders-trader-joes-lightlife) or [crispy tenders](https://www.fooducate.com/app#!page=product&id=C22457CA-D3E0-11E1-956E-1231381BA074) work)
-
-Optional (but recommended): Pie crust
-
-Notes: The original recipe at Veganation used gnocchi, but I prefer potatoes (easier, healthier). Cyndy also found this was great inside of a pie crust; I tried it and agree; we always do pie crust now; sometimes mini pies (in ramekins), sometimes regular pies.
-
-## Instructions**
+## Instructions
 
 Saute onion, potato, and celery about 6 minutes. Add mushrooms and cook a few more more minutes. Mix flour and arrowroot and water into a slurry. Add liquids (slurry, broth, and milk), bring to a boil, and simmer 5 minutes.
 

@@ -12,32 +12,27 @@ description: "Upside Down Cake (Pineapple or Kumquat!) recipe."
 
 Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Marilyn's frozen kumquats (which had thawed out during our 2.5 day power outage). Omg, it was one of the best cakes I've had. Rick did a mashup of this [non-vegan kumquat upside down cake](https://familyspice.com/kumquat-upside-down-cake) and this [vegan pineapple upside down cake](https://lovingitvegan.com/vegan-pineapple-upside-down-cake/ ). Definitely use a cast iron skillet if you have one; I think it makes a difference (and I bought a 10" skillet just for this recipe!) If you don't have kumquats, try with pineapple or another citrus-y fruit!
 
-##
-[![](/images/cake.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8x8EUZCeEEBv5hyphenhyphen88h12v-SG-KmXO1gHbz6VU_Kr7KEm-JgTTAJ5pPszXA-sMbgwhMEDRynb11SuSl0y3M3i8sjNi-1gJP32zJ_OB9rCT-1E6-_SznHUDl6D8_ieJKMC2D9DBol2sMOPhlHo5XoFaVmXEMeaMz8wuHBabbClK0BMoIQQsCuaFwllYdS19/s640/cake.jpg)
-Ingredients
+## Ingredients
 
-Topping:
-2 T vegan butter (original was 4; reduced)
-2 T brown sugar, packed
-6 slices of pineapple (1/4" thick) OR 20 kumquats (seed removed), sliced 1/4" thick, OR mix of mango and pineapple chunks
-
-Dry mix:
-1 3/4 C flour
-3/4 C sugar (original was 1 C; reduced)
-1 tsp baking soda
-1/2 tsp salt
-
-Wet:
-1 pineapple ring or 6 kumquats (seeds removed), diced finely
-3/4 C non-dairy milk (almond or oat)
-1/4 C pineapple juice (or kumquat juice)
-2 tsp vanilla
-1/3 cup vegetable oil
-1 T apple cider vinegar
-
-Optional rum glaze:
-1 T rum
-1/2 C powdered sugar
+- Topping:
+- 2 T vegan butter (original was 4; reduced)
+- 2 T brown sugar, packed
+- 6 slices of pineapple (1/4" thick) OR 20 kumquats (seed removed), sliced 1/4" thick, OR mix of mango and pineapple chunks
+- Dry mix:
+- 1 3/4 C flour
+- 3/4 C sugar (original was 1 C; reduced)
+- 1 tsp baking soda
+- 1/2 tsp salt
+- Wet:
+- 1 pineapple ring or 6 kumquats (seeds removed), diced finely
+- 3/4 C non-dairy milk (almond or oat)
+- 1/4 C pineapple juice (or kumquat juice)
+- 2 tsp vanilla
+- 1/3 cup vegetable oil
+- 1 T apple cider vinegar
+- Optional rum glaze:
+- 1 T rum
+- 1/2 C powdered sugar
 
 ## Instructions
 

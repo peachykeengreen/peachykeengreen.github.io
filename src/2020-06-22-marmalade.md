@@ -12,21 +12,14 @@ description: "Marmalade recipe."
 
 Every year we have so many oranges! They're more difficult to give away this year given COVID... we give to a few neighbors and friends, but I can't take them to the office and hand them out like in past years. An abundance of pears lead to [ginger pear sauce](https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html) and too many fingers led to [candied buddha's hands](https://peachykeengreen.blogspot.com/2020/01/candied-buddhas-hand-citron.html)... so doh, why not try my hand at marmalade? After skimming several recipes on the web, I decided to adapt this [orange lemon marmalade recipe](https://www.culinaryhill.com/orange-marmalade-recipe/) slightly to use less sugar and more oranges. It's just a little tart, and really delicious! The neighbors loved it. One request from Kurt & Pete: Cut the rinds into even smaller pieces.
 
-##
-[![](/images/IMG_5816.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF28RIICmdr_M6LEnz2Oj_2T4F5Tp-w0_VSfIrKddong_KffpcxJlKmnG-pXilF0VzP4wC-DONAMfQ4ycaGQvk8hdk7q_uHtrRPwNNQgwN77vKjXppmHU-pUyY5jgeasKJLoepkSIL51Vs/s640/IMG_5816.jpg)
-Ingredients
+## Ingredients
 
-5-6 oranges
-
-rinds from another 2-3 oranges
-
-rinds from 2 lemons
-
-1 lime (all of it if it's small, or just rinds)
-
-8 C water
-
-6 C sugar
+- 5-6 oranges
+- rinds from another 2-3 oranges
+- rinds from 2 lemons
+- 1 lime (all of it if it's small, or just rinds)
+- 8 C water
+- 6 C sugar
 
 ## Instructions
 

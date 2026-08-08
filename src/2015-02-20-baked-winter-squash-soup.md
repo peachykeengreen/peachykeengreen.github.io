@@ -12,27 +12,19 @@ description: "Baked Winter Squash Soup recipe."
 
 A wonderful squash soup that I like especially with Buttercup squash, a big green squash with a thin skin that you can leave on and puree with everything else! Kabochas are also great. Butternut isn't worth too; too bland. I'll bake a big squash and store it in the fridge for a day or two sometimes; then making the soup from it is quick.
 
-[![](/images/squashsoup.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1PbF8_Cbkd2k65b1P8r7i3O7un9Sa_jZ48eaWauMiM4RLhb-IFbIV8PnWooiWG9Ec4oeW3FL5OXjVPGZpUP0HDGY7uupGVzFSQ4ryATxiJcdm8IsIi7XTe0IwCp0RDy3AToCTTxT5zRO/s1600/squashsoup.jpg)
-
 ## Ingredients
 
-1 hot pepper, diced
-
-1" grated ginger (or 1 tsp ground)
-
-5-6 pounds winter squash (buttercup or kabocha)
-1 large onion, diced
- 2 carrots, diced
-
-6 T vegan margarine (like Earth Balance)
-
-6 tsp brown sugar
-5-8 C vegetable broth (adjust per thickness)
-
-1/2 tsp nutmeg (optional)
-
-1 tsp curry (optional)
- salt, to taste
+- 1 hot pepper, diced
+- 1" grated ginger (or 1 tsp ground)
+- 5-6 pounds winter squash (buttercup or kabocha)
+- 1 large onion, diced
+- 2 carrots, diced
+- 6 T vegan margarine (like Earth Balance)
+- 6 tsp brown sugar
+- 5-8 C vegetable broth (adjust per thickness)
+- 1/2 tsp nutmeg (optional)
+- 1 tsp curry (optional)
+- salt, to taste
 
 ## Instructions
 

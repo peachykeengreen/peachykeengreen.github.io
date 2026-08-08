@@ -10,13 +10,12 @@ featured_image: "/images/blueberry-pancakes.jpg"
 description: "Jeff's Blueberry Pancakes recipe."
 ---
 
-Jeff texted us (siblings) a photo of his blueberry pancake dinner. It looked delicious, so I called him for the recipe! He made it up (of course),  and says that yeast pancakes -- and these in particular -- are the best he's ever had. And they are SUPER healthy. (Yay, more spermidine from wheat germ.) So I added them to my blog so that I'll make them! Makes 12 pancakes.**
-[![](/images/blueberry-pancakes.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibxnzlbUm3KMQ04Vx2fqL2Y3Ne9I1BGAGhYIegXQ1DrGCAjJYjiLklhW544ea4oWhzAM0JMiPpcu9jYFQS_02mN4XA4me6RifwCzbNJZDkuSdYEGYENcqxzGAOrsuqsc4zDCtfDQDO-UJY/s1600/blueberry-pancakes.jpg)
+Jeff texted us (siblings) a photo of his blueberry pancake dinner. It looked delicious, so I called him for the recipe! He made it up (of course),  and says that yeast pancakes -- and these in particular -- are the best he's ever had. And they are SUPER healthy. (Yay, more spermidine from wheat germ.) So I added them to my blog so that I'll make them! Makes 12 pancakes.
 
-## Ingredients **
+## Ingredients
 
-1 cup whole wheat flour**
-4 T wheat germ, ground into flour
+- 1 cup whole wheat flour
+- 4 T wheat germ, ground into flour
 
 1.5 C soy milk
 
@@ -24,7 +23,7 @@ Jeff texted us (siblings) a photo of his blueberry pancake dinner. It looked del
 
 12 oz blueberries
 
-## Instructions**
+## Instructions
 
 Mix the flour and wheat germ.
 

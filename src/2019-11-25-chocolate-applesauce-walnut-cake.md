@@ -10,56 +10,35 @@ featured_image: "/images/bundt.jpg"
 description: "Chocolate Applesauce Walnut Cake recipe."
 ---
 
-A vegan variation on a cake recipe by my college roommate Elizabeth, with orange promoted to a primary flavor -- increasing the zest in the cake from 1/2 tsp to at least a tablespoon, and adding a very zesty orange glaze. Yum! Larry loved it. And as cakes go, it's fairly healthy, with whole wheat flour, apples, and walnuts as main ingredients and not much oil.**
+A vegan variation on a cake recipe by my college roommate Elizabeth, with orange promoted to a primary flavor -- increasing the zest in the cake from 1/2 tsp to at least a tablespoon, and adding a very zesty orange glaze. Yum! Larry loved it. And as cakes go, it's fairly healthy, with whole wheat flour, apples, and walnuts as main ingredients and not much oil.
 
-## Ingredients**
+## Ingredients
 
-[![](/images/bundt.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjddDDO1RZMZgIh3uwmregtSDu6wuzgZzEJn6Qtu0go0DdyDbNnyWRuIX5QK2x3gBMt4-neC8kd4HXuZtCHQtt13UBq6A_0kjvNQeKhddGNMP9I7y0Vd1IDTiI1HsJPn7YcAy7pJIV6T2_/s1600/bundt.jpg)Wet:**
-1/2 cup soft vegan butter (or oil is ok)
+- Wet:
+- 1/2 cup soft vegan butter (or oil is ok)
+- 1 1/4 cup brown sugar
+- 2 flax eggs (2 T flaxmeal, 6 T water)
+- 3/4 cup dairy-free milk + 1 tsp vinegar
+- 2 cups applesauce OR pureed apple
+- 1 tsp vanilla
+- 1 T grated orange or tangerine rind
+- Dry:
+- 3 cup whole wheat flour, or a mix of whole grains
+- 1/2 cup unsweetened cocoa
+- 1/2 tsp salt
+- 2 tsp baking powder
+- 1 tsp soda
+- 1 tsp cinnamon
+- 1/2 tsp allspice
+- 1/2 tsp nutmeg
+- 1+ cup chopped walnuts
+- Glaze (optional)
+- 1 cup powdered/confectioners sugar
+- 1+ tsp orange zest (I like more!)
+- 2+ T orange juice
+- (additional water, as needed)
 
-1 1/4 cup brown sugar
-
-2 flax eggs (2 T flaxmeal, 6 T water)
-
-3/4 cup dairy-free milk + 1 tsp vinegar
-
-2 cups applesauce OR pureed apple
-
-1 tsp vanilla
-
-1 T grated orange or tangerine rind
-
-Dry:
-
-3 cup whole wheat flour, or a mix of whole grains
-
-1/2 cup unsweetened cocoa
-
-1/2 tsp salt
-
-2 tsp baking powder
-
-1 tsp soda
-
-1 tsp cinnamon
-
-1/2 tsp allspice
-
-1/2 tsp nutmeg
-
-1+ cup chopped walnuts
-
-Glaze (optional)
-
-1 cup powdered/confectioners sugar
-
-1+ tsp orange zest (I like more!)
-
-2+ T orange juice
-
-(additional water, as needed)
-
-## Instructions**
+## Instructions
 
 Preheat the oven to 350 degrees. Butter and flour cake pan.
 

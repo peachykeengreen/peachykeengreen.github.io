@@ -13,27 +13,23 @@ description: "Cashew Cream Sauces recipe."
 The best things I've learned so far from a 2-week [Purple Carrot](https://www.purplecarrot.com/) trial are (1) the surprising fun and beauty of layering items on beds of other items, (2) using a peeler to make zucchini ribbons (delicious tossed in a little lime and salt and used as a raw topping, like for soba), and (3) easy, flavorful cashew cream sauces that pull the dish together. Two (of the six) meals in the trial -- [Smoky Portabello Tacos](https://www.purplecarrot.com/plant-based-recipes/smoky-portobello-tacos-with-jalapeno-cashew-sauce-spanish-rice) and [Roasted Sweet Potatoes with Spicy Cashew Sauce](https://www.purplecarrot.com/plant-based-recipes/roasted-sweet-potatoes-with-spicy-cashew-sauce-kraut)  -- both had really good cashew cream sauces. These two were my favorite meals (partly because of the tasty sauce!) and they were the easiest to make, too. Photos and recipes below! See also [How to Make Cashew Cream](https://www.loveandlemons.com/cashew-cream/).
 
 ## Ingredients
-[![](/images/IMG_1826.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eU_fiLud_99qEZHfVC_QRSX3GrJyOFmpjdrQgeiSzddoKNIEVOxR_eRHRJa5HEjTN8ySY0sL8p98RtOsGI39dvHULIw1OyiLKzpuIoeO3KSE8bVlaiUm-Mu3wnqooAUSbvD_QsAQ26UyuxzGiMXoN0Xvw0eP4FvsTm6tlc2f-C-rNGhRgRz-Ut2csw/s640/IMG_1826.jpg)
 
-Jalapeno Cashew Sauce:
-1/3 C cashews
-2 garlic cloves
-1 lime, juiced
-1 jalapeno, deseeded and roughly chopped
-
-Serve on: Corn tortillas topped with Spanish rice, sliced portabellos sautéed in a little soy sauce and liquid smoke, diced scallion, sliced radish, and shredded purple cabbage
-
-Spicy Cashew Sauce:
-1/3 C cashews
-2 garlic cloves
-2 T rice vinegar
-2 tsp agave
-1 tsp tamari/soy sauce
-1 tsp pepper flakes
-2 T olive oil
-3 T water
-
-Serve with: Roasted yams served on a bed of sautéed chard, topped with sauce and cashew pieces
+- Jalapeno Cashew Sauce:
+- 1/3 C cashews
+- 2 garlic cloves
+- 1 lime, juiced
+- 1 jalapeno, deseeded and roughly chopped
+- Serve on: Corn tortillas topped with Spanish rice, sliced portabellos sautéed in a little soy sauce and liquid smoke, diced scallion, sliced radish, and shredded purple cabbage
+- Spicy Cashew Sauce:
+- 1/3 C cashews
+- 2 garlic cloves
+- 2 T rice vinegar
+- 2 tsp agave
+- 1 tsp tamari/soy sauce
+- 1 tsp pepper flakes
+- 2 T olive oil
+- 3 T water
+- Serve with: Roasted yams served on a bed of sautéed chard, topped with sauce and cashew pieces
 
 ## Instructions
 

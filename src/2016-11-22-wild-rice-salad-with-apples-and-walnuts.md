@@ -12,35 +12,21 @@ description: "Wild Rice Salad with Apples and Walnuts recipe."
 
 Larry's sister Cyndy made this for us a decade or more ago, and then made it again for Thanksgiving this year, which reminded me how delicious it is!
 
-[![](/images/IMG_4555.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7ApfRF3OIUKtDcRB0nfOg4NBD7MYk_LRoqjL7u3s2a7J3ziSoyFYOb0cKtHkJ0YgrNzW-gjP0tPwfXD3TGGuETw9ft8s5Asf2YoTsi6BpaAPAszZJLeMLbbcWIwmqHM5aYVyQdBxF26t/s1600/IMG_4555.JPG)
-
 ## Ingredients
 
-1 C wild rice, dry
-
-1 C chopped walnuts
-
-1 C golden raisins
-
-1 large apple, cored & diced
-
-1-2 celery ribs, sliced
-
-grated rind of lemon
-
-4 scallions thinly sliced
-
-dressing:
-
-3 T lemon juice
-
-2 cloves garlic
-
-1/2 tsp salt
-
-fresh ground black pepper
-
-1/3 C olive oil
+- 1 C wild rice, dry
+- 1 C chopped walnuts
+- 1 C golden raisins
+- 1 large apple, cored & diced
+- 1-2 celery ribs, sliced
+- grated rind of lemon
+- 4 scallions thinly sliced
+- dressing:
+- 3 T lemon juice
+- 2 cloves garlic
+- 1/2 tsp salt
+- fresh ground black pepper
+- 1/3 C olive oil
 
 ## Instructions
 

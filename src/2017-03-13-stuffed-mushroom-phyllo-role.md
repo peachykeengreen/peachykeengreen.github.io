@@ -10,44 +10,27 @@ featured_image: "/images/phyllo.jpg"
 description: "Stuffed Mushroom Phyllo Role recipe."
 ---
 
-Larry brought in some cabbage and kale leaves from the garden, and I thought I'd try a new recipe. This is adapted from a mix of [Spinach & Mushroom Mini Vegan Puff Pastry Quiche](http://www.connoisseurusveg.com/spinach-mushroom-mini-vegan-puff-pastry-quiche/) and Oh She Glows [Stuffed Mushroom Phyllo Roll](http://ohsheglows.com/2011/08/23/stuffed-mushroom-phyllo-roll-mango-kale-salad/).**
+Larry brought in some cabbage and kale leaves from the garden, and I thought I'd try a new recipe. This is adapted from a mix of [Spinach & Mushroom Mini Vegan Puff Pastry Quiche](http://www.connoisseurusveg.com/spinach-mushroom-mini-vegan-puff-pastry-quiche/) and Oh She Glows [Stuffed Mushroom Phyllo Roll](http://ohsheglows.com/2011/08/23/stuffed-mushroom-phyllo-roll-mango-kale-salad/).
 
-Ingredients****
+## Ingredients
 
-[![](/images/phyllo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2-dsX54BqIUbWgZ8kfWXyZIlEyYeuysaXKr0pQFzaeACqtjQIQL0sDN4HvTorMg3OOcYW7XQLJ0n7CU9gqXArpCjauNzDWDEV6_4nWOjgiMoGFIWVTy4F4dB3lJgvH23dG6BNWpXl0gfk/s1600/phyllo.jpg)**
+- 1 sheet vegan puff pastry (about 8 oz.), thawed if frozen
+- 1 cup shredded [Daiya cheese](http://daiyafoods.com/)
+- OR tofu mix:
+- 1 lb. extra firm tofu, drained
+- 1 T soy sauce
+- 2 T lemon juice
+- 2 T nutritional yeast
+- black pepper to taste
+- saute:
+- 1 T olive oil
+- 3 cups finely chopped mushrooms
+- 1 onion, diced
+- 2 garlic cloves, minced
+- 4 cups finely chopped greens
+- sundried tomatoes to taste (optional)
 
-**
-1 sheet vegan puff pastry (about 8 oz.), thawed if frozen
-
-1 cup shredded [Daiya cheese](http://daiyafoods.com/)
-
-OR tofu mix:
-
-1 lb. extra firm tofu, drained
-
-1 T soy sauce
-
-2 T lemon juice
-
-2 T nutritional yeast
-
-black pepper to taste
-
-saute:
-
-1 T olive oil
-
-3 cups finely chopped mushrooms
-
-1 onion, diced
-
-2 garlic cloves, minced
-
-4 cups finely chopped greens
-
-sundried tomatoes to taste (optional)
-
-Instructions**
+## Instructions
 
 If not using Daiya cheese, use the tofu mix: Place tofu, soy sauce, lemon juice, nutritional yeast and pepper into food processor and blend until smooth.
 

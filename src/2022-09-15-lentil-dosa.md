@@ -14,15 +14,14 @@ Munira is visiting from Texas, yay! We biked over with some [fig banana bread](h
 
 Rough measurements for ingredients follow (of course no actual measuring was done :)
 
-## Ingredients[![](/images/lentil-dosa-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjKoCfgPHQ6aQUKukU5ZWvfP9ilrowFh7CESPIr8VVX7SgcNIpUclaDTIszx4mpgP6SgNNrT-yTiMWh04gf0oaJDgOTml5bW2HEuViNCVnG46aBOr1BkSdVA1nX4XFHmWDAlPviXoKKrhLv--TJ5uTdsVUFrXRGFPQptiQEFW-bbKmOx6MI8oSprcwfBw)
+## Ingredients
 
-A mix of dry lentils, such as:
-1/2 C red lentils
-1/2 C green lentils
-2/3 C urad dal
-2/3 C channa dal
-1 tsp salt (or to taste)
-Water (for rinsing & soaking)
+- 1/2 C red lentils
+- 1/2 C green lentils
+- 2/3 C urad dal
+- 2/3 C channa dal
+- 1 tsp salt (or to taste)
+- Water (for rinsing & soaking)
 
 ## Instructions
 

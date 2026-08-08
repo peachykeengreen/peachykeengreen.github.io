@@ -15,39 +15,23 @@ um!
 
 ## Ingredients
 
-[![](/images/lemon-cake-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgAwX1ulbG_cGw25w1wn7O602SGcEUHOJFvPS8-2j7-u9ZuqAXieB6-cw2jV9AwNP7FSgrXj-f5tq8cqVUFiIfXOxbEsvReSRvJo2No_qRS8iRdYVmWfvUIsiRvpawuvbideX_xdMvQVg0VK6cwlMv-3W2BY_ZwrBF_-wKC26Ax3COST1QLOChCtaNfkH7-)
-Dry:
-
-2 2/3 C flour
-
-1 1/2 C sugar
-
-1 1/2 tsp baking soda
-
-3/4 tsp salt
-
-Wet:
-
-1 1/3 C non-dairy milk
-
-1/2 C canola oil
-
-zest of 3 lemons
-
-juice of 3 lemons
-
-1 tsp vanilla
-
-Frosting:
-4 C powdered sugar
-
-1/2 C vegan butter
-
-1/4 C vegan cream cheese (optional)
-
-3 T lemon juice
-
-zest of one lemon
+- Dry:
+- 2 2/3 C flour
+- 1 1/2 C sugar
+- 1 1/2 tsp baking soda
+- 3/4 tsp salt
+- Wet:
+- 1 1/3 C non-dairy milk
+- 1/2 C canola oil
+- zest of 3 lemons
+- juice of 3 lemons
+- 1 tsp vanilla
+- Frosting:
+- 4 C powdered sugar
+- 1/2 C vegan butter
+- 1/4 C vegan cream cheese (optional)
+- 3 T lemon juice
+- zest of one lemon
 
 ## Instructions
 

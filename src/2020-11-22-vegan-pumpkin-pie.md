@@ -23,29 +23,20 @@ A super easy, yummy vegan pumpkin pie, great for using up that 2-pack of Wholly 
 
 ## Ingredients
 
-[![](/images/IMG_8077.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFI94-eUZLEtpkLDIt61SIlR37FrXwMMvREyqBQV9yBnA8QoZsmycJKLAZ9PSX5yneiVCl-dmmm8_f3DOdcAyzz9MYBT1NO9WqE1Ytx4ZHTm12k9y1YD7amWoUgRUFMf7MqhsSyAk2XmQu/)
-Filling:
-
-1 15 ounce can pumpkin puree
-   or 2 cups cooked pumpkin or sweet potato
-
-1 1/2 tsp cinnamon
- 1 tsp ginger
- 1/2 tsp nutmeg
-
-1/4 tsp cloves
-
- 1/4 tsp salt
-
-1/3 C brown sugar or maple syrup (or half each)
-1 T canola oil
-
-2/3 C almond, oat, or coconut milk
-2 T arrowroot or cornstarch
-
-1 T oat flour
-
- Pie crust: We like [Wholly Wholesome crusts or shells](https://www.blogger.com/#), or make a [homemade vegan crust](https://www.blogger.com/#).
+- Filling:
+- 1 15 ounce can pumpkin puree
+- or 2 cups cooked pumpkin or sweet potato
+- 1 1/2 tsp cinnamon
+- 1 tsp ginger
+- 1/2 tsp nutmeg
+- 1/4 tsp cloves
+- 1/4 tsp salt
+- 1/3 C brown sugar or maple syrup (or half each)
+- 1 T canola oil
+- 2/3 C almond, oat, or coconut milk
+- 2 T arrowroot or cornstarch
+- 1 T oat flour
+- Pie crust: We like [Wholly Wholesome crusts or shells](https://www.blogger.com/#), or make a [homemade vegan crust](https://www.blogger.com/#).
 
 ##  Instructions
 

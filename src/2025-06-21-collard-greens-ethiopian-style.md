@@ -12,19 +12,17 @@ description: "Collard Greens, Ethiopian Style recipe."
 
 Our friend Elsa has a bounty of collard greens, and invited us over to harvest. I got an Ethiopian cookbook called Teff Love a few years ago, and haven't used it yet; Ethiopian collards (called gomen) are one of my favorites. So I decided to give it a try, merging a couple of recipes in the book, making some adaptations based on what I had on hand, and it turned out really well!
 
-##
-[![](/images/collard-greens-ethiopian-style-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiBu7oxGOnBUfeGKFztsVp-7LHBh4wtEwTL6xnMHUq5_-91NEKBMU2MvzTlnfS8TuF9jRmO_SFX5pNSwIsDUet5dNKCqFvGmBWAtuuGqxsVeOSjoV2CGiGQHcPepSoGmGN5msY06IRm0ESGyuqO7YQeTMYprKVWsHqDWWW3Nn0G4S-FXpGJl9Q-axb_5brm)
-Ingredients
+## Ingredients
 
-1-2 lbs collard greens, washed, ribbed, and finely chopped
-1 T oil
-1 red onion, thinly sliced
-1/4 tsp salt
-4 clove garlic, minced
-1 tsp ginger, grated or minced
-1 tsp Ethiopian berbere spice (or a mix of cumin, coriander, cardamom)
-1/2 C vegetable stock
-1 carrot, thinly sliced and cut into half moons
+- 1-2 lbs collard greens, washed, ribbed, and finely chopped
+- 1 T oil
+- 1 red onion, thinly sliced
+- 1/4 tsp salt
+- 4 clove garlic, minced
+- 1 tsp ginger, grated or minced
+- 1 tsp Ethiopian berbere spice (or a mix of cumin, coriander, cardamom)
+- 1/2 C vegetable stock
+- 1 carrot, thinly sliced and cut into half moons
 
 ## Instructions
 

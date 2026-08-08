@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article>
+<article class="recipe-single">
   <div class="recipe-single-header">
     <div class="recipe-single-categories">
       {{ range .Params.categories }}
@@ -8,20 +8,47 @@
     </div>
     <h1 class="recipe-single-title">{{ .Title }}</h1>
     <div class="recipe-single-meta">
-      Published on <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>
-      {{ if ne .Date .Lastmod }}
-        | Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "January 02, 2006" }}</time>
-      {{ end }}
+      <div class="recipe-single-meta-text">
+        Published on <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>
+        {{ if ne (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02") }}
+          | Updated on <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "January 02, 2006" }}</time>
+        {{ end }}
+      </div>
+      <button onclick="window.print();" class="btn-print-icon" aria-label="Print Recipe" title="Print Recipe">🖨️</button>
     </div>
   </div>
 
-  <div class="recipe-action-bar">
-    <button onclick="window.print();" class="btn-print">🖨️ Print Recipe</button>
-    <a href="/" class="button btn-print">&larr; Back to Recipes</a>
-  </div>
+  {{- $content := .Content -}}
+  {{- if in $content "<h2 id=\"ingredients\"" -}}
+    {{- $parts := split $content "<h2 id=\"ingredients\"" -}}
+    {{- $intro := index $parts 0 -}}
+    {{- $recipe := print "<h2 id=\"ingredients\"" (index $parts 1) -}}
 
-  <div class="content">
-    {{ .Content }}
-  </div>
+    {{- if ne (trim ($intro | plainify) " \n\r\t") "" -}}
+      <div class="content recipe-intro">
+        {{ $intro | safeHTML }}
+      </div>
+    {{- end -}}
+
+    {{- with $.Params.featured_image -}}
+    <div class="recipe-single-featured-wrapper">
+      <img src="{{ . }}" alt="{{ $.Title }}" class="recipe-single-featured-img" />
+    </div>
+    {{- end -}}
+
+    <div class="content recipe-body">
+      {{ $recipe | safeHTML }}
+    </div>
+  {{- else -}}
+    {{- with $.Params.featured_image -}}
+    <div class="recipe-single-featured-wrapper">
+      <img src="{{ . }}" alt="{{ $.Title }}" class="recipe-single-featured-img" />
+    </div>
+    {{- end -}}
+
+    <div class="content">
+      {{ $content | safeHTML }}
+    </div>
+  {{- end -}}
 </article>
 {{ end }}

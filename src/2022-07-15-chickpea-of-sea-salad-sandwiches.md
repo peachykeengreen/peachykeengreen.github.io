@@ -14,22 +14,20 @@ Our grape vines are prolific, but the grapes are teeeeeeny. Larry's sister Cyndy
 
 ## Ingredients
 
-[![](/images/chickpea-of-sea-salad-sandwiches-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEje1yIDlJU2jB-AMUxrrHP2gDy-LVFFKqTko3yDnpf8ZUWTd65dvch9VnU9hP6gXL3B9dyDmDywKGm_imBTxApfBp1bb1yR_ncarWykLFKKXht3FjBCgetyQkpEyZmBNjVuEcsAcTRd4jHXT26tFY8Iif-EN-nbw-kwzbclW4qb7UaIWfkzln1TA2YLFw)
-1 can (14 oz) garbanzo beans, drained and rinsed
-Zest of 1 lemon
-Juice of 1/2 lemon
-1/3 C vegan mayo
-1/3 C celery, chopped
-1/4 C red onion, chopped
-1/2 tsp garlic powder
-1/2 tsp pepper
-1/4 tsp cayenne or chili powder
-
-optional:
-2 crushed or shopped nori sheets (seaweed)
-1 T chia seeds or hemp hearts (for some omega 3)
-1/3 C grapes
-1/4 C chopped dill pickle (or dill relish)
+- 1 can (14 oz) garbanzo beans, drained and rinsed
+- Zest of 1 lemon
+- Juice of 1/2 lemon
+- 1/3 C vegan mayo
+- 1/3 C celery, chopped
+- 1/4 C red onion, chopped
+- 1/2 tsp garlic powder
+- 1/2 tsp pepper
+- 1/4 tsp cayenne or chili powder
+- optional:
+- 2 crushed or shopped nori sheets (seaweed)
+- 1 T chia seeds or hemp hearts (for some omega 3)
+- 1/3 C grapes
+- 1/4 C chopped dill pickle (or dill relish)
 
 ## Instructions
 

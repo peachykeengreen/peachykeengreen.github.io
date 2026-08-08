@@ -14,30 +14,24 @@ Purple Carrot's [Crispy Sheet Pan Tofu](https://www.purplecarrot.com/plant-base
 
 ## Ingredients
 
-1/2 C dry grains (mix of lentils, rice, quinoa)
-
-[![](/images/sheetpan.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEFYE_CmgvjnLlx8FmethvoHLMSYqNDKanQRP9cAismcnL1H2yEv9-QikrobIL-51XwN5WY4VZizRPhKCG0a7HMQHl0Sh256VpsA3G6dJaRyst9i0gzYApMonAQHwZO9lRE1akh_fBO65Zjajs39Pxg_oi4CegSYOEKAa_n_97cWM5Nn0yWXNgvun1vVUA/s640/sheetpan.jpg)
-OR make [mujadara](https://peachykeengreen.blogspot.com/2022/09/mujadara.html) (yum!)
-
-6 oz green beans
-6 oz broccoli florets
-Other veggies as desired (mushroom, peppers, etc.)
-
-16 oz extra firm tofu, pressed & drained
-
-1 tsp coriander
-1 T canola oil
-pinch salt and pepper
-lemon zest
-(other spices, like garlic and red pepper flakes, as desired)
-
-miso dressing:
-2 T lemon juice
-1/4 C hemp seeds (optional)
-1 T white miso paste
-1 tsp sesame seeds
-1 T olive oil
-3 T water
+- 1/2 C dry grains (mix of lentils, rice, quinoa)
+- OR make [mujadara](https://peachykeengreen.blogspot.com/2022/09/mujadara.html) (yum!)
+- 6 oz green beans
+- 6 oz broccoli florets
+- Other veggies as desired (mushroom, peppers, etc.)
+- 16 oz extra firm tofu, pressed & drained
+- 1 tsp coriander
+- 1 T canola oil
+- pinch salt and pepper
+- lemon zest
+- (other spices, like garlic and red pepper flakes, as desired)
+- miso dressing:
+- 2 T lemon juice
+- 1/4 C hemp seeds (optional)
+- 1 T white miso paste
+- 1 tsp sesame seeds
+- 1 T olive oil
+- 3 T water
 
 ## Instructions
 

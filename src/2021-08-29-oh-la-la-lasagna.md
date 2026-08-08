@@ -14,27 +14,21 @@ The [Impossible Lasagna](https://peachykeengreen.blogspot.com/2021/01/impossible
 
 ## Ingredients
 
-[![](/images/IMG_9771.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq13qkHwsrYQjSoKraIPLmtmPnT4-xtwB14aOmqe37bW5zN8xxgrSUDRB-v6q7s6UGMdn_oeMC0xv2sSAqldRmkRTJVN8hLbPkEzYjy50F7Uts32V9iWLPWOQ3Cry1fyU_zxhvTjyuDWVO/s640/IMG_9771.jpg)
-
-50 oz marinara (I like Rao's)
-9 oz box no-boil lasagna noodles
-
-Veggies:
-
-5 oz spinach
-10 oz mushrooms, sliced
-zucchini, sliced (optional)
-
-Garden Ricotta:
-
-1 medium onion, chopped
-3 cloves garlic, chopped
-14-ounce firm tofu
-2 T of lemon juice
-1/2 tsp of salt
-1 1/2 tsp freshly ground black pepper
-3 C of fresh basil
-1 T white miso (optional; I don't always have it)
+- 50 oz marinara (I like Rao's)
+- 9 oz box no-boil lasagna noodles
+- Veggies:
+- 5 oz spinach
+- 10 oz mushrooms, sliced
+- zucchini, sliced (optional)
+- Garden Ricotta:
+- 1 medium onion, chopped
+- 3 cloves garlic, chopped
+- 14-ounce firm tofu
+- 2 T of lemon juice
+- 1/2 tsp of salt
+- 1 1/2 tsp freshly ground black pepper
+- 3 C of fresh basil
+- 1 T white miso (optional; I don't always have it)
 
 ## Instructions
 

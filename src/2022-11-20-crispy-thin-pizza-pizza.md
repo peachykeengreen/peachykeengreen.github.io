@@ -11,37 +11,25 @@ description: "Pita Pizza recipe."
 ---
 
 Visiting Munira in Dallas, we made our favorite homemade pizza using [Trader Joe's Whole Wheat Pita](http://www.traderjoesreviews.com/product/trader-joes-whole-wheat-pita-bread-reviews/) Bread. They make a nice crispy crust, and it's a super easy way to make tasty personal size pizzas (no slicing required). Use your favorite veggies, and optionally top with sauteed tofu, our new favorite addition (recommended by brother Jeff -- thank you!). Note that you can use [pesto](https://peachykeengreen.blogspot.com/2015/01/classic-vegan-pesto.html) in place of tomato sauce as a base for some of them if you want more variety, and let people make/top their own pizzas for some fun.
-[![](/images/crispy-thin-pizza-pizza-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhSFlgsh-7JKM25Ckn4Ocb-iebWVv-A8qddqy63sflgO_xBQpVvuL_KPGP0wZZlKbtB40SmRG1F99ziQb5GDsmvytjaNVDL02VJmDEIRfvjxDKskuJpOKjNPQ3UftVh1i35Zxp_s0KPHc0pu0LQ0UGc-rQ7lJB52x1uGwRefEKNYX5KqOcpTDG-ljqicg)
 
 ## Ingredients
 
-TJ's Whole Wheat Pita Bread
-1 jar tomato sauce (we use Rao)
-1 package firm tofu (drained/pressed)
-
-2 T oil
-
-3 cloves garlic, diced
-
-1 C fresh basil leaves
-
-1 T dried oregano or italian spice mix
-
-2 tsp red pepper flakes
-
-1 small can olives, sliced
-
-Your favorite mix of chopped vegetables, like:
-
-Onion (1 large or 2 small), sliced
-
-Mushrooms, sliced
-Bell pepper, sliced
-Squash or eggplant, sliced in half moons
-
-Spinach leaves
-
-Tomatos, sliced
+- TJ's Whole Wheat Pita Bread
+- 1 jar tomato sauce (we use Rao)
+- 1 package firm tofu (drained/pressed)
+- 2 T oil
+- 3 cloves garlic, diced
+- 1 C fresh basil leaves
+- 1 T dried oregano or italian spice mix
+- 2 tsp red pepper flakes
+- 1 small can olives, sliced
+- Your favorite mix of chopped vegetables, like:
+- Onion (1 large or 2 small), sliced
+- Mushrooms, sliced
+- Bell pepper, sliced
+- Squash or eggplant, sliced in half moons
+- Spinach leaves
+- Tomatos, sliced
 
 ## Instructions
 

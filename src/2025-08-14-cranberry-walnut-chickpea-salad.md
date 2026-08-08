@@ -12,22 +12,18 @@ description: "Cranberry Walnut Chickpea Salad recipe."
 
 Cyndy made this salad for us during a visit. It has a great mix of sweetness, heartiness, and crunch. Beautiful and delicious!
 
-[![](/images/cranberry-walnut-chickpea-salad-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiDp6KhEDwnOr4e5hxqEpjTe_u_-qCmlhJfTlRciYzzb-IldrGo6vwAyaE0H8RqDk8Xm-dN7jQh54ulJA6Nih1JjcC0k5oRYtj9Dq120r0FeQ8p5WulLZz4742pjTQlHhy0RFc0TVSYgUh31XP_ZzYKmy-kuYMhu9P7KADJ5p-8-UsC-fdUS8eLghNJx-tA)
-
 ## Ingredients
 
-1 can drained chickpeas
-1 C fresh spinach, chopped into ribbons
-1/2 C dried cranberries
-1/2 C walnuts, finely chopped
-1/2 C red onion, very thinly sliced
-
-Vinaigrette:
-
-1/4 C olive oil
-1/3 C orange juice
-1 1/2 T maple syrup
-pepper to taste
+- 1 can drained chickpeas
+- 1 C fresh spinach, chopped into ribbons
+- 1/2 C dried cranberries
+- 1/2 C walnuts, finely chopped
+- 1/2 C red onion, very thinly sliced
+- Vinaigrette:
+- 1/4 C olive oil
+- 1/3 C orange juice
+- 1 1/2 T maple syrup
+- pepper to taste
 
 ## Instructions
 

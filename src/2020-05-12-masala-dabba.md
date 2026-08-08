@@ -14,4 +14,3 @@ Munira brought back a [masala dabba](https://www.spicekitchenuk.com/blogs/news/1
 
 Thank you SO much, Munira!
 
-[![](/images/Dabba.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQl23_vstEUt8acaixXDkqYes0eezvWY3jYZE-cmJXCi7jfJzQQghX2hb_DLeU8ljy6Lhvb_TlY1Dv3vDpAX8JHvCBmi7G2QwRv266z4uteMc2ZHb4-Urm_rFv1jbIsvB77DpZIyhjk8xx/)

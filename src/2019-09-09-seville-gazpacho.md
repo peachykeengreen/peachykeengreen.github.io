@@ -10,29 +10,21 @@ featured_image: "/images/gazpacho.png"
 description: "Seville Gazpacho recipe."
 ---
 
-Last month we went for a walk on the beach near Half Moon Bay, where Larry proposed 22 years ago. Along the way, we came across a small tapas place and had some *delicious* gazpacho. Googling for a good recipe, I came across this [Best Gazpacho](https://cooking.nytimes.com/recipes/1017577-best-gazpacho) in the New York Times that looks just like what we had. I tried this with a regular green pepper, sherry vinegar, some scallions and tomatoes from our garden, and cucumber from our neighbor Elsa's garden. We used our Ninja blender, didn't strain it, and only chilled 15 minutes. It was delish!**
-[![](/images/gazpacho.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkgt7qs8Yd6o7B-w_9ght2F0AUdW-ynyBWAjnx5WxJ3CAVBJaWkKgo_GhREo8uoX-i4XZDYZkukXFRMG-1tIb0PJ_OFnBABT6ppuKjsOa18UZ04kj7qd5GuQe6JSBFXFSpleGToo_aPqXh/s1600/gazpacho.png)
+Last month we went for a walk on the beach near Half Moon Bay, where Larry proposed 22 years ago. Along the way, we came across a small tapas place and had some *delicious* gazpacho. Googling for a good recipe, I came across this [Best Gazpacho](https://cooking.nytimes.com/recipes/1017577-best-gazpacho) in the New York Times that looks just like what we had. I tried this with a regular green pepper, sherry vinegar, some scallions and tomatoes from our garden, and cucumber from our neighbor Elsa's garden. We used our Ninja blender, didn't strain it, and only chilled 15 minutes. It was delish!
 
-## Ingredients**
+## Ingredients
 
-2 pounds ripe red tomatoes**
-1 long, light green pepper (e.g., cubanelle) if you can get it - or a regular green bell pepper is ok
+- 2 pounds ripe red tomatoes
+- 1 long, light green pepper (e.g., cubanelle) if you can get it - or a regular green bell pepper is ok
+- 1 cucumber, about 8 inches long, partly peeled
+- 1 small mild onion (white or red)
+- 2 cloves garlic
+- 1 tsp salt (some may want more)
+- 1/2 tsp cumin (optional!)
+- 2 tsp sherry vinegar (or substitute with a sweet white, apple, or rice wine vinegar)
+- 1/3 C extra-virgin olive oil
 
-1 cucumber, about 8 inches long, partly peeled
-
-1 small mild onion (white or red)
-
-2 cloves garlic
-
-1 tsp salt (some may want more)
-
-1/2 tsp cumin (optional!)
-
-2 tsp sherry vinegar (or substitute with a sweet white, apple, or rice wine vinegar)
-
-1/3 C extra-virgin olive oil
-
-## Instructions**
+## Instructions
 
 Cut tomatoes, pepper, cucumber, and onion into rough chunks. Combine tomatoes, pepper, cucumber, onion and garlic in food processor or blender (we have a Ninja blender and that's perfect!) Blend at high speed until very smooth, at least 2 minutes, scraping sides.
 

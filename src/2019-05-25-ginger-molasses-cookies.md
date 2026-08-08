@@ -10,40 +10,26 @@ featured_image: "/images/IMG_2341.jpg"
 description: "Ginger Molasses Crinkles recipe."
 ---
 
-I made these cookies to bring to Munira & Vinod's for dinner because I know they love ginger. The recipe is a cross between my grad roommate Elizabeth's Molasses Crinkles and Vegan with a Vengeance's Sparkled Ginger Cookies. I put in more ginger than called for in either. They were really good! But Munira said add *more* ginger - and use fresh ginger! Don't be shy. (Elizabeth's had 1 tsp dry ginger; Vengeance had 3 tsp; I tried 2 tsp dry + 2 T ginger paste, and then later, just changed to using all fresh grated ginger!). Makes about 3 dozen cookies. Sometimes I double it and freeze some (as formed raw cookie dough dipped in sugar) to bake later.**
+I made these cookies to bring to Munira & Vinod's for dinner because I know they love ginger. The recipe is a cross between my grad roommate Elizabeth's Molasses Crinkles and Vegan with a Vengeance's Sparkled Ginger Cookies. I put in more ginger than called for in either. They were really good! But Munira said add *more* ginger - and use fresh ginger! Don't be shy. (Elizabeth's had 1 tsp dry ginger; Vengeance had 3 tsp; I tried 2 tsp dry + 2 T ginger paste, and then later, just changed to using all fresh grated ginger!). Makes about 3 dozen cookies. Sometimes I double it and freeze some (as formed raw cookie dough dipped in sugar) to bake later.
 
-[![](/images/IMG_2341.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQmiGoo7cQylzQhVw0dm5BCyPE-EVzxUJHYXXZ0CQ-s1mBH_T_iOgch22kvQPfZLfPk2Fkw3COBfts3uiBKnA1XytbS5Z0hjZblnjZ9rnQQ8vo5vPoogcmaqJfJBVZX_yx0bMJDXi-seI9/s1600/IMG_2341.jpg)
+## Ingredients
 
-## Ingredients**
+- 2 C flour
+- 2 tsp baking soda
+- 1/4 tsp salt
+- 1 tsp cinnamon
+- 1/2 tsp cloves
+- Wet:
+- 3+ T fresh grated ginger (or 3 tsp ground)
+- 1/2 C canola oil or vegan butter
+- 1/4 C molasses
+- 1/4 C soy or almond milk
+- 1 C brown sugar
+- 1 tsp vanilla extract
+- Topping:
+- granulated sugar (coarse if you have it)
 
-2 C flour**
-2 tsp baking soda
-
-1/4 tsp salt
-
-1 tsp cinnamon
-
-1/2 tsp cloves
-
-Wet:
-
-3+ T fresh grated ginger (or 3 tsp ground)
-
-1/2 C canola oil or vegan butter
-
-1/4 C molasses
-
-1/4 C soy or almond milk
-
-1 C brown sugar
-
-1 tsp vanilla extract
-
-Topping:
-
-granulated sugar (coarse if you have it)
-
-## Instructions**
+## Instructions
 
 Preheat oven to 350. Mix dry ingredients. In a separate bowl, mix together wet ingredients. Combine the two and mix well. Chill dough (optional).
 

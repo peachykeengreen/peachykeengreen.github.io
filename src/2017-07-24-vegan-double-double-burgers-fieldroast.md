@@ -10,53 +10,33 @@ featured_image: ""
 description: "Vegan Double-Double Burgers & Field Roast Sausages recipe."
 ---
 
-Judi reminded me that we made these burgers with special sauce from [Chloe's Kitchen](https://www.amazon.com/Chloes-Kitchen-Delicious-Recipes-Making/dp/1451636741) recipes a couple of years ago and they were yummy. So I decided to make them for a summer BBQ this year. They were great! They are my favorite burgers now (with the sauce, they are amazing), although Larry likes the [black bean carrot burgers](http://peachykeengreen.blogspot.com/search/label/bbq) a little more.  I also sautéed red & yellow pepper and a red onion, with a little garlic, to top of Italian Field Roast sausages. Oh my, that made them so much better. Got that idea from Judi & Nick, and the video, below, of Chloe & Roberto making Vegan Double-Double Burgers and Field Roast Sausage w/Peppers & Onion:**
+Judi reminded me that we made these burgers with special sauce from [Chloe's Kitchen](https://www.amazon.com/Chloes-Kitchen-Delicious-Recipes-Making/dp/1451636741) recipes a couple of years ago and they were yummy. So I decided to make them for a summer BBQ this year. They were great! They are my favorite burgers now (with the sauce, they are amazing), although Larry likes the [black bean carrot burgers](http://peachykeengreen.blogspot.com/search/label/bbq) a little more.  I also sautéed red & yellow pepper and a red onion, with a little garlic, to top of Italian Field Roast sausages. Oh my, that made them so much better. Got that idea from Judi & Nick, and the video, below, of Chloe & Roberto making Vegan Double-Double Burgers and Field Roast Sausage w/Peppers & Onion:
 
 I used tempeh (as in Chloe's book's recipe) and lentils from Trader Joes that were slightly spiced (in vacuum packaging, sold in produce area). Makes 8-10 single burgers.
 
-Ingredients**
+## Ingredients
 
-2 T canola oil
+- 2 T canola oil
+- 1 onion, chopped
+- 2 cloves garlic, chopped
+- 1 8 oz package tempeh, steamed (8 oz pkg at Trader Joes)
+- 1 15 oz package cooked lentils (17 oz pkg at Trader Joes)
+- 1/2 cup flour
+- 1 cup walnuts, toasted
+- 1 tsp dried basil
+- 1 tsp salt
+- 1 tsp ground pepper
+- Special sauce:
+- 1/4 C vegan mayo
+- 1 clove garlic
+- 1 T mustard
+- 1 T ketchup
+- 1 T agave or maple syrup
+- 1/2 tsp salt
+- 2 T pickle relish
+- 1 T chopped fresh dill
 
-1 onion, chopped
-
-2 cloves garlic, chopped
-
-1 8 oz package tempeh, steamed (8 oz pkg at Trader Joes)
-
-1 15 oz package cooked lentils (17 oz pkg at Trader Joes)
-
-1/2 cup flour
-
-1 cup walnuts, toasted
-
-1 tsp dried basil
-
-1 tsp salt
-
-1 tsp ground pepper
-
-**
-
-Special sauce:
-
-1/4 C vegan mayo
-
-1 clove garlic
-
-1 T mustard
-
-1 T ketchup
-
-1 T agave or maple syrup
-
-1/2 tsp salt
-
-2 T pickle relish
-
-1 T chopped fresh dill
-
-Instructions**
+## Instructions
 
 Steam the tempeh for 10 minutes, in microwave steamer or on the stove. Saute onion in oil until lightly brown; add garlic and saute a couple more minutes. Take off stove and let cool.
 

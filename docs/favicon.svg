@@ -1,3 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <text y=".9em" font-size="90">🌱</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <style>
+    .combine-body { fill: #e53935; stroke: #c62828; stroke-width: 2; }
+    .combine-cab { fill: #81d4fa; fill-opacity: 0.85; stroke: #0288d1; stroke-width: 1.5; }
+    .combine-detail { fill: #f57c00; }
+    .combine-wheel { fill: #333333; stroke: #1a1a1a; stroke-width: 2; }
+    .combine-wheel-rim { fill: #e0e0e0; }
+    .combine-reel { stroke: #e53935; stroke-width: 3; fill: none; }
+    .combine-arm { stroke: #c62828; stroke-width: 3; fill: none; }
+    
+    @media (prefers-color-scheme: dark) {
+      .combine-body { fill: #ff5252; stroke: #ff8a80; }
+      .combine-cab { fill: #b3e5fc; fill-opacity: 0.9; stroke: #41b6e6; }
+      .combine-wheel { fill: #e0e0e0; stroke: #ffffff; }
+      .combine-wheel-rim { fill: #424242; }
+      .combine-reel { stroke: #ff5252; }
+      .combine-arm { stroke: #ff8a80; }
+    }
+  </style>
+
+  <!-- Reel / Header at front left -->
+  <circle cx="22" cy="64" r="13" class="combine-reel" />
+  <line x1="22" y1="51" x2="22" y2="77" class="combine-reel" />
+  <line x1="9" y1="64" x2="35" y2="64" class="combine-reel" />
+  <line x1="13" y1="55" x2="31" y2="73" class="combine-reel" />
+  <line x1="13" y1="73" x2="31" y2="55" class="combine-reel" />
+  <path d="M 22 64 L 40 58 L 47 64" class="combine-arm" />
+
+  <!-- Main Combine Body -->
+  <path d="M 35 44 L 82 44 L 87 70 L 35 70 Z" class="combine-body" />
+  <path d="M 48 26 L 76 26 L 80 44 L 44 44 Z" class="combine-body" />
+
+  <!-- Cab Window -->
+  <path d="M 37 30 L 52 30 L 52 44 L 37 44 Z" class="combine-cab" />
+
+  <!-- Grain Tank & Exhaust -->
+  <rect x="58" y="18" width="17" height="9" rx="2" class="combine-detail" />
+  <rect x="76" y="14" width="3.5" height="14" fill="#616161" />
+
+  <!-- Large Front Wheel -->
+  <circle cx="46" cy="72" r="13" class="combine-wheel" />
+  <circle cx="46" cy="72" r="5" class="combine-wheel-rim" />
+
+  <!-- Rear Wheel -->
+  <circle cx="78" cy="74" r="9" class="combine-wheel" />
+  <circle cx="78" cy="74" r="3.5" class="combine-wheel-rim" />
 </svg>

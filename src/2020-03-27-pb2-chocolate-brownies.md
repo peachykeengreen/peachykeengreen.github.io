@@ -10,36 +10,24 @@ featured_image: "/images/pb2-brownies-focus.jpg"
 description: "PB2 Chocolate Brownies recipe."
 ---
 
-Thinking about alternatives to my (limited) flour as we go shopping less during the pandemic, I recalled that I have two big jars of PB2 (powdered peanut butter) that have been in my cupboard for awhile. Googling brought up several lists of [healthy](https://dailyburn.com/life/recipes/powdered-peanut-butter-pb2-recipes/) [PB2](https://legionathletics.com/healthy-pb2-recipes/) [recipes](https://www.weightwatchers.com/us/blog/food/peanut-butter-powder-pb2-recipes) including some [PB2 Flourless Chocolate Brownies](https://www.skinnytaste.com/pb2-flourless-chocolate-brownies/#_a5y_p=1556183). I played with the recipe and made a few changes. In particular, it worked best for me with half PB2 and half flour, sugar in place of honey, and fewer chocolate chips. (And of course flaxmeal in place of eggs!). It's really yummy and not too sweet!**
+Thinking about alternatives to my (limited) flour as we go shopping less during the pandemic, I recalled that I have two big jars of PB2 (powdered peanut butter) that have been in my cupboard for awhile. Googling brought up several lists of [healthy](https://dailyburn.com/life/recipes/powdered-peanut-butter-pb2-recipes/) [PB2](https://legionathletics.com/healthy-pb2-recipes/) [recipes](https://www.weightwatchers.com/us/blog/food/peanut-butter-powder-pb2-recipes) including some [PB2 Flourless Chocolate Brownies](https://www.skinnytaste.com/pb2-flourless-chocolate-brownies/#_a5y_p=1556183). I played with the recipe and made a few changes. In particular, it worked best for me with half PB2 and half flour, sugar in place of honey, and fewer chocolate chips. (And of course flaxmeal in place of eggs!). It's really yummy and not too sweet!
 
-##
-[![](/images/pb2-brownies-focus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0i-7McLZk9LwGjdIh-8Z9JAxkuJJGehoSL3ZjbZGHSXOPLm9CV9NevSwSCM8eYVRpbNWgJL_e72pE5KQVx6UD7-1Na8zk6BwT45p9A2QVDGh9dvbyAdiG0M-umUFRrASR5Di_qA9KSHZT/s1600/pb2-brownies-focus.jpg)Ingredients**
+## Ingredients
 
-Dry:**
-1/2 C powdered peanut butter
+- Dry:
+- 1/2 C powdered peanut butter
+- 1/2 C flour
+- 1/2 cup cocoa powder
+- 1 tsp baking soda
+- 1/4 tsp salt
+- Wet:
+- 1 flax egg (1 T flaxmeal, 3 T water)
+- 1/3 cup sugar
+- 1 C plus 1T water
+- 1 tsp vanilla
+- 1/3 to 1/2 C chocolate chips (1/4 cup is too little, I found!)
 
-1/2 C flour
-
-1/2 cup cocoa powder
-
-1 tsp baking soda
-
-1/4 tsp salt
-
-Wet:
-
-1 flax egg (1 T flaxmeal, 3 T water)
-
-1/3 cup sugar
-
-1 C plus 1T water
-
-1 tsp vanilla
-
-1/3 to 1/2 C chocolate chips (1/4 cup is too little, I found!)
-
-##
-Instructions**
+## Instructions
 
 Preheat oven to 325 degrees. Grease a 8x8 or 9x9 pan with vegan butter.
 

@@ -12,9 +12,7 @@ description: "Royal Eggplant (Baingan Bharta) recipe."
 
 [
 ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg)[![](/images/bengan.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg)
-
-[
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg)[
 ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg)[
 ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg)[
 ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg)
@@ -22,27 +20,25 @@ Another recipe adapted from a recipe in [The Indian Vegetarian](https://www.blo
 
 ## Ingredients
 
- 2 medium eggplants (1 pound each)
- 2 T canola oil
- 1 T cumin seeds
- 1 tsp fenugreek seeds (optional)
- 2 tsp minced garlic
- 1 T (1 inch) minced fresh ginger
- 1 1/2 C red onion, chopped
- 1 1/2 C fresh tomato, chopped or 1 can diced
- 1/2 - 1 C chopped cilantro
- 1 small hot green or red pepper
- Optional: 1 cup fresh peas
-
- spices:
- 1 tsp paprika
- 1 tsp tumeric
- 1 tsp salt
-
- optional:
- 1/4 tsp cinnamon
- 1/4 tsp cloves
- 1/4 tsp nutmeg
+- 2 medium eggplants (1 pound each)
+- 2 T canola oil
+- 1 T cumin seeds
+- 1 tsp fenugreek seeds (optional)
+- 2 tsp minced garlic
+- 1 T (1 inch) minced fresh ginger
+- 1 1/2 C red onion, chopped
+- 1 1/2 C fresh tomato, chopped or 1 can diced
+- 1/2 - 1 C chopped cilantro
+- 1 small hot green or red pepper
+- Optional: 1 cup fresh peas
+- spices:
+- 1 tsp paprika
+- 1 tsp tumeric
+- 1 tsp salt
+- optional:
+- 1/4 tsp cinnamon
+- 1/4 tsp cloves
+- 1/4 tsp nutmeg
 
 ##  Instructions
 

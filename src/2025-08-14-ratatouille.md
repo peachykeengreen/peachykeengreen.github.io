@@ -14,21 +14,19 @@ Our kitchen was overflowing with zucchini and tomatoes from our and Elsa's garde
 
 Update: I've also just tossed the zucchini, pepper, eggplant together in salt and oil and air-fried for about 15 minutes (stir halfway), and then tossed it into the sauce. It might take two air fry batches. Still, it's easier and delish.
 
-## [![](/images/ratatouille-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjpE6dZ4J8RXGw_P547aEyRZBajGsCHSbm-jjce1vcBsghyCA8ZFfgHqbyu48XeN5cCAQb637BfRWyBijh0y7sHEZ9OtgmIKD2rHEWASr_K_c91qBfZwRN5Ql-ESNL7SYGxWpVPtOyO3gaBHOTIN90UXQKpWK2jfApRi0xZ71l5CFIyaM_ze_7WGUkgJ1FT)Ingredients
+## Ingredients
 
-1 eggplant, diced into ½-inch cubes
-1 bell pepper, cut into ¾-inch squares
-2 zucchini (green, or mix of green and yellow), diced into ½-inch cubes
-
-2 pounds ripe red tomatoes (6 medium or 4 large)
-
-1 small onion, diced
-4 cloves garlic, minced
-1/4 C chopped basil
-1/4 T red pepper flakes (or dice a hot pepper)
-olive oil
-salt
-fresh pepper
+- 1 eggplant, diced into ½-inch cubes
+- 1 bell pepper, cut into ¾-inch squares
+- 2 zucchini (green, or mix of green and yellow), diced into ½-inch cubes
+- 2 pounds ripe red tomatoes (6 medium or 4 large)
+- 1 small onion, diced
+- 4 cloves garlic, minced
+- 1/4 C chopped basil
+- 1/4 T red pepper flakes (or dice a hot pepper)
+- olive oil
+- salt
+- fresh pepper
 
 ## Instructions
 

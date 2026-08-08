@@ -10,40 +10,26 @@ featured_image: "/images/potatosalad.png"
 description: "Roasted Garlic Potato Salad w/Arugula recipe."
 ---
 
-This [cashew cream potato salad](https://peachykeengreen.blogspot.com/2015/02/creamy-potato-salad-with-fresh-herbs.html) is delicious, but I wanted to try a not-creamy potato salad. I found a [Roasted Garlic Potato Salad](https://www.thefullhelping.com/roasted-garlic-basil-pesto-potatoes/) from Oh She Glows that looked easy and worth trying. I don't know where to get hemp seeds, so I skipped that. Below is my adapted recipe. Then last week, Elsa gave us some fresh dill from her garden, and I used that instead of arugula - also delish. But generally, roasting potatoes for salad is a win!**
+This [cashew cream potato salad](https://peachykeengreen.blogspot.com/2015/02/creamy-potato-salad-with-fresh-herbs.html) is delicious, but I wanted to try a not-creamy potato salad. I found a [Roasted Garlic Potato Salad](https://www.thefullhelping.com/roasted-garlic-basil-pesto-potatoes/) from Oh She Glows that looked easy and worth trying. I don't know where to get hemp seeds, so I skipped that. Below is my adapted recipe. Then last week, Elsa gave us some fresh dill from her garden, and I used that instead of arugula - also delish. But generally, roasting potatoes for salad is a win!
 
-Ingredients****
-[![](/images/potatosalad.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3DfauM7LtGYNiVAKXWakV3XyBhZHUvsNnjt_LNuCgtJhxzW4segSIgzavw2VzBDM09w3eXFXhapFRHd6tAyfdqbU5nKxq-V7c7XLfvmOeSaiPD2jk6SNE2bhogV1m12BrArmoMjV8P7bp/s1600/potatosalad.png)
+## Ingredients
 
-2 pounds potatoes, cut into 1" cubes
-
-1 T olive oil
-
-1 head garlic
-
-salt and pepper
-
-3 C arugula
-
+- 2 pounds potatoes, cut into 1" cubes
+- 1 T olive oil
+- 1 head garlic
+- salt and pepper
+- 3 C arugula
 - or -
+- 1 C fresh dill, chopped
+- Pesto:
+- 1 C lightly packed fresh basil leaves
+- 1/4 cup olive oil
+- 2 T lemon juice
+- 1/4 tsp salt
+- fresh ground black pepper
+- roasted garlic head (above)
 
-1 C fresh dill, chopped
-
-Pesto:
-
-1 C lightly packed fresh basil leaves
-
-1/4 cup olive oil
-
-2 T lemon juice
-
-1/4 tsp salt
-
-fresh ground black pepper
-
-roasted garlic head (above)
-
-Instructions**
+## Instructions
 
 Toss the potatoes and head of garlic in olive oil and a little pepper and salt. Roast about 40 minutes at 400 degrees. Turn off oven and let it all cool.
 

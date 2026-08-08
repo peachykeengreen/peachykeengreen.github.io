@@ -10,40 +10,27 @@ featured_image: "/images/chorizo-bean-kale-soup.jpg"
 description: "White Bean, Cabbage, and Chorizo Soup recipe."
 ---
 
-We love [Field Roast](http://fieldroast.com/) sausage, and often buy 12-packs of apple, Italian, and Mexican Chipotle sausage for pool party bbqs. The chipotle is too spicy to eat straight, but is great in a soup! A quick google search brought up a Spanish-style soup that uses chorizo, along with beans and cabbage, more of my favorite things. Easy and delicious - and it hits you with a slow POW at the end. I like to add both green and [purple cabbage -- it's so healthy](http://nutritionfacts.org/video/testing-your-diet-with-pee-purple-cabbage/) and both last a long time in the crisper, great for soups and stir fries anytime.**
+We love [Field Roast](http://fieldroast.com/) sausage, and often buy 12-packs of apple, Italian, and Mexican Chipotle sausage for pool party bbqs. The chipotle is too spicy to eat straight, but is great in a soup! A quick google search brought up a Spanish-style soup that uses chorizo, along with beans and cabbage, more of my favorite things. Easy and delicious - and it hits you with a slow POW at the end. I like to add both green and [purple cabbage -- it's so healthy](http://nutritionfacts.org/video/testing-your-diet-with-pee-purple-cabbage/) and both last a long time in the crisper, great for soups and stir fries anytime.
 
-Ingredients****
-[![](/images/chorizo-bean-kale-soup.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQpvAPkPDouF2473RQOHcudrWjb_JI5gBfVVMNN2IZjAl0dmI93r8g6JZ8VEslKRB8Y9JIZVNoxBwDIltxf8FOPvJN8vDHEIzDx9mBEeOUclp2WGwxlI6xXFf0E51y1W5LAugXfS3wY7SR/s1600/chorizo-bean-kale-soup.jpg)4 Chipotle FieldRoast sausages, sliced into medallions
+## Ingredients
 
-3-4 cups cooked (or canned) white beans
+- 4 Chipotle FieldRoast sausages, sliced into medallions
+- 3-4 cups cooked (or canned) white beans
+- 2 T oil (I use canola)
+- 1 large onion, diced
+- 5-6 cups veggie broth
+- 4+ cups green and/or purple cabbage, chopped
+- (optional) 2 cups kale, chopped
+- 1-2 T white vinegar
+- Spices:
+- 4 cloves garlic, diced
+- 1 can diced tomato - or large tomato, diced
+- 1 bay leaf
+- 1 tsp salt
+- fresh ground pepper
+- (optional) pinch saffron threads
 
-2 T oil (I use canola)
-
-1 large onion, diced
-
-5-6 cups veggie broth
-
-4+ cups green and/or purple cabbage, chopped
-
-(optional) 2 cups kale, chopped
-
-1-2 T white vinegar
-
-Spices:
-
-4 cloves garlic, diced
-
-1 can diced tomato - or large tomato, diced
-
-1 bay leaf
-
-1 tsp salt
-
-fresh ground pepper
-
-(optional) pinch saffron threads
-
-Instructions**
+## Instructions
 
 Saute the onion in oil for 4 minutes. Add chorizo and saute 4-5 more minutes, stirring frequently. Add spices and stir another minute.
 

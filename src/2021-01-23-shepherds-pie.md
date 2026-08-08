@@ -18,34 +18,28 @@ Updated from the 2026 Blue Zone Cookbook. Originally from the [How Not To Die Co
 
 ## Ingredients
 
-[![](/images/shepherds-pie-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiEk-cC1pWlWti_eq4cHrrCDEAPINd4WvlGgOt-LS6g9Y0cVabHukQyxCKzTIIaj0c2foUTGuMsFomz9EbOuiFhwGDEloqPCu4i3uFPk1HyKZl6N10VL4j312oigRt4FM8xA2VDaq_YlbaD4Z8q3sQTcFpKaBqgDsbJ5NV3mDBPBaLUPoF542KZ2wVW0Xxj)
-2 T canola oil
-1/2 hot pepper, diced, or 1/2 tsp pepper flakes
-1 onion, chopped
-
-3 carrot, sliced
-3 stalks celery, chopped
-8+ oz mushrooms, sliced
-Or other veggies, like zuccinni, or mixed frozen veggies
-
-2-3 C cooked lentils
-1/4 C red wine vinegar
-
-Slurry:
-1 T potato starch or cornstarch
-1 tsp soy sauce
-1 T miso
-2 C veggie broth
-
-Seasoning:
-1 tsp dried thyme (or more fresh)
-1 tsp dried oregano (or more fresh)
-1 bay leaf
-1/2 tsp black pepper
-1 tsp salt
-
-Topping: Mashed potatoes, or [Cauliflower mashed potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html)
-Fresh parsley & chives, chopped
+- 2 T canola oil
+- 1/2 hot pepper, diced, or 1/2 tsp pepper flakes
+- 1 onion, chopped
+- 3 carrot, sliced
+- 3 stalks celery, chopped
+- 8+ oz mushrooms, sliced
+- Or other veggies, like zuccinni, or mixed frozen veggies
+- 2-3 C cooked lentils
+- 1/4 C red wine vinegar
+- Slurry:
+- 1 T potato starch or cornstarch
+- 1 tsp soy sauce
+- 1 T miso
+- 2 C veggie broth
+- Seasoning:
+- 1 tsp dried thyme (or more fresh)
+- 1 tsp dried oregano (or more fresh)
+- 1 bay leaf
+- 1/2 tsp black pepper
+- 1 tsp salt
+- Topping: Mashed potatoes, or [Cauliflower mashed potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html)
+- Fresh parsley & chives, chopped
 
 ## Instructions
 

@@ -10,28 +10,20 @@ featured_image: "/images/chickpeas.jpg"
 description: "Roasted Spiced Chickpeas recipe."
 ---
 
-I found a nice cucumber salad from [Oh She Glows](http://ohsheglows.com/2013/06/05/thai-inspired-hydrating-cucumber-salad-with-roasted-spiced-chickpeas/) that included these roasted spiced chickpeas as a topping. We mostly just ate them as a snack - really good!**
+I found a nice cucumber salad from [Oh She Glows](http://ohsheglows.com/2013/06/05/thai-inspired-hydrating-cucumber-salad-with-roasted-spiced-chickpeas/) that included these roasted spiced chickpeas as a topping. We mostly just ate them as a snack - really good!
 
-[![](/images/chickpeas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYQJoxVmhZ7rJF6i6JOnH0CPcAdZqywSBQ0iEa3x_mX13Ivnh7RMdLhOWdxELECsdQf4Q2Jn7c73-zvMp2zeP3PFcRMIjgwptiP4zdpl-iO0w25yCAGCXDWsFx3GVen_H2K7pBWPdi4twB/s1600/chickpeas.jpg)
+## Ingredients
 
-Ingredients****
-1 (15-oz) can chickpeas
+- 1 (15-oz) can chickpeas
+- 1/2 teaspoon olive oil
+- 1/2 teaspoon fine grain sea salt
+- 1/2 teaspoon garlic powder
+- 1/4 teaspoon chili powder
+- 1/4 teaspoon ground ginger
+- 1/4 teaspoon cumin
+- 1/8 teaspoon ground turmeric
 
-1/2 teaspoon olive oil
-
-1/2 teaspoon fine grain sea salt
-
-1/2 teaspoon garlic powder
-
-1/4 teaspoon chili powder
-
-1/4 teaspoon ground ginger
-
-1/4 teaspoon cumin
-
-1/8 teaspoon ground turmeric
-
-Instructions**
+## Instructions
 
 Preheat oven to 400F and line a medium baking sheet with a couple pieces of paper towel.
 

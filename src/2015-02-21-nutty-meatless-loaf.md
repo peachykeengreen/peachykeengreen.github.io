@@ -11,43 +11,26 @@ description: "Nutty Meatless Loaf recipe."
 ---
 
 Larry's sister Laurie made this yummy dish for us. The chutney, garam masala, and nuts really make it. (Garam masala is a blend of spices such as nutmeg, cloves, cumin, cinnamon, cardamom, coriander, and pepper.) Bake in a glass pie plate; comes out really colorful and pretty. Makes 8 servings.
-**
 
-[![](/images/meatlessloaf.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5hTVlctPa9k77PF7tD7Efl_GEx-Abzw6a3dx8J9xPTFpv-oxfNU3e8uZMI89mtXTn6gNZG0eW2ZnBvN8Cts-Oaygz_dHAJwiljDaAlmg7pYqHpEGDxiRaRhzxIgWcqrxlCdF1YDk3KrZa/s1600/meatlessloaf.jpg)
-Ingredients**
-**
+## Ingredients
 
-1/2 cup mango chutney (too sweet if use more)
+- 1/2 cup mango chutney (too sweet if use more)
+- Cilantro leaves (optional)
+- 1 1/4 cup dry red or yellow lentils
+- 2 medium carrots, shredded
+- 2/3 cup chopped dried apricots
+- 1 medium onion, chopped
+- 1 stalk celery, chopped
+- 1 1/2 tsp. garam masala
+- 2 cloves garlic, minced
+- 1 T vegetable oil
+- 3 flax eggs (3 T flax meal + 9 T water)
+- 1 1/2 cups cooked brown rice
+- 3/4 cup pecans, toasted and chopped
+- 1/4 cup chopped red sweet pepper
+- 1/4 cup chopped peeled fresh mango
 
-Cilantro leaves (optional)
-
-1 1/4 cup dry red or yellow lentils
-
-2 medium carrots, shredded
-
-2/3 cup chopped dried apricots
-
-1 medium onion, chopped
-
-1 stalk celery, chopped
-
-1 1/2 tsp. garam masala
-
-2 cloves garlic, minced
-
-1 T vegetable oil
-
-3 flax eggs (3 T flax meal + 9 T water)
-
-1 1/2 cups cooked brown rice
-
-3/4 cup pecans, toasted and chopped
-
-1/4 cup chopped red sweet pepper
-
-1/4 cup chopped peeled fresh mango
-
-Instructions**
+## Instructions
 
 1. Preheat oven to 350 F. Bring 3 cups water and lentils to boiling; reduce heat. Cover, simmer 10-15 min or until tender. Drain; set aside.
 

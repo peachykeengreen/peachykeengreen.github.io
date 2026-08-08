@@ -15,20 +15,13 @@ Alba clamshell mushrooms and fresh zucchini arrived in our last farmer's market 
 ## Ingredients
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N_fTQssg6rECJ3pZ6Natya0ycjnrKsfLjV8yJ6FKoGizOR_JzeIb7tbFZuqSBY5THLkGODrxDJrPH0zlwPCl9Ip4IDVbgIoTdz1PXs1cOY2hqx1YVpHlRwnndyXMZK9rtA05_rhAn8BR/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N_fTQssg6rECJ3pZ6Natya0ycjnrKsfLjV8yJ6FKoGizOR_JzeIb7tbFZuqSBY5THLkGODrxDJrPH0zlwPCl9Ip4IDVbgIoTdz1PXs1cOY2hqx1YVpHlRwnndyXMZK9rtA05_rhAn8BR/)
-
-1-2 T canola oil
-
-2 zucchinis OR acorn squash, chopped
-
-8 oz mushrooms
-
-1/4 C sun dried tomatoes, chopped
-
-1/3 C peas
-
-1 onion, diced
-
-3 cloves garlic, minced
+- 1-2 T canola oil
+- 2 zucchinis OR acorn squash, chopped
+- 8 oz mushrooms
+- 1/4 C sun dried tomatoes, chopped
+- 1/3 C peas
+- 1 onion, diced
+- 3 cloves garlic, minced
 
 1.5 C arborio rice
 

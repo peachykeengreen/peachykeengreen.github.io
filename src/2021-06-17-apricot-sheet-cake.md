@@ -14,28 +14,22 @@ We harvested some of Judi's apricots while her family was out of town. Her tree 
 
 Variations: Can make with plums or cherries, or bake in regular cake pans.
 
-[![](/images/sheetcake.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfTjT-0L6-BUvyn_IoKYq4df-dbxIkKvewCA0be_h9G3rsGz8rEcDO9EdtjxVG-zydUoV_fR4Gz51FuzaSeXQuWNsctMsUC6Dg3cELB647y0fmeF1tADcPgDdYrbecZUAUsxknu5cHsnsg/)
+## Ingredients
 
-##
-Ingredients
+- Wet:
+- 1 C apricot puree (about 6-8 apricots)
+- 2/3 C sugar
+- 1/2 C sparkling water or sparkling fruit water
+- 7 T canola oil
+- Dry:
+- 2 1/3 C flour
+- 4 tsp baking soda
+- Topping:
+- 20-24 small apricots, halved (or 12 large, quartered)
+- 2 tsp powdered sugar
+- toasted almond slices
 
-Wet:
-1 C apricot puree (about 6-8 apricots)
-2/3 C sugar
-1/2 C sparkling water or sparkling fruit water
-7 T canola oil
-
-Dry:
-2 1/3 C flour
-4 tsp baking soda
-
-Topping:
-20-24 small apricots, halved (or 12 large, quartered)
-2 tsp powdered sugar
-toasted almond slices
-
-##
-Instructions
+## Instructions
 
 Use a food processor to blend de-stoned apricots into a puree.
 

@@ -19,49 +19,29 @@ and
 
 Good pie crust is hard to make, though. I buy
 [Wholly Wholesome rolled pie dough](https://www.whollywholesome.com/category/products/rolled-pie-dough/) when we can find it. But it's been hard to find nowadays. Cousin Ann Mattson and friend Allen shared their (similar) oil-based pie crust recipes, which were tasty. Then I found this [easy vegan pie crust recipe](https://www.karissasvegankitchen.com/easy-vegan-pie-crust/) and found that using a food processor in cutting in the butter seemed to yield an easier dough to roll.
-**
 
 Update: Allen Moench's oil-based pie crust is to die for. Pat shared his recipe with me, and one of the secrets was mixing orange zest into the dough. And he used all white flour; that makes it easier.
 
-[![](/images/vegan-pie-crust-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEj_fVKKW1NqXgbMzcq7kqg_u3HekArY-FI9K0FSWGZndbzDvwVORdChvA5shQZQJS_KAi6aMTz0Gu7Ki2A3967G4cPFuLj8jMAlnQZMrhhv5jbbHOtvY_NGllTodPe4CiKcqyP_YVx46_41PMGp33bNRKKlpQQZgMTPdLxEZz87rOZNFiS9ZtrrYK8EVg)
+## Ingredients
 
-## Ingredients**
+- (Makes two 9" crusts)
+- 1 1/4 C white flour
+- 1 1/4 C whole wheat flour
+- (or : 2.5 C white flour)
+- 1 tsp salt
+- 2 tsp sugar
+- 1-2 T orange zest (optional but excellent)
+- Butter crust:
+- 1 C vegan butter, cold, cubed
+- 8 T ice water
+- OR
+- Oil crust (Allen's):
+- 2/3 C canola oil
+- 4 T ice water
 
-(Makes two 9" crusts)
+## Instructions
 
-**
-
-1 1/4 C white flour
-
-1 1/4 C whole wheat flour
-
-(or : 2.5 C white flour)
-
-1 tsp salt
-
-2 tsp sugar
-
-1-2 T orange zest (optional but excellent)
-
-Butter crust:
-
-1 C vegan butter, cold, cubed
-
-8 T ice water
-
-OR
-
-Oil crust (Allen's):
-
-2/3 C canola oil
-
-4 T ice water
-
-## Instructions**
-
-**Butter crust**: Using a food processor, pulse together dry ingredients. Then pulse in butter (about 8 pulses). Then pulse in orange zest if using. Then pulse in ice water slowly until a dough forms. Remove and form disc, and cut in half. Chill half an hour or up to 3 days, or freeze up to 3 months.
-
-**
+Butter crust: Using a food processor, pulse together dry ingredients. Then pulse in butter (about 8 pulses). Then pulse in orange zest if using. Then pulse in ice water slowly until a dough forms. Remove and form disc, and cut in half. Chill half an hour or up to 3 days, or freeze up to 3 months.
 
 Oil crust: **Mix dry ingredients with a  fork. Mix in orange zest BEFORE adding oil and water. Add wet ingredients and mix well. If it does not hold together, use a little more oil, or use all-white flour.
 

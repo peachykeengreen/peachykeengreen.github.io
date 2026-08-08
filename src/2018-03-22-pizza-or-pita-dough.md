@@ -10,7 +10,7 @@ featured_image: "/images/IMG_8956.JPG"
 description: "Dough for Pita, Pizza, or Empanadas recipe."
 ---
 
-We like the Trader Joes Sprouted Whole-Grain Pizza Crust for this [homemade pizza](http://peachykeengreen.blogspot.com/2018/02/crispy-thin-pizza-pizza.html), but I wanted to make my own for a Greek meza (photos below) with Yannis, Merche, John, & Elsa. Mom made homemade bread all the time, but I've never made a yeast dough. Judi says it's easy; Nick makes dough for their pizzas all the time. Natalie did a science fair [experiment](http://thekcompanyblog.blogspot.com/2013/03/nats-experiment-for-science-fair.html) and found that adding sugar, honey, or maple syrup to the wet yeast made it rise more.  Judi says her favorite dough is whole wheat flour with a little maple syrup.**
+We like the Trader Joes Sprouted Whole-Grain Pizza Crust for this [homemade pizza](http://peachykeengreen.blogspot.com/2018/02/crispy-thin-pizza-pizza.html), but I wanted to make my own for a Greek meza (photos below) with Yannis, Merche, John, & Elsa. Mom made homemade bread all the time, but I've never made a yeast dough. Judi says it's easy; Nick makes dough for their pizzas all the time. Natalie did a science fair [experiment](http://thekcompanyblog.blogspot.com/2013/03/nats-experiment-for-science-fair.html) and found that adding sugar, honey, or maple syrup to the wet yeast made it rise more.  Judi says her favorite dough is whole wheat flour with a little maple syrup.
 
 So that's what I tried here, while
 mostly following the recipe for
@@ -29,26 +29,18 @@ mostly following the recipe for
 
 Our verdict: Worth it for pita and empanadas. For pizza, we'll probably stick with TJs. Next time we do a greek meza, we may skip the pizza and just have the meza with pita. The pizza was fun to make, but we had plenty of food without it, and the dough didn't shine in the pizza like it did in the pita.
 
-Ingredients****
+## Ingredients
 
-**
+- Dry:
+- 2.5 cups whole wheat flour
+- 1-2 tsp salt
+- Wet:
+- 1 cup lukewarm water
+- 1 packet yeast (~2 tsp)
+- 1 tsp maple syrup
+- 1 T olive oil
 
-[![](/images/IMG_8956.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3eBu8wBxKVceE_Sv04QTN2DDD0xoFajNiolYwhlJLSA1dDiB-qi0NBsQ1g5d7nyL0QMKd0XeldBGlpveuqvTHUjTA2rNuBo4_Q5iUXZrF-e6kwcKJ65fETmYY0YvJOvzezCYRk1eyp_QE/s1600/IMG_8956.JPG)Dry:**
-2.5 cups whole wheat flour
-
-1-2 tsp salt
-
-Wet:
-
-1 cup lukewarm water
-
-1 packet yeast (~2 tsp)
-
-1 tsp maple syrup
-
-1 T olive oil
-
-Instructions****
+## Instructions
 In a bowl, mix water, yeast, and maple syrup. Stir and let sit for 5 minutes.
 
 Put dry the dry ingredients in the food processor and pulse briefly to combine. With the machine running, add the yeast mixture (from a container with a lip if you want to avoid spills). Unlike hand kneading that takes minutes, you "knead" the dough [briefly in the food processor](https://www.cooksillustrated.com/how_tos/5798-how-to-knead-bread-in-a-food-processor), like 45-90 seconds. Be careful not to over-knead. You want the dough to be a ball that springs back and is slightly sticky.
@@ -61,16 +53,13 @@ For pizza, use the 2 equal pieces. For pita, split it into 8 equal pieces.
 
 Gently flatten each ball into a thick disk. Using floured rolling pin, roll it out into the desired size, about a quarter inch thick. Turn the dough frequently and add flour as needed when rolling.
 
-For pizza**, just top and bake.**
+For pizza, just top and bake.
 
-For pita**, cook like you would pancakes, in medium-high heat pan. I have a special pancake pan that is ceramic that that I never oil, but you may have to put a little oil in your pan, or use a cast iron pan.**
+For pita, cook like you would pancakes, in medium-high heat pan. I have a special pancake pan that is ceramic that that I never oil, but you may have to put a little oil in your pan, or use a cast iron pan.
 
-**
-Place in pan, and **flip** after 30 seconds or a minute, when you see bubbles starting to form. **Flip** and cook 1-2 minutes on other side until large toasted spots form. **Flip again** to toast other side. The pita should puff up. Remove, cool, and eat!**
+Place in pan, and **flip after 30 seconds or a minute, when you see bubbles starting to form. **Flip and cook 1-2 minutes on other side until large toasted spots form. **Flip again to toast other side. The pita should puff up. Remove, cool, and eat!
 
 Photos, below.
-
-**
 
  [![](/images/IMG_8951.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnlu-4KZeaJPX3ZWxwgCyafmkpfHK3TtSRDjG0FK6N2eGBIgkQOAwiqCCdypyA2Wi3x3-j-U2q_Y7gn4iitv8bFh1s2_5Y49aasApDTttBk7vwB7qPF1OyyN62wYIhindkGSRcHUbR9Hx/s1600/IMG_8951.JPG)[![](/images/IMG_8952.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivcsSypUgId7oFl23zCn1AwWp3sXEmwTnvWQ56EivN2V368j_ofHcdISHOB34SlzP0OeN6GuSVDSjX7ppum9_yt61QZw-UP-mFps9q_ftIEYWHPSSY6-IZ-7TP1DUg5cvf6jndnzZOmQ_i/s1600/IMG_8952.jpg)
 

@@ -14,29 +14,17 @@ I needed some cookies to fill the empty space in a box I'm mailing to Dad, and I
 
 ## Ingredients
 
-[![](/images/cookies.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFeIMSs5_7SeK_2AdUqXZYFqHkZ_AcFi2VHcWwm1MgpK5soJZ_kCcbQpsiefqngeu0nxGgw7Xf5-qYKo1d0eJX1bl0cASsMiCpdy094Q_atqFo7PPSxBWVhMVZNI9hyR5Gd74xXZiM4gf6/s640/cookies.jpg)
-
-Dry:
-
-3/4 C old fashioned oats
-
-3/4 C flour
-
-1/2 tsp baking soda
-
-1/4 tsp salt
-
-Wet:
-
-1/2 C almond or peanut butter
-
-1/3 C brown sugar (1/2 C for sweeter)
-
-2 T (or more as needed) non dairy milk
-
-1 tsp vanilla
-
-1/3 C chocolate chips (1/2 C for more chocolatey)
+- Dry:
+- 3/4 C old fashioned oats
+- 3/4 C flour
+- 1/2 tsp baking soda
+- 1/4 tsp salt
+- Wet:
+- 1/2 C almond or peanut butter
+- 1/3 C brown sugar (1/2 C for sweeter)
+- 2 T (or more as needed) non dairy milk
+- 1 tsp vanilla
+- 1/3 C chocolate chips (1/2 C for more chocolatey)
 
 ## Instructions
 

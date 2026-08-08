@@ -10,34 +10,24 @@ featured_image: "/images/IMG_1610.jpg"
 description: "Best Beet Burgers recipe."
 ---
 
-I've tried to make beet burgers a few times, with just so-so results. Often they're too soft and just not as tasty as I hoped. But for Labor Day this year, I finally did mashup of a couple of different recipes, and it was delish. I learned a lot from this [Ultimate Veggie Burger](https://www.theawesomegreen.com/the-ultimate-veggie-burger/) recipe -- how you can swap in and out various vegetables and grains, for example -- and crossed this [Amazing Beet Burger](http://powerhungry.com/2018/03/incredible-beet-burgers-vegan-grain-free/) recipe with my other favorite [Double Double burgers](http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html) from Chloe. I think what made this mashup a winner was **roasting the beets** (don't buy them pre-cooked!) and adding **mushrooms** (yum). I also think that for the grain, **tempeh** is much tastier than the rice many recipes call for.**
+I've tried to make beet burgers a few times, with just so-so results. Often they're too soft and just not as tasty as I hoped. But for Labor Day this year, I finally did mashup of a couple of different recipes, and it was delish. I learned a lot from this [Ultimate Veggie Burger](https://www.theawesomegreen.com/the-ultimate-veggie-burger/) recipe -- how you can swap in and out various vegetables and grains, for example -- and crossed this [Amazing Beet Burger](http://powerhungry.com/2018/03/incredible-beet-burgers-vegan-grain-free/) recipe with my other favorite [Double Double burgers](http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html) from Chloe. I think what made this mashup a winner was **roasting the beets (don't buy them pre-cooked!) and adding **mushrooms (yum). I also think that for the grain, **tempeh is much tastier than the rice many recipes call for.
 
-Ingredients****
-[![](/images/IMG_1610.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKmK2EQXMCrDdGJtRGyFdFXxrWjTs95XtjmNzP85b_RM70tFFAsG3QQsPLHxbt9lq3iGNH9YEpkkt5EKYHEG3AfxLn0TreLJKhT5C3WeT6XlDjrctEMYS6kBj1iSkD92fAEKBT0qtTrT9z/s1600/IMG_1610.jpg)2 T canola oil
+## Ingredients
 
-1 onion, chopped
+- 2 T canola oil
+- 1 onion, chopped
+- 2 cloves garlic, chopped
+- 1 pound trimmed, scrubbed beets, roasted
+- 8 oz mushrooms, quartered
+- 1/2 cup flour
+- 1 cup walnuts, toasted
+- 1 tsp dried basil
+- 1 tsp salt
+- 1 tsp ground pepper
+- 1 8 oz TJ package tempeh, steamed (optional - we did this with Cyndy and it was good)
+- avocado (sliced) for topping
 
-2 cloves garlic, chopped
-
-1 pound trimmed, scrubbed beets, roasted
-
-8 oz mushrooms, quartered
-
-1/2 cup flour
-
-1 cup walnuts, toasted
-
-1 tsp dried basil
-
-1 tsp salt
-
-1 tsp ground pepper
-
-1 8 oz TJ package tempeh, steamed (optional - we did this with Cyndy and it was good)
-
-avocado (sliced) for topping
-
-Instructions**
+## Instructions
 
 [![](/images/IMG_0008.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHp0wxXG_C4pKNvmFHcHKsTEmj-QuXcQ6JWPj1aU5t_u5CddWhnnCewUVsZc6vbLzLikZx9qW2YXM9q9pwceA-gLTifc902-Gl11o_BWwGf1ZRHsR_DZu_WBIXqLm6VsDSOuY198F3vhBH/s1600/IMG_0008.JPG)Tightly wrap beets in foil and roast in the oven (can do the day before) for about 45 minutes at 400 degrees. Let cool.
 

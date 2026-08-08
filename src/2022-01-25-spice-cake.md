@@ -14,33 +14,28 @@ For our acappella rehearsal, Harold's wife Chris served this delicious, easy spi
 
 ## Ingredients
 
-[![](/images/spice-cake-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgqCcsFmwfOgonGbinKYmwCCV6reHe5eFIi95L7s8Zr9w9oAujV4hGpDA0-Iit2MdiybTcI-4Pds9mB_lZz2PTOpoPgS9kCEKpc8nrSBXWuyTqN2X4HHCSM6Ylzhypmw1Rv-_UiXoXMPUXtvqO9cb8hK7VT8vVXLY2KsHuiMpGh2S1XmWzqgVWkGMvf3k2q)
-Dry:
-3 C flour
-2 C brown sugar
-2 tsp baking soda
-2 tsp baking powder
-1 tsp salt
-
-spices:
-2 tsp cinnamon
-1/2 tsp allspice
-1 tsp ginger
-1 tsp cloves
-
-Wet:
-1/2 C oil
-2 T vinegar
-2 tsp vanilla
-2 C warm water OR (optional) 1 can pumpkin and ~1 C water for pumpkin spice cake version
-
-Cream cheese frosting (optional):
-6 oz Miyoko's plant-based cream cheese
-4 oz Miyoko's vegan butter
-1 tsp vanilla
-2 C powdered sugar (more or less, to desired thickness)
-
-Chocolate version: Use white sugar instead of brown and 1/2 C cocoa in place of spices; everything else the same!
+- Dry:
+- 3 C flour
+- 2 C brown sugar
+- 2 tsp baking soda
+- 2 tsp baking powder
+- 1 tsp salt
+- spices:
+- 2 tsp cinnamon
+- 1/2 tsp allspice
+- 1 tsp ginger
+- 1 tsp cloves
+- Wet:
+- 1/2 C oil
+- 2 T vinegar
+- 2 tsp vanilla
+- 2 C warm water OR (optional) 1 can pumpkin and ~1 C water for pumpkin spice cake version
+- Cream cheese frosting (optional):
+- 6 oz Miyoko's plant-based cream cheese
+- 4 oz Miyoko's vegan butter
+- 1 tsp vanilla
+- 2 C powdered sugar (more or less, to desired thickness)
+- Chocolate version: Use white sugar instead of brown and 1/2 C cocoa in place of spices; everything else the same!
 
 ## Instructions
 

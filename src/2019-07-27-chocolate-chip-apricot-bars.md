@@ -17,39 +17,25 @@ yesterday, when I was thinking about what dessert to take to a neighbor's
 barbecue. I mentioned to my dad that I thought I'd take cookies, and he said,
 "Chocolate chip? Those would disappear!" He's right! But this is an
 interesting twist on that -- with just a tweak to the butter to make it vegan, and reducing the brown sugar a bit (it's pretty sweet as is).
-**
-**
 
-## **Ingredients**
+## Ingredients
 
-[![](/images/apricot-bars.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmiAkpBSHVrlUuw76YYAjA2u8XYFJG2kmRlYq8D7KUXByCEV9arFillNSii_H8C-rZYEmHDWa00HhKF1rdm3xGLGvELPkIM7a5W1sqBXKrRflIXhJDZLahcHGRurgaqNUVN_08Aw3IW6FF/s1600/apricot-bars.jpg)For apricot filling:
-6 oz dried apricots (~1 cup packed), chopped
-fine
-**
+- For apricot filling:
+- 6 oz dried apricots (~1 cup packed), chopped
+- fine
+- 1/4 cup granulated sugar
+- 3/4 cup water
+- 1 teaspoon vanilla
+- For chocolate chip mixture:
+- 1 1/3 cups pecans
+- 1 cup all-purpose flour
+- 1/2 cup firmly packed light brown sugar
+- 1/2 teaspoon salt
+- 1 cup semisweet chocolate chips
+- 1/2 to 2/3 cup vegan butter (like [Miyokos](https://miyokos.com/) or Earth Balance)
+- confectioners' sugar for sprinkling bars
 
-1/4 cup granulated sugar
-
-3/4 cup water
-
-1 teaspoon vanilla
-
-For chocolate chip mixture:
-
-1 1/3 cups pecans
-
-1 cup all-purpose flour
-
-1/2 cup firmly packed light brown sugar
-
-1/2 teaspoon salt
-
-1 cup semisweet chocolate chips
-
-1/2 to 2/3 cup vegan butter (like [Miyokos](https://miyokos.com/) or Earth Balance)
-
-confectioners' sugar for sprinkling bars
-
-## Instructions**
+## Instructions
 
 Make apricot filling: In small saucepan
 combine apricots, granulated sugar, and water, and simmer, covered, 15 minutes.

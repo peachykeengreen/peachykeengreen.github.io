@@ -14,20 +14,18 @@ Marina shared a recipe for [Cauliflower Salad Sandwiches](https://cooking.nytime
 
 ## Ingredients
 
-[![](/images/cauliflower-salad.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRg6_X6dEihkDBTvqOQXuivja26kewbQB0jxF17-utQhcsyQanH4QMO5tbp4LgNMd5oSI3KPZnPVZBMoHDfVDVO4loceY4i_bTkFv0tq3dZILzuB5CDIgiUI1gkIKSaghigrREfSDpw98ELopsVh4JMBvOEXmFCIiehmhWGbc1VfFr4vwft4oXYqfnQ/s640/cauliflower-salad.jpg)
-Head of cauliflower, cut into 1-inch slices
-6 T canola oil
-5 tsp curry powder
-1/4 C walnuts, chopped
-1/3 C golden raisins
-1 apple, chopped
-1 lemon, zested and juiced
-1/2 C vegan mayo
-1/2 C plain yogurt (optional; I didn't have/need)
-1/2 C cilantro leaves
-Salt and black pepper to taste
-
-Whole wheat rolls or lettuce salad (optional)
+- Head of cauliflower, cut into 1-inch slices
+- 6 T canola oil
+- 5 tsp curry powder
+- 1/4 C walnuts, chopped
+- 1/3 C golden raisins
+- 1 apple, chopped
+- 1 lemon, zested and juiced
+- 1/2 C vegan mayo
+- 1/2 C plain yogurt (optional; I didn't have/need)
+- 1/2 C cilantro leaves
+- Salt and black pepper to taste
+- Whole wheat rolls or lettuce salad (optional)
 
 ## Instructions
 

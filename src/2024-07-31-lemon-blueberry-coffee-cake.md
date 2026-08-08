@@ -12,31 +12,27 @@ description: "Lemon Blueberry Coffee Cake recipe."
 
 Elsa hosted a birthday brunch last week, cooking up several experiments for us, all delicious! Larry went back for 3 pieces of this yummy lemon blueberry coffee cake. The [original recipe](https://thebananadiaries.com/vegan-lemon-blueberry-coffee-cake-with-cream-cheese-swirl/) called for a vegan cream cheese swirl and a powerdered sugar icing, but she skipped both, and it was great without.
 
-[![](/images/lemon-blueberry-coffee-cake-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEglCh-Pr39nQCefQ4yNVHLKVZ56qJiqP8I91rxfy2NlfOWU7w3gtFdZ2sIkkTMw9G30DaE92gb_-hRSkAp8KLrhEOjddiM_VUNytL376iVQ36y-CkNeqi_Pw4KENhKeDD-LEn6SZ71WinMq8NoibE4FXXHnuDBJMmmZHNUddd4ikL4VORY6fkRh3TaY8alz)
-
 ## Ingredients
 
-3 C flour
-1 1/2 tsp baking powder
-1/2 tsp baking soda
-1/4 tsp salt
-1 C sugar
-1/2 C vegan butter
-3/4 C dairy-free yogurt or sour cream
-1/3 C nondairy milk
-1/4 C lemon juice
-3 T lemon zest
-1 T vanilla
-12 oz (1 pint) blueberries
-
-Crumble topping:
-
-1 C flour, plus 1 T for coating blueberries
-1 tsp cinnamon
-3/4 C sugar
-5 T vegan butter, melted
-1 tsp vanilla
-1/8 tsp salt
+- 3 C flour
+- 1 1/2 tsp baking powder
+- 1/2 tsp baking soda
+- 1/4 tsp salt
+- 1 C sugar
+- 1/2 C vegan butter
+- 3/4 C dairy-free yogurt or sour cream
+- 1/3 C nondairy milk
+- 1/4 C lemon juice
+- 3 T lemon zest
+- 1 T vanilla
+- 12 oz (1 pint) blueberries
+- Crumble topping:
+- 1 C flour, plus 1 T for coating blueberries
+- 1 tsp cinnamon
+- 3/4 C sugar
+- 5 T vegan butter, melted
+- 1 tsp vanilla
+- 1/8 tsp salt
 
 ## Instructions
 

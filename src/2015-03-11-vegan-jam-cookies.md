@@ -10,30 +10,23 @@ featured_image: "/images/thumbprints.png"
 description: "Vegan Jam Cookies recipe."
 ---
 
-Adapted from [Life-changing Vegan Thumbprint Cookies](http://fechanging-veg-134691/). I halved this recipe, used a combination of walnut pieces and sliced almonds (NOT ground up), and added a little flax meal. Note: It's hard to get these to stick together as balls when you put them on the cookie sheet; the dough wants to stick to your hands instead of to itself. You can add a little more water, or put a little oil on your fingers when you form the packed cookies. Or just grind up the nuts (so they aren't pieces) and there will be less texture (and less falling apart when you try to pack them into balls).**
+Adapted from [Life-changing Vegan Thumbprint Cookies](http://fechanging-veg-134691/). I halved this recipe, used a combination of walnut pieces and sliced almonds (NOT ground up), and added a little flax meal. Note: It's hard to get these to stick together as balls when you put them on the cookie sheet; the dough wants to stick to your hands instead of to itself. You can add a little more water, or put a little oil on your fingers when you form the packed cookies. Or just grind up the nuts (so they aren't pieces) and there will be less texture (and less falling apart when you try to pack them into balls).
 
-[![](/images/thumbprints.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHyRcP9yGFN4BPqvUxWwO2fQbu5TmB3th5KNkrrfnF1H23zaSzWtJ-VtGeM1GxRcxbDLLgV9_leW9-t19Ac5sY_F-bOcra1EwEEFLr1i0GiO62jP1JQVCDX6g8CFpAeZmpy3Ox6ikBk43/s1600/thumbprints.png)Makes 2 dozen cookies.
+Makes 2 dozen cookies.
 
-Ingredients****
-1/2 cup walnut pieces
+## Ingredients
 
-1/2 cup slivered almonds
+- 1/2 cup walnut pieces
+- 1/2 cup slivered almonds
+- 1 1/2 cup oat flour
+- 1/2 cup oats
+- 3/4 cup whole wheat flour
+- 1/4 cup flax meal (optional)
+- 1/2 cup canola oil
+- 1/2 cup maple syrup
+- Assorted jams of your choice.
 
-1 1/2 cup oat flour
-
-1/2 cup oats
-
-3/4 cup whole wheat flour
-
-1/4 cup flax meal (optional)
-
-1/2 cup canola oil
-
-1/2 cup maple syrup
-
-Assorted jams of your choice.
-
-Instructions**
+## Instructions
 
 Preheat oven to 350. Line 2 cookie sheets with silicon liners or parchment paper. Grind 1 1/2 cup of oats into a flour. Combine walnuts, almonds, oats, oat flour, wheat flour, and flax meal in a bowl. Add canola oils and maple syrup. Mix. Let sit for 15 minutes. (Or refrigerate for up to 2 days.)
 

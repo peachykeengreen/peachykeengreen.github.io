@@ -12,47 +12,27 @@ description: "Corn Chowder recipe."
 
 A hearty, nice corn chowder, from [Vegan with a Vengeance](http://www.theppk.com/books/vegan-with-a-vengeance/). You can use frozen corn, but I think it's better if you use fresh. I made this the first time with my sweet corn harvest (see photos below). It was exciting to turn my lemon-ears (corn that most anyone else would have sent them to the compost bin) into chowder-ade! The soup has some nice heat, and the maple syrup gives it a slight contrasting sweetness.  And it's easy to make. Serve with nice whole wheat bread, crackers, or salad.
 
-******
+## Ingredients
 
-[![](/images/chowder.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlDyWbe3d28R46ETiE3e20WbiBf-iBm82vz6CZn_itTb5jZIUvFQT_YJMp8oDwGU0tHwK0zvCgs_TzAG9fo7eRe6ejhqhCeZ6GA4ZdBMhHNknh8p-9-fUc8FqXLa_YChc-t8s87OIcZksn/s1600/chowder.jpg)
+- 1 T olive oil
+- 1 medium-size onion, diced
+- 1 large red bell pepper, finely chopped (about 1 1/2 cups)
+- 1 cup carrots, diced
+- 1-2 jalapeño peppers, diced
+- 1 tsp dried rosemary (or more, fresh)
+- 1 tsp dried thyme
+- A few dashes fresh black pepper
+- 1 tsp salt
+- 3 cups vegetable broth
+- 3 cups fresh corn (from about 5 ears of corn)
+- 2-3 medium potatoes, sliced into 1/2-inch chunks
+- 1 bay leaf
+- Pinch cayenne
+- Juice of 1 lime
+- 1/4 cup plain almond or soy milk
+- 1 T maple syrup
 
-I****ngredients****
-
-1 T olive oil
-
-1 medium-size onion, diced
-
-1 large red bell pepper, finely chopped (about 1 1/2 cups)
-
-1 cup carrots, diced
-
-1-2 jalapeño peppers, diced
-
-1 tsp dried rosemary (or more, fresh)
-
-1 tsp dried thyme
-
-A few dashes fresh black pepper
-
-1 tsp salt
-
-3 cups vegetable broth
-
-3 cups fresh corn (from about 5 ears of corn)
-
-2-3 medium potatoes, sliced into 1/2-inch chunks
-
-1 bay leaf
-
-Pinch cayenne
-
-Juice of 1 lime
-
-1/4 cup plain almond or soy milk
-
-1 T maple syrup
-
-Instructions**
+## Instructions
 
 Saute onions, peppers, carrots, and jalapeno in olive oil 7 minutes. Add spices and saute 1 more minute. Add broth, corn, potatoes, bay leaf, and cayenne. Cover and boil, then lower heat and simmer for 20 minutes. Uncover and simmer for 10 more minutes.
 

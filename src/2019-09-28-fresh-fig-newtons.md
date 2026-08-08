@@ -10,41 +10,27 @@ featured_image: "/images/bars.jpg"
 description: "Fresh Fig Newtons recipe."
 ---
 
-Figs! So many figs. (See [previous post](http://peachykeengreen.blogspot.com/)). We love fig bars... and oh look, my favorite vegan chef, Isa, has a recipe for [whole-wheat fig bars](https://www.isachandra.com/2010/09/whole-wheat-fig-bars/) and another for Fig Not-ins in Vegan with a Vengeance. She uses dried figs in both, but I want to use my fresh ones, so I mashed up her recipes with this [Fresh Fig Newton](https://www.sugardishme.com/fresh-fig-newtons/) recipe to get the following.**
+Figs! So many figs. (See [previous post](http://peachykeengreen.blogspot.com/)). We love fig bars... and oh look, my favorite vegan chef, Isa, has a recipe for [whole-wheat fig bars](https://www.isachandra.com/2010/09/whole-wheat-fig-bars/) and another for Fig Not-ins in Vegan with a Vengeance. She uses dried figs in both, but I want to use my fresh ones, so I mashed up her recipes with this [Fresh Fig Newton](https://www.sugardishme.com/fresh-fig-newtons/) recipe to get the following.
 
-[![](/images/bars.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHXN2TdZX07xSPDZNQK-wtpBvc02nx7LMFX-h3FUYqZS3tCq0CAdo79etMb_N1QqJB1FGDcWD_LoBoGjF1kkhublPvjwIQ5A1gCeD-nnFRogdHM8L9OQQhVMYBNaweN2tQDc7gqQsE6VpT/s1600/bars.jpg)Ingredients****
+## Ingredients
 
-Filling:
+- Filling:
+- 16 fresh figs, washed, dried, and quartered
+- 1/4 cup brown sugar or maple syrup
+- 1 T lemon zest
+- 1 tsp vanilla
+- Dough:
+- 2 C whole wheat flour
+- 2 tsp vanilla
+- 1/2 tsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 2 T flax meal
+- 1/4 cup non-dairy milk
+- 1/2 cup vegan margarine
+- 3/4 C granulated sugar
 
-16 fresh figs, washed, dried, and quartered
-
-1/4 cup brown sugar or maple syrup
-
-1 T lemon zest
-
-1 tsp vanilla
-
-Dough:
-
-2 C whole wheat flour
-
-2 tsp vanilla
-
-1/2 tsp baking powder
-
-1/2 tsp baking soda
-
-1/2 tsp salt
-
-2 T flax meal
-
-1/4 cup non-dairy milk
-
-1/2 cup vegan margarine
-
-3/4 C granulated sugar
-
-Instructions**
+## Instructions
 
 Put filling ingredients into a medium saucepan. Bring to low boil, stirring as needed. Reduce heat and simmer 40-50 minutes, occasionally smashing larger pieces with back of a fork and stirring. They will cook down and thicken with a jam-like consistency. Remove filling from heat and cool completely. (Filling can be stored in the refrigerator for 3 days.)
 

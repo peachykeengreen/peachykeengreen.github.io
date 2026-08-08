@@ -12,36 +12,22 @@ description: "Berry Crisp recipe."
 
 A berry crisp that combines elements of a few recipes I've tried, including Judi's. Delish!
 
-## **Ingredients**
-[![](/images/IMG_8708.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw3B4MaIuFhBD7Pj_pbqIz22TeKau-KjYBgeqf5jcE2yJ1trBi08tl5LTxWtMXsfCLPimh6vl28MNLFBuNnsH1HfLecZCDMWQm0hXqUgno5pXgJi23E0NPU-D3Fc5a1fKcz9oTcEpZJXtE/)
+## Ingredients
 
-Fruit (berries, pears, apricots, etc.)
+- Fruit (berries, pears, apricots, etc.)
+- 2 T canola oil
+- 1/4 C brown sugar
+- 1/2 lemon
+- Topping:
+- 1 C all-purpose flour
+- 1 C quick-cooking oats
+- 1/3 - 1/2 C brown sugar
+- 1 1/2 tsp ground cinnamon
+- 1/4 tsp salt
+- 1/2 C canola oil
+- 1/4 C water
 
-2 T canola oil
-
-1/4 C brown sugar
-
-1/2 lemon
-
-**
-
-Topping:
-
-1 C all-purpose flour
-
-1 C quick-cooking oats
-
-1/3 - 1/2 C brown sugar
-
-1 1/2 tsp ground cinnamon
-
-1/4 tsp salt
-
-1/2 C canola oil
-
-1/4 C water
-
-## Instructions**
+## Instructions
 
 Pour oil in pan. Put fruit in pan and sprinkle brown sugar and lemon over.  Mix up the topping and spread it over the fruit. Bake at 350 until the juice is all bubbly, about 30 minutes or so.
 

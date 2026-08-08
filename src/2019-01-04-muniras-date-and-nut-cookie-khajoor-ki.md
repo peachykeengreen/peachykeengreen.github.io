@@ -10,23 +10,18 @@ featured_image: "/images/datecoookies.jpg"
 description: "Munira's Date and Nut Cookie (Khajoor Ki Mithai) recipe."
 ---
 
-Omg, these date cookies are so good. Munira and her friend Shobha made them for a party we went to last night, and we got to take some home. The date, pistachio, cardamom, and coconut flavors are fantastic together. Here's how to make them!**
+Omg, these date cookies are so good. Munira and her friend Shobha made them for a party we went to last night, and we got to take some home. The date, pistachio, cardamom, and coconut flavors are fantastic together. Here's how to make them!
 
-[![](/images/datecoookies.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgljTCRs0KDCQCdM6ZJuaU2rVux73zaENcsZXSLNlAOOBxl5hDq6tHRkxtri3LSXbRzZJCNRTm4_FjPbEgOiQj93vYKjxWmhHtVuLc3Va-X9yQGlttMG0GSB8wj5SWvAAjrgkCwOuhBjrH8/s1600/datecoookies.jpg)
+## Ingredients
 
-## Ingredients**
+- 1/4 cup pistachios, whole
+- 1/4 cup almonds, whole
+- 2 T vegan butter
+- 2 C medjool dates, chopped
+- 2 tsp cardamom
+- 4T finely shredded coconut (optional)
 
-1/4 cup pistachios, whole**
-1/4 cup almonds, whole
-
-2 T vegan butter
-
-2 C medjool dates, chopped
-2 tsp cardamom
-
-4T finely shredded coconut (optional)
-
-## Instructions**
+## Instructions
 
 Chop dates (by hand or use food processor). Transfer to saucepan and cook over medium heat with vegan butter and cardamom. Saute for 5 minutes, stirring frequently. Reduce heat to low and stir until the mixture forms a paste (about 5 more minutes).
 

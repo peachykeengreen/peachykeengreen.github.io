@@ -10,51 +10,32 @@ featured_image: "/images/chickpea-tart.jpg"
 description: "Festive Chickpea Tart recipe."
 ---
 
-Judi made this tart from [Plant-Powered Kitchen](http://plantpoweredkitchen.com/recipe-page/?recipe_id=6033817) for Thanksgiving, and we loved it! It's delicious with cranberry sauce on it, but super delicious on its own, too. This is my a slightly adapted version. Note the pie crusts come in 2, so you could double, or make a [pumpkin pie](http://peachykeengreen.blogspot.com/2015/05/vegan-pumpkin-pie.html) with the other one! Serve with home-made cranberry sauce (recipe on the bag), [roasted veggies](http://peachykeengreen.blogspot.com/2015/04/roasted-vegetables.html), [mashed cauliflower potatoes](http://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html), and/or [kale salad](http://peachykeengreen.blogspot.com/2015/02/shredded-kale-salad-with-cranberry.html).**
+Judi made this tart from [Plant-Powered Kitchen](http://plantpoweredkitchen.com/recipe-page/?recipe_id=6033817) for Thanksgiving, and we loved it! It's delicious with cranberry sauce on it, but super delicious on its own, too. This is my a slightly adapted version. Note the pie crusts come in 2, so you could double, or make a [pumpkin pie](http://peachykeengreen.blogspot.com/2015/05/vegan-pumpkin-pie.html) with the other one! Serve with home-made cranberry sauce (recipe on the bag), [roasted veggies](http://peachykeengreen.blogspot.com/2015/04/roasted-vegetables.html), [mashed cauliflower potatoes](http://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html), and/or [kale salad](http://peachykeengreen.blogspot.com/2015/02/shredded-kale-salad-with-cranberry.html).
 
-[![](/images/chickpea-tart.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDaRMJfuMqU53m6Nt-CCmdhnbVEm_xVVkM42-ua-MSBMjjyCPxiyJ6jnoJzeNN-ZKvUpbBYlHcF8GUP4wfBkk0Kd36N9daAviJJ70BCnS0rdQinPF3KyqoDfWRpqejCsk_XVZSIbvSFpar/s1600/chickpea-tart.jpg)
+## Ingredients
 
-Ingredients****
-1 T olive oil
+- 1 T olive oil
+- 1 cup onion, diced
+- 1/2 C celery, diced
+- 4-5 garlic cloves, minced
+- 2 cups chickpeas, reserve 1/3 cup
+- 2 T fresh squeezed lemon juice
+- 1/2 tsp salt
+- 1/2 tsp fresh ground black pepper
+- 2 tsp tamari
+- 3/4 cup walnuts, toasted
+- 1/3 cup rolled oats
+- 1 bag fresh chopped spinach (or kale)
+- 1/4 cup dried cranberries (optionally soak them in a little water)
+- 1 tsp thyme
+- Pie crust: We like this [easy homemade whole wheat crust](http://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html) or Whole Food's [Wholly Wholesome 9" Whole Wheat or Spelt Organic Pie Shell](http://www.whollywholesome.com/ourproducts-pie-shells.php)
+- Topping
+- 1/2 tsp olive oil
+- 1 tsp tamari
+- 2 T walnuts
+- 1/4 cup dried cranberries (optionally, soak them in a little water)
 
-1 cup onion, diced
-
-1/2 C celery, diced
-
-4-5 garlic cloves, minced
-
-2 cups chickpeas, reserve 1/3 cup
-
-2 T fresh squeezed lemon juice
-
-1/2 tsp salt
-
-1/2 tsp fresh ground black pepper
-
-2 tsp tamari
-
-3/4 cup walnuts, toasted
-
-1/3 cup rolled oats
-
-1 bag fresh chopped spinach (or kale)
-
-1/4 cup dried cranberries (optionally soak them in a little water)
-
-1 tsp thyme
-
-Pie crust: We like this [easy homemade whole wheat crust](http://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html) or Whole Food's [Wholly Wholesome 9" Whole Wheat or Spelt Organic Pie Shell](http://www.whollywholesome.com/ourproducts-pie-shells.php)
-
-Topping****
-1/2 tsp olive oil
-
-1 tsp tamari
-
-2 T walnuts
-
-1/4 cup dried cranberries (optionally, soak them in a little water)
-
-Instructions**
+## Instructions
 
 Preheat oven to 400 degrees. Add oil to skillet, and cook onion, celery, and garlic over medium-high heat for 9-10 minutes, stirring occasionally, until softened and turning golden.
 

@@ -14,23 +14,15 @@ Slightly adapted from the wonderful [Vegan with a Vengeance](http://www.theppk.
 
 May 2, 2020 Update: Try this with cilantro in place of basil! We have a ton of cilantro growing in the side yard, and Larry mentioned that he saw a cilantro pesto recipe. It works! (I also planted some Italian Basil seeds today, send from the Menlo Park library seed program during the pandemic.)
 
-##
-[![](/images/pesto.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguBtgT_t1EikstIGubNTTJT9QzWcptVPqcFgZsYDEk26gLUG7XzKsoSpq3nkTN0rkaML9y1nQjgUa_7RrfOp4wAmqIHHq7Wl_rW-VNAbObNCZ7wWc2tE6k099sqQY6tN2rJl-ORUNR6-sz/s1600/pesto.jpg)
-Ingredients
+## Ingredients
 
-1/2 cup walnut pieces
+- 1/2 cup walnut pieces
+- 3 cups packed basil leaves
+- 3 cloves garlic, smashed and coarsely chopped
+- 1 teaspoon coarse salt
+- 1/2 cup extra-virgin olive oil, or more to taste
+- 2 teaspoons lemon juice
 
-3 cups packed basil leaves
-
-3 cloves garlic, smashed and coarsely chopped
-
-1 teaspoon coarse salt
-
-1/2 cup extra-virgin olive oil, or more to taste
-
-2 teaspoons lemon juice
-
-##
-Instructions
+## Instructions
 
 Fry walnuts and garlic in olive oil for a few minutes, until walnuts are slightly browned. Combine the walnuts and garlic with basil and salt in a food processor or blender and process, adding olive oil as you go. Add the lemon juice and pulse to combine. The sauce should be the consistency of a slightly grainy paste, not a puree.

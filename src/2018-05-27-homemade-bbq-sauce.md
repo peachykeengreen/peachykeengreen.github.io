@@ -10,31 +10,21 @@ featured_image: "/images/bbq.png"
 description: "Homemade BBQ Sauce recipe."
 ---
 
-Jeff & Brenda came over for lunch, and they had a hankering for bbq chicken, so we bought them a roast chicken at Costco and I made some [homemade BBQ](https://www.foodnetwork.com/recipes/ree-drummond/homemade-bbq-sauce-recipe-2107702) sauce. The sauce was delicious and super easy! Takes about 30 minutes. Could use this for bbq tofu, or [bbq seitan sandwiches](https://veganinthefreezer.com/texas-bbq-sausage-sandwich/), yum! Jeff even put it on top of a pita slathered with hummus and ate it that way, it was so good.**
+Jeff & Brenda came over for lunch, and they had a hankering for bbq chicken, so we bought them a roast chicken at Costco and I made some [homemade BBQ](https://www.foodnetwork.com/recipes/ree-drummond/homemade-bbq-sauce-recipe-2107702) sauce. The sauce was delicious and super easy! Takes about 30 minutes. Could use this for bbq tofu, or [bbq seitan sandwiches](https://veganinthefreezer.com/texas-bbq-sausage-sandwich/), yum! Jeff even put it on top of a pita slathered with hummus and ate it that way, it was so good.
 
-[![](/images/bbq.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjQwIuOp2MI7iMty2dTNnxS6VJJIbNSDJQfbquGDs4aTOFPCE5ZbW1xzia-ab5WpHAtqJ9vK5T__Nd834GZQ73J4xrkVszntlQHBnS5zHrYj2fA9jd9QzOTQnbgS51qFHQ8KCO4mZNjhys/s1600/bbq.png)
+## Ingredients
 
-Ingredients****
-1 T canola oil
+- 1 T canola oil
+- 2 cloves garlic, minced
+- 1/2 onion, diced
+- 1 cup ketchup
+- 1/3 cup molasses
+- 1/3 cup brown sugar
+- 2 T chipotle peppers in adobo sauce (Judi's vote!) or ground red pepper to taste
+- 4 T distilled vinegar
+- 1 T Worcestershire sauce
+- Dash salt
 
-2 cloves garlic, minced
-
-1/2 onion, diced
-
-1 cup ketchup
-
-1/3 cup molasses
-
-1/3 cup brown sugar
-
-2 T chipotle peppers in adobo sauce (Judi's vote!) or ground red pepper to taste
-
-4 T distilled vinegar
-
-1 T Worcestershire sauce
-
-Dash salt
-
-Instructions**
+## Instructions
 
 Heat the oil in a saucepan over medium-low heat. Add the garlic and onions and cook for 5 minutes, stirring, being careful not to burn them. Reduce the heat to low. Add the ketchup, molasses, brown sugar, chipotle peppers, vinegar (or less to taste), Worcestershire sauce and salt and stir. Allow to simmer for 20 minutes. Remove, taste, and adjust spices as desired. Serve warm.

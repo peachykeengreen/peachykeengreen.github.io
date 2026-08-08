@@ -10,29 +10,22 @@ featured_image: "/images/zucchinipasta.JPG"
 description: "Eggplant & Zucchini Pasta recipe."
 ---
 
-Well, you don't have to serve this with fettuccine; we serve it over [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/) spaghetti or fusilli with [my homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html).  This is recipe adapted from the wonderful cookbook [Isa Does It](http://www.amazon.com/Isa-Does-It-Amazingly-Delicious/dp/0316221902). Isa's recipes are so awesome. Her [Post Punk Kitchen](http://www.theppk.com/)blog is another great source of vegan recipes. Anyway, it's very easy to make, and people seem to love it. It's a great dinner meal to serve to non-vegans!**
+Well, you don't have to serve this with fettuccine; we serve it over [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/) spaghetti or fusilli with [my homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html).  This is recipe adapted from the wonderful cookbook [Isa Does It](http://www.amazon.com/Isa-Does-It-Amazingly-Delicious/dp/0316221902). Isa's recipes are so awesome. Her [Post Punk Kitchen](http://www.theppk.com/)blog is another great source of vegan recipes. Anyway, it's very easy to make, and people seem to love it. It's a great dinner meal to serve to non-vegans!
 
-[![](/images/zucchinipasta.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW1S1Yym0YL4zoofa1lcxSizZ_Iq2QizI6P8myuknk99-bGLqRXN1FlB6V9kgxs_dQaasWEuwkKjWRyUL8mMmKN233VEv7efZIGEzY9LjzKYY_JzbKpvDaM9VH4QGBLeAp-WhmSdznUw9r/s1600/zucchinipasta.JPG)Ingredients****
-2 T olive oil
+## Ingredients
 
-1 eggplant, sliced into 1/4 thick half melons
+- 2 T olive oil
+- 1 eggplant, sliced into 1/4 thick half melons
+- 2 long green zucchini, sliced into half melons
+- Breadcrumbs
+- Marinara (I use [homemade](http://peachykeengreen.blogspot.com/2015/02/marinara.html))
+- Pasta (we like [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/))
+- Bread crumbs
+- 1/2 cup whole wheat bread crumbs
+- 1/2 tsp dried thyme
+- 1/2 tsp salt
 
-2 long green zucchini, sliced into half melons
-
-Breadcrumbs
-
-Marinara (I use [homemade](http://peachykeengreen.blogspot.com/2015/02/marinara.html))
-
-Pasta (we like [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/))
-
-Bread crumbs****
-1/2 cup whole wheat bread crumbs
-
-1/2 tsp dried thyme
-
-1/2 tsp salt
-
-Instructions**
+## Instructions
 
 To make breadcrumbs, toast a piece or two of whole wheat bread in the toaster and let cool. Put the toast, thyme, and salt into a food processor or chopper and process until you have crumbs :)
 

@@ -12,25 +12,16 @@ description: "Spicy Roasted Brussels Sprouts recipe."
 
 Judi made so many delicious things for [Thanksgiving](http://veryveryverygreen.blogspot.com/2015/11/stuffing-our-faces.html) this year, including these slightly sweet and spicy brussels sprouts. Yum!
 
-[![](/images/IMG_4571.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-P8-imddi62WP37HCQWYovLGl-5LDDqEMhmkyXjikZGNKEAhYbDAlmvuAvENSAmTtzNd1OQ7WZx4F5_43sPOfzNT0QBuXwOgSqq4phEdxRReyGCD1vXyDkdLs4A6tzrSc1IzoWOAu17gB/s1600/IMG_4571.JPG)
+## Ingredients
 
-##
-Ingredients
+- 1 1/2 lbs Brussels sprouts
+- 1/2 cup oil
+- 1/4 cup rice vinegar
+- 1/4 cup brown sugar or maple syrup
+- 2 T Sriracha
+- fresh ground salt and pepper
 
-1 1/2 lbs Brussels sprouts
-
-1/2 cup oil
-
-1/4 cup rice vinegar
-
-1/4 cup brown sugar or maple syrup
-
-2 T Sriracha
-
-fresh ground salt and pepper
-
-##
-Instructions
+## Instructions
 
 Preheat the oven to 400°F. Trim the base away from the brussels sprouts and discard. Cut the sprouts in half. Toss in a large gallon bag.
 

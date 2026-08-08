@@ -12,18 +12,15 @@ description: "Munira's Tofu and Corn recipe."
 
 A simple, delicious dish, created by Munira. Who'da thought corn and tofu would be so good together? You might be tempted to add other ingredients; feel free. Bell peppers, for example, are delish in the mix. But it really is delicious in its simplicity.
 
-##
-[![](/images/corn-tofu.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5eXxnBXstgn47-yjH_TALxRWLQ8gOXUyeFOIfJLNOl5yd8FIbTOPlJHK-zIujfhWKeOZ_DrOwUQSsdinyLLF7ejLG8HsScLKIsjpRUW8Dg1btLm94rNw-FvYVDjWR-ydLFK7xKQ0uE6itDUJwsJtFf3GgAyd5IVCEgWEsB2EQqTKleWm1kn2DRVjgwNjj/s1508/corn-tofu.jpg)
-Ingredients
+## Ingredients
 
-1 block tofu, drained
-2 cups frozen corn, thawed
-garlic, diced
-pepper, diced
-oil
-salt to taste
-
-optional: bell peppers (chopped)
+- 1 block tofu, drained
+- 2 cups frozen corn, thawed
+- garlic, diced
+- pepper, diced
+- oil
+- salt to taste
+- optional: bell peppers (chopped)
 
 ## Instructions
 

@@ -14,34 +14,29 @@ Nick and I love Darbar's Shahi Paneer, so I wanted to try making a vegan version
 
 ## Ingredients
 
-[![](/images/vegan-shahi-paneer-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEg5tJMsEsGcYgG48SuyB-ZNrG_QT0xZPwxHQphYefEx8d1DUx0iUZnXXPyqzjyp2ugpVAiyGLQcQXTcb2zChb9n_1vkZgeF1aChluZBBw73QlpXDfBTvrlXWA30hLLKq2YxCHRPYjKtzgC5nken8bgEo0cXQTJttrSGIv6_rK3XANTnnyYiywFCbPNiAAWM)
-1 T canola oil
-1 inch ginger, diced
-1 small hot chili, chopped
-1 medium red onion, chopped
-1 tsp fenugreek seeds (or green methi)
-1 tsp salt
-
-6 medium tomatoes, chopped
-4 cloves garlic, chopped
-2 T vegan butter
-
-1/2 C cashews, soaked in 1 C and blended, OR
-1/2 C coconut milk
-1 tsp turmeric
-1 tsp garam masala
-1 tsp chili
-
-Tofu, pressed, drained and cut up
-
-Tofu marinade of your choice, or try:
-2 tsp minced garlic
-1/2 tsp garm masala
-2 tsp lemon juice
-2 T water
-2 T cornstarch or potato starch
-1 tsp nutritional yeast
-1 T canola oil
+- 1 T canola oil
+- 1 inch ginger, diced
+- 1 small hot chili, chopped
+- 1 medium red onion, chopped
+- 1 tsp fenugreek seeds (or green methi)
+- 1 tsp salt
+- 6 medium tomatoes, chopped
+- 4 cloves garlic, chopped
+- 2 T vegan butter
+- 1/2 C cashews, soaked in 1 C and blended, OR
+- 1/2 C coconut milk
+- 1 tsp turmeric
+- 1 tsp garam masala
+- 1 tsp chili
+- Tofu, pressed, drained and cut up
+- Tofu marinade of your choice, or try:
+- 2 tsp minced garlic
+- 1/2 tsp garm masala
+- 2 tsp lemon juice
+- 2 T water
+- 2 T cornstarch or potato starch
+- 1 tsp nutritional yeast
+- 1 T canola oil
 
 ## Instructions
 

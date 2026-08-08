@@ -17,27 +17,23 @@ Update 1/2/21: Larry asked for more veggie to meat ratio, so I increased the veg
 ## Ingredients
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVkQs97kihYgzbENj68ZFxDDjrbRqPbIvTti_0JiQAraEeDNIuKrS_od1R0CPt1kBnq5SWXnTFmgVp6HDomD7Lm0stdxmbHx_THJ5wxHLCNiDKOpqH-hqgsWnNndIS4J7SyRq3YBPX1yZJ/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVkQs97kihYgzbENj68ZFxDDjrbRqPbIvTti_0JiQAraEeDNIuKrS_od1R0CPt1kBnq5SWXnTFmgVp6HDomD7Lm0stdxmbHx_THJ5wxHLCNiDKOpqH-hqgsWnNndIS4J7SyRq3YBPX1yZJ/)
-
-2 T vegan butter
-1 tsp cumin seed (or 1 tsp cumin powder later)
-1/2 tsp hot pepper flakes (or 1/4 tsp cayenne later)
-1 cup scallions/onion, chopped
-1/3 - 1/2 C carrots, chopped
-1/3 - 1/2 C celery, chopped
-1/3 - 1/2 C bell pepper, chopped
-2-3 cloves garlic, minced
-
-Spices:
-1/2 tsp salt
-1 tsp pepper
-1 tsp nutmeg
-(add 1 tsp cumin and 1/4 tsp cayenne powder here if not used above)
-
-1-2 slices whole wheat bread, toasted and cut into fine breadcrumbs
-1/4 - 1/2 C almond milk
-
-1 pkg Impossible Burger plant-based meat (3/4 lb)
-4 T ketchup (or I've also used marinara)
+- 2 T vegan butter
+- 1 tsp cumin seed (or 1 tsp cumin powder later)
+- 1/2 tsp hot pepper flakes (or 1/4 tsp cayenne later)
+- 1 cup scallions/onion, chopped
+- 1/3 - 1/2 C carrots, chopped
+- 1/3 - 1/2 C celery, chopped
+- 1/3 - 1/2 C bell pepper, chopped
+- 2-3 cloves garlic, minced
+- Spices:
+- 1/2 tsp salt
+- 1 tsp pepper
+- 1 tsp nutmeg
+- (add 1 tsp cumin and 1/4 tsp cayenne powder here if not used above)
+- 1-2 slices whole wheat bread, toasted and cut into fine breadcrumbs
+- 1/4 - 1/2 C almond milk
+- 1 pkg Impossible Burger plant-based meat (3/4 lb)
+- 4 T ketchup (or I've also used marinara)
 
 ## Instructions
 

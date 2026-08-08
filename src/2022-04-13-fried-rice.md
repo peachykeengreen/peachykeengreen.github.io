@@ -12,22 +12,19 @@ description: "Fried Rice recipe."
 
 Another recipe from Munira! After making us a wonderful dinner, she described how to make fried rice from the leftover rice in her Instant Pot, and sent me home with spiced rice that I could fry up with an onion and veggies. So simple, tasty, and pretty. Here's the (rough) recipe (guessing at measurements).
 
-[![](/images/IMG_1676.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibn2YuffPHz39G4nubV354Q9wq1sOng5NS_eWw1V5rRprTvA36ZhU1K9WWfnJzc1qYaAROJhS_P6OwhWE3XPNILUlkIBrU6N3_M2bZuR6qRiZDf9WmZjIemYhyAXYG1qFj4vyk4VpLT6br7zavMXFhlEAPFm47_QtA3Hs4JvNKgAnN-qCi4e_u1Kzf7w/s640/IMG_1676.jpg)
-
 ## Ingredients
 
-6 C cooked rice (in Instant Pot)
-2 tsp chili powder
-2 tsp turmeric
-1-2 tsp salt
-
-3 T canola oil
-1 red onion, diced
-1 hot pepper, diced (optional)
-2 T mustard seed
-1 tsp hing
-2 C mixed veggies (peas, corn)
-1/2 C cashews (optional)
+- 6 C cooked rice (in Instant Pot)
+- 2 tsp chili powder
+- 2 tsp turmeric
+- 1-2 tsp salt
+- 3 T canola oil
+- 1 red onion, diced
+- 1 hot pepper, diced (optional)
+- 2 T mustard seed
+- 1 tsp hing
+- 2 C mixed veggies (peas, corn)
+- 1/2 C cashews (optional)
 
 ## Instructions
 

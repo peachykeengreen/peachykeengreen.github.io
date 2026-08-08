@@ -10,36 +10,24 @@ featured_image: "/images/IMG_4628.jpg"
 description: "Yammy Chocolate Pudding (Optionally Pie) recipe."
 ---
 
-[![](/images/IMG_4628.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNQRq1uP_sKy-P6Q7n9rZRapbD2-wVpYpmsy7W47Q8YfaSulq9ZvffMSaPtu2dvQZKhu9VRAdn9XFqbuIx-afdQDC88xPVAiF5dAZw3Yhmyrbm0juyOw0aIqezpa2pmvjh2sH0UFdVmqj/s1600/IMG_4628.jpg)Shelley shared a delicious chocolate pudding with us today, packed with healthy ingredients! It's super easy to make, too. She recommends a dark cocoa like Hershey's Dark or Guittard Dutched Cocoa rather than regular cocoa, as it makes it taste more fudgy. She also used TJs soy creamer because she thinks it tastes more neutral than nut milks or coconut creamers.
-**
+Shelley shared a delicious chocolate pudding with us today, packed with healthy ingredients! It's super easy to make, too. She recommends a dark cocoa like Hershey's Dark or Guittard Dutched Cocoa rather than regular cocoa, as it makes it taste more fudgy. She also used TJs soy creamer because she thinks it tastes more neutral than nut milks or coconut creamers.
 
 I used this recipe to make a pudding pie, and that was also delish! I vote for graham cracker crust if you go the pie route.
 
-## Ingredients**
+## Ingredients
 
-1 really big yam (or two medium yams)
+- 1 really big yam (or two medium yams)
+- 2 T almond butter
+- 4 T soy creamer (or nondairy milk)
+- 4 T dark cocoa powder
+- 5 pitted dates
+- If making pie version:
+- Pie crust (regular or graham cracker)
+- sliced strawberries
+- powdered sugar
+- glaze made with 1 T melted vegan butter and 1 T rum
 
-2 T almond butter
-
-4 T soy creamer (or nondairy milk)
-
-4 T dark cocoa powder
-
-5 pitted dates
-
-**
-
-If making pie version:
-
-Pie crust (regular or graham cracker)
-
-sliced strawberries
-
-powdered sugar
-
-glaze made with 1 T melted vegan butter and 1 T rum
-
-## Instructions**
+## Instructions
 
 Wash the yam, but don't peel it. Roast yam at 425 until syrup leaks out, up to 1 hour 20 minutes. Let it cool, and then carefully peel off the skin.
 

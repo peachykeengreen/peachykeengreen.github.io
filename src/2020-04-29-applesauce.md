@@ -10,22 +10,17 @@ featured_image: "/images/sauce.jpg"
 description: "Applesauce recipe."
 ---
 
-Growing up, Larry's family had a tradition of eating applesauce at most meals. Since we've started doing weekly zoom dinners with his family, they decided everyone should always have applesauce for dessert. Cute! But it's been hard to find jars of applesauce. We're just seeing pouches and single-serve containers as options at Costco and our Instacart orders. Yuck.  But apples are easy to get. And I make a mean [ginger pear sauce](https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html).... So why not make applesauce, too? Of course!**
+Growing up, Larry's family had a tradition of eating applesauce at most meals. Since we've started doing weekly zoom dinners with his family, they decided everyone should always have applesauce for dessert. Cute! But it's been hard to find jars of applesauce. We're just seeing pouches and single-serve containers as options at Costco and our Instacart orders. Yuck.  But apples are easy to get. And I make a mean [ginger pear sauce](https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html).... So why not make applesauce, too? Of course!
 
-##
-[![](/images/sauce.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZahLKLJ6AerMi0F6Zl5C7ru6T_oHf8fIYV3YZ5MqaXurYkKBhuhj1pzWqEIylkJ3vnzV09K4WoBo0KaPUgnE7tBrL24XnSRGgzU808NyW3S7yVafaupKbV_QDdlbUYcJRiSt8wf6NTtSo/s1600/sauce.jpg)Ingredients**
+## Ingredients
 
-7-8 apples (I use gala or fuji), chopped**
-1/4 cup sugar (brown or white)
+- 7-8 apples (I use gala or fuji), chopped
+- 1/4 cup sugar (brown or white)
+- juice from one lemon
+- 1 C water
+- 1/2 tsp cinnamon, or a cinnamon stick
 
-juice from one lemon
-
-1 C water
-
-1/2 tsp cinnamon, or a cinnamon stick
-
-##
-Instructions**
+## Instructions
 
 Chop the apples and eat around the core :) Oh, I leave the skin on, of course - it's where most of the nutrition is.
 

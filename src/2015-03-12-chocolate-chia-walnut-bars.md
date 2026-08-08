@@ -13,21 +13,16 @@ description: "Chocolate Chia Walnut Bars recipe."
 A raw, easy, yummy vegan dessert; see Happy Healthy Librarian's
 [Chocolate Chia Walnut Bars](http://www.happyhealthylonglife.com/happy_healthy_long_life/2010/10/chia-bars.html).
 
-**
+## Ingredients
 
-[![](/images/chocolate-chia-bars.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcBalUbS4Di0rDv3OqHprdDHuaqJw1Y0k0pFlucopBMURyJ-3zTAGHtqogYrDejADd5PW6mXaRo_jXt4Ou4cu7taWcVBBPgFv4RQw7qKx9jmqyfJU3cxgn3_ZE6fnOm017Yql5Kd5WN5AK/s1600/chocolate-chia-bars.jpg)
-Ingredients**
-**
+- 1 1/2 cups pitted Medjool dates (be sure all pits are gone!)
+- 1/3 cup raw usweetened cocoa powder
+- 1/3 cup whole chia seeds
+- 3/4 tsp vanilla extract, optional
+- 1 cup raw walnut pieces
+- Oat flour for dusting
 
-1 1/2 cups pitted Medjool dates (be sure all pits are gone!)
-
-1/3 cup raw usweetened cocoa powder
-1/3 cup whole chia seeds
-3/4 tsp vanilla extract, optional
-1 cup raw walnut pieces
-Oat flour for dusting
-
-Instructions**
+## Instructions
 
 1.  Place dates in bowl of food processor; puree until thick paste forms.  If the dates are on the dry side, you may need to add small amounts of warm water to moisten them up.
 2.  Add cocoa powder, chia seeds, and vanilla.  Pulse until all ingredients are combined.

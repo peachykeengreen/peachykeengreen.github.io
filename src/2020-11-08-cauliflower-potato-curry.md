@@ -14,35 +14,30 @@ Larry asked his colleague Supraja what she had for lunch the other day, and she 
 
 ## Ingredients
 
-[![](/images/IMG_7974.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUlbzh_74sk2KcSaAoGPW__mSZD2BEmvmFPtkGqBVMpb4ISlalXhoUVNpXPT4hasEZBwyQXkQSsc3-jittSmeBhDhcvArLFGQqA4sd7XWEofPYEDX9hrbagddfUMhoTchDqdtX1W-a6HXc/)
-
-1 small cauliflower, chopped
-2 medium potatoes, chopped
-2 C cabbage, chopped
-1 onion, chopped
-
-2 T canola oil
-1 hot pepper, minced
-2 tsp cumin seed
-1 tsp mustard seed
-1/2 tsp fenugreek seed
-4 cloves garlic, minced
-1" ginger, minced
-
-Spices:
-1 bay leaf
-1 tsp thyme
-2 tsp turmeric
-2 tsp coriander
-2 tsp chili pwd
-1/2 tsp paprika
-1 tsp salt
-1 tsp black pepper
-2 T dried or fresh cilantro
-
-1 can diced tomatoes
-1 can coconut milk
-zest of 1 lime
+- 1 small cauliflower, chopped
+- 2 medium potatoes, chopped
+- 2 C cabbage, chopped
+- 1 onion, chopped
+- 2 T canola oil
+- 1 hot pepper, minced
+- 2 tsp cumin seed
+- 1 tsp mustard seed
+- 1/2 tsp fenugreek seed
+- 4 cloves garlic, minced
+- 1" ginger, minced
+- Spices:
+- 1 bay leaf
+- 1 tsp thyme
+- 2 tsp turmeric
+- 2 tsp coriander
+- 2 tsp chili pwd
+- 1/2 tsp paprika
+- 1 tsp salt
+- 1 tsp black pepper
+- 2 T dried or fresh cilantro
+- 1 can diced tomatoes
+- 1 can coconut milk
+- zest of 1 lime
 
 ## Instructions
 
