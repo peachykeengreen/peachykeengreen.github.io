@@ -16,8 +16,6 @@ It's yummy without any frosting, just as a lemon bread -- which is probably how 
 
 ## Ingredients
 
-[![](/images/lemon-cake-2020-img-1.jpg)](/images/lemon-cake-2020-img-1.jpg)
-
 - Dry:
 - 1 C + 1 T whole-wheat flour
 - 1 1/2 C white flour
