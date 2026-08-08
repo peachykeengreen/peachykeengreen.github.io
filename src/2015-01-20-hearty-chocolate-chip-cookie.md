@@ -16,7 +16,7 @@ This recipe makes about 16 cookies. Often I double it and freeze some of them be
 
 ## Ingredients
 
-- Dry:
+Dry:
 - 1 cup gluten-free rolled oats, blended into oat flour
 - 1/2 cup almond meal or almond flour
 - 1/2 cup gluten-free rolled oats
@@ -27,8 +27,9 @@ This recipe makes about 16 cookies. Often I double it and freeze some of them be
 - 1/2 tsp baking powder
 - 1/2 tsp baking soda
 - 1/3 cup of flax
-- (If you like coconut, add some--up to 1/4 cup shredded. I don't like it and I didn't add it.)
-- Wet:
+- 1/4 cup shredded coconut (optional)
+
+Wet:
 - 1/4 cup "drippy" raw almond butter
 - 1/4 cup tahini
 - 1/4 cup pure maple syrup
