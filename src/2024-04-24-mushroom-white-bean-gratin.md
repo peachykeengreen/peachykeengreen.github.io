@@ -53,20 +53,20 @@ Remove and let sit 10-15 minutes. Serve! Nice with a light salad.
 
 Gathering ingredients, including pressure-cooking the white beans:
 
-[![](/images/IMG_7889.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrRKnzFkOOVqoYEASzbDqdXjDebzv1M-_QGJ23mvnyt8hXf8u4QWsmiJAHW3ny-piB2YGZusVqcxw5QNunEEgRCjhkoqNUh2jvwisJAZoYsaQAKMIZKvcaEPExIVVIBxK8yl5eDH7NdNdkAVhkRIr1s10doatKifJgLDtrq_e3b-ca5cQLK8qfhohgCbuL/s640/IMG_7889.jpg)
+[![](/images/IMG_7889.jpg)](/images/IMG_7889.jpg)
 
 Ready to assemble:
 
-[![](/images/IMG_7890.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Cqu2ttAB0BRYhKoMk5y4DsWEpYSHoSryn_o87Ne1h7T2e5zadUl5sDfnwTPMyN6MFiStXbsOxuz-UMoRCnQAnnqAJ-xQLKZvJZ30WoHm96oeD1mGXBHYAWK0RvMZfL6SkzmKCVdEIt4LdZ0CE8a4yCg71XaR4LAE1w7raNqNfIWGuPXYRHuXkfS8-KZk/s640/IMG_7890.jpg)
+[![](/images/IMG_7890.jpg)](/images/IMG_7890.jpg)
 
 Out of the oven:
 
-[![](/images/IMG_7897.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVEfQ17mpGsVAjxgHJoyIA0uLQEVKYO2YvVUl81OLsFCwdMeg5T888K3SP3eWMmyLjSp8yBMrD5P4naMP9FLK9H2WfM5x-Bh3RNLFewDURc1RsTQNje_N_tTxgb_uQHSv8yasg1CkaQb6vTY2PT65obRqq1sqlj-uPeGd9cUEwAjxzu83eVOi-tvgTUFd/s640/IMG_7897.jpg)
+[![](/images/IMG_7897.jpg)](/images/IMG_7897.jpg)
 
 Such a pretty top crust!
 
-[![](/images/IMG_7898.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDr0r0KTRlGndQ2n6_ox38yirmimNNbqxfQ-XL48cOwEcadFQfLfe5e8WBpgr2G9DPyeiHj2EnBNkG1u-rovPxZxRL_bETzZEMFkKTNIeKVhUJ-iIftJDU0QpPOQYI1haQ4-5EKjB-4rLcZxHBOrqi_ZDBP6IM8PxaJRt9lkKrYoXuNdA6Bja9k82bzcMS/s640/IMG_7898.jpg)
+[![](/images/IMG_7898.jpg)](/images/IMG_7898.jpg)
 
 Second version, with more root veggies and a can of diced tomatoes, served with cranberry sauce and green beans:
 
-[![](/images/IMG_0345.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjYQ3i7UPlotCaNF2LaEogsoAtbeE_8xBzWcbrZnLSLSymYWObbK6KDSUQedb3Npmgp8Bm_NoCchTVQaOqggIdI9RzhCL2VDvi6NQ6npYdrlQ-aOTXL4NreG6cj9NjOrW-y-l_-9i9xItgAtrfsv-C4W3QRBaP7uSMpFxL2Qyn7N0Zht81k6hAlPObdCwd/s640/IMG_0345.jpg)
+[![](/images/IMG_0345.jpg)](/images/IMG_0345.jpg)

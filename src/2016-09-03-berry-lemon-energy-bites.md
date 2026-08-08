@@ -34,8 +34,8 @@ Roll into small (1 inch) balls. Optionally roll the balls into additional coconu
 
 Rolled in oat flour (grind some oats in the food processor and roll!)
 
-[![](/images/cherry-bites-oat-flour.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLKTxvEsPJkZzDQjYqoHPdve4FAj-q23WvEF4ygv3RYN7zNDpO3dfnwlMVqws9dB57TkltEi2lUgfDNYDRb4suPFAQrqEFAAYKv95Gz_MUwaKVFnQ_qCz7uFPGCrOPwQ3XQFyhNQkW7EEX/s1600/cherry-bites-oat-flour.jpg)
+[![](/images/cherry-bites-oat-flour.jpg)](/images/cherry-bites-oat-flour.jpg)
 
-[![](/images/cherry-bites-food-processor.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpOAXaBZqvLey38t6xVJ8azUpuezP9IepJTaec_IuGM1WFynfN4gWtllhonjHWT_4ooZdzaeX6BWXRT5wcopgFJPOf3hsff2e7868DpNEIN8XfBmSqoRyRrum3Js2LMBmkDx3E3_Gd6zSh/s1600/cherry-bites-food-processor.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpOAXaBZqvLey38t6xVJ8azUpuezP9IepJTaec_IuGM1WFynfN4gWtllhonjHWT_4ooZdzaeX6BWXRT5wcopgFJPOf3hsff2e7868DpNEIN8XfBmSqoRyRrum3Js2LMBmkDx3E3_Gd6zSh/s1600/cherry-bites-food-processor.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpOAXaBZqvLey38t6xVJ8azUpuezP9IepJTaec_IuGM1WFynfN4gWtllhonjHWT_4ooZdzaeX6BWXRT5wcopgFJPOf3hsff2e7868DpNEIN8XfBmSqoRyRrum3Js2LMBmkDx3E3_Gd6zSh/s1600/cherry-bites-food-processor.jpg)
+[![](/images/cherry-bites-food-processor.jpg)](/images/cherry-bites-food-processor.jpg)[
+](/images/cherry-bites-food-processor.jpg)[
+](/images/cherry-bites-food-processor.jpg)

@@ -35,4 +35,4 @@ Slice tofu and press the water out of the tofu as much as possible. Chop into sm
 
 Drain off the marinade. Toss tofu in bowl of bread crumbs. Saute. Drain on paper towel and serve on a flat tray with toothpicks!
 
-[![](/images/cyndy-tofu.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguQgdlZY0yyIqg2FnqpPw0S3PaL3cAQ9bwia0micRP32O1nOxznAuRQIBqyfNNyJdGhWdLAn6iRvNBz9B3ZvXVVIDgbu4tf9eaDgzTLlygKRh6IvtKLbubiA-wMPtJgCcZgpB69HpaqPv5/s1600/cyndy-tofu.JPG)[![](/images/tofu-draining.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj36AyRHbYWDkNd6XY1ddTKMzLivS5k_GO7bBMKpXM4YMaj751iQb9omQG-EYa7bGMgaOjlnq3SdcH_0HCvK1GQiOBcgAmgzlFq5wurOU3Nh0MfimGKwb3dYRY9fbmI2cM0EN9aX4ozrh2/s1600/tofu-draining.JPG)
+[![](/images/cyndy-tofu.JPG)](/images/cyndy-tofu.JPG)[![](/images/tofu-draining.JPG)](/images/tofu-draining.JPG)

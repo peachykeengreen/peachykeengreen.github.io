@@ -11,11 +11,11 @@ description: "Royal Eggplant (Baingan Bharta) recipe."
 ---
 
 [
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg)
+](/images/bengan.jpg)[
+](/images/bengan.jpg)[
+](/images/bengan.jpg)[
+](/images/bengan.jpg)[
+](/images/bengan.jpg)
 Another recipe adapted from a recipe in [The Indian Vegetarian](https://www.blogger.com/#) cookbook by Neelam Batra (see also the [diced potatoes and tomatoes](https://www.blogger.com/#) recipe). The original calls for 4 jalapenos (!!). I use one medium jalapeno; any more and we can barely eat it, it's so spicy. Shown here with Munira's yummy roti!
 
 ## Ingredients

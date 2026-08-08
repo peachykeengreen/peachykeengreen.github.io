@@ -28,4 +28,4 @@ In a sauce pan, warm up the marinara with TJs' meatless meatballs, using about 6
 
 Dish it up! The picture above is a tiny leftover portion because we ate it sooooo fast. Yum.
 
-[![](/images/spiralslicer.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqfSzjUi3ZY77Bm4ZkMmLb9pGJU7HKULubE-gbXF0_pvnYkDdkrJ667z5wENZt5R_fMihj24VRU6jTluwn2aUffU2kwhmRpdGJHOL3arXzE6pqlXGIc2Y4PTw2E7mYt73dOMhxbDhDMYAB/s1600/spiralslicer.jpg)
+[![](/images/spiralslicer.jpg)](/images/spiralslicer.jpg)

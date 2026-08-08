@@ -58,20 +58,20 @@ Take it out of the oven right away; the bites are better a bit firm than a bit m
 
 Take out and serve. Oh, topping it with chopped chives looks good, too! Yuuuum.
 
-[![](/images/caul.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUPIM489u7zjUZJRdJYCSliQQ8AZibhO0cDDvNW-QGuuXC-T71CbV0TTAHvXJZj92BKk3VUEhe_laz0Afu8he9y-8_zibQSG8eW_1OatW7vkB5FEkYoL_DvTcByh9-zWv2UHFEGQvxLdZ/s1600/caul.jpg)
+[![](/images/caul.jpg)](/images/caul.jpg)
 
 And some photos of the process:
 
-[![](/images/IMG_3255.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOpjJUww6YpKMK2R0cRNEqf2cVoHBi4I3WSUjbU5OtpOCRszUHimh9vhwNWHV-BTEGC-ejiCf52JUtpP2MgcgzQ_8V7LJ5qSgiHzAvLuf9sbyV1mw13ECfQLO8QcD9-2-MTQXTcGybkdK-/s1600/IMG_3255.jpg)
+[![](/images/IMG_3255.jpg)](/images/IMG_3255.jpg)
 
 Can just throw it all in a big bowl of batter! Here with carrots :)
 
 ![](/images/batter.jpg)
 
-[![](/images/IMG_3256.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7jj2Z5J2Smrfi_aNLbHy6Jt-iEcJ8qx3VP9PIFpzZs30v8HkdLkh0DRfCYqlSyRgXTxsYn8AeiaACiVSeAPxAP_Y-hEnvR_L8lQQ7tVOMPGziPM665M1OaxA4XWxNDWNGJf4E7H9dAOf/s1600/IMG_3256.JPG)
+[![](/images/IMG_3256.JPG)](/images/IMG_3256.JPG)
 
-[![](/images/IMG_3258.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi83g7fXp4ieGUkVDH1OH17-nlrm3NoSP5AuIdXQ3QzCRQQ4O6jeY7N8Plopx_S9LHwGn9nIYAKmMgCywfKL3zMVRmc91DgxBFKPMTO1_npeAacvYaBIzSPs8XdTICQ_Ln7sof5RfvPexv5/s1600/IMG_3258.JPG)
+[![](/images/IMG_3258.JPG)](/images/IMG_3258.JPG)
 
-[![](/images/IMG_3260.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCQSp-uyH_FDlT77X-D_31uOSenfycHBBxVqeXa589dEUxAqnRqkeXKl4-oevwupfH5frUtY5TiQ-NuQIJC9o8ChPwLBrLUxMLmX6tdHT13RLtb7D_26SrNWDbxBcwCX6py29G7zfXiP27/s1600/IMG_3260.JPG)
+[![](/images/IMG_3260.JPG)](/images/IMG_3260.JPG)
 
 Yea, there are some open spots in the pan in the oven... some baked cauliflower mysteriously disappeared before it went back into the oven.

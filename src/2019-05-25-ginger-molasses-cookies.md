@@ -37,4 +37,4 @@ Roll into 1-inch balls, flatten, and press cookie tops into sugar. Place sugar-s
 
 Bake 10-12 minutes. Let cool for 5 minutes and then transfer to cookie rack.
 
-[![](/images/IMG_2339.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF1SD82GvRvb4rE7bS9MxR1uuVySz9UrbuIihGqlsDncfAjgrhWZVJ6mM24uUSuzJe_L-LI40s0lr4mFe2oq6EoKfhTu6V68pyYzDTxiQx5SkTGraKp4nqPNQDPIqFQjJ3pEYT36ofzd1/s1600/IMG_2339.jpg)
+[![](/images/IMG_2339.jpg)](/images/IMG_2339.jpg)

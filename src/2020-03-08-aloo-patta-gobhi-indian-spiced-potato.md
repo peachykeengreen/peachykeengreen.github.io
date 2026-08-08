@@ -32,4 +32,4 @@ Munira often makes a potato cabbage fry for us that is yummy. I love cabbage and
 Saute cumin seeds, mustard seeds, fenugreek seeds (if using), and pepper in oil. Add garlic, ginger, and cook 2 minutes. Add turmeric and salt and mix. Add potatoes and mix well. Add cabbage and mix. Cover and cook for 15 minutes. Taste and adjust salt and spice. Serve hot, garnished with cilantro.
 
 [
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyYoUB16wQg8uZ1MvNkLtoJI4NI-lli6gCkStUgRaCyrP1dYT2t88TvmDSpusG8VQJb_uC4YyYQ5rir3dz2aJnKiXND5HrHVh0nizhV_VWfVlySDWlRnR7EzWeYTMWRdPnPbZJeZsudWKq/s1600/IMG_5273.jpg)[![](/images/IMG_5273.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyYoUB16wQg8uZ1MvNkLtoJI4NI-lli6gCkStUgRaCyrP1dYT2t88TvmDSpusG8VQJb_uC4YyYQ5rir3dz2aJnKiXND5HrHVh0nizhV_VWfVlySDWlRnR7EzWeYTMWRdPnPbZJeZsudWKq/s1600/IMG_5273.jpg)
+](/images/IMG_5273.jpg)[![](/images/IMG_5273.jpg)](/images/IMG_5273.jpg)

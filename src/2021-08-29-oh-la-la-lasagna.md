@@ -50,12 +50,12 @@ Cover the lasagna pan with foil and bake at 375 degrees for about 45 minutes or 
 
 Assembly:
 
-[![](/images/IMG_9764.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCaGXIXpYHQ-kB_zgA6pl1IeA6Mc8iyLBcd9u-OQZP8mP2AKPV1ucMhD5NNoNI-NL_0V0f1bxBAtyhK3kTVbROV5M-4y_wYyTwWE_ZYLd11qkIstgDv4LNzZ2Sa30-lquagfBYYcOyjmaq/s640/IMG_9764.jpg)
+[![](/images/IMG_9764.jpg)](/images/IMG_9764.jpg)
 
-[![](/images/IMG_9765.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgJetdTvXu31MqQpnP_O-yvjzXPoYx1za9skfLOT8UdAHN-fEW_55ZbL3piH_-zpfLq9ftOBSvJ55ri4A5LF6yIYvIO8G3v-aUCl3PkaWyDvYWjRWtSosJiylMd2pwB6Qdh8bw5LeBUjQJ/s640/IMG_9765.jpg)
+[![](/images/IMG_9765.jpg)](/images/IMG_9765.jpg)
 
-[![](/images/IMG_9768.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCarGg2HiD9b9H0mzCddQKFxrNtFdx04fYpT7XyCuTETpqg2CIwGG39P3ungu2R5CfdSo5N-Rsx8N5XtlMz81wkwe_yPfjrY0C6EG59vrQV82LI3MvCLYKPJh2FXyfKeS54RKrw-G8CjgM/s640/IMG_9768.jpg)
+[![](/images/IMG_9768.jpg)](/images/IMG_9768.jpg)
 
 Interesting texture once cooked:
 
-[![](/images/IMG_9769.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHo25CNNCAZBXgCIcdMraRdvR0tAv-2PyRaKhHYOLqErR5QQg-dqxoLMlHQOx-ji06YQ-HDPLz_Z-zUnolLDW2DFaNObDzzA51AjnViVYSSh-RU5lw4hjBtfBeIm2lAoBnaPc1SspJgUu/s640/IMG_9769.jpg)
+[![](/images/IMG_9769.jpg)](/images/IMG_9769.jpg)

@@ -29,7 +29,7 @@ Munira is cooking us another delicious dinner, and wants rum cake! So I gave it 
 - 1 1/2 C sugar
 - 2/3 C canola oil
 - 3 tsp vanilla
-[![](/images/IMG_2199.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_m3aoule0jdoaN68DPC5ol51VzggEWfS34WWTbga68v1OE3sin622NfxIfo6OO203EtcRjjZr6-XyQguU55GYDukWV2S8MlhmLlUk90y2zS-NtGt8RL8y9I6i1m4ZgHCmTbeowcp5BRx8/s1600/IMG_2199.jpg)
+[![](/images/IMG_2199.jpg)](/images/IMG_2199.jpg)
 - Glaze:
 - for chocolate:
 - 2 T vegan butter
@@ -70,7 +70,7 @@ Serve when cool! Nice with (vegan) ice cream.
 
 Vanilla coconut (left) & chocolate walnut (right).
 
-[![](/images/choc.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkDvlbBWjoAxJpG26cdXo1TrevccJ3XS8lrnXdf0ycEXR23HRSQuGI8IF7z3JeaDYiqrWLf6zaEKgGzPPPRUW6pn4BmFa0RqQJ0v1Ll48FzENGy_ANiUOXmEsDQl36qe85cK2Hy-I6Nn3/s1600/choc.jpg)[![](/images/IMG_2193.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPPLb-HlbuTubCU9tpJCgEl3bym-s5KLg5icyGdcuDsV8QhUpM1mDuU5w67ow2w323oiOY2gecMrd8o1B4raXRY9gPoFvcfzBt0zO0oD7tLy8wEGyeeLMgercUNOOHQg8y-NRa6DtKOZ/s1600/IMG_2193.jpg)
+[![](/images/choc.jpg)](/images/choc.jpg)[![](/images/IMG_2193.jpg)](/images/IMG_2193.jpg)
 
 [
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPPLb-HlbuTubCU9tpJCgEl3bym-s5KLg5icyGdcuDsV8QhUpM1mDuU5w67ow2w323oiOY2gecMrd8o1B4raXRY9gPoFvcfzBt0zO0oD7tLy8wEGyeeLMgercUNOOHQg8y-NRa6DtKOZ/s1600/IMG_2193.jpg)
+](/images/IMG_2193.jpg)

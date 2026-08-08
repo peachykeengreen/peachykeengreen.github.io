@@ -16,7 +16,7 @@ Update 1/2/21: Larry asked for more veggie to meat ratio, so I increased the veg
 
 ## Ingredients
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVkQs97kihYgzbENj68ZFxDDjrbRqPbIvTti_0JiQAraEeDNIuKrS_od1R0CPt1kBnq5SWXnTFmgVp6HDomD7Lm0stdxmbHx_THJ5wxHLCNiDKOpqH-hqgsWnNndIS4J7SyRq3YBPX1yZJ/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVkQs97kihYgzbENj68ZFxDDjrbRqPbIvTti_0JiQAraEeDNIuKrS_od1R0CPt1kBnq5SWXnTFmgVp6HDomD7Lm0stdxmbHx_THJ5wxHLCNiDKOpqH-hqgsWnNndIS4J7SyRq3YBPX1yZJ/)
+[![](/images/blogger_img_eb9bb32e9f.jpg)](/images/blogger_img_eb9bb32e9f.jpg)
 - 2 T vegan butter
 - 1 tsp cumin seed (or 1 tsp cumin powder later)
 - 1/2 tsp hot pepper flakes (or 1/4 tsp cayenne later)
@@ -45,12 +45,12 @@ Mix spices into bread crumb mixture. Add bread crumb mixture, veggie mixture, an
 
 Bake in 350 degree oven for 30 minutes. Remove and let sit for 10 minutes. Serve!
 
-[![](/images/IMG_8212.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHGN5lUKwaAs6aU_nAlcvHp8571NTr0XA4BHmO9TW4LQZI_AeyG-ZoLMMeeaVl3iALn4JoVzVqNzEh5bHYeWRelKcvyl7MQY38hO0vSGo2XpQEAee3X6VopKMHIS_nE7f8BDAsKne1JtKT/)
+[![](/images/IMG_8212.jpg)](/images/IMG_8212.jpg)
 
-[![](/images/IMG_8215.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigbKHc663VQjf6JLpm4Lz7A8QwJi2kF1iYBGwgceVwYmtZ2piF74f_rvyisMikbHddqSO0wu2bAxMj1_OZNzykDfZHuTBmZijlGPNDB9Xcq1nSuIzduYqmFrir4ije8MVFgzO9gcp0ZFez/)
+[![](/images/IMG_8215.jpg)](/images/IMG_8215.jpg)
 
 baked, with more veggies and [carrot greens chimichurri](https://peachykeengreen.blogspot.com/2020/06/vikis-carrot-greens-chimichurri.html):
 
-[![](/images/IMG_8425.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhzZHJJJwp2WRineGeBn2JhchuXj7Ta4MfuN5D_Ij5T6ad5B8CYLLej2eODBo4P3YIkQCNJXyL7qKKuxYYlBtnlxDrgS4MDRUbgT8kOWkynI9E_kyQLcioR5wnqs_HWgUszqo5DeO5jU5f/)
+[![](/images/IMG_8425.jpg)](/images/IMG_8425.jpg)
 
-[![](/images/IMG_8429.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-T-yrRLmQj8omKX25miYu9Lc_GELBX90Cgbzr1cC4SxAnhBsN9hFAWPyuasGYlajWNZLrGhxY_TuJKugEVNT1l1mwNAnlpN-yp40-39Ul-hq-dTPbrHTP1bAId3BKFAsgjlvgXO0T0STi/)
+[![](/images/IMG_8429.jpg)](/images/IMG_8429.jpg)

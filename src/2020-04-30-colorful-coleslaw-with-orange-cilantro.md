@@ -32,4 +32,4 @@ We have a ton of fresh cilantro growing in our side yard, to I searched for reci
 
 Shred/slice the carrots, cabbage, and onion (I used my food processor with slicing attachment) and put in a big bowl with the cilantro. Whisk up the dressing in a separate bowl. Mix dressing into veggies until well combined. Cover and refrigerate for at least 3 hours. Serve!
 
-[![](/images/eatingit.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicqXz2X1AREBEReABHAPBzpMfwjp8ZvpAf1mQZll8pe8FGWP0ZsTWU7AbvcghLff1j-nH650_xXLNtr8mEePW4hWjm0UTPMLlfFY8ENPZBgsgM3WIfirkoxglj24LUG-TUxhm5lqoPRRLa/s1600/eatingit.jpg)
+[![](/images/eatingit.jpg)](/images/eatingit.jpg)

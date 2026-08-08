@@ -31,4 +31,4 @@ roasted flax seed
 
 Mix the almond milk, oatmeal, and wheat germ in a saucepan and bring to a boil on the stove. Stir for a minute or two. Turn off heat, cover, set aside to thicken. When it's ready, dish out and top with berries and flax seed. Yum!
 
-[![](/images/wheatgerm.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWf0u2T1nvR3y34xxIARfqpEIB5JO0J4-v1v7sP1WYh3AzT-WL6l9d5-oUYol1hzFoKZtks6_aytpSCHC0dIU_stjbDa64zk3DuVM1FGnYtCHh8HSXDlTgkIU8HmUOswFESFTN9YYqA_bv/s1600/wheatgerm.JPG)
+[![](/images/wheatgerm.JPG)](/images/wheatgerm.JPG)

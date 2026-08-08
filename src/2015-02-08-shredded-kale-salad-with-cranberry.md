@@ -19,7 +19,7 @@ When I want something really fast, I skip the quinoa, and walnuts, and instead s
 - 2 bunches kale (curly or dino; chopping/dressing shrinks 'em)
 - 1 cup lightly candied walnuts (see below)
 - 2/3 cup dried cranberries
-[![](/images/kale1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Fz3CNTqDCEqZPLS_CDPaV2cUOOVSyii2VtdaBtO5FRd1HEVJJc3jqAZpdqhWd9ve2fXw9jzkrxlG2NZ9cjuCMGLZIpzIfPjqBz0hwxffxhPsb3L8eKZ4OwBrQk2Difyt2m9a68rP3vyW/s1600/kale1.jpg)2 cups cooked quinoa
+[![](/images/kale1.jpg)](/images/kale1.jpg)2 cups cooked quinoa
 - Candied Walnuts
 - 1 cup walnut halves
 - 1 T vegan butter
@@ -32,6 +32,6 @@ When I want something really fast, I skip the quinoa, and walnuts, and instead s
 - lemon pepper
 - 1 avocado
 - Wash the kale leaves and rip them off the stems (to discard). I use a salad spinner to get most all of the water off the leaves. Chop up the fresh kale leaves into smaller pieces and put in a big salad bowl.
-[![](/images/kale3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZFvk55O13_9Qf7JYkok8FQY8D8LVD4NZOJ8JTRIq7mej68bhq7r7Sdrsv4Vt0V2Pa2jpqxMRVW7M8mOjGnLaBligTiBKisC_97kfQGe8sd_US0Lo9-8twdqc9wjXtbH3QumDT0WmSIBp/s1600/kale3.jpg)
+[![](/images/kale3.jpg)](/images/kale3.jpg)
 - To make the candied walnuts, heat the vegan butter in a pan on medium low, and when melted, add the walnuts. Cook 5 minutes, stirring and watching closely. Mix the sugar and cayenne in a small bowl and then mix into the nuts. Cook another 5 minutes or whatever it takes to brown, stirring and watching closely. (I set a timer for every 2 minutes to stir and check.)
 - Mix up oil, lemon, and spices. Cut up avocado. Add dressing and avocado to the kale, and massage into leaves for a few minutes to soften kale. Add walnuts, dried cranberries, and quinoa; toss and serve!

@@ -48,8 +48,8 @@ Fold in baked tofu. Simmer for a minute. Serve with rice or roti.
 
 Dinner!
 
-[![](/images/vegan-shahi-paneer-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEglPTOPw_m_ItajYDpI4f6CvZe6_Bt16ecISb2TmwANkEQz1Nb0lqqQ_oEzOWslx00e5CwBVn2dwUMiA30eLAlrlp5z-cNC_QAxVCB4I7fD3nOONHLRyVxohPIgCXXipQcijheuwGo5bIYrtYB6wioQ-5UemvCHa8RNVPveSv50QrUkh4UI4iFvqVBFuYXz)
+[![](/images/vegan-shahi-paneer-img-2.jpg)](/images/vegan-shahi-paneer-img-2.jpg)
 
 Making:
 
-[![](/images/vegan-shahi-paneer-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjDl-_1akaVe85rzmfWkueapoaQMyKOyoNoR-EmFBNmVCRoae5CCu_NQI7mxEnmQJ4gtKx5n2lQyHonNFHErHB_qBWGd-uOPRqE4Bag3spoOfc5s-kepy_ngLjpqoY3rzfedMNz9x0U3YFlBb6oj45GSZ8PilzZjMXwyXRK0uSsHj-LhMjIElki4vyK3vvk)
+[![](/images/vegan-shahi-paneer-img-3.jpg)](/images/vegan-shahi-paneer-img-3.jpg)

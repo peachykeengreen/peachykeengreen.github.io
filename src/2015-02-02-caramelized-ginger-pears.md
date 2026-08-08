@@ -28,6 +28,6 @@ Stir together all the ingredients in a large Dutch oven or pot (I use an 8 qt po
 
 Spoon into 8 (4-oz) jars or airtight containers. Store in refrigerator up to 2 weeks, or freeze longer.
 
-[![](/images/pears.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheFX-b8AtLpLCANBMEEc9HdqNZBxqOi6dTUGPl5dIEF8vF9HE3llWDabyVsdMCDsZYl5z709ggNLIZvpZiH8IItH7myyOPCsZhMN7nRZ5VoG_8nzvS7mxaJnNCQ7ZL-HhMRbzRmwUyLsEi/s1600/pears.jpg)
+[![](/images/pears.jpg)](/images/pears.jpg)
 
 They've been sitting... about to start cooking!

@@ -55,4 +55,4 @@ Close lid with seal in place and use manual setting to cook for 6 minutes. Relea
 
 How it looks before cooking:
 
-[![](/images/IMG_5820.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugCjzXK0MGy48Vh6MAIHSs5L0sf3j7W3F2XK651zRKN5jDi5hWdW41fbsLjQiDsW_0vCz6joSi4yyghj5IpCXS1kUXfh1LVOQOT77x45BL9Klw5zQfJNFAWUKHrqKqJQFPj4eCuCPIO9l/s640/IMG_5820.jpg)
+[![](/images/IMG_5820.jpg)](/images/IMG_5820.jpg)

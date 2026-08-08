@@ -15,8 +15,7 @@ Laurie tried out some new recipes for dinner when we stopped by on our way back 
 
 ## Ingredients
 
-[![](/images/cabbage-steak-with-mashed-potatoes-img-1.jpg)
-- ](https://blogger.googleusercontent.com/img/a/AVvXsEj-SEgi-_aV6Klk3QUOFZ8UyRFGD2CEtGP2vTAc0afEZtjJCh6iL2yMj4j0s77MdDIRPWvmeqhk7M5izehnWyfBOPPx9AEt7fDLVy1iZWiRx6d4MYCieazswM5PSALKbpQm5uHFl30eenzveIFQZJx7OCFbw4F-7AYkcZ3j_9E4lmJJ6l4naIz6wT0jcHmR)
+[![](/images/cabbage-steak-with-mashed-potatoes-img-1.jpg)](/images/cabbage-steak-with-mashed-potatoes-img-1.jpg)
 - 1 cabbage, green or purple
 - Canola oil for brushing
 - garlic powder
@@ -49,14 +48,14 @@ Cabbage steaks: Slide the cabbage into 3/4 inch thick steaks. Brush them with oi
 Mushroom gravy: Finely chop the mushrooms (and onion, if using), and saute in oil with garlic, salt, and pepper. Turn down the heat, add the cashew cream and nutritional yeast, and cook another half hour. Serve over [mashed cauliflower potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html)!
 Also good w/ purple cabbage (cauliflower steak, too)
 
-[![](/images/IMG_0401.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMYQmyOAvKvCLwFMmqvZmjccvojABUy3e4D-s2B67Ss4_oDCIFLau4MX24vOWUbWj33Xx33GKKOFTiWEb6zrwPpq3NZoWF0J5htXjuWVOjWN04ld6wLDDadwxxUWCekhpDkDc2wNgWT8vS/s640/IMG_0401.jpg)[![](/images/IMG_8326.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNmXg6xtWNm2NhO92bZQ2woMPDyt4jzYGrI9tMJzv1s-Vb6W_2nrnqRBGzL_DJAp_8y7wCSuoH2TUpXb4GhLhos3bs-DM3qhGdI8EnVSH_wfiFcou2-8-0J_Fk8g1jtioUrXOZFYiXMTCh/)
+[![](/images/IMG_0401.jpg)](/images/IMG_0401.jpg)[![](/images/IMG_8326.jpg)](/images/IMG_8326.jpg)
 
-[![](/images/IMG_8319.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpMlPVjqgLgdbWdEiMk1lu2yEbBM6O8BPSpcKWNEJ2ASzqG1Eyw1-NiNfZjHQtLCeTqJdnjCjBceHX4F_-mO4qPwdJK-X0mRu2aUZKmesXIpCn10vYJaouYmW1bGMepgnD2sEk5VZCB0An/)
+[![](/images/IMG_8319.jpg)](/images/IMG_8319.jpg)
 
-[![](/images/cabbage-steak-with-mashed-potatoes-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEh0OXZe2UsXNILL32dJUM7aeu13lNa05O7xKvTVYnKfHEQ9LbP2Pm5q08eUcteo45qQjnWF3sxbdPg2I_3qfUF99zrWPenvql829hyq4EoPmROvMEMBieU0DKPYb8O_AUIz8UXU056uyeAbdMLWdfzp6_aW7DuWVnvFWgbCOsL2i6LhO7y_FQswl-qge4wD)
+[![](/images/cabbage-steak-with-mashed-potatoes-img-2.jpg)](/images/cabbage-steak-with-mashed-potatoes-img-2.jpg)
 
 Laurie's inspiration:
 
-[![](/images/laurie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRuEMZDg67kGVOi7T8IfKzgl0McPA-OB-J0BZ72PMRh9uahnoOh2jt3eOMx4CMr6_hmPFrgRM52D9EIcfk6fJJPXfgIIoO1d2QMbU_HLfPqzIBlsgP_YHU_5R7zax5t361wve4yh_JTfRx/s640/laurie.jpg)
+[![](/images/laurie.jpg)](/images/laurie.jpg)
 
-[![](/images/cabbage.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8LgWgCjEQKWrLCKIJI2VTUScJBZPE-2JqmXfMqQCo2vP_vRwbgPfaHLKSTasuxeEmpkz5OsQuKr5lmCDUGYiMX6CnxcnewuAfjT9h4GyU82yyn5oG2gaueJUmipl3CTgm7Z3mlr8s1IK/s640/cabbage.jpg)
+[![](/images/cabbage.jpg)](/images/cabbage.jpg)

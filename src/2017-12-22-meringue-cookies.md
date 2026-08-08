@@ -35,13 +35,13 @@ Put silicon (best) or parchment on a cookie sheet. (For me, the cookies stuck on
 
 Bake for 1.5-2 hours (a long time, I know!) Turn off the oven, open the door, and let the cookies cool  for at least half an hour. Eat! Store leftovers in cool dry place to keep for a few days.
 
-[![](/images/meringue-mix.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWOYLkbMeoQItBoPDOQOLw-iYUBtYTWqDQU4eOHFsUnLpgb1-YxwM7VbPGa1BYUBEX50LtC6uELSBnGNQS4faJmeH8uE1uddgx8r5q5i1cZQXmSWNHnoTVldSk8OKnPfBE8ixixV3FKLSC/s1600/meringue-mix.jpg)
+[![](/images/meringue-mix.jpg)](/images/meringue-mix.jpg)
 
  Beet juice makes a great, healthy red dye!
 
-[![](/images/meringue-sheet.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNe6wtiAvR85aRjCjcuV1OwtIqvhTdysteLmiPs7vxUBTfJHcli5luzaInRmeVodaaw4bV55qD7I3AHGNKsWoEr0xxkt782ZhQnXkVr1wLAPCWp_CPJ96_lFJQLd9fiLgbffjMK42jZrtE/s1600/meringue-sheet.jpg)
+[![](/images/meringue-sheet.jpg)](/images/meringue-sheet.jpg)
 
-[![](/images/meringue-oven.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilDrRPQkIId9aDJ25LDmBonARXKPc6zLLeZB9u98th63QuhQnWg0zrsg8GZuxZz78x94pV7cMPKkNC3N8eXYjuv6sxw1PG5JR57A5kPVOSaMWIX0vQzOTtzojTDCSCY5mY8eBsO65NP8HQ/s1600/meringue-oven.jpg)
+[![](/images/meringue-oven.jpg)](/images/meringue-oven.jpg)
 
 Squeeze them out on parchment (or silicon)
 

@@ -44,8 +44,8 @@ Refrigerate 2-4 hours or overnight, in a big bowl (spoon out later), or separate
 
 [Oh She Glows](http://ohsheglows.com/2012/01/11/healthy-chocolate-chia-pudding/)'s dessert version:
 
-[![](/images/oshchiapudding.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNh9CES88Bgw51qcSakQ3a3g_ouevG-tzohqY2yhE1EhNNHLFa8RGEXhmNI8pDXfb73EeSFI_5Jengdea4O1KhYlobdKIR226OHT4kHhNe77OKP1d6ZI_izVipsi88s027pcvzUHZXXrnl/s1600/oshchiapudding.png)
+[![](/images/oshchiapudding.png)](/images/oshchiapudding.png)
 
 [Happy Healthy](http://www.happyhealthylonglife.com/happy_healthy_long_life/2012/09/overnight-chocolate-berry-buckwheat-breakfast-groats-oats.html)'s breakfast version:
 
-[![](/images/hhchiapudding.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUHhid4sCXUD-6JVEWQN-H18lBjb_i4VtHhWCn4sl3elaNRf3WbrJ_ig08QiVxAhL_yDlXA1S0037h_F0HEQWP3UT34-Xwn331ISmbiRM9bE5RceLv3w9wm6-PKfvrwIgGpsp5BilqzJhU/s1600/hhchiapudding.jpg)
+[![](/images/hhchiapudding.jpg)](/images/hhchiapudding.jpg)

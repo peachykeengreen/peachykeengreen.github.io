@@ -30,6 +30,6 @@ Viki brought her adaptation of a [carrot-top chimichurri](https://www.loveandlem
 
 In a small bowl, combine the carrot greens, oregano, cumin, paprika, red pepper flakes, garlic, salt, and pepper. Stir in the vinegar and olive oil. Taste and adjust seasonings.
 
-[![](/images/vikisChimcurri.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX7VaSwYNXBaYy3LXdeeLOND57jagK4sjC_1cV5GKS2plE7fmdJTpLs9Jv7iyKbz4xTkfLCq5YWH0kCjy7aYcT0ez0neUNYjP7DccXzB9_nDJAGqBb-LksRjVV6yfJX7OTH12d3ll51T90/s4032/vikisChimcurri.jpg)[![](/images/IMG_5834.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHUFGc5thYDlGGV1niXhhOWDwfxcNEh9rQvvq6nqxnqzIcpLhhLepBLABHyPZuV38NV2yTqRqotGWlmEHA9PiKj3FmR7yHfbLtUGK_60ovAXsY5V6PQsKrqHSZWkOFx-lj_JU6W6Ybmkj7/s640/IMG_5834.jpg)
+[![](/images/vikisChimcurri.jpg)](/images/vikisChimcurri.jpg)[![](/images/IMG_5834.jpg)](/images/IMG_5834.jpg)
 
-[![](/images/IMG_5837.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVQAKoM-QP40ZrSIhbjBeBsJi9HdpHa9Go_s_LK2oqIT5QQL2pOKaK_hsQI96pjb_g2xaGB1vD_Q7IjBec2A_YTxzhYeJab0Eu0albqUV2cBgecYoQO-odlW0rDntixMF5xt3nhy0Q1Xp/s640/IMG_5837.jpg)
+[![](/images/IMG_5837.jpg)](/images/IMG_5837.jpg)

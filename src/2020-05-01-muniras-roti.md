@@ -16,7 +16,7 @@ Our friend Judy shared this [roti for two recipe](https://veganyumyum.com/2007/0
 
 ##
 [
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYo7hTxhruC5yjGqdCcUL1Xlhtgx3O6BlrNDL0p8xhUBOa-u2vmClViuOoDmVRPiLckFVMSBMFWtraXer8Tcj_tpM558w6FoZl2t0K4IQxJr1ycBre_hcL47sjtbi4x-gCZDqKiEnbdB8c/s1600/roti.png)
+](/images/roti.png)
 
 1 1/2 C whole wheat flour
 
@@ -52,10 +52,10 @@ Keep flipping until you don't see any raw dough and spots are nice and dark. Ser
 
 Munira's roti:
 
-[![](/images/roti1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDBPsi8xAHQ3FclU3abybsczgaIZHYqv7AWIEVlSE_rH0X6MuObqUpifxC0eAbdXwP5_GbsbiWr2iKkzCZ0ocX6g727zgs_yEuSteJSeDGFDeItKwl8Tu0_8ECpYC6SFQ3rn6v6796nQW4/s1600/roti1.png)
+[![](/images/roti1.png)](/images/roti1.png)
 
-[![](/images/roti-pan.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8xJjoG7AzOsuSYzvVrdUc2VHcCUJ3dWISoRy9BR5pNU4duFfVQG10PEVrGzqKzduIqNaMyprffvaYOwRDhPHQL2gP0rPHic3vcAFQIk0ylMnd78CZUxmT4GgYiwIE_t6gZolJ3fEdAqB/s1600/roti-pan.png)[![](/images/IMG_5417.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi07RqJ9DszIwLT83UfsUVmJTXoBeeBY6jtIaJTkWanUTf5MIEKDJdzaAPPHIJHt3BSktq_1wLDaNGa2yIfLwGPbxjlerCDbXUiIopDkvXXciwrLeyA0mA4XSrrqeM_st6w6YmSoNrb3EdI/s1600/IMG_5417.jpg)
+[![](/images/roti-pan.png)](/images/roti-pan.png)[![](/images/IMG_5417.jpg)](/images/IMG_5417.jpg)
 
-[![](/images/IMG_5403.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Ro14yJZoNTvSVWTpvspH-NaM8VB1PsywrZ-5l6fTr9NtdS60XL8__yiRG4hopXkNbCqTkrLXGtFFnpHvFJK1OkW3jvfgzSlM7JE0FNgqGOwJmgajzKxVPKmmW9o1f3X2VQQClcpMaU2-/s1600/IMG_5403.jpg)
+[![](/images/IMG_5403.jpg)](/images/IMG_5403.jpg)
 
-[![](/images/roti-grill.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMA7vbqXkpsau1eMX9doPirzdpbSZlmTqn-VsaKj8Zq7iUbYFO59WqCjGCr7gFHkXJbsrqaOvaOpylIMDTaA_vcpfdqGQ0yh-yrAo39xQrqLbiaGzRH860uk1zSn3A6xtEQ5aLZSfNGrC1/s1600/roti-grill.png)
+[![](/images/roti-grill.png)](/images/roti-grill.png)

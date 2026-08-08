@@ -37,7 +37,7 @@ We started taking **quercetin in December for other benefits (see above). In F
 
 May/June Update:** Research suggests that N-Acetyl L-Cysteine ([NAC) may reduce COVID-19 severity](https://www.youtube.com/watch?v=Dr_6w-WPr0w) and blood clots. NAC is an antioxidant that is protective of endothelial cells, breaks up [VWF](https://pubmed.ncbi.nlm.nih.gov/21266777/), and is a precursor to glutathione (GSH), a powerful antioxidant our bodies make less of as we age -- and [low glutathione has been found to be correlated to high COVID severity](https://www.youtube.com/watch?v=OtL0B1bqXak). I had been considering NAC for other reasons, so this propelled me to order bulk powder NAC and add it to our morning yogurt. I also changed our nightly magnesium pill to one chelated with glycine, since glycine and NAC are both precursors to glutathione -- and glycine aids in sleep, too, so win-win. Dr. Seheult, the pulmonologist who runs [Medcram](https://www.medcram.com/courses/coronavirus-outbreak-symptoms-treatment) and treats COVID patients in ICU, also confirms that his daily supplement regime includes Vitamin D (2500 IU), Vitamin C, Quercetin, NAC, Zinc, and a multivitamin (see roughly [minute 5 of this COVID Q&A](https://www.youtube.com/watch?v=MPNDTYvV0vE)).
 
-[![](/images/IMG_5259.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipaICbtFRh4DD5uggEiR-yMnXU9KaIhDlIT3aMgcdb3dO6VGCFJCUb7Oubh11MeFuR_Wn7WXFHBTyLHP5tN5awBaXTvQhgAkCMg_KAYr8g5SfK4_p6Ba9Q6LtRQisz6qloMvlGphcQP_jW/s1600/IMG_5259.jpg)We take additional supplement pills (late morning or lunchtime, with food) frequently,** like 4-5 week. (Don't worry about forgetting some days... research suggests that pulsing is actually good, so your body doesn't habituate. Yay for a rationale ;)
+[![](/images/IMG_5259.jpg)](/images/IMG_5259.jpg)We take additional supplement pills (late morning or lunchtime, with food) frequently,** like 4-5 week. (Don't worry about forgetting some days... research suggests that pulsing is actually good, so your body doesn't habituate. Yay for a rationale ;)
 
 Vitamin D3  2000 IU (sometimes up to 4000 IU)
 
@@ -45,7 +45,7 @@ Turmeric 500 mg
 
 Bioperine 10 mg - extract of black pepper that improves absorption of turmeric and other supplements
 
-[![](/images/IMG_5261.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Ux-KT06P8DpLTV_K0iNh30UOBCESt6ugXXsnWNkyryEaxiY1vs2Bi43lQkDcI1dItIu73Mijl_7K5BLK-m2DCATOlPDyF3eL5C25rITIkpxAklbXehg0cWi3Jhn6T-djMYD4xnEdhtVo/s1600/IMG_5261.jpg)Vitamin B-12 **- methylated (esp. if taking NMN) - something all vegans need (as it only come from animal sources) - at most 2-3 times a week is all that's needed.
+[![](/images/IMG_5261.jpg)](/images/IMG_5261.jpg)Vitamin B-12 **- methylated (esp. if taking NMN) - something all vegans need (as it only come from animal sources) - at most 2-3 times a week is all that's needed.
 
 Vitamin K-2 100 mcg, to help with calcium absorption and more
 
@@ -54,13 +54,13 @@ I also chew Smarty Pants multivitamins **for omega 3, iodine,  CoQ10, and K2. 
 (2021 update: I don't take separate CoQ10 or K2 anymore, as I'm getting both from the multi chews; Larry continues to take the K2 since his multi doesn't have it. The multis don't have enough D, either, so we continue take D separately. I also used to take Astragalus for [anti-aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758356/) benefits, but it just fell off the list for me, as I'm trying to minimize what I take and the research findings on it were less strong.)
 
 Evening (partly for better sleep)
-[![](/images/magnesium.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXRhLGKqQSWQUMPN3_6rn1vIkvht_Mg0DZoXOtgZDMAsq5z1_vHngiJQnTtlNyVSzXjl76b83UaDuwXMx3TJqpWJLpQU2Ga1Epa_LzJkJ-tMw9nSRJt-OKMITgQMYWdBAqjxbBT-QSVmJm/)
+[![](/images/magnesium.jpg)](/images/magnesium.jpg)
 Magnesium - 100-200 mg after dinner (best to take with food). We take TJ's magnesium, but have also taken Doctor's Best Magnesium chelated with the amino acids glycine and lysine (which optimize bioavailability,  and glycine is a precursor for glutathione; see COVID discussion above). [Magnesium helps sleep](https://www.ncbi.nlm.nih.gov/pubmed/23853635) (and all my researchy friends take magnesium in the evening), and has [other health benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5926493/), including possibly reducing R-loops that contribute to unstable genome and aging. [Glycine also benefits sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4397399/) so taking Doctor's Best brand gives you two for one :)
 
 Melatonin - 1.5 mg half an hour before going to bed. I get TJs chewable and eat (bite) half a pill. [Research shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6429360/) that besides helping folks fall asleep, it's an antioxidant and increases expression of SIRT genes - and we generate less melatonin as we age. (Note: melatonin may also confer some [protection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102583/) against COVID; see above.)
 
 Colds/Flu - as needed
-[![](/images/IMG_5264.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwMNDvBzKsu0WZejVhW-L9mLv2ulKeLbbwYhg78-9bksPwYsKCouvccAPT0YJrMi5M90W_Zlz6GiSnV51vFCRpT9uVwLrLsC8wHNKc-r_wOdx8lBxlu4pHAY63HFU3c-NeQfKKMb0uKUq/s1600/IMG_5264.jpg)If we're feeling under the weather, we pop the following. Note that [Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4488782/) is also important -- see a nice [Medcram](https://www.youtube.com/watch?v=gmqgGwT6bw0&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_&index=31) review of relevant research here -- but we get in in the sun & supplement regularly. Research shows *regular* supplementation of D--*not* a single bolus dose-- is better.
+[![](/images/IMG_5264.jpg)](/images/IMG_5264.jpg)If we're feeling under the weather, we pop the following. Note that [Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4488782/) is also important -- see a nice [Medcram](https://www.youtube.com/watch?v=gmqgGwT6bw0&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_&index=31) review of relevant research here -- but we get in in the sun & supplement regularly. Research shows *regular* supplementation of D--*not* a single bolus dose-- is better.
 
 Oil of oregano 150 mg, a couple at start of any signs of cold/flu symptoms, for it's [antiviral](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6152729/) activity
 
@@ -73,7 +73,7 @@ Zinc lozenges 23 mg - suck 1 or 2 a day, for [antiviral](https://www.ncbi.nlm.ni
 Quercetin 500-1000 mg for [antiviral](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808895/) activity (taking regularly in morning yogurt, but boost if sick)
 
 Larry's Supplement Adjustments
-[![](/images/larrys.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSui9TfB3Z9nUy_RZXZmwkhCSccunv-n1t3MK447guWfB2tJDC-wEG1-C6tuZiZXakolDhNsibQa1l1NfpD56Td28pY2GPJYiN4P1I0EIFAXyhlIl44PtHQT1SkuV7oTntmXlR8NZ2FfDl/s1600/larrys.jpg)Larry takes mostly what I take, with a few adjustments.
+[![](/images/larrys.jpg)](/images/larrys.jpg)Larry takes mostly what I take, with a few adjustments.
 
 First, he does the same morning yogurt regime (I mix it for him!) and evening magnesium and melatonin. Like me, he takes other vitamins periodically (recall that pulsing is probably good :) In particular, he adds:
 

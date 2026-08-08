@@ -33,8 +33,8 @@ Roll the log in coconut flakes (I used a mortar & pestle to crush shredded cocon
 
 Cut into slices and serve!
 
-[![](/images/date-pot.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVelkYAm0AzhNtYgTXMGtFqxfDyXkHGgWCe4NOXEtRGXcJqbNk2Umksa4WBrlBYcBZGezCyKRBqmh4tDu3EMgGFQWV7ry7s18RPZ5MlrqP4UuHn97lpn1Ys6R86trTKKtlim5RZH3MUibR/s1600/date-pot.JPG)
+[![](/images/date-pot.JPG)](/images/date-pot.JPG)
 
-[![](/images/date-roll.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ4Gkfw4ui0-mlf_4jcMJuPNrF2M8S8El5Gr1BPlRTUXP0EJDBgMspCk8ijRxN3_-T_-lZ36fMNR_ShTSMJeoXhuJafiWyephu3Gvhf-p8GiqWSyk4615dI9ITKbT6dLVs0C6jElxMTDps/s1600/date-roll.JPG)
+[![](/images/date-roll.JPG)](/images/date-roll.JPG)
 
-[![](/images/date-cookies.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIQAWuragZJG_QdHIQ2dy6vMmrb9ci2IhHcXI2K0Zr7QQCVW29AjIkbWhAps4Kh1GW4NIGDS4emDyH-lq7JO2uZkhC7Xt_FGYk0kpo5cRZiBkX7Fki-ascpqk1JBGTp_RlAPLhkCM10_vW/s1600/date-cookies.jpg)
+[![](/images/date-cookies.jpg)](/images/date-cookies.jpg)

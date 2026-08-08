@@ -28,4 +28,4 @@ Put the apples in a soup pot and add sugar, lemon, cinnamon and water. Stir and 
 
 Cook the mixture over medium heat for 20-30 minutes, stirring frequently. Let cool, and then mash it more if you like, but we like it chunky so I don't.
 
-[![](/images/applesauce.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj5nCyglPAhl4GS9UdXyYwrpzWfiUpYJFwoha1Cv1TJ3Uy3x49qCPwTij4004_hG_8kK3GxW-FDG9TaAMK_2KYomabJog6N24ApYx6hyphenhyphenlZ27QDKCvHltR0fJYpx9aRa8fhmt9Vl3SWSAh9/s1600/applesauce.jpg)
+[![](/images/applesauce.jpg)](/images/applesauce.jpg)

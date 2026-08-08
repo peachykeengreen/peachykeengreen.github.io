@@ -34,15 +34,15 @@ Photos of making the yogurt, below.
 
 Boil the soy milk, let cool:
 
-[![](/images/soy-yogurt-with-instant-pot-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhui_DTJ7sVIiSpBNBWRcktFAgn8tEF-t0LtpojUCYL5jU3_ieC2kW72KvIkf8iIJk7HTZ2-UAIoNYsJLy0vE3IklhfKBX3xG5u64lst3cJ6iUM-xMCkA0fYzLNy-lAI63HipplT2fiuCGtMsGJeaGT58pKz4GxJ3y4HLuLme5EcJNnVNPlNQxFS_s_XJ5m)
+[![](/images/soy-yogurt-with-instant-pot-img-1.jpg)](/images/soy-yogurt-with-instant-pot-img-1.jpg)
 
 Stir in starter, pour in jars, put in Instant Pot, press Yogurt:
 
-[![](/images/soy-yogurt-with-instant-pot-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEh90ZwQU0fbB3KhlbovIUWHLg0feAidQ9h8-aU4uqiLd0lCEySmcNUJGkJb6D7jkM0Fila8TYfPWSVCDsSVXaOcmylVx2HVDXiuk4xh5Llnah7dMHnvzkFG1VxtY6QM4xvpE3fphW36hidGjUZEzBQWlTm3w29cruvslx0OzRlbk076V4xALeBOLiNeZVb1)
+[![](/images/soy-yogurt-with-instant-pot-img-2.jpg)](/images/soy-yogurt-with-instant-pot-img-2.jpg)
 
 Done! Super thick, creamy yogurt:
 
-[![](/images/soy-yogurt-with-instant-pot-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgAq5BU_0YbPcer-L5ORr-2nNN4bERETMXgKqtNHr5E8rc9A15TdLbVuldcnuI4SEbMENnirVzcuO0JBnxh_8fwrFV7_5MEcOK2eW5EGLVj-cAYmqsysimGudEBVck1EaxOV_WsawrIR0dKLh9u-oP0ZZmfH0Bey6rOUvqmhCOjjKa8INjSsQsiZzercH34)
+[![](/images/soy-yogurt-with-instant-pot-img-3.jpg)](/images/soy-yogurt-with-instant-pot-img-3.jpg)
 
 The OLD way -- more work than needed -- and the almond flour could be a bit grainy settling at the bottom of a jar.
 

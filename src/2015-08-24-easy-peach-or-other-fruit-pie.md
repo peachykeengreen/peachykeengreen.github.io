@@ -46,14 +46,12 @@ Let cool. Serve plain or with vegan vanilla ice cream. We like vanilla Almond Dr
 
 Here it is with pears and blackberries, and 2nd crust flipped on top:
 
-[![](/images/pie2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNxIqN8sEJcAPOhRkjjeTy3OSaDWvaD3_VqTFyqYDdtQ4-lWQqcDNXk7eDRsWAPrYUq5L_D74s3xozydKDMYAkARWqZ8zqHHbMKRKPNWOSrV-awhOR0cGY5VHeSMN3c9gAdxkCmv8bzFmB/s1600/pie2.jpg)[![](/images/fruit-pie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYDET5WVhBAhT2A204-YOY2txgKuP6T7l8PMf-ILVxs7OGWR1VHdwuyWZvZ9bHKg-3b_gla-zF3ijOZOmYO0DEbNfol97yvcCxbMNP9SVNTdLIGzQDBO-yyN7U5j6YxMzOj9XD3q8nY9iS/s1600/fruit-pie.jpg)
+[![](/images/pie2.jpg)](/images/pie2.jpg)[![](/images/fruit-pie.jpg)](/images/fruit-pie.jpg)
 
 And with Wholly Wholesome crust, trimmed to make criss-crosses on top, and butter dots:
 
-[![](/images/IMG_6648.JPG)
-
-  ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitN0wvj2A-R47GsogNdzmKgTsI3fdbPfVPUUTPrY8PSyNht_PWCzLiBbYu6j8FGdVhFs3HWD0V2khivx5FMjwXZ9QL4YqyBKldYsFMI51ZNIC9lL8VKohLomjifFp7TPEOgDBooxxLAxiF/s640/IMG_6648.JPG)[![](/images/pie-butter.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9p3Vw3piJN8oa73sMMyR6S3RCcIapVaHVrRZtjx03PqG32B0XM683KRpnTguByULeKGwhojI8Z8rXhGQCSRAOyt7xr_Acmbm_GpkdK_mp4nnmY9jGGdRE0-Mh4AFRxsE0t9YXSMwbGJs1/s640/pie-butter.jpg)
+[![](/images/IMG_6648.JPG)](/images/IMG_6648.JPG)[![](/images/pie-butter.jpg)](/images/pie-butter.jpg)
 
 And with extra-filled ramekins, with lattice on top. (Don't bother with crust on bottom of ramekins; it's still delish with crust only on top.) This is a fig pie!
 
-[![](/images/figpie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRR0rc0-3MO-0snwzyAnNy-3_qDdTLPdjgTda0G9m2sMSCtIt65EJouxO1ztXbWs5hr3OlCA_1n_-KRwAeyOvASGQ00NaG4hQhqfO4KSQAeaTrTXUCzG6tS7GskIekAlvZvrDX9IpoaO9I/s640/figpie.jpg)
+[![](/images/figpie.jpg)](/images/figpie.jpg)

@@ -40,10 +40,10 @@ After dough has chilled, preheat oven to 350. Use silicon liners or lightly grea
 
 Bake about 20-30 minutes until lightly browned. Let cool on baking sheet for 2 minutes, then cut each cookie to separate and transfer to cooling rack to cool completely.
 
-[![](/images/IMG_3322.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WSq5NbhHNBlQ7XIYpMpo94IQNXVBYjx-J9p5K2DzBN-iwgswG-ZEqtSzrRF4xcYweVdA16jX4ojSKrmxDtA2QoC1awFYynugnXmZLfbu3kuiaW4kYJkRSGW3uEnMlpjCy9AWy3HwK-WW/s1600/IMG_3322.jpg)
+[![](/images/IMG_3322.jpg)](/images/IMG_3322.jpg)
 
-[![](/images/IMG_3324.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtXTuVHCAXSaYHnK6_u9onAHfODycR9faperHisn1sQ7wkZdU7aOca9PQTKMK3zgjolmZdMe2UyJ4iicvYQ6H3-CxWijgRUCvUc_DlRpHxH4MIiNWrs5jn-uy8WOL-YDq6eaYU74ejVwd1/s1600/IMG_3324.jpg)
+[![](/images/IMG_3324.jpg)](/images/IMG_3324.jpg)
 
-[![](/images/IMG_3332.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8hCz3tbojlRVKqSi31uUYXjtKNeGRbb_QtI3-tsfphl4XESrcE2HtEEutFeQ4riZHgpyQS6Df0LY_bqazf-bDPdDLsHZnV2t-1p-OzprRLDUXIQT2uV1cyskO_UA02kawx2TvNm5-8K3/s1600/IMG_3332.jpg)
+[![](/images/IMG_3332.jpg)](/images/IMG_3332.jpg)
 
-[![](/images/IMG_3334.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgknIT09OTrbD_mRLEBWmsZEcaVa0c3jmeDpTkCJK8un4v5ELkO9x0ax6KvAkYwPEU8uf2Z-GHd1j6GuOTDY_5qLImQ_zLg4wzm20yzxZtQw4B5o9PEMsuy1mMqRK2g0a13CDfbk34Ysa-R/s1600/IMG_3334.jpg)
+[![](/images/IMG_3334.jpg)](/images/IMG_3334.jpg)

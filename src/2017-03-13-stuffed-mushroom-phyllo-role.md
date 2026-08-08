@@ -42,4 +42,4 @@ Place 1 sheet of Phyllo dough onto prepared baking sheet. Brush or spray on butt
 
 Fresh out of the oven, before cutting:
 
-[![](/images/rolls.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYjnIKuHJYYIIeHH2uREmLqFtHp58ydo9vleChvDxa_cWhjlgw2Ioz0dmEN5ed8QZpjxrU701psvT_NqXTtTKr1O1oDueto2AijUuCSZnsIGPEqBAy2xeV1TZxFkThpWA5CzX5rPDUVuZi/s1600/rolls.jpg)
+[![](/images/rolls.jpg)](/images/rolls.jpg)

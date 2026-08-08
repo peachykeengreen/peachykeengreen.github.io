@@ -29,15 +29,15 @@ Measure out the lentils into a bowl together and mix. Rinse well a couple of tim
 
 Warm a crepe pan on medium heat. Pour about 1/2 C of the batter on the center of the pan and spread it out in a slow, circular fashion. Cook a few minutes, until the edges start to pull away from the pan. Use a flat spatula/knife to carefully lift the dosa starting at the edges until it's completely free, and then flip it. Cook a few more minutes. Serve warm and eat immediately. Yum!
 
-[![](/images/lentil-dosa-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiQVujJW2qxDqTBLizeYLqqYtotX5PWsC4r8xqHn6fXmjA9bL2vU-rBiHvfKwb8NnNdTHtDHuF053gUlHaVFolUm5i7xbB56PdUCHbrvJbzMlDnvqo7D3u_-TZ7HPpSjCMeFs63rFRD_Q8KdymQtF5Q3wWtreLguYYoeyq_mFJTLkNwlS0CjXdJA2n6uA)
+[![](/images/lentil-dosa-img-2.jpg)](/images/lentil-dosa-img-2.jpg)
 
-\[![](/images/lentil-dosa-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjVDD4jR8RYQ3KHXFiPRHZ9vRFgTrBxlJBU2tR2zZo_PUxSqeF1JdR9XC9_ixdMQ5A5yXI5LecOm-FeyYoXSwcO2RQE7Gk3EY_U_zJ1ekfHTicwMht6EHubmJkrbhIahxBgUbTkdcXYAc3Y3Ghzp-ndyqs1kmSJgfuy8S0JB_TW0ES1tXLr0dKHCoCfbg)
+\[![](/images/lentil-dosa-img-3.jpg)](/images/lentil-dosa-img-3.jpg)
 
 [
-](https://blogger.googleusercontent.com/img/a/AVvXsEjVDD4jR8RYQ3KHXFiPRHZ9vRFgTrBxlJBU2tR2zZo_PUxSqeF1JdR9XC9_ixdMQ5A5yXI5LecOm-FeyYoXSwcO2RQE7Gk3EY_U_zJ1ekfHTicwMht6EHubmJkrbhIahxBgUbTkdcXYAc3Y3Ghzp-ndyqs1kmSJgfuy8S0JB_TW0ES1tXLr0dKHCoCfbg)
+](/images/blogger_img_7548e469f5.jpg)
 
 Making the batter: Rinse and soak!
 
-[![](/images/lentil-dosa-img-4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjcnTXnJVS3AwmQC5GXSIlPb-i0Ym0KXeRWXNOzca49T16oXmGucQR_A9lC4ah4UlXBZdsUMHT7eMPSfSzFgBzX5nc0dfhrFSYLkQKxwXxJd7fYkpaTTtZ1MQWLRlvqDRnoxjA5r4t7ma2J8EdGaB-QF_XRQUX4q6wJN-cJb4NKHxOgzrnP2L-S8HJ1eA)
+[![](/images/lentil-dosa-img-4.jpg)](/images/lentil-dosa-img-4.jpg)
 
-[![](/images/lentil-dosa-img-5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEidLLVmvx87ziLkCNoAc0toBU97gaR-qzh_gOSh1P5OfrlZ-RLS9kkRPgCyWY6r1tECkt_3M0dQ1fPkvZTS9XikJeYIwFKQ6DMlwZtFO_-uhhIX3DsJfPHkFL5C8UyllhSUQLRL5j33zw5ubtdOB0uiZG0mjzSyLHw1YOGPbkiS2STIavfpgM0yblM2yA)
+[![](/images/lentil-dosa-img-5.jpg)](/images/lentil-dosa-img-5.jpg)

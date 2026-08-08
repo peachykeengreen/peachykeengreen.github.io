@@ -39,7 +39,7 @@ I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/la
 
 ## Instructions
 
-[![](/images/IMG_9095.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkpbyBfavXFhLO_xxsQQuXa6nXBR-t_rGLTVyPl6SLEIsWQ6VY-6Igc7uq01aNv_f0AbthPMwhZPQJY56rmkBBA0biSBS23WbmiwjkV_7Xe-cp2XjUMQNSLeGp1CjIyzEJNqRu4Iv8CZYq/)
+[![](/images/IMG_9095.jpg)](/images/IMG_9095.jpg)
 
 In a large pan or soup pot, saute onion, carrot, pepper flakes, and salt in oil for a few minutes. Add garlic and paprika (and mushrooms if using), and stir another minute. Add crumbled impossible burger and saute until it turns brown.
 
@@ -63,11 +63,11 @@ Making the layers:
 
 Medium pan (was too much cheese for us):
 
-[![](/images/IMG_9097.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmxzZhwAGJc2Ur3asLq2VA1VFhEnpkGYFbmj-RuYHdFKFV4EafsEH4OLN5ySaDjRrMeKRVjwTtpq6eOSzahfCUhRy1SzgB0eYWmrv50NKqlWCdKp07J_HxWIGdsnAH7280qfOz2dD9Cm17/)
+[![](/images/IMG_9097.jpg)](/images/IMG_9097.jpg)
 
 Large pan with vegan mozzarella (better, but will try even less cheese next time):
 
-[![](/images/IMG_9335.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh70xeJ73MZlRyqMSMUgSFXTq5rLt0QraKYbi09LmbFYmrel3h2e2Cl9lTxahCBrGs9iHJHrPTTH8XOGTBavQr86hyoqrl4zgr1XScr1SnsGqZ3NRXHiyxTXcfC7nu8MY1FKnmLDBaGs8p8/s640/IMG_9335.jpg)
+[![](/images/IMG_9335.jpg)](/images/IMG_9335.jpg)
 
 Cooked!
 
@@ -77,4 +77,4 @@ Below is the original that Judy sent me. Marti was my first roommate in grad sch
 
 Can you believe how much cheese we used? FIVE POUNDS total. And what's with "cover the pan with foil" before you do anything? That's just weird.
 
-[![](/images/IMG_4532.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM0nJyYXNgW_h_un_RKVXptpfoHAMpSjwbIsMP7cwCeHdsrmdN9EkFYw1yxVrqMLn8EeBrp6AQcfYPuwvDi_92sr46UGOnY6S377-1mVdTo8USkL-BDphwBbdRqs7sIjDDqH5aGBV82GrP/)
+[![](/images/IMG_4532.jpeg)](/images/IMG_4532.jpeg)

@@ -29,4 +29,4 @@ Cyndy made this salad for us during a visit. It has a great mix of sweetness, he
 
 Put all but vinaigrette in bowl. Mix vinaigrette, and then mix everything together. Let sit in the fridge or on the counter for at least 15 minutes before serving.
 
-[![](/images/cranberry-walnut-chickpea-salad-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgy88VrZBqvfzl9YUU8Tce2K32dYwgxwPuu0SJjLG5AqYagZZnM3PCfvdVoxmJLk38571duh1eESiHlM-Ikd5lrt08Bi39XNPZJNanDXlYlLvzHXCBlg23ki3GhRHP5um84-LbWPYSMWhDJdKRr6vR_YmE0Kff5xp4MWGfVJaFE5EipRSvqN0kTjuUvhHuC)[![](/images/cranberry-walnut-chickpea-salad-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgu07IQMhoG4GFumc5qxrLwv5FpBg4SrBLQ_mKJDW-JupbWL3YDzo1WHsvtgHgL4F9hEJTggy2p-rYQ_oGKaIbL9O3LYD83VQN9hpphc6fnQATJE3IJCZLmHtPaRpr0d01gdb5JoNbDW6OedFaJ6uFsmKWRdjvFwUpxdVfJlf0yVwgqdLkRAVTHJEVhTKdt)
+[![](/images/cranberry-walnut-chickpea-salad-img-2.jpg)](/images/cranberry-walnut-chickpea-salad-img-2.jpg)[![](/images/cranberry-walnut-chickpea-salad-img-3.jpg)](/images/cranberry-walnut-chickpea-salad-img-3.jpg)

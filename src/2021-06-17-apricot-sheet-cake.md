@@ -43,20 +43,20 @@ Bake at 350 degrees for 25-30 minutes.  Fresh out of the oven, sprinkle with po
 
 Sherry spreads out the batter.
 
-[![](/images/IMG_9526.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuIx327ugmfW_7uAEXvkHKWygxgMOsqwQmUuOUt9Fn2sH1ABAI0q5hHSSN2c55YmhzXm-a0HcQ_Ei3gH2vUruAXs4Xb1KiNatnskfb3QHLNQqJotp1Nc40raWMYULCpJEZcRhXwcR_ZvQe/)
+[![](/images/IMG_9526.jpg)](/images/IMG_9526.jpg)
 
 I thought this might be too much fruit. Wrong!
 
-[![](/images/IMG_9528.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLx8Nx9D_VdE3fUIXXYjRW7sJPqyRLhwEdVBL-JxvoFzRblFhLqGeBNrYGEyAQnD2rFML_GylqO3kxDxkO8tO2iVLAZADiTDM9IYwH6bHMOVpcpn5u4SrnOrD_7-sZbRBjjhoSaywaUZuw/)
+[![](/images/IMG_9528.jpg)](/images/IMG_9528.jpg)
 
 Cooked and sprinkled, yum.
 
-[![](/images/IMG_9530.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQirTMZ96AjJv0uHue5knjcM0E2P2iMFV0ApWoSKICTgLp5ix6r4CEzu-ZLZr1dxK9lQOntNrBi7FasWNZXnh1cNUSvL4Pd7Y7v0NgmyZjxKKINXmYAYZ5cUBZdz3AAKg1mElGmbqw50YJ/)
+[![](/images/IMG_9530.jpg)](/images/IMG_9530.jpg)
 
 Hurry up and cool!!
 
-[![](/images/IMG_9532.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTG2eh_ZBlfL6CPAJUx-FmiQvOkOKEk7rNDnJ-0AVU7B2P5vgN7s6LQqjBGIc2LIl_kL0QSeO47QVHZJLbWmKzFgzcnAfGMTRELPgtULGatZw3Hj-1DkClxQlrZ5DV0qcEHDSXSFEcjgU0/)
+[![](/images/IMG_9532.jpg)](/images/IMG_9532.jpg)
 
 Cut into bars the half sheet that wasn't devoured.
 
-[![](/images/IMG_9535.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWEJD0tS5yyE527pC1yeHno2myhXbJ1Y8s4XNNJk49ncSqXKSOAkdlc_7yK7iXjwVRX5LwtR9Lwhh5f3w7EVj7Wvbl-OR-fbw19rRnoOr2QBSszZz7h9QXar2rgenNcjFirTLuL-0hX8nv/)
+[![](/images/IMG_9535.jpg)](/images/IMG_9535.jpg)

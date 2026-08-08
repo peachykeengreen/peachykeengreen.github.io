@@ -19,7 +19,7 @@ A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/jus
 - 1 1/2 cups sugar
 - 3 tsp vanilla extract
 - 2/3 cup canola oil
-[![](/images/cakewithganache.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCYLNLtl315uqIGYbhd6cztS4BxYbE7rol5cEPj3J-Tc63wBUcsUZ6MHVqdAlbSIQjpA8s4P0SgAgxWYi7W3xuRLt14zeUkK995szaH71EyOqThj3XdMZDRkNHuXXBrTscAXLLEeYYD9IA/s1600/cakewithganache.jpg)Zest of 1 orange (let it infuse in the oil; optional)
+[![](/images/cakewithganache.jpg)](/images/cakewithganache.jpg)Zest of 1 orange (let it infuse in the oil; optional)
 - Dry mix:
 - 2 cups flour (I use white whole wheat)
 - 2/3 cup cocoa powder
@@ -37,7 +37,7 @@ A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/jus
 
 Preheat oven to 350 degrees.
 
-[![](/images/cakebeforeganache.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_7GqPedWOpiuE0N9l0cXwm_8n55mHvQUcGCNJjosTVZ9HmTjvo9TYVn3yFv6KTbU3MPe-vqVdsrl09LLOkO9nlTldi9JN6WWrPcecQ76lV0Jp5vHAP1LQgTXynCjxUS4rt4BtyXpL9pGc/s1600/cakebeforeganache.jpg)Whisk together the almond milk and vinegar in a large bowl, and set aside to curdle.
+[![](/images/cakebeforeganache.jpg)](/images/cakebeforeganache.jpg)Whisk together the almond milk and vinegar in a large bowl, and set aside to curdle.
 
 Optional: Zest one orange into the oil and set aside to let it infuse. (This is really good!)
 

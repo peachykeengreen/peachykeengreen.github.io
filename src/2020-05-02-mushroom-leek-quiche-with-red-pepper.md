@@ -72,13 +72,13 @@ Make the red pepper relish: Saute the pepper and onion 5 minutes in oil. Add gar
 
 With red pepper relish:
 
-[![](/images/quiche.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjARyE8A1qWh8ioz0CAocrRtjaWTkBE_Wh4GWBb6P_NU4O-S7wrNZaKxxdfOf69SwqxLAzIdaI57amYmgHDMNlGHvBf17eUolFnl-oJfj77bAUoYZpEeYZjkXGsCqpEXvxPOO4ICyWocf9/)
+[![](/images/quiche.png)](/images/quiche.png)
 
 Tofu version:
 
-[![](/images/doublequiche.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSANnOgw5_ky5eqejuIZpFKL3WeukjVTZ5AY0A2YHwcJBxjkPejIChGIw49LrtXC7_JcUUESOdQIescchudm6vMUIzHdac0kdmWuxyDFxxEnlR0p3oR0m4Jy6NJMJ0PE5a_YHoFeLyWkFi/s983/doublequiche.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSANnOgw5_ky5eqejuIZpFKL3WeukjVTZ5AY0A2YHwcJBxjkPejIChGIw49LrtXC7_JcUUESOdQIescchudm6vMUIzHdac0kdmWuxyDFxxEnlR0p3oR0m4Jy6NJMJ0PE5a_YHoFeLyWkFi/s983/doublequiche.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSANnOgw5_ky5eqejuIZpFKL3WeukjVTZ5AY0A2YHwcJBxjkPejIChGIw49LrtXC7_JcUUESOdQIescchudm6vMUIzHdac0kdmWuxyDFxxEnlR0p3oR0m4Jy6NJMJ0PE5a_YHoFeLyWkFi/s983/doublequiche.jpg)
+[![](/images/doublequiche.jpg)](/images/doublequiche.jpg)[
+](/images/doublequiche.jpg)[
+](/images/doublequiche.jpg)
 [
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjARyE8A1qWh8ioz0CAocrRtjaWTkBE_Wh4GWBb6P_NU4O-S7wrNZaKxxdfOf69SwqxLAzIdaI57amYmgHDMNlGHvBf17eUolFnl-oJfj77bAUoYZpEeYZjkXGsCqpEXvxPOO4ICyWocf9/)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjARyE8A1qWh8ioz0CAocrRtjaWTkBE_Wh4GWBb6P_NU4O-S7wrNZaKxxdfOf69SwqxLAzIdaI57amYmgHDMNlGHvBf17eUolFnl-oJfj77bAUoYZpEeYZjkXGsCqpEXvxPOO4ICyWocf9/)
+](/images/blogger_img_4f982372ea.jpg)[
+](/images/blogger_img_4f982372ea.jpg)

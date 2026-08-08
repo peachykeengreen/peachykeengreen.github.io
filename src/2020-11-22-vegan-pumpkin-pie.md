@@ -50,13 +50,13 @@ After an hour, the middle may still look jiggly; that's normal. (Sometimes I bak
 
 Slice and serve. Add nondairy whipped topping if desired!
 
-[![](/images/IMG_8064.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi63PcCP4ktq3tFZrtDt0bZ0OArSCkWrfaRCbVO3pI7Pc8IVco4Evsyn9elzSwoSumIRdLujgJzEEpfJLHwgZP-NxVhuFV1EtlaWWlbWFKed8xclNI0Adry97mN5886CgBdUMoUcu8sXX3H/)
+[![](/images/IMG_8064.jpg)](/images/IMG_8064.jpg)
 
-[![](/images/IMG_8067.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQh2t2Oai0Awp9eGkrMP1jhpLvkA4_L-azLiaViBItJH_BB8Mhf4ZuZyM166VvJAyrJS2WjAv4l8xTUea74ByRbTJpbtIWY0F-h3Idv9HI8baftq19kQJdHAZGNOxcU5xdNuWzBLwq9Xq/)
+[![](/images/IMG_8067.jpg)](/images/IMG_8067.jpg)
 
-[![](/images/IMG_8068.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglZOkpuUXj94YsVUQCZze-rtodIoqeOuW58QAltouP7T0YK9ZcvmVr9F4vVug85kij7dOc2ckzTuvq-1bzti0CkakG1isJGhTP_9Zgfbc5mn9dmZRduP3goHTrR_s7qUg3iHWm5fM7XLZh/)
+[![](/images/IMG_8068.jpg)](/images/IMG_8068.jpg)
 
-[![](/images/IMG_8071.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKSxkN4pkUmtX4f4EC-ewpkO13yd4J4502JNbWX6mcHbJgOc8Xu-05B9kXpKJraaQ8MZ2lKfplzIgALgM5sdd_IAZxsWP7YQwsM_plqjrz3UlpMTs_DfTfIPGp8fdrzLr0U_yyKGy7bIDy/)
+[![](/images/IMG_8071.jpg)](/images/IMG_8071.jpg)
 
 And below is how it looked when I made it with tofu; it was more custardy, which was fine, but I think the tofu flavor was a little too much - at least compared to using nondairy milk.
 

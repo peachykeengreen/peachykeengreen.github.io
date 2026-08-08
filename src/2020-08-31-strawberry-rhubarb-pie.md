@@ -47,4 +47,4 @@ Bake at 375 for 50 min. Top with (vegan) vanilla ice cream!
 
 With crumble topping (so much easier):
 
-[![](/images/crumble.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHiEjOn-QJ2cyoOVfgIJoLWV3snmO9Jskfb9fUrXKtsSzk3dBgKYWmngSQ03DwH_m4TnLLRhSMlJi9G_mEWv8TwAgdtLmTYmqkgVHlyoKT3b8tH9jKWx16ghCt9votthQAUvsqxTq5Js1b2fCguakzJpkvo0SfzchbyBpZElux7CcSkzVGv-xaRRYdz6mN/s640/crumble.jpg)
+[![](/images/crumble.jpg)](/images/crumble.jpg)

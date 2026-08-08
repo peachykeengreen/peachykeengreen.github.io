@@ -27,7 +27,7 @@ One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has 
 - 1/2 C quinoa (dry, uncooked)
 - 1 can or 2 cups chickpeas, cooked
 - 1/2 to 1 can lite coconut milk
-[![](/images/soup-pot.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBCcrlyu0LLXPqaZGayIXqtwq9zMcDqFcpt8Lhyphenhyphen-zSfte0hJNU2xEYPhaKjizVOVDVOkIHNkpQg7yUCq1TMqyJtI53ORQN_4C3FB2KKUC2_zdXN4DsqtZ8Al_zalItZHc4Y4fPGHjxH7H/s1600/soup-pot.jpg)3T fresh lime juice
+[![](/images/soup-pot.jpg)](/images/soup-pot.jpg)3T fresh lime juice
 - Spices:
 - 2 tsp cumin seeds (or ground & add w/other spices)
 - 3 cloves garlic, minced
@@ -42,10 +42,10 @@ One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has 
 
 Saute cumin seeds and diced pepper in canola oil for 30 seconds. Add chopped onion, carrots, celery, and potatoes, and saute for 5 minutes or so, until onions are translucent. Add the rest of the spices and stir 1 minute. Add tomatoes, broth, dry red lentils, and dry quinoa. Bring to a boil. Lower heat, add cooked chickpeas, and simmer 20 minutes. Add coconut milk and lime juice. Serve.
 
-[![](/images/yum.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFBfOZ4OIm6eKN5Im1rHwkrNzBr6TIAZ5lIzowHPwUsH_WIqkiw6vKcypi5dI9Uym4Bq5_t9XLOcgcQeztoj0xTYSNLczaqKMvOclQ2mV6jp8U4Iq2GENxiZeQYOeSSdc9PsF_T8NvX42a/s1600/yum.jpg)
+[![](/images/yum.jpg)](/images/yum.jpg)
 
 yum!
 
 How it looks if you add potatoes but no quinoa or coconut milk:
 
-[![](/images/lentilcurry2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI7hD_FIVmnRlHugqTu0v3STt-dwPlrs8gNQxCaM26oYle893eKozpXzjWTOUlfqsRZMtLkoARz69X1W5mFCZF8gbtuWVeFEHbWk0ha42N_4Ug5bG-_XV9XSnRDAsB7cM1QRSZqLbf0PBB/s1600/lentilcurry2.jpg)
+[![](/images/lentilcurry2.jpg)](/images/lentilcurry2.jpg)

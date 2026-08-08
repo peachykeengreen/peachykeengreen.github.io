@@ -34,6 +34,6 @@ In the food processor, grind the onion, peppers, and ginger coarsely (and any op
 
 I like to freeze some in ice cube trays so I can grab some when I want it for a veggie burger.
 
-[![](/images/IMG_2325.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUrKCjUGB9smuUekAt5kd8QMKTTJfpfeHEZ77I9rIBpGOYp65-LYh6sQMqIVvZ_xdtX7XqgSgio4RFJh5Y5gnx1RMuqoifc9CNbLq-cjhbY8oAvK48XQUR-U-nM_F1JNo5DiLWWmVCW-JQ/s1600/IMG_2325.JPG)
+[![](/images/IMG_2325.JPG)](/images/IMG_2325.JPG)
 
-[![](/images/IMG_2329.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhyphenhyphenWDXFk1WQggruZm5tfJpnJ-1Vax_WTe7qHAjxlq3pk-kVsNfzGTtag7nBbmKE6QoXG88zn6y90IcNQdo08epTwE50putt6hpRhsmKjT15wvAVtRCsc-UrdxwOtUEhxmbwADCgjHR9vVa/s1600/IMG_2329.jpg)
+[![](/images/IMG_2329.jpg)](/images/IMG_2329.jpg)

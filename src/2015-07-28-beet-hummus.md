@@ -28,6 +28,6 @@ Drain and rinse garbanzo beans. Put all the ingredients in a food processor and 
 
 Note: If you're starting from raw beets, you can cut them up into half-inch chunks to microwave them for 6 min, or wrap them in foil and bake them in the oven. Lately, I've been using precooked [Love Beets](https://www.lovebeets.com/) lately because they're fine, and Costco has a 4-pack that lasts forever in our fridge (vacuum sealed), so they're always handy.
 
-[![](/images/pink.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVpjuMvnfzeO2ZDy_7U0QnX6RHBy1pudONUGTQZYmtUM0mhXQg8KVnAz11SWKxNZFa6ktgEHqasOne-5e47ydNrV5HDVxxBGcGYK6azPGNN7bdveSlXFlLu7PUJMhldXzBga3Q2v9JZ4h0/s1600/pink.png)
+[![](/images/pink.png)](/images/pink.png)
 
 A favorite lunch: Pink sandwiches! Broccoli and beet hummus on whole-wheat naan (from Trader Joes).

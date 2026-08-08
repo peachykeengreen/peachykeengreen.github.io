@@ -52,22 +52,22 @@ Put noodles in a bowl, drizzle with sauce, add toppings, and sprinkle with black
 
 Slicing the just egg, scallions, and plant-based ham:
 
-[![](/images/slices.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9qrwSmSmhHHUdSkBpvG5OtERn1bwN0LEtEpyAdEi7Tz3kCp7ODEwoVFeMBQrPx83gugvhs2FL5GsjipPrCw-oUu1zRUFFu201-YkYobTJJKre7EEzzon11R2DTKZSTwHvaG4BsaoOQrwbI3isOsB3EWv7bko5JGrC_L9LpMElagPNDSlXizTVrMszA/s1046/slices.png)
+[![](/images/slices.png)](/images/slices.png)
 
 Mixing up the sauce!
 
-[![](/images/IMG_1762.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWFzfv45g9ApC-2CaTuGsH5XIk_Bm3T1wgpvip-dKGbJ_PGJrRDmomdawZUM8v5qJ_8E3HJ1nqB6IhNoBE_-R0tAUEQllRvqjtJA8mirZDlL40h23oAtogFcQABQiAROKtC2NJp4jbPlhiAocvOHHKwMG7l8boVyFmHSLJTMZ8wBKkLzvkWzzVHUO2hQ/s640/IMG_1762.jpg)
+[![](/images/IMG_1762.jpg)](/images/IMG_1762.jpg)
 
 Purple Carrot version with panko-crusted tempeh:
 
-[![](/images/zuccini-ribbons.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8txBrjDZHQivMCkAs2bl-Xh8ziyVE6QzYWVXjUWx5MPZDWI6fsxqw703VMbuL1TfzOIeNiUki735X2qDJXpR__Ce73c_1G780Dmu4KWCQDuu5xIdofjzDruASxvQsB9s44jdbK4b5NnTpchRAY7C67eZwZVic3YwFgQGWSIP-BtLI4LK1ggjqKjFBEQ/s640/zuccini-ribbons.jpg)
+[![](/images/zuccini-ribbons.jpg)](/images/zuccini-ribbons.jpg)
 
 Optional black salt with egg-like sulfur flavor (noting this for future fake egg dishes; could use in vegan quiche?)
 
-[![](/images/IMG_1761.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbtrlR12cdtHSXGFrJy3McUGwPmjXZF8Gj6e2zWFHB9MrVp4fFOP3QIef2YPiqCh0kRTJZ9WuVTG5h0W0_oauXiGSRgKbGgLP7YgBp2NB3GWzHiDsO4kDahrtISXz7JRWho3XYrl5tzkMiclAh3t7SpPMzdvr2l_PgYRRBIj1PQBjBZH30z0Igcj5lAQ/s640/IMG_1761.jpg)
+[![](/images/IMG_1761.jpg)](/images/IMG_1761.jpg)
 
 Version that I made months later, with veggie duck!
 
-[![](/images/kiras-soba-noodles-with-tahini-sauce-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjhfjjC9icGJtFGK9_1AuYVwWS67NRW5h8dAAdg0pteujoQ3L-azjipddaW_0er2q_bP4ph7x-paITaHqTZvUPp5k-P7MMD1gDR4NKxUzcuIraN7NEFGE0sHX5-LV8X_dyCeDUyjJmxumBRmr_digu10R2kySlK89TzEOcKBemKDTSYzgC68ZNxDYuOag)
+[![](/images/kiras-soba-noodles-with-tahini-sauce-img-1.jpg)](/images/kiras-soba-noodles-with-tahini-sauce-img-1.jpg)
 
-[![](/images/kiras-soba-noodles-with-tahini-sauce-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEi7vCdl48leE4ZZTtP2HZsrXEuaaaPAxrvEKOTiwSYT7-JVOPh5uJewRiFcbRJ-JhdZjkADsmSSxuyyrsTrMPTgMrf_7xNdlAKwsk4N3gEqmqYTn-u8GZNL2XOqTkvPSbT3_KCIo0dz4sEHEnaLT_K77_5mIfq4OT0RZEv8u4NZTUhmjeQbvkVsH8UVcw)
+[![](/images/kiras-soba-noodles-with-tahini-sauce-img-2.jpg)](/images/kiras-soba-noodles-with-tahini-sauce-img-2.jpg)

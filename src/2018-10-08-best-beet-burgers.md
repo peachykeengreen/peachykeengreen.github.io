@@ -29,7 +29,7 @@ I've tried to make beet burgers a few times, with just so-so results. Often they
 
 ## Instructions
 
-[![](/images/IMG_0008.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHp0wxXG_C4pKNvmFHcHKsTEmj-QuXcQ6JWPj1aU5t_u5CddWhnnCewUVsZc6vbLzLikZx9qW2YXM9q9pwceA-gLTifc902-Gl11o_BWwGf1ZRHsR_DZu_WBIXqLm6VsDSOuY198F3vhBH/s1600/IMG_0008.JPG)Tightly wrap beets in foil and roast in the oven (can do the day before) for about 45 minutes at 400 degrees. Let cool.
+[![](/images/IMG_0008.JPG)](/images/IMG_0008.JPG)Tightly wrap beets in foil and roast in the oven (can do the day before) for about 45 minutes at 400 degrees. Let cool.
 
 I waited to long (a month later) to write this down, and now I don't remember if (like [Chloe's recipe](http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html)), I used tempeh in this recipe when I created it! I did this recipe later with Cyndy and we did add tempeh, and it was good. If you want to add tempeh, steam it for 5 minutes, in microwave steamer or on the stove, and let cool.
 
@@ -41,12 +41,12 @@ Mix all burger ingredients in food processor in 2 batches. Pulse until coarsely 
 
 Form mixture into patties in the palm of your hand. Fry or bbq 5-10 minutes on each side until browned on both sides. (If used oil, remove and drain on paper towels.)
 
-[![](/images/IMG_1609.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIoIwtVLrBPbpz0Z0fvN2sFwF4xA_pxyJyfFMtTo953FnnaOsBKeTbxE-MLJywMlf7PLzNBVEGyl1WVvUXo-JjDd7FRONkh0mmLV1DoYR38IFRxIQksUUlYJf3XIv5LUBSs_rhBfuln9p9/s1600/IMG_1609.jpeg)[![](/images/IMG_0009.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MVwwOssG7VqKAXyNwu2TuQNttW0uV9TotssEHT45wSOXoJ1TZLacStiaZH3DJFf-9ex4cBcRoRm-h5no1Dx2MCu5GONr2RWrGeEpz197fEOmH6RNlN4jL2z50xZutplyAyTm2GDn_Kqf/s1600/IMG_0009.JPG)
+[![](/images/IMG_1609.jpeg)](/images/IMG_1609.jpeg)[![](/images/IMG_0009.JPG)](/images/IMG_0009.JPG)
 
-[![](/images/IMG_0017.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnh3vJbrEXcICnJ6dQkWPM9rdU9IE7u7CsExBMsQOtRvvDBMQn7JPznANFY-01fwqeDXfzLcVCfIZtbAe093qa2yEQRVoZe7nMXzUtIZXSWhCbWmxBLrC8Yw-MndbUA8jBxQjSl3W-qYw5/s1600/IMG_0017.JPG)
+[![](/images/IMG_0017.JPG)](/images/IMG_0017.JPG)
 
 Chloe's burgers and beet burgers side by side!
 
 And Field Roast Italian sausage with roasted pepper and onion, if you just don't feel like a burger.
 
-[![](/images/IMG_0018.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Tbl6Y4g9xnVZTAfFwDZ6DIXxkOs3_gU20aMB4qs7LfOxxm1677enBwZy43lWJWyjehzmBQ_AqyWsAO1Ioarjx1VUm_7Cgj35M6yUodgauSR6DeSrswkXg9SVaskwwrrOK0O-jHw7IZLA/s1600/IMG_0018.JPG)
+[![](/images/IMG_0018.JPG)](/images/IMG_0018.JPG)

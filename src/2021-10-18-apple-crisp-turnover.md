@@ -47,10 +47,10 @@ Bake at 375 for 15 minutes or until nicely golden brown. Check after about 10 mi
 
 The crisp version (this is a tiny pan of leftover fruit after 9 turnovers, with half the topping above -  really delicious!)
 
-[![](/images/crisp.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl8CM3_3uBEJn1UwawgxW06d1svVFUQW-QTWrJWv2leOJ78-fU3lbK0MI9q8VK592czsPOfepDPEls4ra9kb3c-BJ8ybaYTXDgBOUEKYzF6y_cjsNui1G6-l5P1EZ2LewiIu9z_caVZKpS/)
+[![](/images/crisp.jpg)](/images/crisp.jpg)
 
 Making the turnovers:
 
-[![](/images/IMG_0403.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5S6XMoeO7teARDqBtBRhJZpiw52swD6Qfx2wWfzkGjQL-O3BmtO7GdscoQrwvj1bu09PCBC0l6E63Nv0x19_mm-hvHQ-jzkknCF0EmSmt4yKx5ugs6u_Pu8nWJd_hFd_2oSHq0ggYappp/)
+[![](/images/IMG_0403.jpg)](/images/IMG_0403.jpg)
 
-[![](/images/IMG_0405.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ-DCAOW4EYYOSbGBWtPDaCzLWMo_1sJ5ehg9TJGBwNb_kqj_qkbojCX_9Pc5NFIuEc4WpPqQxvflLja00uX0he7I5rB6XskC-5Xu2c1VRsFKCk22uPMm5Nf46_5P93nxEHcHuNSSYKrdH/)
+[![](/images/IMG_0405.jpg)](/images/IMG_0405.jpg)

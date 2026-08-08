@@ -48,4 +48,4 @@ Pour the veggies into the pan. Repeat if you didn't get all the veggies into the
 
 Set the timer for 50 minutes. If you have some set-aside short-cooking veggies like asparagus, leave them in the baggie, set the timer for 30 minutes, and then add them for the last 20 minutes. Turn off the oven and let them sit awhile, or remove to cool. Try not to burn your tongue when you sneak bites.
 
-[![](/images/IMG_4834.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXns2j9MRgzAyUmpfJYpHjTQh9z437KdkFGzY-djENQG2tx0eYEE5shGN_pT5uieWrX0myfmzNqstZ-9cYSJcdN1lJAUiLcUI60lsvrEWu8ze2I8a1Cjx8Xjr1VgTX9eUpk5sKiplopDh/s1600/IMG_4834.jpg)
+[![](/images/IMG_4834.jpg)](/images/IMG_4834.jpg)

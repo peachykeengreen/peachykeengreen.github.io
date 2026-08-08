@@ -45,10 +45,10 @@ Serve on toasted bun with pickles and/or chopped onion (optional).
 
 Cooking: Crazy how much it looks like hamburger:
 
-[![](/images/IMG_7976.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwrBgJ7caTBfgK0Gf27iSlrz1S0OpcqZ6x_yoMzt-zwC3FfxGcx8KluF0nnoPO7qHyJQpLbIXwMXJG8GM7Yu8wniVTlpDVOW3uDk0iAhFaSjXOwEnaTCSOjA2jq1y5GSP97nETZb_b5-5o/)
+[![](/images/IMG_7976.jpg)](/images/IMG_7976.jpg)
 
 And browns like hamburger:
 
 ![And here's after adding the sauce!](/images/IMG_7977.jpg)
 
-[![](/images/IMG_7978.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4EJh7_tI3C_ezAjqkNDa6otUbGq61ylXPYyQpb5XcLR6UF_Rtmz-3fGfhz2H5O8SQBoR7PN0YKMJ-5UanN-55d_UJg9PMhJFGbYT1SLqTS3ILbl-wX_xAx-FIpIIcjWcgaQ8x847TU5S/)
+[![](/images/IMG_7978.jpg)](/images/IMG_7978.jpg)

@@ -52,28 +52,28 @@ Cover with lid and bake 30 minutes, then remove lid and bake another 8-10 minute
 
 Gathering the ingredients:
 
-[![](/images/IMG_7904.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NSDfdKT7kxo57wenNi_aofNkQSZKRL2LQJGrGDRo7NxFa0b8RThRnxV3vChyphenhyphenmIlx-GhPOfPtj9otwdnyQQrgYuGlwiey_8EBxQLVQBG_MgiMeek3DoOzIBuTr7P4_EEL_P6hT46LFjxCa9pxF3bXpk_JZe9Wc3LuUQ65RnbfsAlqfDYVkFtp9HeEUrnF/s640/IMG_7904.jpg)
+[![](/images/IMG_7904.jpg)](/images/IMG_7904.jpg)
 
 Mixed by hand, just enough to blend (careful not to overmix):
 
-[![](/images/IMG_7905.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK8ylGIIJFF7SivxI97tOvaiTqsdut35Zn8Yp4AoraBmkARmzguCoAH39Q5X4s59gBzGcqAyF0V8aCzq3eHKzt0IDxKIkw9f3cpEvIWlDinv0I4UHTq_SdiA_nEwkIgLKTbdgB376p5zpDC1En9V6r9ypW8H03nSU2gwHw-w9AWirdRUuYIRWyaxdd3SyS/s640/IMG_7905.jpg)
+[![](/images/IMG_7905.jpg)](/images/IMG_7905.jpg)
 
 Dough (with walnuts!) resting and rising (covered) for the next 18 hours:
 
-[![](/images/whole-wheat-bread-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiNx5b49XYDNc2qmyv1UYhc7YYOEqenC_xm0YhZa6xZad1ef13Bv7U-SSc6y7toBIN8M_wlcNZ_OFvAbE7pa_8lFVySm2ZAbeOyoiwmjX-mXEDbWQQYWggC2iInXaCG3XOHckUmZGKcT3MGAUdG7-cTuGJG_xjaNcC1UUex_9Fo6rTJdtCMI-w0b9M0uJ2W)
+[![](/images/whole-wheat-bread-img-2.jpg)](/images/whole-wheat-bread-img-2.jpg)
 
 18 hours later... It was nice and stringy. I folded it twice, with flour and bran. Then put in batard (my new fav!) and cover with mom's pastry cloth. to get beautiful circle design:
 
-[![](/images/whole-wheat-bread-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjWiECiliJgjGVzl_I5EWBmcFybLL6kr32WmlXNcsSKAORyHAgaDCwcy1QrRDusW6V2htcZLXjwQa8ykCrcTaYRTnTbTE_ONKZqAu-CL3jnSw64SeeXuzRIQWyXaxcXIVVKQQO8Z79uFAXaoIzQHT_0iTxwS9mbrLzcp9wn9WeBfpDRPZWggmhAJ1duuc5n)
+[![](/images/whole-wheat-bread-img-3.jpg)](/images/whole-wheat-bread-img-3.jpg)
 
 After 2 hours, flip onto parchment paper:
 
-[![](/images/whole-wheat-bread-img-4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiA1FXRmY6JUMCW5API8ONr5Q2B9BrqndjPZKRNNf7Ohs9T4wXHKxxjkMIqNse_5eGnr8DzKR7EMmyUYagNRfvmMjN4SkISfkU1rXhN33l56BX1KnKuCWEP1cHhabtLKFMQGemlcDOnTi60Ub13EWKLyNEIYjiLJ2ajhTM_t5rB3KKQV-nkrkiWh7efPJlm)
+[![](/images/whole-wheat-bread-img-4.jpg)](/images/whole-wheat-bread-img-4.jpg)
 
 Lift the parchment paper with dough into the hot cast iron dutch oven, and put the cover on:
 
-[![](/images/whole-wheat-bread-img-5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiN3Z_NarhhYY3aXOx8QxWyqmPAGim-HJq1WBbr8p5Rg2p0ukDKPcgUeDyM1CQ0MiNO3TEv6ljRpw9dy7MuZYvRXNtdgpcIHhyiUNyKwzi7APe2p58lRjF92k7LKNs5xHYEZtSr9PehOL_u-dq55CX7w1DPyb7zOBOnrhcfoEFaoW4u8FSoyBewlE8Q3APg)
+[![](/images/whole-wheat-bread-img-5.jpg)](/images/whole-wheat-bread-img-5.jpg)
 
 30 minutes later remove lid, and then another 8 minutes later remove loaf from oven:
 
-[![](/images/whole-wheat-bread-img-6.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEi02Vy5WfnvAbP1JKqnV-Z4Tl_SIbC4qkeAclY6OmQrxKXVWJKIK1_wZ4V0jlBg_Fscj0OkrxLZ66WdG97gbfa03doum-CqJIlpXWIq6kzCVsNRBUZyJmpTFvhm6rKuh1oCx6Wt8NYqmsBvhYq14CdXXf7nIANtSEWeDAAFqE-m49Bdm57pXn91zH9PGEuD)
+[![](/images/whole-wheat-bread-img-6.jpg)](/images/whole-wheat-bread-img-6.jpg)

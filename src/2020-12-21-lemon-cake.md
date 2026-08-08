@@ -16,7 +16,7 @@ It's yummy without any frosting, just as a lemon bread -- which is probably how 
 
 ## Ingredients
 
-[![](/images/lemon-cake-2020-img-1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIfYsLEHxh-4Ac0BAitpswLfbI5RjmenexGekQH31ClRj4zBU1C0TQJtbwi8MzWNMDNTXDfPRu1zfdHE-ivmUgwmt5XNS8AJscEcBjhBehcA-l771DajqiNz0IoGmmQXmbgZvHsHs6Hnhj/)
+[![](/images/lemon-cake-2020-img-1.jpg)](/images/lemon-cake-2020-img-1.jpg)
 
 - Dry:
 - 1 C + 1 T whole-wheat flour
@@ -57,16 +57,16 @@ Prepare the frosting: mix by hand is fine, or can an electric mixer. (Can chill 
 
 Frost the cooled cakes and decorate with lemon zest.
 
-[![](/images/IMG_8287.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZTJbUCe4wuaHlcpfGrqEcRjGEYzbaXTZj1hPaV77XQoAB0ISf5Up_DEUQ2Nv-op92IADkniqrkWnX0XvAGD9Pg9p6Tc7AE58W-kl2pJOW8T5g-Wrq7z4iQYtRch6s6D9gZdO15i23RnI2/)
+[![](/images/IMG_8287.jpg)](/images/IMG_8287.jpg)
 
-[![](/images/IMG_8288.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJGzz-UMU0T0X4TlbuFhoznmG17-JMQWA0-PUKopE3DjyRFYvwHS7nNo-VRRNaYatlZXDM0Pdhu_F-qepnLRsZtog874-mFarCbflHktcifP22wVtQ0BchE3uQTZHmE7A1YU9v-U-WzDf/)
+[![](/images/IMG_8288.jpg)](/images/IMG_8288.jpg)
 
 Frost with cream cheese frosting, and top with lemon zest!
 
-[![](/images/IMG_8311.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhol_UfEUrkfsLte_r6vV3zS74MSeulW_2df9g2F9VH8ctN710Roa7xVaAGWbA5UvZeuyJV8AhxSOvZEX0YqI7UktcTWJkmfQ1A8Fh1NkPbvEH_p0B1CpG94nojT_09X4l8nWJKGcbuOlgE/)
+[![](/images/IMG_8311.jpg)](/images/IMG_8311.jpg)
 
 Earlier powdered sugar frosting version below. Beautiful, but a little too sweet.
 
-[![](/images/IMG_8297.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDji1NfMfuh6y8Dp5KmBDrJiesbB2DcG1PjsA3AcUeywysF2PAFw4Bfze389bN7V45OoFgOaRuYmM_rxV3SzDAkKIDedSxpHicyt2pKWflLdFfeyWKtX52_EaSHHOC1DIs4jajPx0OmcUu/)
+[![](/images/IMG_8297.jpg)](/images/IMG_8297.jpg)
 
-[![](/images/IMG_8302.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbLr0jT_vNmGw3Sxa9jHUn1DGsi6udXFV4zCqqjiJ6kewCwaOhalg_RaFEgyoFsAjULaS70weuvLNttvGLrEwLsQxeJUbEhh8WA3qKk75Yyf41mVJ4cND8wNcjwil6ivktTaCIxCLf3FMc/)
+[![](/images/IMG_8302.jpg)](/images/IMG_8302.jpg)

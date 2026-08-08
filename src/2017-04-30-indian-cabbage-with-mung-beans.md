@@ -38,6 +38,6 @@ Soak the beans/lentils for several hours or overnight; can drain and let them sp
 
 In one pot, bring the beans/lentils to a boil and let simmer up to 20 min. In a large pan, heat the oil and fry cumin seeds, ginger, and pepper for a minute. Add the onion and fry another couple minutes. Add tomato, garlic, turmeric, corriander, salt, and cook another couple minutes. Add cabbage, reduce heat, and cook 5-10, covered, until it wilts (might have to add a little water, too). Add beans/lentils and reduce the heat to low, and cook another 20 minutes, covered, stirring occasionally. Season with black pepper, salt, and ground red pepper to taste.
 
-[![](/images/cabbageprep.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ268WL-kvkNdRqqmJe3wguUJa9VPHXS8I22_OGDIOTRZ7be91vSjH7BxwTFiF_-XUD6kw5YJ1-zn6EZymzEhYFucxSLlTsCRE6TmkuGrGSdSxfhZ73Q0cM2QEdbxdELXKOyrju5WlcDKU/s1600/cabbageprep.jpg)
+[![](/images/cabbageprep.jpg)](/images/cabbageprep.jpg)
 
 Prep! (Beans/lentils are boiling on the left, out of the frame.)

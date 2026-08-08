@@ -38,10 +38,10 @@ Bring the vegetable broth and oil to boil. Add couscous. Cover and set aside for
 
 Layer couscous, garbanzos, spices, other ingredients (we did 3 layers) in a large bowl (might want to save most for the top!) Served with sides of veggies and fresh bread and wine. Yum!
 
-[![](/images/jeff.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDCsZtAoHXHszgHwqpClDG3JsYtCq7nT8kgQiR5Pmp4Ahrczp23K1PsQ5zoPo_Rp7YTUVQtqgy9QPX_vjX67BH6sdfpQIA-PtkVH94vlKs0LAavuMXl2XgLeG_Thj4OnboUy0dpGzhzXYQ/s1600/jeff.JPG)
+[![](/images/jeff.JPG)](/images/jeff.JPG)
 
-[![](/images/sides.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_dDjx5fhyphenhyphenQaA4-mIRNXY65vIFDhx4_m9vGHwm9kfAmjEWSKhYztuUFKrRGHWqe5CFhUVD3ULS2EL9d0lIMUUjdGLSSPlV46R2771z3CUYgtq5yofpxMUN2iuEmnFLa6tkI-TDJf3i0PpS/s1600/sides.jpg)
+[![](/images/sides.jpg)](/images/sides.jpg)
 
-[![](/images/kitchen.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_-QS5o9wSB-Nn1evy21coJqA_ozeBa1s9vl4jN4ZOc_22XBJ6SroZOPCWpQEux5Una67bSLvAK4KhlleRUjXpGsF-uFwHUGbsvRC5vZmf-GXENMpfHhKrGEUeP7aSS9nVFEc1UKOJJZod/s1600/kitchen.JPG)
+[![](/images/kitchen.JPG)](/images/kitchen.JPG)
 
-[![](/images/ollie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK866NzN65AdQEaRHrjYbrVqbBr9iiei_rm9r-kIxdw8W5DzLBuoYkXm6O2E7ZrJun10cljTibP2pyIFfFxlOb4C-NiZAN4QVhYVkitgUy0llxguKKFqGgt3RmXVJo8Vy0UVjoDdPsZRT3/s1600/ollie.jpg)
+[![](/images/ollie.jpg)](/images/ollie.jpg)

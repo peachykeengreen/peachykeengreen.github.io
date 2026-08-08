@@ -46,10 +46,10 @@ Puree the soaked cashews.Then, puree the greens. Mix in the pureed cashews, curr
 
 Serve over tofu and garnish with garam masala. Goes well with roti or rice.
 
-[![](/images/saag.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVRjwovVoWQLCIy2QvumF_vTpNwxzfuOMDsoRM_8mGE77-GIjtRy24ICLYJJQR208LmgWsNboXlWOsCL4YJ8xoYU5-gexcMmJZLhSlPmmUD25o9u-UUEzIgDgA21Ewr-Lqak1-lA5tjjC4LmdjJhC4AYwm7KYfc7-LMPkKJkMiBAKryEDmUnSRsTmkiypI/s640/saag.jpg)
+[![](/images/saag.jpg)](/images/saag.jpg)
 
-[![](/images/IMG_2073.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUD9h44o_s1_8EMS6Xfu-9ESh0FYC8G3q4fYyJvM509HThQqqXBAyMTyhV0QYAAh_mVN_3c0Y3TGiruc0b4oEwNgAIgtLpMLOPtyChvxmRZHbuW38pjTn9TV73kitfyEQpgfautQCZte86/s1600/IMG_2073.jpg)
+[![](/images/IMG_2073.jpg)](/images/IMG_2073.jpg)
 
 [
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidHC6foV6CKoVpN0ZWy4qwpaGdFPDSiT2aILuMsKjb5jABlATB5cXUSaDxvh6mjjok86NLgI1sN7hqQDLJb1XARu22M3b1qgmr3x7nvqSNzqbE9zsRghBuZg73B3y9U0phXoLpLIX4StZx/s1600/IMG_2072.JPG)
+](/images/IMG_2072.JPG)

@@ -60,18 +60,18 @@ Once the cake has cooled, pour the glaze over the cake, letting it drip down the
 
 Making the cake (double recipe):
 
-[![](/images/IMG_9286.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE9EfJpnIWoFi2tMvmBSicweY24DknorGWBG3FaKFbYPDYbNUAMvYKHRbUCVLu6fOOG3b1LT1kOzPzFejWAT0uE1JM8EilecTkLwx6TscdmcJr8SFITxTYkeAFIq9Q8T-0kvzQGHYFaogx/)
+[![](/images/IMG_9286.jpg)](/images/IMG_9286.jpg)
 
-[![](/images/IMG_9288.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPyl9uD-qiGSof3N3mdVuGWvGEwb8GqjqxPDFYzntSvnuW7_8WxbpnqVk4JFHp11oR2Msm56S4sbBhd9YbJdIBmM40cF4dMiErgrU6F4nWbYf3WdIzWxu3ge3GN_MWPD3BycsFKXn8-UWx/)
+[![](/images/IMG_9288.jpg)](/images/IMG_9288.jpg)
 
-[![](/images/IMG_9291.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8T42KvoL5Yf5LtKeZgLcTrZlznQywGfQwhYql0_yITLUi2-CkzmDUvIWDhLvbhX8QySaZIWf2vTmH5EnfFWSi2wF8P-DTerI6WPz2oF0LQo_XNoEVfprYrWi0B7_FuFH3rfIn34xe9NIy/)
+[![](/images/IMG_9291.jpg)](/images/IMG_9291.jpg)
 
-[![](/images/IMG_9292.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIOIf1p9LhuqKQJz4IDFlIJIUIVdxps5-Mla7l9S2qBeUa68bRt_vcmAFv1rxpgKx1VNXRbOVLsPUM9cTDqOWBw-Pm613Z6YAYlP-zJvngt6auiqEBxBqVOx8yavsMOwOyW8UsIP3wfTAs/)
+[![](/images/IMG_9292.jpg)](/images/IMG_9292.jpg)
 
-[![](/images/IMG_9294.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNRQOhMvtMK8fWkMpBCekiWhTxS4WE3aAmmrDczzoEJmXI9Z8gKVI11ATxgXiYsg8XLMzo1PC8tNk7FQLroJrbVt2btw_5cTSWBFnEAnxGbrEnITP1ApTnGI8AVCDsT4roiXp7j2BbEfwI/)
+[![](/images/IMG_9294.jpg)](/images/IMG_9294.jpg)
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigkOZSsBNsX6R3bZKla7J2uK-3RisijUtZta6OFcPpMsq44HwRDJZp34z3LU-PG0whyja3LqkfgioEJgf-nGWjODzD2MARQFWR_41bLBwduDXpi2CeBTkni58k_pcs4BzidxFkSWNEJV3G/w480-h640/IMG_5711+%2528480x640%2529.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigkOZSsBNsX6R3bZKla7J2uK-3RisijUtZta6OFcPpMsq44HwRDJZp34z3LU-PG0whyja3LqkfgioEJgf-nGWjODzD2MARQFWR_41bLBwduDXpi2CeBTkni58k_pcs4BzidxFkSWNEJV3G/)
+[![](/images/IMG_5711+%2528480x640%2529.jpg)](/images/IMG_5711+%2528480x640%2529.jpg)
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ks-eogFIgpojjZ6ZNKG0MEEJvkkLGN-qRp6_9de_lKniHPLNqYSGNKOW5ZK7vkatyOE8YBnTHtmGMHuzHhkFPNWAPk_Smf9ifYVCqyKE4vtUtddUlW10-iUyDlp5Ngaq_S2rBVVAPLw0/w640-h480/IMG_5708+%2528640x480%2529.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ks-eogFIgpojjZ6ZNKG0MEEJvkkLGN-qRp6_9de_lKniHPLNqYSGNKOW5ZK7vkatyOE8YBnTHtmGMHuzHhkFPNWAPk_Smf9ifYVCqyKE4vtUtddUlW10-iUyDlp5Ngaq_S2rBVVAPLw0/)
+[![](/images/IMG_5708+%2528640x480%2529.jpg)](/images/IMG_5708+%2528640x480%2529.jpg)
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjhm4UlN15YlDz6sPGL7ZV36miTYuJGi74LRkiua_y-E9Rb6UHRYkGIe_2Tw08M5LyrJHQZuEXeXJIglGBMqQBqNtHm-Cw6ZrCwt2etfu6oI0qmUVjpfeIMcwk5KTXlsY2nJhxb2ukf2ex/w480-h640/IMG_5716+%2528480x640%2529.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjhm4UlN15YlDz6sPGL7ZV36miTYuJGi74LRkiua_y-E9Rb6UHRYkGIe_2Tw08M5LyrJHQZuEXeXJIglGBMqQBqNtHm-Cw6ZrCwt2etfu6oI0qmUVjpfeIMcwk5KTXlsY2nJhxb2ukf2ex/)
+[![](/images/IMG_5716+%2528480x640%2529.jpg)](/images/IMG_5716+%2528480x640%2529.jpg)

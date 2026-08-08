@@ -58,8 +58,8 @@ Remove the pot from the heat. Stir in 1 teaspoon olive oil and fresh basil. Seas
 
 Serve in bowls, perhaps with a little drizzle of olive oil, additional chopped basil, or black pepper on top.
 
-[![](/images/ratatouille-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiYRSpwgGc9pVUcXhKnOfjTfffmg1vD-S7vekd1lSJ0ZOnDlVXU75ppLXTMAsCOnhkLS8UMTQFDsv52Ke3cdaoE5QPtvWNLEzZP4u3MdrWpZrUf61ioXVUvvhL2Ye3mM0ebrlhfKTSQeokRZxmw663DnH7z1rjsHFAgvIyFIKM7U73_Nml_4elRCKosgNl1)
+[![](/images/ratatouille-img-2.jpg)](/images/ratatouille-img-2.jpg)
 
-[![](/images/ratatouille-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEj6tmk5wfYA1Pb1QPKUhVL63Peywp685ezdKqE0u5DA43qNB0EqcUwCElcFCAieSTOjVe9vNbEM7chhj6Mziq-HpiNCNLH0f5j-CepnYBPmENbI-Ubz6AtuhYrhjDcsT4ydqFFiRe5Updl9bHU5QBoqgnBneczear7vMY7GEZ_s3Jm0SjwFM3S0mfPaAyLo)
+[![](/images/ratatouille-img-3.jpg)](/images/ratatouille-img-3.jpg)
 
-[![](/images/ratatouille-img-4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEj5UgXshPYBb9CNIx6SHM5nE-fpkTcrV1LXYAFbNt0DxspThy2ormgML8VKrgX8rF0wTFGrqZMaW_k7z54I75Ygd8EnyqSxMDs1GqJq8NTcfchaG22qgcUfugK2ZboSW_8fA_HbmmI2W67lG1ckCIHbdLl_ofinqpqEa2aGoLjzHC73hqFQmgF9FQc5Bc0P)[![](/images/ratatouille-img-5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEg7i4_rSEyBaKUVYhSLxA-5oN0Gg7Nf4QnFbR3cjv5jvJamZXO1cr8CBDid7XBn09a2L5AJvbbWghJX6wuHdvPwrpMZd8pEMj-FF8zwek5JmuZjz1k9WXwTGM5OmTx9xc-oprhmo0Ym5drWG5u0BBPmMkpBG5GOMVEclo7DlHoDXwPXQ_sgzoE6mRq2lP9z)
+[![](/images/ratatouille-img-4.jpg)](/images/ratatouille-img-4.jpg)[![](/images/ratatouille-img-5.jpg)](/images/ratatouille-img-5.jpg)

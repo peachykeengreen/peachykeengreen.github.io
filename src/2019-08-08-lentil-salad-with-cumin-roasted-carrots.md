@@ -43,4 +43,4 @@ Toss together all the salad ingredients.
 
 Pour the dressing over the salad and toss gently until evenly combined.
 
-[![](/images/IMG_3068.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinOwfSve_7eURlSdgz1sa62KyawvGDcblEncKDi3QVGa1xpOT4fB8YSh9MqBWD0mH6KRdTvjeqnci48SEJWiskUiQyR2CW4sbNnaWzumqmScVl0iQHvBa_yj21ChHemJFRswdXNoYXwYaH/s1600/IMG_3068.jpg)
+[![](/images/IMG_3068.jpg)](/images/IMG_3068.jpg)

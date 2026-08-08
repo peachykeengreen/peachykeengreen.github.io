@@ -66,10 +66,10 @@ Run a knife around the edge to loosen any stuck parts of the cake. Place a servi
 
 One to eat, one to give away!
 
-[![](/images/pearspice.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIPVJIPr-0RJkbmM1bfJsnDSzQvtToS-iDDlP5qgeeD2wmvcEWJjJ27Hyuz7Z2_rMKxSMjbdI9LjWrAGVM5H0QFTAAQpaB7zRvV1wPrXbekw9gXnrbbvLZZGsL__Z0Bo1Xs4ABgJUX5eOJ/s1600/pearspice.jpg)
+[![](/images/pearspice.jpg)](/images/pearspice.jpg)
 
 Alternate berry topping (same pear puree cake):
 
-[![](/images/pear-spice-upside-down-cake-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEi5Mi1eTmWdwJ1kQt3kcwDoINvLziVj7p8gqgIq7jPv0jtAxQ5aX5yi30leSTNQlgQcFQNe1Z3sslSBXyAfa8Ug9y27-oMGn1stxO-f8zd0-rh3CYm032ia0zv2yKqhmuT8GjdztwCUz_LFSL5_hQH1qSHyy-b81H2_EyZ--DXnoVep2u2osFCqPlSAqQ)
+[![](/images/pear-spice-upside-down-cake-img-1.jpg)](/images/pear-spice-upside-down-cake-img-1.jpg)
 
-[![](/images/pear-spice-upside-down-cake-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgNydvXYaFeN_LrlBSQT06d4ScPRsOFZJeC31oNzeoliLutJO4F4RQm_sQyK7l_bQ1KP3CTtEJ4LoZBT_AmA9SGLFofF_oQUxX-KlyIKmVeACjdx0EQwBy0A_YocOPYjbfF04c5EVzdpYLD17p6YzInogWzZMlPONdgpBc5m3YfIqxXjvzLdcxaks_Vwg)
+[![](/images/pear-spice-upside-down-cake-img-2.jpg)](/images/pear-spice-upside-down-cake-img-2.jpg)

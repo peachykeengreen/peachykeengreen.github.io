@@ -36,8 +36,8 @@ In a saucepan, cook the onions, garlic, bay leaf, pepper, and ginger in butter. 
 
 Serve the sauce over an artful arrangement of cooked vegetables and tofu! Optionally garnish with a drizzle of sesame oil and/or sesame seeds.
 
-[![](/images/IMG_3291.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC-S8R4FL46qwP40C5724d7tn4Q_sNuR_6mEpJFmDjeNX5RMDMyF_s-8W1R2b00uqfqZ2aUcYJsuDOzw4iHha1MLKsFg7Grp_S9isxefCBUgatHvDLW7AWI7qK6YOykyEg_g1V8FOScwMc/s1600/IMG_3291.JPG)
+[![](/images/IMG_3291.JPG)](/images/IMG_3291.JPG)
 
-[![](/images/IMG_3293.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWimnUbILIXsUy6eJ7IyPsiSUmJ6H2B_rPnwYyH2lvmPp8rqOpW2TF_Xs2BT3nYmksuANcGn6Q4VuIMfbKStGIHB2i2pBzTxjtZmzq8SLhtOXcaMLS1UFpHQ2BetwCswNp5BUlXHJhROtK/s1600/IMG_3293.JPG)
+[![](/images/IMG_3293.JPG)](/images/IMG_3293.JPG)
 
 Would be nice if this were a little more yellow than brown... should I add turmeric?

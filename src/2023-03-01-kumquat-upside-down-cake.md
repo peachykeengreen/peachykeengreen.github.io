@@ -68,10 +68,10 @@ Keep leftovers covered in the fridge, if there are any. It is also freezer frien
 
 Making the cake with fresh pineapple, and with the help of my new 10" cast-iron skillet and bicep guy:
 
-[![](/images/kumquat-upside-down-cake-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgal3pL6w_P1ftmuhh9VsphwtVuap3GYFPe5CTabVqtoth_XMBq5Tman5TfBFjSj1E2NZNaZYNPP0prjt9MTAj0eOHX7U5YP1jPltRUYul2bsXUVnx6VReHQfNzbZSYhid-gov5ynkc79w_VxptI-JKGBnNiCzrCV0NkqoeHl0jKHe398TdD66VtWGMcQ)
+[![](/images/kumquat-upside-down-cake-img-3.jpg)](/images/kumquat-upside-down-cake-img-3.jpg)
 
-[![](/images/kumquat-upside-down-cake-img-4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgdtd_oqKVTAqbw0nVfhg4mKbKRjBwoji0554fhWRAZiCHoHLbtgF9XbJwVp8Spoo85ieH_VylqKSLMiR_EK_aszmZL1DsEPLqvnqUWplmc0bjLfqOdFyFNeA7htHEv5lYc0J0VX4E8OZb6lmlFLekNgMr9AKM7wObxtvFYJ-1xJdQCZExnBgtW0g88mw)
+[![](/images/kumquat-upside-down-cake-img-4.jpg)](/images/kumquat-upside-down-cake-img-4.jpg)
 
-[![](/images/kumquat-upside-down-cake-img-5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgIBV8d_E6jtHhv-AG0kWFkMJpMcTg8RJ-kbnkoR7HIF9alv9unQRMDA9tiEluKB4BX9HXBhJ_puoiSq8Z4Zm_s6oo2EfLoB5z7drwCI90x9O5IhxRt-UfjBRgn4GLdxW-IANvEpgSEkbxQS510gPUVkFhtFvKzpNvcsCQ7k_yS4fJAKaPU6xODnRfOHA)
+[![](/images/kumquat-upside-down-cake-img-5.jpg)](/images/kumquat-upside-down-cake-img-5.jpg)
 
-[![](/images/kumquat-upside-down-cake-img-6.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjZRYqv0Sb7B2BGEeV8U9BWpDjSP5HCKCYv02qeDmObKx9Vl09lMq-YyAYXHTFqyf5k-Z7t5S2kEdIfshW2WjPryToIDexAuQx05QPOtabLVdH6vHBSx2iOL_p_IhAmzPT91RhzEGt8RPne-ihf34_brWRdRnzPmDPed4x7h8XV3dZeNAqx4e_DMSgD2Q)
+[![](/images/kumquat-upside-down-cake-img-6.jpg)](/images/kumquat-upside-down-cake-img-6.jpg)

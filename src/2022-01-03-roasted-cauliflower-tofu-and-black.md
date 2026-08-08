@@ -39,8 +39,8 @@ Combine the dressing ingredients in a blender and pulse until smooth.
 
 Transfer cauliflower and tofu to a large bowl and gently stir in the drained lentils and scallions. Drizzle on the dressing and carefully mix. Serve warm or at room temp.
 
-[![](/images/roasted-cauliflower-tofu-and-black-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgyp8J128gwUQaGsR-cgGxq_W1ktqpmBV40MLy8UB1L8YyV6nHodzeV_8YCBhQb9lI10y6QoOyBCWeMp_K0-ndZypuOWLF5PDMscn0NxNhzPpB1375Ss9OouQDIhINtL6Flso75g6TlayAwLANxCKC-Vm5esUxhLspSyv8ErWUkDHaRTv600GxHAhEP0w=s640)
+[![](/images/roasted-cauliflower-tofu-and-black-img-1.jpg)](/images/roasted-cauliflower-tofu-and-black-img-1.jpg)
 
-[![](/images/roasted-cauliflower-tofu-and-black-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjNKY_wEkAOOuGtb-3fKCtRtq9njLe3Z3fITYoL7QjdOaHe0KiAZ3b9YBaXiTbZzGDvt-p4Xgwu41k6yzLGga1Tq5ElfSFrm5Hk9uPlYRzzDa4ffHzq8a25GzhpkXBwP1YjUq1WHog7omt_qSD01O4bzm0jRbvJctBGLbWZv5GUbC-DEoQ4GhXazXDlBA=s640)
+[![](/images/roasted-cauliflower-tofu-and-black-img-2.jpg)](/images/roasted-cauliflower-tofu-and-black-img-2.jpg)
 
-[![](/images/roasted-cauliflower-tofu-and-black-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhQUsLs4I1v4_1EYkp3tsZAC0PLXrR0xIQjC9pRy0OTI2ndxyLB7cOjys6RbUyrsPEUqbIJmnRQ1uTbhG-Gffh_U8Gz0XjBLkLiW4BBu4CPPhNgi6ugbUx68Uu10XhP_0MHNMcOQuca2NYREMgA9wiW6f5vBj0DBGF-dSuBOioiBCRn-RYltZDtewiuKg=s640)
+[![](/images/roasted-cauliflower-tofu-and-black-img-3.jpg)](/images/roasted-cauliflower-tofu-and-black-img-3.jpg)

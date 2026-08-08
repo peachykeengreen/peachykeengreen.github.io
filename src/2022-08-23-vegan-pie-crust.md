@@ -53,12 +53,12 @@ Press gently with fingertips. Crimp edge of crust. Bake as required by pie recip
 
 Out of the food processor, a nice dough!
 
-[![](/images/vegan-pie-crust-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjf60ztrPxyCDhO3lWhDnWfM8nyzWNoORLeFJYQdDDvGvs4YkzQ2nyt6R8gQODBsGKDLnpjRPZEnYKpkQKPBQBrPHNsZJ5d7FYoRc8GOtKjuPP5LAW8koogxJyXHrIAdxYH8yH2vUqVB2S0Jxuws2VsdWInEPanl5B94nBEElkI7uuV_0y6vNy_YSiMmSL3)
+[![](/images/vegan-pie-crust-img-2.jpg)](/images/vegan-pie-crust-img-2.jpg)
 
 Roll and flop the dough on top of a pie pan:
 
-[![](/images/vegan-pie-crust-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhIcX0TyFHpUt4G1aDodlBEp60Tq38RX8X_JMaKV6_eyImrco7oGxxLUnjEr5j8CZu6QfyDyJxgCqZEIxhh2OHXKuxmkUjtE73G2h4SMb82oAe9DRP2u1fY63Z5rI7xhpMw6dhcC3GBbQA_SdGLqwXIUcj_d5GVLissLw8M70Vnn4UQ3Q0DxjUethGH4kU9)
+[![](/images/vegan-pie-crust-img-3.jpg)](/images/vegan-pie-crust-img-3.jpg)
 
 Then trim around the pan, fold in and crimp:
 
-[![](/images/vegan-pie-crust-img-4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgwQCnDu29T6s4OX7ruw3WiN86T0cxB2RxVaWefc-ewFmuRlAHp_s9viJSyzSYO8JlzPmICzWdqL2ONdheRGhszr5RSLb1InnCx2ji041i_41n_I4LQN9Q0X4hJTrnXX7oiUk4sE4X3q7-2lMb9ejo2d4Y-6fBwJxjYDvzNF5GF6-Lwb0QTmJSxyXRKMdX6)
+[![](/images/vegan-pie-crust-img-4.jpg)](/images/vegan-pie-crust-img-4.jpg)

@@ -60,4 +60,4 @@ Put cauliflower florets in a large Ziploc bag. Add oil and garlic, zip shut, and
 
 Arrange in a single layer on silicon or foil on a large rimmed baking sheet. Roast for 30 minutes or until cauliflower is almost soft and some tips are dark brown. Transfer to a platter, with optional toppings.
 
-[![](/images/cauliflower-roasted.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Gn9eO0hWRbpP5vSiU7SyqA40JwTS8jP6BH8IcdavuYii5_9BAbVzYJST0KekwI5SOiDAI65lmkn9ZHrLzWq9Aq7clfvRjSy9Ig9KfQp72G85edAQEDDzZKpO25nU15VDGmq4TJdjSwHM/s1600/cauliflower-roasted.jpg)
+[![](/images/cauliflower-roasted.jpg)](/images/cauliflower-roasted.jpg)

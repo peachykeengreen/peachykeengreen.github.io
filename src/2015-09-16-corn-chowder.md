@@ -38,10 +38,10 @@ Saute onions, peppers, carrots, and jalapeno in olive oil 7 minutes. Add spices 
 
 Remove bay leaf, and puree half the soup (using immersion blender, or take half out to a blender, mix, and put back). Add the lime juice, milk, and maple syrup. Simmer 5 more minutes. Tastes even better the next day!
 
-[![](/images/jeff-brenda.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwQ-ZdDTe5FRYfAFJ2YuKCaICnjGYvCsmenwKIhK54PQtqCKPIkhzxKqHreCvKXdqAkOFmlvbiL5KfzSjviaz8OYmCcYLs1kjPR8s5f0JtWopxlE4SlZLtgY7UszFGcAIHLjp0sby_BdFK/s1600/jeff-brenda.jpg)
+[![](/images/jeff-brenda.jpg)](/images/jeff-brenda.jpg)
 
 Jeff and Brenda visit for harvest.
 
-[![](/images/sad-ears.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlTpg0QnC5gnrudj2ilKtkTYiCAmwtbYmw0krFmnRBcb-BiAkaN5ZoEG4kFUjac9IMCpU8N5k9UVJkf39k8GIWVzMWTd8o3EAuToeOZTPIntwuUwrJRBTtOKkS-BkfVY0VItANO7ZAh4Oq/s1600/sad-ears.jpg)
+[![](/images/sad-ears.jpg)](/images/sad-ears.jpg)
 
 I got almost 2 cups. Okay, maybe a cup and half (I halved the recipe the first time I made it).

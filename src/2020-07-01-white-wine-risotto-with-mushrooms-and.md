@@ -14,7 +14,7 @@ Alba clamshell mushrooms and fresh zucchini arrived in our last farmer's market 
 
 ## Ingredients
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N_fTQssg6rECJ3pZ6Natya0ycjnrKsfLjV8yJ6FKoGizOR_JzeIb7tbFZuqSBY5THLkGODrxDJrPH0zlwPCl9Ip4IDVbgIoTdz1PXs1cOY2hqx1YVpHlRwnndyXMZK9rtA05_rhAn8BR/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N_fTQssg6rECJ3pZ6Natya0ycjnrKsfLjV8yJ6FKoGizOR_JzeIb7tbFZuqSBY5THLkGODrxDJrPH0zlwPCl9Ip4IDVbgIoTdz1PXs1cOY2hqx1YVpHlRwnndyXMZK9rtA05_rhAn8BR/)
+[![](/images/blogger_img_a47a024644.jpg)](/images/blogger_img_a47a024644.jpg)
 - 1-2 T canola oil
 - 2 zucchinis OR acorn squash, chopped
 - 8 oz mushrooms
@@ -39,7 +39,7 @@ several dashes fresh black pepper
 
 ## Instructions
 
-[![](/images/IMG_5857.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn1Op0S_3oVcxzDbcaWRLyNZejngJMnbKRtjMo9l-o_1EnBZ_ltu-jFPBLcV0etM57NnIBnCSoZoPqVI3WdR3IajVTmIXsS03E3iTdXs7yk69B7s6x3l8nRpTWG6g5hFXujBNLy1I_wEp9/s640/IMG_5857.jpg)Precook veggies: Saute squash in oil, and add mushrooms after a few minutes. Remove and set aside in a bowl.
+[![](/images/IMG_5857.jpg)](/images/IMG_5857.jpg)Precook veggies: Saute squash in oil, and add mushrooms after a few minutes. Remove and set aside in a bowl.
 
 Saute the onions in oil with a pinch of salt until translucent, 4-5 minutes, over medium heat. Mix in the garlic and thyme and saute for 1 more minute.
 
@@ -57,9 +57,9 @@ Here it is with diced acorn squash, cremini mushroom, and and mango wine (the be
 
 and with zucchini and fancy mushrroms and white wine:
 
-[![](/images/IMG_5850.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtlmqoWySSSdOgc3jB3dy-Ke3soD6OQ8hwwo92PoCGU6d0WeQYtutbZmudvM8WXQSLYsTqqwh74B4Ihyn4QQ-8w5qTHNLdjiAvSdJsxisr9UFUrBldvXVgfUI-OeVe2IcKgSB9qZJuuG6/s640/IMG_5850.jpg)
+[![](/images/IMG_5850.jpg)](/images/IMG_5850.jpg)
 
-[![](/images/IMG_5851.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqjsURFeTL92glRdWSGOeiSa6UmKtBtiCXq8_aUzbifF3PIrEzILKDrmTR2LzSgDQIJmkdKvTSTn-WOLlDDRb59H7ODFK2lRAiscMIaGQbvI68m5MF3sxRXZiMcOL9CZOPg9gQW1RLQ18/s640/IMG_5851.jpg)
+[![](/images/IMG_5851.jpg)](/images/IMG_5851.jpg)
 
-[![](/images/IMG_5852.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRkh6zvDtgQLEUDr0v5zt4PoChMDEemW3UkcXyuQm6227vo1mGWMumXcfqkT42lEx8H_hWyi-SXtAtZ-Sc4LNRL0c7YigzkDcbJdJzlSLBIWFN_THM3vnizAIeXL6eS7ICvKFsDfxT-wdS/s640/IMG_5852.jpg)[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRkh6zvDtgQLEUDr0v5zt4PoChMDEemW3UkcXyuQm6227vo1mGWMumXcfqkT42lEx8H_hWyi-SXtAtZ-Sc4LNRL0c7YigzkDcbJdJzlSLBIWFN_THM3vnizAIeXL6eS7ICvKFsDfxT-wdS/s640/IMG_5852.jpg)
+[![](/images/IMG_5852.jpg)](/images/IMG_5852.jpg)[
+](/images/IMG_5852.jpg)

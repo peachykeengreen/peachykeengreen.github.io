@@ -36,10 +36,10 @@ With the motor running, add the vinegar and salt. Slowly drizzle in the olive oi
 
 The original also says: "Before serving, adjust the seasonings with salt and vinegar. If soup is very thick, stir in a few tablespoons ice water. A few drops of olive oil on top is a nice touch." That would be a good thing to try with the leftovers. We ate it too quickly this time.
 
-[![](/images/gazpacho.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj21Vq82hINQcAJu1y92v3vo4TiEYqZvD15_mgsIish2P0gyXw1aDesoBqTrYaa2VhoEuiILpJjQI0Indz8ZgXYtw9zdQPmhpoB1qLbk814dXIdqXkDITRGaSEhZL8_-erfy-hXsReux1rV/s1600/gazpacho.jpg)
+[![](/images/gazpacho.jpg)](/images/gazpacho.jpg)
 
 Fresh out of the blender - filled to the top with cut up veggies, about 2/3 full after emulsifying.
 
-[![](/images/20years.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa_8PvTVE3nBaCnXC7wONkII1tJkZR5hm7zfXJtpEOp3A3ofDptvMIVoU2AykctvW365IM_VpTO6cO7knABZ9FJoYpKjQTyXwHXsZrI3yH3QlZlTdWz4Blzr6wu0txiCJ5jrC4Y8n3oBA/s1600/20years.jpg)
+[![](/images/20years.jpg)](/images/20years.jpg)
 
 20th wedding anniversary -- whooooosh!

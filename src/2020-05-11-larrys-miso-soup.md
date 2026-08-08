@@ -35,6 +35,6 @@ Pour hot water in the bowls. Stir and serve!
 
 Larry says that in Japan, on often eats it by slurping from the side of the bowl, stirring as you slurp.
 
-[![](/images/IMG_5636.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgwbEFjhBlkShyphenhyphenpofjbBm-L4-GkmAC9_cEAajP5X-8vlDvOom-_UBwCuBPr3OD7o_vH3H3GEpfwCcvb9FPFwL9u2ZKlvWNcHjPUhl9bzq2nseILzALj4WhA_DN7_R-4TkUPo_owR4cwXad/)
+[![](/images/IMG_5636.jpg)](/images/IMG_5636.jpg)
 
-[![](/images/IMG_5631.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwlFAT8vFIzgCZ-U8Bmkk6tF5pGmfFAmHkbfOsUcM_xcOihzlrC3KkEaHVjly5eL9Vm6qYS-k3-EDeUPDukGFuA3Zx7j8GSA1Uie5WIedy1R79cIfYFHO4Jw0foZOTLNzKQEi0fl-90dFa/)
+[![](/images/IMG_5631.jpg)](/images/IMG_5631.jpg)

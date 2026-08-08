@@ -14,7 +14,7 @@ Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so
 
 ## Ingredients
 
-[![](/images/lemon-cake-2026-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgAwX1ulbG_cGw25w1wn7O602SGcEUHOJFvPS8-2j7-u9ZuqAXieB6-cw2jV9AwNP7FSgrXj-f5tq8cqVUFiIfXOxbEsvReSRvJo2No_qRS8iRdYVmWfvUIsiRvpawuvbideX_xdMvQVg0VK6cwlMv-3W2BY_ZwrBF_-wKC26Ax3COST1QLOChCtaNfkH7-)
+[![](/images/lemon-cake-2026-img-1.jpg)](/images/lemon-cake-2026-img-1.jpg)
 
 - Dry:
 - 2 2/3 C flour
@@ -36,7 +36,7 @@ Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so
 
 ## Instructions
 
-[![](/images/lemon-cake-2026-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEh2d7L64oRfx99WSkHwygGC7FLZqrF71g07oSNiNjQI9bmAwfZeYqY7vpgXk4WEiA2_V5KV7aLZVVtG-nzAQxuFkTfhcKEmy6_2Po9A2x2gaw8kfU8BJw8cjD9aBISQ589ZBJC5Nrd_GLCrMClR4Gbmio6T7jSAhxyWsxgZw82RXvx9Z0PiXcVgC-q03_wR)
+[![](/images/lemon-cake-2026-img-2.jpg)](/images/lemon-cake-2026-img-2.jpg)
 
 Zest lemons into olive oil and set aside.
 

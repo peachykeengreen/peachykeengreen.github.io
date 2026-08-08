@@ -37,4 +37,4 @@ In a soup pot, saute the onion, pepper, cumin seeds, and a little salt in oil fo
 
 When the instant pot beans are cooked, pour the whole lot (water and beans) into the pot. Add chopped greens and bring to a boil. Cook another 15 minutes or so, until the greens are soft. Serve!
 
-[![](/images/IMG_1445.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaYaZA6SB72LRauZHwoxjbyeOXgwRsy_esE7pskcXXr1iXzPlZO5hvPu8RYy-T1XFbacIzDj63y-6P_jtxIv_iK5yWopZUzlkNUcyVZw_eX2SQwcgJfG71dTb5eDJp8BfB51oXeEEJCE55/s1600/IMG_1445.jpg)
+[![](/images/IMG_1445.jpg)](/images/IMG_1445.jpg)

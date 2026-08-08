@@ -39,23 +39,21 @@ Saute the onions a few minutes; add garlic and other vegetables (except maybe sp
 
 Preparing the pizzas (at Munira's place):
 
-[![](/images/crispy-thin-pizza-pizza-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgOlK1PY95MHdkM9pwg_nZaMxWh9olwJfSlCnEuKO6gL3dldzmbJ_jO4p4yDeisH-k2QSUBoxQTPUPthCqKT_kCt6TW4NRMjH3aDFKe3GvZLDVkpcAjJYIj_DYGPvJtFRl0TzL9rNmEp2cmv7QIDfYmf6aIwHYv-RfZTW-pT5rE0nDjEIFuhsEqy47rqw)
+[![](/images/crispy-thin-pizza-pizza-img-2.jpg)](/images/crispy-thin-pizza-pizza-img-2.jpg)
 
-[![](/images/crispy-thin-pizza-pizza-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgOlK1PY95MHdkM9pwg_nZaMxWh9olwJfSlCnEuKO6gL3dldzmbJ_jO4p4yDeisH-k2QSUBoxQTPUPthCqKT_kCt6TW4NRMjH3aDFKe3GvZLDVkpcAjJYIj_DYGPvJtFRl0TzL9rNmEp2cmv7QIDfYmf6aIwHYv-RfZTW-pT5rE0nDjEIFuhsEqy47rqw)
+[![](/images/crispy-thin-pizza-pizza-img-3.jpg)](/images/crispy-thin-pizza-pizza-img-3.jpg)
 
 Even more tofu!
 
-[![](/images/crispy-thin-pizza-pizza-img-4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEh5BRZlazkfdR5MF_xFqtEdxEn0ithnqfnOBFtL1DcucLOusookxIQnnysSXZwUDDBff342vsL4sR0yITrlJtXyWQVjPPBagg3KwZCJsWvGEWd3EVT4PQKHaH6TciP8SIjT7EBAq3AZXug20L9fixsmbtMJeyMavG4RWl-so2lzKjoPqQ7HAVnArY-FxQ)
+[![](/images/crispy-thin-pizza-pizza-img-4.jpg)](/images/crispy-thin-pizza-pizza-img-4.jpg)
 
 [
-](https://blogger.googleusercontent.com/img/a/AVvXsEgOlK1PY95MHdkM9pwg_nZaMxWh9olwJfSlCnEuKO6gL3dldzmbJ_jO4p4yDeisH-k2QSUBoxQTPUPthCqKT_kCt6TW4NRMjH3aDFKe3GvZLDVkpcAjJYIj_DYGPvJtFRl0TzL9rNmEp2cmv7QIDfYmf6aIwHYv-RfZTW-pT5rE0nDjEIFuhsEqy47rqw)
+](/images/blogger_img_1fbad415cb.jpg)
 
 Photos below are from 2018 when we made pizza from a large whole grain crust from Trader Joes. TJ's doesn't carry it anymore, but we prefer these whole wheat pita pizzas now, anyway. They're just the right size, taste great, and fit easily in the freezer so they're available when we get the craving :)
 
-[![](/images/IMG_8857.JPG)
-
-    ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc03wkzdrGR34BhNsVYaRFDO6kPdpmbGs4ZJx4pZUWqe7ZZITOaKIm4ngJKq1SLqKoHjIMr8srWZ4EV7HwLpw3F9hw6l6ogQ0tv0E4IWK_RXDbFlXgip2Zq8242zs8yn5YXGhqozAAYXVv/s1600/IMG_8857.JPG)[![](/images/IMG_8855.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvDd4w9MtpE-SuOKhUQty0Ul1vuvEPVb3mnt75ViKjV4j3AsVr4syo2j0TckGr18wmJ6YBlobta2A7qDVkln1OC62D2lvyJzifts79hQVVirS95G3-fS1-H9weUqlDlu79d-N5360Hlz0/s1600/IMG_8855.JPG)
+[![](/images/IMG_8857.JPG)](/images/IMG_8857.JPG)[![](/images/IMG_8855.JPG)](/images/IMG_8855.JPG)
 
 [
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip89zVPT6qJRUWdw1Dwgao44LnTCE5eAwHwsioSCkEqiWHML2BBwDu1qOVu92nigIWvf4P0vnscKX4-rSdme8HtakOQtCt2s8fRq6cp05hY9YeSVG_eAKd5Ti04fksnWIM2RjYY3ll_uRK/s1600/whole-wheat-pita.jpg)
+](/images/whole-wheat-pita.jpg)

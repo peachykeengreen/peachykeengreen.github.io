@@ -14,7 +14,7 @@ Pat and Allen shared at least a dozen persimmons with us from their bountiful ha
 
 ## Ingredients
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuP-JjNEN9HfWhAwJNVEakwrF5ByPNZTu4fchsQE3rR9wituoycawQvG2LcHfBjHyqeatdqXhqhUWc10TmnRPkVzJsBjk5iKJTrIbzFJcsIIXkEGARhiCS4QB-DWwqBhtuJktq-0pMQYUQ/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuP-JjNEN9HfWhAwJNVEakwrF5ByPNZTu4fchsQE3rR9wituoycawQvG2LcHfBjHyqeatdqXhqhUWc10TmnRPkVzJsBjk5iKJTrIbzFJcsIIXkEGARhiCS4QB-DWwqBhtuJktq-0pMQYUQ/)
+[![](/images/blogger_img_dc4df7b72d.jpg)](/images/blogger_img_dc4df7b72d.jpg)
 - 1 tsp. baking soda
 - 2 T lukewarm water
 - 1 1/2 C persimmon puree
@@ -45,10 +45,10 @@ For small loaf pans (what I use): Cook at 350 degrees for 15 min.  325 degrees 
 
 Mixing it up:
 
-[![](/images/IMG_8223.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5fYngv-6JdhUaMGqwZ8zJuv7MBXMqMdcylf2sU4x23-jlDqdjmzxj-pZmTeWahorFhlXPJwIhKeL_oHgYcHdmsm8O4K1EgJ3O9twfTusUEaxB0wrephbvsTL0khZZ12oklw8KCGZxCob/)
+[![](/images/IMG_8223.jpg)](/images/IMG_8223.jpg)
 
-[![](/images/IMG_8224.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih5RdCYjEoBEx4tAmOTnJ2fqzjpdprSl5zA2-fjMnmIBD3QpoA7CZtxqdLvoMCKtGDw5eUvTAWMGjsQdS3a-qxx8nQpeWvLnSNT46wjCxgDmeaK_vAnCV0L48bUSRsMnz_TTTcdiesKkpI/)
+[![](/images/IMG_8224.jpg)](/images/IMG_8224.jpg)
 
 Just a few of Pat & Allen's persimmons (at their house, not ours :)
 
-[![](/images/IMG_4563.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTFNUyWizumXh1k8hBHclW5zTi81T66Fi-CJ7lsrL5jS1b352UXsLSKC53cG4cIs6mJcqIkSKF85TyiE7tdBhN56f-UXZXQ2iJlTPEhSqbHNfgR4C-XFWzCN4g0vG3dfjcZkbW7dx1Sqk/)
+[![](/images/IMG_4563.jpg)](/images/IMG_4563.jpg)

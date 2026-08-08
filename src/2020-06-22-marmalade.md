@@ -31,6 +31,6 @@ Bring the mixture back to a boil, reduce heat, and simmer uncovered for 2 hours.
 
 Spoon the marmalade into clean jars, wipe rims and seal. Chill in refrigerator. It may take a day or two for the natural pectin to set up properly. If refrigerating, use within a month (give it away to your friends and neighbors!), or freeze for 3 months.
 
-[![](/images/oranges.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5SnHVvrA0SDbu-wD1PJ_V-roxALARgf508Ukq5DVZlMUaC9mWrZoskmp5t2oBQ6FD_E1zDecTf9EZKYro5d3c5IY-qyrjDYvXR6omFpBp5v38PVKhmRY-d8zVc0yrY6L3QvLZDkaEzdA0/s640/oranges.jpg)[![](/images/marm.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicucedQmyBNLkq2VPPDWzB97Xm7ndplR_WIP8GLNy8Aj5Ln4_K_7ApLUHEMbSSKJhZ2nJvHZOHDgi2spk2xvnP-cf9EpbpI1suMalcTAfprEfZe2sdv_b0L4RHcocY74ZHXneW-9b125zr/s640/marm.jpg)
+[![](/images/oranges.jpg)](/images/oranges.jpg)[![](/images/marm.jpg)](/images/marm.jpg)
 
-[![](/images/IMG_5819.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxOJAcXmTG5XJSWPkbWXZLKyiQhxk8qXDlSzQPT_vJl0WNdWZdM6F41fbO-FbZjZ7mEBOnqyvczfBmQZyyeaC3MwBSP993Va8pTNVHIAz1X7qXxQ92dURKn9_8rV39KMIXgw4vVuwhDfow/s640/IMG_5819.jpg)
+[![](/images/IMG_5819.jpg)](/images/IMG_5819.jpg)

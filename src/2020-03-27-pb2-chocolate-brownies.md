@@ -39,4 +39,4 @@ Pour mixture into prepared pan and bake for 30 minutes. Set aside to cool, and t
 
 2022 update: These have been the best pandemic recipe yet: Easy, delicious, low/no fat, and high protein.  Munira loves them, so she got them for her birthday!
 
-[![](/images/pb2-chocolate-brownies-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgNPEiEAw5tTkn4btlwl4W-ca-GPCSaskLFqIUcgYKfjwyEPjqDw_XtuqAYfJ9CGmJiROddWqqVq9gk8tywpMGoze27xFUYovUmUsJmd51J7AWniuRduvO_Zzw1Jrx5y-inKLvG370KcPpD5WpQrBfS7q0hKNA0bG8XvvfYSlx64nAzN77nXNXe_0nXgw=s640)
+[![](/images/pb2-chocolate-brownies-img-1.jpg)](/images/pb2-chocolate-brownies-img-1.jpg)

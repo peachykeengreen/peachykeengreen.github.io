@@ -61,20 +61,20 @@ Place in pan, and **flip after 30 seconds or a minute, when you see bubbles star
 
 Photos, below.
 
- [![](/images/IMG_8951.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnlu-4KZeaJPX3ZWxwgCyafmkpfHK3TtSRDjG0FK6N2eGBIgkQOAwiqCCdypyA2Wi3x3-j-U2q_Y7gn4iitv8bFh1s2_5Y49aasApDTttBk7vwB7qPF1OyyN62wYIhindkGSRcHUbR9Hx/s1600/IMG_8951.JPG)[![](/images/IMG_8952.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivcsSypUgId7oFl23zCn1AwWp3sXEmwTnvWQ56EivN2V368j_ofHcdISHOB34SlzP0OeN6GuSVDSjX7ppum9_yt61QZw-UP-mFps9q_ftIEYWHPSSY6-IZ-7TP1DUg5cvf6jndnzZOmQ_i/s1600/IMG_8952.jpg)
+ [![](/images/IMG_8951.JPG)](/images/IMG_8951.JPG)[![](/images/IMG_8952.jpg)](/images/IMG_8952.jpg)
 
 After an hour, it doubled in size and I put it in the fridge, where it got a little bigger yet. Then that evening I took it out and made pita.
 
 Frying pita!
 
-[![](/images/frying.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYN4GZUDNluROJbU61McgdHSD6lQAe8qA4NgNOm-zF_IfTWNSOJKxWYZdUWJkfoDox1uvAOIOiHYxzGGRswKMExRWby4HcKoOF9_CitmZrlXvBF_Adgh-F9snje8HKSaPWfogwIFNbI7ao/s1600/frying.JPG)
+[![](/images/frying.JPG)](/images/frying.JPG)
 
 The greek meza of pizza, stewed okra, baked eggplant, yellow split pea (fava) hummus, greek yogurt made by Yannis, dolma, capers ,and olives (purchased).
 
-[![](/images/meza.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh78bXhbkdHcimEgj0a-e8AxyUqMoFVkICns2YifbsZHKEMD5K6bxwr2V9DEb5SiIFueKE_LjZRkku_UlzEze-TaHMQOhgAMOcZk255usr-iT8AHe8d_aT5ssiQs0zVT95CnnXUZeoq3J5c/s1600/meza.JPG)
+[![](/images/meza.JPG)](/images/meza.JPG)
 
-[![](/images/yannis.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWUP1xN6Hi1_QuksqkWGC5SgiHRsDaAp0qOYoCo-eSxLQeYIg5FKJTcS8GvKdm44RoDUJVeADLZoaN9l6w5FE_0cnFJLQ28TuRX67f-26MyIB-zpm_11GY14Oa5i-vV_1e92DoKlu4VpHv/s1600/yannis.jpg)
+[![](/images/yannis.jpg)](/images/yannis.jpg)
 
 I made empanadas from the leftover dough: Rolled it out like a pita, filled with some of the leftover stewed okra and eggplant, flipped and pressed with a fork.
 
-[![](/images/empanadas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPXPvpilvYXjyhEDj9MC4nvGPNQ53TInxTG2jJa81uFGD8cWKI0gqB6SheluOELusD5kdliImMFbobGkjZJAYKfRmeVvFhc-0Y4Jxy8pwfWn29YEmba-sHaajeMTq0VbC9Qp9_Te5R26Xs/s1600/empanadas.jpg)
+[![](/images/empanadas.jpg)](/images/empanadas.jpg)

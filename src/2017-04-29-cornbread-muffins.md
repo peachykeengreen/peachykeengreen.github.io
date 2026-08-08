@@ -44,7 +44,7 @@ Butter a 9x9 pan with vegan butter and pour in batter. Or if using muffin tins, 
 
 Bake for about 20 minutes. Yum!
 
-[![](/images/IMG_5809.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiINFml4c29shO388nbcmmDbxP_Z-_-PNghQ5O-rSOjAEuzKIR6sKQBYq93Go3tfBDgpdaTumbA1iYssiuxyWYRwwLlo5mY-ixrkwhQ_uZnRAFox-VCHp626IDD7S1_ed4B7kOMNTOidiQE/s1600/IMG_5809.JPG)
+[![](/images/IMG_5809.JPG)](/images/IMG_5809.JPG)
 
 Note that [these silicon loaves](https://www.amazon.com/Pantry-Elements-Rectangular-Silicone-Baking/dp/B00ZYE43AA/) are really tiny, like 2" x 3" -- about the size of a muffin. I thought they were bigger so I was bummed when they arrived, but now I think they are cute!
 
