@@ -50,6 +50,4 @@ Serve over tofu and garnish with garam masala. Goes well with roti or rice.
 
 [![](/images/IMG_2073.jpg)](/images/IMG_2073.jpg)
 
-[
-
-](/images/IMG_2072.JPG)
+[![](/images/IMG_2072.JPG)](/images/IMG_2072.JPG)

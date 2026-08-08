@@ -47,13 +47,10 @@ Even more tofu!
 
 [![](/images/crispy-thin-pizza-pizza-img-4.jpg)](/images/crispy-thin-pizza-pizza-img-4.jpg)
 
-[
-](/images/blogger_img_1fbad415cb.jpg)
+[![](/images/blogger_img_1fbad415cb.jpg)](/images/blogger_img_1fbad415cb.jpg)
 
 Photos below are from 2018 when we made pizza from a large whole grain crust from Trader Joes. TJ's doesn't carry it anymore, but we prefer these whole wheat pita pizzas now, anyway. They're just the right size, taste great, and fit easily in the freezer so they're available when we get the craving :)
 
 [![](/images/IMG_8857.JPG)](/images/IMG_8857.JPG)[![](/images/IMG_8855.JPG)](/images/IMG_8855.JPG)
 
-[
-
-](/images/whole-wheat-pita.jpg)
+[![](/images/whole-wheat-pita.jpg)](/images/whole-wheat-pita.jpg)

@@ -70,8 +70,8 @@ Making the cake (double recipe):
 
 [![](/images/IMG_9294.jpg)](/images/IMG_9294.jpg)
 
-[![](/images/IMG_5711+%2528480x640%2529.jpg)](/images/IMG_5711+%2528480x640%2529.jpg)
+[![](/images/IMG_5711%20(480x640).jpg)](/images/IMG_5711%20(480x640).jpg)
 
-[![](/images/IMG_5708+%2528640x480%2529.jpg)](/images/IMG_5708+%2528640x480%2529.jpg)
+[![](/images/IMG_5708%20(640x480).jpg)](/images/IMG_5708%20(640x480).jpg)
 
-[![](/images/IMG_5716+%2528480x640%2529.jpg)](/images/IMG_5716+%2528480x640%2529.jpg)
+[![](/images/IMG_5716%20(480x640).jpg)](/images/IMG_5716%20(480x640).jpg)
