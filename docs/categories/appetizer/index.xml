@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Appetizer on Peachy Keen Green</title>
-		<link>//localhost:8000/categories/appetizer/</link>
+		<link>/categories/appetizer/</link>
 		<description>Recent content in Appetizer on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,96 +12,96 @@
 		
 			<lastBuildDate>Fri, 27 Jan 2023 18:01:45 +0000</lastBuildDate>
 		
-			<atom:link href="//localhost:8000/categories/appetizer/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/categories/appetizer/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Japanese Spinach Salad (Gomae)</title>
-				<link>//localhost:8000/japanese-spinach-salad/</link>
+				<link>/japanese-spinach-salad/</link>
 				<pubDate>Fri, 03 Jul 2020 19:03:00 +0000</pubDate>
-				<guid>//localhost:8000/japanese-spinach-salad/</guid>
+				<guid>/japanese-spinach-salad/</guid>
 				<description>&lt;p&gt;Larry has fond memories of cold spinach salad in Japan. We compared several recipes, and did a mix of several (from &lt;a href=&#34;https://salu-salo.com/gomae-japanese-spinach-salad/&#34;&gt;salu salo&lt;/a&gt;, &lt;a href=&#34;https://www.finecooking.com/recipe/japanese-spinach-with-sesame-and-soy&#34;&gt;fine cooking&lt;/a&gt;, &lt;a href=&#34;https://iheartumami.com/gomaae-japanese-spinach/&#34;&gt;iheartumami&lt;/a&gt;,  and &lt;a href=&#34;https://www.bonappetit.com/recipe/easy-gomae-japanese-style-spinach-salad&#34;&gt;bon appetit&lt;/a&gt; - seriously, you used frozen spinach?). Serve with &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/05/larrys-miso-soup.html&#34;&gt;Larry&amp;rsquo;s miso soup&lt;/a&gt; and TJ&amp;rsquo;s yakisoba! Note that I originally tried 3 T sesame seeds, 3 T soy sauce, 1.5 T rice vinegar, and a little sesame oil, but the dressing was too strong. Then I reduced it 2/3 (2 T sesame, 2T soy, etc.) and it was still too strong for us. The following pares it back even more because we like it mild so the spinach taste comes across; increase if you like it stronger.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Viki&#39;s Carrot Greens Chimichurri</title>
-				<link>//localhost:8000/vikis-carrot-greens-chimichurri/</link>
+				<link>/vikis-carrot-greens-chimichurri/</link>
 				<pubDate>Tue, 30 Jun 2020 05:45:00 +0000</pubDate>
-				<guid>//localhost:8000/vikis-carrot-greens-chimichurri/</guid>
+				<guid>/vikis-carrot-greens-chimichurri/</guid>
 				<description>&lt;p&gt;Viki brought her adaptation of a &lt;a href=&#34;https://www.loveandlemons.com/carrot-greens-chimichurri/&#34;&gt;carrot-top chimichurri&lt;/a&gt; to our outdoor distance gathering, and I fell in love with it! The tang and garlic are amazing on bread, or as a salad dressing (see Viki&amp;rsquo;s salad, below). I made a pesto with carrot tops a couple of months ago and it was meh&amp;hellip; After that, I just ended up throwing carrot tops in soup (it was great in &lt;a href=&#34;https://peachykeengreen.blogspot.com/2017/03/split-pea-soup.html&#34;&gt;split pea soup)&lt;/a&gt;. But next time I get farmer&amp;rsquo;s market carrots, I&amp;rsquo;m definitely making this!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Dried Figs</title>
-				<link>//localhost:8000/dried-figs/</link>
+				<link>/dried-figs/</link>
 				<pubDate>Sat, 28 Sep 2019 17:10:00 +0000</pubDate>
-				<guid>//localhost:8000/dried-figs/</guid>
+				<guid>/dried-figs/</guid>
 				<description>&lt;p&gt;Figs! We have so many figs. Larry is picking a dozen a day, scrambling onto the roof to get half of them from the top of the tree. During an afternoon get-together, Shuchi tells us that she gets a lot of different fruits off her trees and dries them &amp;ndash; the sugar concentrates, and they taste like candy! She keeps them in jars on her counter and they snack on them for days. So we bought a &lt;a href=&#34;https://www.macys.com/shop/product/cuisinart-dhr-20-food-dehydrator?ID=8299131&#34;&gt;Cuisinart dehydrator&lt;/a&gt; and tried it out with some figs and pears and other fruits. Figs are pretty juicy and took a lot longer to dry than the others, so we decided they were better when cut into smaller sizes, and perhaps dried by themselves - or if you do other fruits, just check the others earlier.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Buffalo Cauliflower</title>
-				<link>//localhost:8000/buffalo-cauliflower/</link>
+				<link>/buffalo-cauliflower/</link>
 				<pubDate>Sat, 21 Sep 2019 05:58:00 +0000</pubDate>
-				<guid>//localhost:8000/buffalo-cauliflower/</guid>
+				<guid>/buffalo-cauliflower/</guid>
 				<description>&lt;p&gt;We&amp;rsquo;ve had some really good buffalo cauliflower at &lt;a href=&#34;https://vegenationlv.com/&#34;&gt;Vegenation&lt;/a&gt; in Las Vegas, and I finally got around to trying to make it. It was tasty! Here&amp;rsquo;s what a did - which is a combination of a recipe in &lt;a href=&#34;https://www.amazon.com/Hot-Food-Vegan-Comfort-Classics-ebook/dp/B071PCM3Q3&#34;&gt;Vegan Comfort Classics&lt;/a&gt; and some recipes I found on the web, like &lt;a href=&#34;https://tasty.co/recipe/buffalo-cauliflower&#34;&gt;this one that has a nice video&lt;/a&gt;. Yum!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Mango Guacamole</title>
-				<link>//localhost:8000/mango-guacamole/</link>
+				<link>/mango-guacamole/</link>
 				<pubDate>Thu, 08 Aug 2019 03:42:00 +0000</pubDate>
-				<guid>//localhost:8000/mango-guacamole/</guid>
+				<guid>/mango-guacamole/</guid>
 				<description>&lt;p&gt;Shelley made this mango guacamole and served it with pita chips and sliced jicama. Delish!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 large avocados, peeled and pitted&lt;/li&gt;&#xA;&lt;li&gt;1 small red onion, chopped&lt;/li&gt;&#xA;&lt;li&gt;1 mango - peeled, pitted, and chopped&lt;/li&gt;&#xA;&lt;li&gt;1 lime, juiced&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon minced garlic&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon salt&lt;/li&gt;&#xA;&lt;li&gt;3 tablespoons chopped fresh cilantro&lt;/li&gt;&#xA;&lt;li&gt;For serving:&lt;/li&gt;&#xA;&lt;li&gt;pita chips&lt;/li&gt;&#xA;&lt;li&gt;sliced jicama&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Mash avocados in a medium bowl to a lumpy consistency. Mix onion, mango, lime juice, garlic, salt, and cilantro into avocado.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Cilantro Mint Chutney</title>
-				<link>//localhost:8000/green-chutney/</link>
+				<link>/green-chutney/</link>
 				<pubDate>Sun, 19 May 2019 18:40:00 +0000</pubDate>
-				<guid>//localhost:8000/green-chutney/</guid>
+				<guid>/green-chutney/</guid>
 				<description>&lt;p&gt;Munira gave us some delicious homemade hot green chutney. I tried to replicate it - with success: even Munira and Vinod liked it! This is adapted from a video Munira shared for this r&lt;a href=&#34;https://www.youtube.com/watch?v=Ef8IV-jmnRQ&#34;&gt;ecipe for Green Chutney (Mind &amp;amp; Coriander)&lt;/a&gt; and also Neelam Batra&amp;rsquo;s The Indian Vegetarian cookbook. Most of the ingredients came from our garden, which was extra fun. Serve with samosas, on veggie burgers or sandwiches like &lt;a href=&#34;http://peachykeengreen.blogspot.com/2019/05/pav-bhaji-and-muniras-secrets.html&#34;&gt;Pav Bhaji&lt;/a&gt; (but that might make it too hot to eat!).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Breaded Tofu Appetizer</title>
-				<link>//localhost:8000/breaded-tofu-appetizer/</link>
+				<link>/breaded-tofu-appetizer/</link>
 				<pubDate>Mon, 04 Mar 2019 22:41:00 +0000</pubDate>
-				<guid>//localhost:8000/breaded-tofu-appetizer/</guid>
+				<guid>/breaded-tofu-appetizer/</guid>
 				<description>&lt;p&gt;Another hit from Cyndy. She got this recipe in a vegan cooking class. The instructor said this was meant to be a kind of &amp;ldquo;fake chicken.&amp;rdquo; It didn&amp;rsquo;t really taste chickeny to us, but it was delish - not a bite left.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Shuchi&#39;s Salsa Verde</title>
-				<link>//localhost:8000/shuchis-salsa-verde/</link>
+				<link>/shuchis-salsa-verde/</link>
 				<pubDate>Tue, 24 May 2016 20:19:00 +0000</pubDate>
-				<guid>//localhost:8000/shuchis-salsa-verde/</guid>
+				<guid>/shuchis-salsa-verde/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://www.sri.com/about/people/shuchi-grover&#34;&gt;Shuchi&lt;/a&gt; made this delicious &lt;a href=&#34;http://cookmeyum.blogspot.com/2016/05/2-min-salsa-verde-recipe.html&#34;&gt;salsa&lt;/a&gt; for a pool party last weekend. It&amp;rsquo;s fantastic and super easy to make. This one will become a pool party staple!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 bunch green (spring) onions (3-4 with green stems/leaves)&lt;/li&gt;&#xA;&lt;li&gt;2-3 tomatoes, sliced&lt;/li&gt;&#xA;&lt;li&gt;cilantro - 1 cup (or 1 small bunch)&lt;/li&gt;&#xA;&lt;li&gt;1 lime&lt;/li&gt;&#xA;&lt;li&gt;Tortilla chips (for serving) - I like the white chips at Trader Joes that have the aztec symbol&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Add green onions, tomatoes, and cilantro in a food processor. Pulse for a few minutes till finely chopped. Add salt and squeeze lime. Serve with chips!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Beet Hummus</title>
-				<link>//localhost:8000/beet-hummus/</link>
+				<link>/beet-hummus/</link>
 				<pubDate>Tue, 28 Jul 2015 17:13:00 +0000</pubDate>
-				<guid>//localhost:8000/beet-hummus/</guid>
+				<guid>/beet-hummus/</guid>
 				<description>&lt;p&gt;Mark brought &lt;a href=&#34;http://www.traderjoes.com/digin/post/beet-hummus&#34;&gt;Trader Joes Beet Hummus&lt;/a&gt; to our pool party this weekend, and we loved it! I had 3 huge (potato-sized) fresh beets from &lt;a href=&#34;https://farmstand.me/&#34;&gt;Farmdoor&lt;/a&gt; in my fridge, so I decided to give it a try. I cut up one of the big beets, microwaved it for 6 minutes, and added it to &lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/02/hummus-with-various-flavors.html&#34;&gt;my regular hummus recipe&lt;/a&gt;. Yum! It&amp;rsquo;s delicious, and very slightly sweet from the beet. The Trader Joes version lists balsamic vinegar in the ingredients, and we tried adding a little to a bit on the side, but didn&amp;rsquo;t like it so much. It has a whole lemon, and I think that&amp;rsquo;s enough acidic punch.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Roasted Spiced Chickpeas</title>
-				<link>//localhost:8000/roasted-spiced-chickpeas/</link>
+				<link>/roasted-spiced-chickpeas/</link>
 				<pubDate>Fri, 03 Jul 2015 04:20:00 +0000</pubDate>
-				<guid>//localhost:8000/roasted-spiced-chickpeas/</guid>
+				<guid>/roasted-spiced-chickpeas/</guid>
 				<description>&lt;p&gt;I found a nice cucumber salad from &lt;a href=&#34;http://ohsheglows.com/2013/06/05/thai-inspired-hydrating-cucumber-salad-with-roasted-spiced-chickpeas/&#34;&gt;Oh She Glows&lt;/a&gt; that included these roasted spiced chickpeas as a topping. We mostly just ate them as a snack - really good!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 (15-oz) can chickpeas&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon olive oil&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon fine grain sea salt&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon garlic powder&lt;/li&gt;&#xA;&lt;li&gt;1/4 teaspoon chili powder&lt;/li&gt;&#xA;&lt;li&gt;1/4 teaspoon ground ginger&lt;/li&gt;&#xA;&lt;li&gt;1/4 teaspoon cumin&lt;/li&gt;&#xA;&lt;li&gt;1/8 teaspoon ground turmeric&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Preheat oven to 400F and line a medium baking sheet with a couple pieces of paper towel.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fresh Bruschetta and Toast</title>
-				<link>//localhost:8000/fresh-bruschetta-and-toast/</link>
+				<link>/fresh-bruschetta-and-toast/</link>
 				<pubDate>Sun, 22 Feb 2015 22:44:00 +0000</pubDate>
-				<guid>//localhost:8000/fresh-bruschetta-and-toast/</guid>
+				<guid>/fresh-bruschetta-and-toast/</guid>
 				<description>&lt;p&gt;An easy appetizer that is delish!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;6 tomatoes&lt;/li&gt;&#xA;&lt;li&gt;3 cloves garlic&lt;/li&gt;&#xA;&lt;li&gt;1/2 cup fresh basil&lt;/li&gt;&#xA;&lt;li&gt;1T olive oil&lt;/li&gt;&#xA;&lt;li&gt;salt to taste&lt;/li&gt;&#xA;&lt;li&gt;baguette (french or sourdough)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Dice the tomatoes and garlic, and chop the basil. Toss together with olive oil and a little salt to taste.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Tunisian Eggplant Appetizer</title>
-				<link>//localhost:8000/tunisian-eggplant-appetizer/</link>
+				<link>/tunisian-eggplant-appetizer/</link>
 				<pubDate>Sat, 21 Feb 2015 00:36:00 +0000</pubDate>
-				<guid>//localhost:8000/tunisian-eggplant-appetizer/</guid>
+				<guid>/tunisian-eggplant-appetizer/</guid>
 				<description>&lt;p&gt;This is a South Mediterranean version of caponata, the famous Italian eggplant salad. I often double the recipe if we make it for a party, so we have leftovers at home.Thanks to Christine for the delicious recipe. Serve with pita bread (whole wheat, lightly toasted if desired) or pita chips or baguette.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hummus</title>
-				<link>//localhost:8000/hummus-with-various-flavors/</link>
+				<link>/hummus-with-various-flavors/</link>
 				<pubDate>Sun, 08 Feb 2015 21:43:00 +0000</pubDate>
-				<guid>//localhost:8000/hummus-with-various-flavors/</guid>
+				<guid>/hummus-with-various-flavors/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx_jsksBMgSNG9kMjF4k0UNmvvMEG0E4cFJwgorThuHy3Vjas352Jec2h2mym4_ACCJ1C0xVmw7DFEk3TWdm-MVezPvwPSvXGkfcpM3sJIV7TLudHkCA02vRrEQ6w0TCzFijd1BrI3BVIF/s1600/hummus.jpg&#34;&gt;**&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a thick, yummy homemade hummus slightly adapted from &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2012/12/garbanzo-bean-hummus.html&#34;&gt;Judi&amp;rsquo;s hummus.&lt;/a&gt; For the two of us, I halve her recipe, don&amp;rsquo;t use as much salt, and don&amp;rsquo;t use any olive oil (it doesn&amp;rsquo;t need it). Serve with pita chips or sourdough baguette. Eat it up in a day or two while it&amp;rsquo;s still fresh!&lt;/p&gt;</description>
 			</item>
 	</channel>

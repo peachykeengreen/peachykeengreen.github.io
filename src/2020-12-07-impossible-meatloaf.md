@@ -6,7 +6,7 @@ lastmod: "2021-01-03T17:34:20.049Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2020/12/impossible-meatloaf.html"]
-featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVkQs97kihYgzbENj68ZFxDDjrbRqPbIvTti_0JiQAraEeDNIuKrS_od1R0CPt1kBnq5SWXnTFmgVp6HDomD7Lm0stdxmbHx_THJ5wxHLCNiDKOpqH-hqgsWnNndIS4J7SyRq3YBPX1yZJ/"
+featured_image: "/images/impossible-meatloaf-img-1.jpg"
 description: "Impossible Meatloaf recipe."
 ---
 

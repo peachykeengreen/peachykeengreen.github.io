@@ -6,7 +6,7 @@ lastmod: "2020-12-08T20:34:02.925Z"
 draft: false
 categories: ["Bread"]
 aliases: ["/2020/12/persimmon-bread.html"]
-featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuP-JjNEN9HfWhAwJNVEakwrF5ByPNZTu4fchsQE3rR9wituoycawQvG2LcHfBjHyqeatdqXhqhUWc10TmnRPkVzJsBjk5iKJTrIbzFJcsIIXkEGARhiCS4QB-DWwqBhtuJktq-0pMQYUQ/"
+featured_image: "/images/persimmon-bread-img-1.jpg"
 description: "Persimmon Bread recipe."
 ---
 

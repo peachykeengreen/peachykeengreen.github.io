@@ -6,7 +6,7 @@ lastmod: "2021-05-19T03:05:35.387Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2020/06/white-wine-risotto-with-mushrooms-and.html"]
-featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N_fTQssg6rECJ3pZ6Natya0ycjnrKsfLjV8yJ6FKoGizOR_JzeIb7tbFZuqSBY5THLkGODrxDJrPH0zlwPCl9Ip4IDVbgIoTdz1PXs1cOY2hqx1YVpHlRwnndyXMZK9rtA05_rhAn8BR/"
+featured_image: "/images/white-wine-risotto-with-mushrooms-and-img-1.jpg"
 description: "Risotto with Mushrooms and Squash recipe."
 ---
 
