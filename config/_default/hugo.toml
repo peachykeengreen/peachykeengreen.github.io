@@ -28,7 +28,12 @@ target = "layouts"
   author = "Patricia Schank"
   copyrightStartYear = "2015"
 
+[outputFormats.RECIPESJS]
+  mediaType = "text/javascript"
+  baseName = "recipes"
+  isPlainText = true
+
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "RECIPESJS"]
 
 

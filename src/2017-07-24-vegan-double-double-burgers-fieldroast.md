@@ -6,11 +6,13 @@ lastmod: "2025-07-04T03:43:38.768Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2017/07/vegan-double-double-burgers-fieldroast.html"]
-featured_image: ""
+featured_image: "/images/vegan-double-double-burgers-fieldroast-thumb.jpg"
 description: "Vegan Double-Double Burgers & Field Roast Sausages recipe."
 ---
 
 Judi reminded me that we made these burgers with special sauce from [Chloe's Kitchen](https://www.amazon.com/Chloes-Kitchen-Delicious-Recipes-Making/dp/1451636741) recipes a couple of years ago and they were yummy. So I decided to make them for a summer BBQ this year. They were great! They are my favorite burgers now (with the sauce, they are amazing), although Larry likes the [black bean carrot burgers](http://peachykeengreen.blogspot.com/search/label/bbq) a little more.  I also sautéed red & yellow pepper and a red onion, with a little garlic, to top of Italian Field Roast sausages. Oh my, that made them so much better. Got that idea from Judi & Nick, and the video, below, of Chloe & Roberto making Vegan Double-Double Burgers and Field Roast Sausage w/Peppers & Onion:
+
+{{< youtube rytcO1hD1aM >}}
 
 I used tempeh (as in Chloe's book's recipe) and lentils from Trader Joes that were slightly spiced (in vacuum packaging, sold in produce area). Makes 8-10 single burgers.
 

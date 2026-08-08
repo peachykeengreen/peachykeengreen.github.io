@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="/css/pico.min.css">
   <link rel="stylesheet" href="/css/styles.css?v={{ .Site.Params.version | default "1.0.0" }}">
   <script defer src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
+  <script defer src="/recipes.js"></script>
   {{ partial "schema-recipe.html" . }}
 </head>
 <body>
@@ -24,18 +25,6 @@
   {{ partial "footer.html" . }}
 
   <script>
-    window.allSiteRecipes = [
-      {{ range $i, $e := .Site.RegularPages }}{{ if $i }},{{ end }}"{{ $e.RelPermalink }}"{{ end }}
-    ];
-
-    function pickRandomSiteRecipe(e) {
-      if (e) e.preventDefault();
-      if (window.allSiteRecipes && window.allSiteRecipes.length > 0) {
-        const randomIndex = Math.floor(Math.random() * window.allSiteRecipes.length);
-        window.location.href = window.allSiteRecipes[randomIndex];
-      }
-    }
-
     document.addEventListener("DOMContentLoaded", function() {
       const searchForm = document.getElementById("headerSearchForm");
       const searchInput = document.getElementById("headerSearchInput");
