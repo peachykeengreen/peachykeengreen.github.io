@@ -32,7 +32,19 @@
 
     {{- with $.Params.featured_image -}}
     <div class="recipe-single-featured-wrapper">
+      {{- if $.Params.youtube_id -}}
+      <div class="video-play-wrapper" onclick="playRecipeVideo('{{ $.Params.youtube_id }}', this)" title="Click to Play Video">
+        <img src="{{ . }}" alt="{{ $.Title }}" class="recipe-single-featured-img" />
+        <div class="play-button-overlay" aria-label="Play Video">
+          <svg viewBox="0 0 68 48" width="68" height="48">
+            <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,0.1,34,0,34,0S12.21,0.1,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.9,34,48,34,48s21.79-0.1,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#FF0000" opacity="0.9"></path>
+            <path d="M 45,24 27,14 27,34" fill="#FFFFFF"></path>
+          </svg>
+        </div>
+      </div>
+      {{- else -}}
       <img src="{{ . }}" alt="{{ $.Title }}" class="recipe-single-featured-img" />
+      {{- end -}}
     </div>
     {{- end -}}
 
@@ -42,7 +54,19 @@
   {{- else -}}
     {{- with $.Params.featured_image -}}
     <div class="recipe-single-featured-wrapper">
+      {{- if $.Params.youtube_id -}}
+      <div class="video-play-wrapper" onclick="playRecipeVideo('{{ $.Params.youtube_id }}', this)" title="Click to Play Video">
+        <img src="{{ . }}" alt="{{ $.Title }}" class="recipe-single-featured-img" />
+        <div class="play-button-overlay" aria-label="Play Video">
+          <svg viewBox="0 0 68 48" width="68" height="48">
+            <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,0.1,34,0,34,0S12.21,0.1,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.9,34,48,34,48s21.79-0.1,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#FF0000" opacity="0.9"></path>
+            <path d="M 45,24 27,14 27,34" fill="#FFFFFF"></path>
+          </svg>
+        </div>
+      </div>
+      {{- else -}}
       <img src="{{ . }}" alt="{{ $.Title }}" class="recipe-single-featured-img" />
+      {{- end -}}
     </div>
     {{- end -}}
 
@@ -51,4 +75,16 @@
     </div>
   {{- end -}}
 </article>
+
+{{ if .Params.youtube_id }}
+<script>
+  function playRecipeVideo(youtubeId, wrapper) {
+    if (!youtubeId || !wrapper) return;
+    const container = document.createElement('div');
+    container.className = 'video-embed-container';
+    container.innerHTML = `<iframe src="https://www.youtube.com/embed/${youtubeId}?autoplay=1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube video"></iframe>`;
+    wrapper.parentNode.replaceChild(container, wrapper);
+  }
+</script>
+{{ end }}
 {{ end }}

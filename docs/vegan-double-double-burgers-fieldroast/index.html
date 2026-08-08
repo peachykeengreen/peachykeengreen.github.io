@@ -10,7 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Damion&display=swap" rel="stylesheet">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="stylesheet" href="/css/pico.min.css">
-  <link rel="stylesheet" href="/css/styles.css?v=1.0.7">
+  <link rel="stylesheet" href="/css/styles.css?v=1.0.8">
   <script defer src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
   <script defer src="/recipes.js"></script>
   <script type="application/ld+json">
@@ -85,15 +85,17 @@
     </div>
   </div><div class="content recipe-intro">
         <p>Judi reminded me that we made these burgers with special sauce from <a href="https://www.amazon.com/Chloes-Kitchen-Delicious-Recipes-Making/dp/1451636741">Chloe&rsquo;s Kitchen</a> recipes a couple of years ago and they were yummy. So I decided to make them for a summer BBQ this year. They were great! They are my favorite burgers now (with the sauce, they are amazing), although Larry likes the <a href="http://peachykeengreen.blogspot.com/search/label/bbq">black bean carrot burgers</a> a little more.  I also sautéed red &amp; yellow pepper and a red onion, with a little garlic, to top of Italian Field Roast sausages. Oh my, that made them so much better. Got that idea from Judi &amp; Nick, and the video, below, of Chloe &amp; Roberto making Vegan Double-Double Burgers and Field Roast Sausage w/Peppers &amp; Onion:</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rytcO1hD1aM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-		</div>
-
 <p>I used tempeh (as in Chloe&rsquo;s book&rsquo;s recipe) and lentils from Trader Joes that were slightly spiced (in vacuum packaging, sold in produce area). Makes 8-10 single burgers.</p>
 
-      </div><div class="recipe-single-featured-wrapper">
-      <img src="/images/vegan-double-double-burgers-fieldroast-thumb.jpg" alt="Vegan Double-Double Burgers &amp; Field Roast Sausages" class="recipe-single-featured-img" />
-    </div><div class="content recipe-body">
+      </div><div class="recipe-single-featured-wrapper"><div class="video-play-wrapper" onclick="playRecipeVideo('rytcO1hD1aM', this)" title="Click to Play Video">
+        <img src="/images/vegan-double-double-burgers-fieldroast-thumb.jpg" alt="Vegan Double-Double Burgers &amp; Field Roast Sausages" class="recipe-single-featured-img" />
+        <div class="play-button-overlay" aria-label="Play Video">
+          <svg viewBox="0 0 68 48" width="68" height="48">
+            <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,0.1,34,0,34,0S12.21,0.1,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.9,34,48,34,48s21.79-0.1,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#FF0000" opacity="0.9"></path>
+            <path d="M 45,24 27,14 27,34" fill="#FFFFFF"></path>
+          </svg>
+        </div>
+      </div></div><div class="content recipe-body">
       <h2 id="ingredients">Ingredients</h2>
 <ul>
 <li>2 T canola oil</li>
@@ -124,6 +126,18 @@
 <p>Serve burgers with lettuce, tomato, red onion, and special sauce. Yum!</p>
 
     </div></article>
+
+
+<script>
+  function playRecipeVideo(youtubeId, wrapper) {
+    if (!youtubeId || !wrapper) return;
+    const container = document.createElement('div');
+    container.className = 'video-embed-container';
+    container.innerHTML = `<iframe src="https://www.youtube.com/embed/${youtubeId}?autoplay=1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube video"></iframe>`;
+    wrapper.parentNode.replaceChild(container, wrapper);
+  }
+</script>
+
 
   </main>
 
