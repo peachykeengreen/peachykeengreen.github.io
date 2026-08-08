@@ -1,6 +1,6 @@
 <footer>
   <div class="container">
-    <p>&copy; {{ now.Format "2006" }} Peachy Keen Green</p>
+    <p>&copy; {{ .Site.Params.copyrightStartYear | default "2015" }}-{{ now.Format "2006" }}, {{ .Site.Params.author | default "Patricia Schank" }}</p>
     <p>Check out my <a href="https://schank-farm.github.io/">farm blog</a></p>
     <p>Want a notification of new posts? Subscribe through <a href="https://feedly.com/">feedly.com</a></p>
   </div>

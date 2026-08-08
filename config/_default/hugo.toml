@@ -25,6 +25,8 @@ target = "layouts"
 
 [params]
   version = "1.0.7"
+  author = "Patricia Schank"
+  copyrightStartYear = "2015"
 
 [outputs]
   home = ["HTML", "JSON"]
