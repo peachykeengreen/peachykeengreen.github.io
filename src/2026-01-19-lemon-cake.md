@@ -14,8 +14,6 @@ Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so
 
 ## Ingredients
 
-[![](/images/lemon-cake-2026-img-1.jpg)](/images/lemon-cake-2026-img-1.jpg)
-
 - Dry:
 - 2 2/3 C flour
 - 1 1/2 C sugar
