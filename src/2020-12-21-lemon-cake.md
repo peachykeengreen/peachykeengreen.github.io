@@ -5,9 +5,8 @@ date: "2020-12-21T03:53:00.020Z"
 lastmod: "2021-02-13T22:23:35.325Z"
 draft: false
 categories: ["Bread", "Dessert"]
-tags: ["Bread", "Dessert"]
 aliases: ["/2020/12/lemon-cake.html"]
-featured_image: "/images/IMG_8289.jpg"
+featured_image: "/images/lemon-cake-2020-img-1.jpg"
 description: "Lemon Cake or Bread recipe."
 ---
 
@@ -16,6 +15,8 @@ It's lemon season! When the frost comes they go bad, so Larry is bringing in sco
 It's yummy without any frosting, just as a lemon bread -- which is probably how I'll use this recipe in the future
 
 ## Ingredients
+
+[![](/images/lemon-cake-2020-img-1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIfYsLEHxh-4Ac0BAitpswLfbI5RjmenexGekQH31ClRj4zBU1C0TQJtbwi8MzWNMDNTXDfPRu1zfdHE-ivmUgwmt5XNS8AJscEcBjhBehcA-l771DajqiNz0IoGmmQXmbgZvHsHs6Hnhj/)
 
 - Dry:
 - 1 C + 1 T whole-wheat flour
@@ -68,6 +69,4 @@ Earlier powdered sugar frosting version below. Beautiful, but a little too sweet
 
 [![](/images/IMG_8297.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDji1NfMfuh6y8Dp5KmBDrJiesbB2DcG1PjsA3AcUeywysF2PAFw4Bfze389bN7V45OoFgOaRuYmM_rxV3SzDAkKIDedSxpHicyt2pKWflLdFfeyWKtX52_EaSHHOC1DIs4jajPx0OmcUu/)
 
-[![](/images/IMG_8302.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbLr0jT_vNmGw3Sxa9jHUn1DGsi6udXFV4zCqqjiJ6kewCwaOhalg_RaFEgyoFsAjULaS70weuvLNttvGLrEwLsQxeJUbEhh8WA3qKk75Yyf41mVJ4cND8wNcjwil6ivktTaCIxCLf3FMc/)
+[![](/images/IMG_8302.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbLr0jT_vNmGw3Sxa9jHUn1DGsi6udXFV4zCqqjiJ6kewCwaOhalg_RaFEgyoFsAjULaS70weuvLNttvGLrEwLsQxeJUbEhh8WA3qKk75Yyf41mVJ4cND8wNcjwil6ivktTaCIxCLf3FMc/)
