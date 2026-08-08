@@ -1,4 +1,4 @@
-{{- if .IsPage -}}
+{{- if and .IsPage (ne .Slug "about") (ne .Slug "sources") -}}
 {{- $img := "" -}}
 {{- with .Params.featured_image -}}
   {{- $img = . | absURL -}}
