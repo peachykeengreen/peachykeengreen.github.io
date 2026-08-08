@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Salad on Peachy Keen Green</title>
-		<link>/categories/salad/</link>
+		<link>//localhost:8000/categories/salad/</link>
 		<description>Recent content in Salad on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,110 +12,110 @@
 		
 			<lastBuildDate>Thu, 14 Aug 2025 17:05:34 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/salad/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:8000/categories/salad/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Cranberry Walnut Chickpea Salad</title>
-				<link>/cranberry-walnut-chickpea-salad/</link>
+				<link>//localhost:8000/cranberry-walnut-chickpea-salad/</link>
 				<pubDate>Thu, 14 Aug 2025 17:04:00 +0000</pubDate>
-				<guid>/cranberry-walnut-chickpea-salad/</guid>
+				<guid>//localhost:8000/cranberry-walnut-chickpea-salad/</guid>
 				<description>&lt;p&gt;Cyndy made this salad for us during a visit. It has a great mix of sweetness, heartiness, and crunch. Beautiful and delicious!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 can drained chickpeas&lt;/li&gt;&#xA;&lt;li&gt;1 C fresh spinach, chopped into ribbons&lt;/li&gt;&#xA;&lt;li&gt;1/2 C dried cranberries&lt;/li&gt;&#xA;&lt;li&gt;1/2 C walnuts, finely chopped&lt;/li&gt;&#xA;&lt;li&gt;1/2 C red onion, very thinly sliced&lt;/li&gt;&#xA;&lt;li&gt;Vinaigrette:&lt;/li&gt;&#xA;&lt;li&gt;1/4 C olive oil&lt;/li&gt;&#xA;&lt;li&gt;1/3 C orange juice&lt;/li&gt;&#xA;&lt;li&gt;1 1/2 T maple syrup&lt;/li&gt;&#xA;&lt;li&gt;pepper to taste&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Put all but vinaigrette in bowl. Mix vinaigrette, and then mix everything together. Let sit in the fridge or on the counter for at least 15 minutes before serving.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Cauliflower Walnut Apple Salad</title>
-				<link>/cauliflower-walnut-apple-salad/</link>
+				<link>//localhost:8000/cauliflower-walnut-apple-salad/</link>
 				<pubDate>Sun, 28 May 2023 16:53:00 +0000</pubDate>
-				<guid>/cauliflower-walnut-apple-salad/</guid>
+				<guid>//localhost:8000/cauliflower-walnut-apple-salad/</guid>
 				<description>&lt;p&gt;Marina shared a recipe for &lt;a href=&#34;https://cooking.nytimes.com/recipes/1024043-cauliflower-salad-sandwiches&#34;&gt;Cauliflower Salad Sandwiches&lt;/a&gt; from the New York Times; delicious! If you make sandwiches, a roll handy to keep everything in place, since it&amp;rsquo;s a bit chunky. Alternately,  serve on top of a lettuce salad (yum!), or as a side salad by itself.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Roasted Beet Quinoa Salad</title>
-				<link>/beet-quinoa-salad/</link>
+				<link>//localhost:8000/beet-quinoa-salad/</link>
 				<pubDate>Thu, 01 Dec 2022 22:22:00 +0000</pubDate>
-				<guid>/beet-quinoa-salad/</guid>
+				<guid>//localhost:8000/beet-quinoa-salad/</guid>
 				<description>&lt;p&gt;Cyndy made this delish salad for us when we visited a few days ago, along with her &lt;a href=&#34;https://peachykeengreen.blogspot.com/2016/11/wild-rice-salad-with-apples-and-walnuts.html&#34;&gt;wild rice salad&lt;/a&gt;. This recipe is super fast if you buy pre-cooked beats, which we get at Trader Joes. Trader Joes also carries a good vegan feta, but of course you could use real feta if you prefer.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chicky &#39;Tuna&#39; Salad Sandwich</title>
-				<link>/chickpea-of-sea-salad-sandwiches/</link>
+				<link>//localhost:8000/chickpea-of-sea-salad-sandwiches/</link>
 				<pubDate>Fri, 15 Jul 2022 01:26:00 +0000</pubDate>
-				<guid>/chickpea-of-sea-salad-sandwiches/</guid>
+				<guid>//localhost:8000/chickpea-of-sea-salad-sandwiches/</guid>
 				<description>&lt;p&gt;Our grape vines are prolific, but the grapes are teeeeeeny. Larry&amp;rsquo;s sister Cyndy mentioned that she loved putting grapes in any sandwich, like tuna or turkey. That reminded me of a nice &amp;ldquo;fake tuna&amp;rdquo; salad I made long ago. So I did a quick search and adapted &lt;a href=&#34;https://simple-veganista.com/chickpea-of-sea-salad-sandwic/&#34;&gt;this recipe&lt;/a&gt; by adding grapes. Really good! I might add pickles next time - or at least serve them on the side.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Roasted Cauliflower, Tofu, and Black Lentil Salad with Cilantro-Lime Dressing</title>
-				<link>/roasted-cauliflower-tofu-and-black/</link>
+				<link>//localhost:8000/roasted-cauliflower-tofu-and-black/</link>
 				<pubDate>Mon, 03 Jan 2022 06:15:00 +0000</pubDate>
-				<guid>/roasted-cauliflower-tofu-and-black/</guid>
+				<guid>//localhost:8000/roasted-cauliflower-tofu-and-black/</guid>
 				<description>&lt;p&gt;After a lovely, spur-of-the-moment hike with Judy and Robert on New Year&amp;rsquo;s Day, Judy made us a fabulous dinner of pasta and lettuce salad (with olive oil, rice vinegar, and cumin dressing), along with leftovers of a vegan version of this &lt;a href=&#34;https://cooking.nytimes.com/recipes/1019607-roasted-cauliflower-paneer-and-lentil-salad&#34;&gt;NYT lentil salad&lt;/a&gt; with back beluga lentils. Very tasty, and these lentils hold together so well! A great high protein component of a veggie meal.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Japanese Spinach Salad (Gomae)</title>
-				<link>/japanese-spinach-salad/</link>
+				<link>//localhost:8000/japanese-spinach-salad/</link>
 				<pubDate>Fri, 03 Jul 2020 19:03:00 +0000</pubDate>
-				<guid>/japanese-spinach-salad/</guid>
+				<guid>//localhost:8000/japanese-spinach-salad/</guid>
 				<description>&lt;p&gt;Larry has fond memories of cold spinach salad in Japan. We compared several recipes, and did a mix of several (from &lt;a href=&#34;https://salu-salo.com/gomae-japanese-spinach-salad/&#34;&gt;salu salo&lt;/a&gt;, &lt;a href=&#34;https://www.finecooking.com/recipe/japanese-spinach-with-sesame-and-soy&#34;&gt;fine cooking&lt;/a&gt;, &lt;a href=&#34;https://iheartumami.com/gomaae-japanese-spinach/&#34;&gt;iheartumami&lt;/a&gt;,  and &lt;a href=&#34;https://www.bonappetit.com/recipe/easy-gomae-japanese-style-spinach-salad&#34;&gt;bon appetit&lt;/a&gt; - seriously, you used frozen spinach?). Serve with &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/05/larrys-miso-soup.html&#34;&gt;Larry&amp;rsquo;s miso soup&lt;/a&gt; and TJ&amp;rsquo;s yakisoba! Note that I originally tried 3 T sesame seeds, 3 T soy sauce, 1.5 T rice vinegar, and a little sesame oil, but the dressing was too strong. Then I reduced it 2/3 (2 T sesame, 2T soy, etc.) and it was still too strong for us. The following pares it back even more because we like it mild so the spinach taste comes across; increase if you like it stronger.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Viki&#39;s Carrot Greens Chimichurri</title>
-				<link>/vikis-carrot-greens-chimichurri/</link>
+				<link>//localhost:8000/vikis-carrot-greens-chimichurri/</link>
 				<pubDate>Tue, 30 Jun 2020 05:45:00 +0000</pubDate>
-				<guid>/vikis-carrot-greens-chimichurri/</guid>
+				<guid>//localhost:8000/vikis-carrot-greens-chimichurri/</guid>
 				<description>&lt;p&gt;Viki brought her adaptation of a &lt;a href=&#34;https://www.loveandlemons.com/carrot-greens-chimichurri/&#34;&gt;carrot-top chimichurri&lt;/a&gt; to our outdoor distance gathering, and I fell in love with it! The tang and garlic are amazing on bread, or as a salad dressing (see Viki&amp;rsquo;s salad, below). I made a pesto with carrot tops a couple of months ago and it was meh&amp;hellip; After that, I just ended up throwing carrot tops in soup (it was great in &lt;a href=&#34;https://peachykeengreen.blogspot.com/2017/03/split-pea-soup.html&#34;&gt;split pea soup)&lt;/a&gt;. But next time I get farmer&amp;rsquo;s market carrots, I&amp;rsquo;m definitely making this!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fried Chickn Salad</title>
-				<link>/fried-chickn-salad/</link>
+				<link>//localhost:8000/fried-chickn-salad/</link>
 				<pubDate>Sat, 27 Jun 2020 05:49:00 +0000</pubDate>
-				<guid>/fried-chickn-salad/</guid>
+				<guid>//localhost:8000/fried-chickn-salad/</guid>
 				<description>&lt;p&gt;During the pandemic, I ordered some &lt;a href=&#34;https://butlerfoods.com/index.html&#34;&gt;soy curls&lt;/a&gt; and made fake chick&amp;rsquo;n nuggets out of of them, adapting this &amp;ldquo;&lt;a href=&#34;https://blog.fatfreevegan.com/2019/06/spicy-vegan-fried-chicken-soy-curls.html&#34;&gt;chicken&amp;rdquo; soy curl salad&lt;/a&gt;. It was quite good! But it&amp;rsquo;s much easier to buy fake chick&amp;rsquo;n from the store.The recipe for soy curl chick&amp;rsquo;n is at the bottom, in case you&amp;rsquo;re inspired to try,  but nowadays I just buy and bake fake chick&amp;rsquo;n nuggets from Trader Joe&amp;rsquo;s and cut those up over the salad. Delish.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Colorful Coleslaw with Orange &amp; Cilantro Vinaigrette</title>
-				<link>/colorful-coleslaw-with-orange-cilantro/</link>
+				<link>//localhost:8000/colorful-coleslaw-with-orange-cilantro/</link>
 				<pubDate>Thu, 30 Apr 2020 20:38:00 +0000</pubDate>
-				<guid>/colorful-coleslaw-with-orange-cilantro/</guid>
+				<guid>//localhost:8000/colorful-coleslaw-with-orange-cilantro/</guid>
 				<description>&lt;p&gt;We have a ton of fresh cilantro growing in our side yard, to I searched for recipes that use a lot of it. This &lt;a href=&#34;http://www.devinalexander.com/cole-slaw-orange-cilantro-vinaigrette/&#34;&gt;coleslaw&lt;/a&gt; recipe looked good, and also uses oranges, which we have tons of. Here&amp;rsquo;s my version, with a few changes. It was yummy - Larry loved it!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lentil Arugula Salad with Cumin Roasted Carrots</title>
-				<link>/lentil-salad-with-cumin-roasted-carrots/</link>
+				<link>//localhost:8000/lentil-salad-with-cumin-roasted-carrots/</link>
 				<pubDate>Thu, 08 Aug 2019 03:53:00 +0000</pubDate>
-				<guid>/lentil-salad-with-cumin-roasted-carrots/</guid>
+				<guid>//localhost:8000/lentil-salad-with-cumin-roasted-carrots/</guid>
 				<description>&lt;p&gt;Shelley followed up the wonderful &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/08/mango-guacamole.html&#34;&gt;mango guacamole&lt;/a&gt; with a fresh pea soup and this fantastic &lt;a href=&#34;https://cookieandkate.com/masala-lentil-salad-with-cumin-roasted-carrots/&#34;&gt;masala lentil salad&lt;/a&gt;, which is pretty easy to make if you buy the lentils &amp;amp; arugula ready to eat at trader Joes. Roast the carrots ahead of time and toss it all together!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Roasted Garlic Potato Salad w/Arugula</title>
-				<link>/roasted-garlic-potato-salad-warugula/</link>
+				<link>//localhost:8000/roasted-garlic-potato-salad-warugula/</link>
 				<pubDate>Mon, 08 Oct 2018 03:09:00 +0000</pubDate>
-				<guid>/roasted-garlic-potato-salad-warugula/</guid>
+				<guid>//localhost:8000/roasted-garlic-potato-salad-warugula/</guid>
 				<description>&lt;p&gt;This &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/02/creamy-potato-salad-with-fresh-herbs.html&#34;&gt;cashew cream potato salad&lt;/a&gt; is delicious, but I wanted to try a not-creamy potato salad. I found a &lt;a href=&#34;https://www.thefullhelping.com/roasted-garlic-basil-pesto-potatoes/&#34;&gt;Roasted Garlic Potato Salad&lt;/a&gt; from Oh She Glows that looked easy and worth trying. I don&amp;rsquo;t know where to get hemp seeds, so I skipped that. Below is my adapted recipe. Then last week, Elsa gave us some fresh dill from her garden, and I used that instead of arugula - also delish. But generally, roasting potatoes for salad is a win!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Wild Rice Salad with Apples and Walnuts</title>
-				<link>/wild-rice-salad-with-apples-and-walnuts/</link>
+				<link>//localhost:8000/wild-rice-salad-with-apples-and-walnuts/</link>
 				<pubDate>Tue, 22 Nov 2016 17:50:00 +0000</pubDate>
-				<guid>/wild-rice-salad-with-apples-and-walnuts/</guid>
+				<guid>//localhost:8000/wild-rice-salad-with-apples-and-walnuts/</guid>
 				<description>&lt;p&gt;Larry&amp;rsquo;s sister Cyndy made this for us a decade or more ago, and then made it again for Thanksgiving this year, which reminded me how delicious it is!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 C wild rice, dry&lt;/li&gt;&#xA;&lt;li&gt;1 C chopped walnuts&lt;/li&gt;&#xA;&lt;li&gt;1 C golden raisins&lt;/li&gt;&#xA;&lt;li&gt;1 large apple, cored &amp;amp; diced&lt;/li&gt;&#xA;&lt;li&gt;1-2 celery ribs, sliced&lt;/li&gt;&#xA;&lt;li&gt;grated rind of lemon&lt;/li&gt;&#xA;&lt;li&gt;4 scallions thinly sliced&lt;/li&gt;&#xA;&lt;li&gt;dressing:&lt;/li&gt;&#xA;&lt;li&gt;3 T lemon juice&lt;/li&gt;&#xA;&lt;li&gt;2 cloves garlic&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp salt&lt;/li&gt;&#xA;&lt;li&gt;fresh ground black pepper&lt;/li&gt;&#xA;&lt;li&gt;1/3 C olive oil&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Rinse and cook rice in instant pot (2 C water, 20-25 minutes) or on the stove (4 C water, 1 part rice). (Instant pot requires less water and is easier!)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Creamy Potato Salad with Fresh Herbs</title>
-				<link>/creamy-potato-salad-with-fresh-herbs/</link>
+				<link>//localhost:8000/creamy-potato-salad-with-fresh-herbs/</link>
 				<pubDate>Sat, 21 Feb 2015 00:43:00 +0000</pubDate>
-				<guid>/creamy-potato-salad-with-fresh-herbs/</guid>
+				<guid>//localhost:8000/creamy-potato-salad-with-fresh-herbs/</guid>
 				<description>&lt;p&gt;A delicious vegan potato salad. Fools the omnivores! Can make it the day before a summer bbq. Adapted from &lt;a href=&#34;http://www.epicurious.com/recipes/food/views/Creamy-Potato-Salad-with-Lemon-and-Fresh-Herbs-238804#ixzz2bcGRxg2d&#34;&gt;epicurious&lt;/a&gt; recipe, and uses &lt;a href=&#34;https://triumphofthelentilblog.wordpress.com/2011/11/08/chickpea-and-potato-salad-and-homemade-cashew-mayonnaise/&#34;&gt;cashew mayo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 pounds baby red potatoes&lt;/li&gt;&#xA;&lt;li&gt;3 tablespoons unseasoned rice vinegar&lt;/li&gt;&#xA;&lt;li&gt;1 cup cashew mayonnaise (see below)&lt;/li&gt;&#xA;&lt;li&gt;3 medium green onions, thinly sliced&lt;/li&gt;&#xA;&lt;li&gt;1 celery stalk, chopped&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup chopped fresh basil&lt;/li&gt;&#xA;&lt;li&gt;2-3 tablespoons chopped fresh dill (important)&lt;/li&gt;&#xA;&lt;li&gt;1 1/2 teaspoons finely grated lemon peel&lt;/li&gt;&#xA;&lt;li&gt;Cashew mayo&lt;/li&gt;&#xA;&lt;li&gt;1 cup raw cashews&lt;/li&gt;&#xA;&lt;li&gt;1 cup water&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon apple cider vinegar&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup almond milk (or other vegan milk)&lt;/li&gt;&#xA;&lt;li&gt;1/4 – 1/2 cup olive oil&lt;/li&gt;&#xA;&lt;li&gt;salt and pepper to taste&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;To make the &lt;a href=&#34;ttp://triumphofthelentilblog.wordpress.com/2011/11/08/chickpea-and-potato-salad-and-homemade-cashew-mayonnaise/&#34;&gt;cashew mayonnaise&lt;/a&gt;: Soak the cashews in the water and vinegar for 1-2 hours.  Drain off water, and put cashews and 1 cup water (or less, if you like thicker mayo) into a blende or food processor. Blend until smooth, then blend in the vegan milk. Drizzle in the olive oil while blending. Add salt and pepper to taste. This will keep in the fridge for up to a week.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kale Salad with Cranberry, Walnuts, &amp; Quinoa</title>
-				<link>/shredded-kale-salad-with-cranberry/</link>
+				<link>//localhost:8000/shredded-kale-salad-with-cranberry/</link>
 				<pubDate>Sun, 08 Feb 2015 21:30:00 +0000</pubDate>
-				<guid>/shredded-kale-salad-with-cranberry/</guid>
+				<guid>//localhost:8000/shredded-kale-salad-with-cranberry/</guid>
 				<description>&lt;p&gt;An alternative to the fresh blueberry kale salad that is also amazing––maybe more so, with the candied walnuts. This is adapted from &lt;a href=&#34;https://ohsheglows.com/2013/11/25/the-best-shredded-kale-salad/&#34;&gt;Oh She Glows Best Shredded Kale Salad&lt;/a&gt;to use candied walnuts instead of vegan &amp;ldquo;pecan parmesan&amp;rdquo; for the nuts, and adding an avocado to the dressing. I called Judi to ask how she made her yummy toasted pecans and used her recipe for the walnuts, because walnuts are even healthier than pecans, with their omega 3&amp;rsquo;s.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Massaged Kale Salad with Fresh Blueberries</title>
-				<link>/massaged-kale-salad/</link>
+				<link>//localhost:8000/massaged-kale-salad/</link>
 				<pubDate>Thu, 22 Jan 2015 04:02:00 +0000</pubDate>
-				<guid>/massaged-kale-salad/</guid>
+				<guid>//localhost:8000/massaged-kale-salad/</guid>
 				<description>&lt;p&gt;The avocado in the dressing makes this, as does massaging the dressing into the kale for a few minutes to soften the leaves. I got this idea from Judy Stern in May 2014. I had tried to make kale salads but they never tasted as good as ones I had at restaurants. Judi said massaging in the dressing, including an avocado, was key. She was right!&lt;/p&gt;</description>
 			</item>
 	</channel>

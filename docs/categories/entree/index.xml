@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Entree on Peachy Keen Green</title>
-		<link>/categories/entree/</link>
+		<link>//localhost:8000/categories/entree/</link>
 		<description>Recent content in Entree on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,453 +12,453 @@
 		
 			<lastBuildDate>Wed, 15 Jul 2026 18:14:31 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/entree/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:8000/categories/entree/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ratatouille</title>
-				<link>/ratatouille/</link>
+				<link>//localhost:8000/ratatouille/</link>
 				<pubDate>Thu, 14 Aug 2025 17:24:00 +0000</pubDate>
-				<guid>/ratatouille/</guid>
+				<guid>//localhost:8000/ratatouille/</guid>
 				<description>&lt;p&gt;Our kitchen was overflowing with zucchini and tomatoes from our and Elsa&amp;rsquo;s garden. Larry fondly recalled ratatouille, so Cyndy and I gave it a try during her visit. We decided on this roasted vegetable version. Really good! And the fresh tomatoes added a lot.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Roasted Vegetables</title>
-				<link>/roasted-vegetables/</link>
+				<link>//localhost:8000/roasted-vegetables/</link>
 				<pubDate>Tue, 08 Jul 2025 05:44:00 +0000</pubDate>
-				<guid>/roasted-vegetables/</guid>
+				<guid>//localhost:8000/roasted-vegetables/</guid>
 				<description>&lt;p&gt;So many vegetables work here; I go for a nice mix of color. I almost always use root vegetables like potatoes, carrots, onions, and beets, sometimes bell pepper, and often mushrooms or other vegetables (like asparagus) that need less cooking. Using &lt;a href=&#34;http://www.amazon.com/Silicone-Baking-Liners-3-Pack-Colors/dp/B002J4BARM&#34;&gt;silicon baking liners&lt;/a&gt; makes cleanup super easy. Pictured is a colorful tray that I took to Elsa &amp;amp; John&amp;rsquo;s 2026 fourth of July party.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Baked Chickpeas and Vegetables</title>
-				<link>/baked-chickpeas-and-vegetables/</link>
+				<link>//localhost:8000/baked-chickpeas-and-vegetables/</link>
 				<pubDate>Mon, 11 Nov 2024 22:19:00 +0000</pubDate>
-				<guid>/baked-chickpeas-and-vegetables/</guid>
+				<guid>//localhost:8000/baked-chickpeas-and-vegetables/</guid>
 				<description>&lt;p&gt;Larry&amp;rsquo;s cousin John and wife Lou hosted us at their Massachusetts home in early October, when we were on our way to Portugal. Lou made this delicious and easy &lt;a href=&#34;https://www.youtube.com/watch?v=3KzvT3sBSmI&#34;&gt;one-pan meal&lt;/a&gt; for us, and loved it so much, she made it two days in a row! It&amp;rsquo;s quite easy, and we love that it has legumes and veggies together. Below is a slightly adapted version.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Crispy Sheet Pan Tofu</title>
-				<link>/crispy-sheet-pan-tofu/</link>
+				<link>//localhost:8000/crispy-sheet-pan-tofu/</link>
 				<pubDate>Wed, 15 May 2024 22:57:00 +0000</pubDate>
-				<guid>/crispy-sheet-pan-tofu/</guid>
+				<guid>//localhost:8000/crispy-sheet-pan-tofu/</guid>
 				<description>&lt;p&gt;Purple Carrot&amp;rsquo;s &lt;a href=&#34;https://www.purplecarrot.com/plant-based-recipes/sheet-pan-roasted-tofu-vegetables-with-beluga-lentils-miso-power-dressing&#34;&gt;Crispy Sheet Pan Tofu&lt;/a&gt; was relatively easy, with a couple nice twists, including the lentil grain mix, dressing, and layering. I don&amp;rsquo;t expect to order more from Purple Carrot (see below*), but was glad for this recipe. I tweaked it to use &lt;a href=&#34;https://peachykeengreen.blogspot.com/2022/09/mujadara.html&#34;&gt;mujadara&lt;/a&gt; and tried different veggies for dinner with Judy and Robert when they visited. Thanks, Robert, for the nice photo!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Mushroom White Bean Gratin</title>
-				<link>/mushroom-white-bean-gratin/</link>
+				<link>//localhost:8000/mushroom-white-bean-gratin/</link>
 				<pubDate>Wed, 24 Apr 2024 20:30:00 +0000</pubDate>
-				<guid>/mushroom-white-bean-gratin/</guid>
+				<guid>//localhost:8000/mushroom-white-bean-gratin/</guid>
 				<description>&lt;p&gt;Elsa made this dish for a dinner party a couple of times, served with a salad. It was so good; I loved the rich flavor from the white beans and veggies and crusty bread &amp;ndash; so much that I bought a 6-qt cast iron dutch oven largely so I could try this out. The recipe below I&amp;rsquo;ve adapted some to add more veggies and a mix of fresh herbs.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Za’atar Roasted Tofu with Chickpeas, Tomatoes and Tahini</title>
-				<link>/roasted-tofu-with-chickpeas-tomatoes/</link>
+				<link>//localhost:8000/roasted-tofu-with-chickpeas-tomatoes/</link>
 				<pubDate>Thu, 04 Jan 2024 22:48:00 +0000</pubDate>
-				<guid>/roasted-tofu-with-chickpeas-tomatoes/</guid>
+				<guid>//localhost:8000/roasted-tofu-with-chickpeas-tomatoes/</guid>
 				<description>&lt;p&gt;Judy and Robert made a variation of this delicious NYTimes recipe for &lt;a href=&#34;https://cooking.nytimes.com/recipes/1023630-zaatar-roasted-tofu-with-chickpeas-tomatoes-and-lemony-tahini&#34;&gt;Za’atar Roasted Tofu With Chickpeas, Tomatoes and Lemony Tahini&lt;/a&gt; for lunch before we enjoyed a beautiful hike through redwoods at &lt;a href=&#34;https://www.ebparks.org/parks/roberts&#34;&gt;Robert&amp;rsquo;s Regional Recreation Area&lt;/a&gt;. Below is a variation close to what they made, and I want to replicate!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Munira&#39;s Tofu and Corn</title>
-				<link>/muniras-tofu-and-corn/</link>
+				<link>//localhost:8000/muniras-tofu-and-corn/</link>
 				<pubDate>Sat, 28 Oct 2023 21:00:00 +0000</pubDate>
-				<guid>/muniras-tofu-and-corn/</guid>
+				<guid>//localhost:8000/muniras-tofu-and-corn/</guid>
 				<description>&lt;p&gt;A simple, delicious dish, created by Munira. Who&amp;rsquo;da thought corn and tofu would be so good together? You might be tempted to add other ingredients; feel free. Bell peppers, for example, are delish in the mix. But it really is delicious in its simplicity.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Marinated Baked Tofu</title>
-				<link>/judis-marinated-baked-tofu/</link>
+				<link>//localhost:8000/judis-marinated-baked-tofu/</link>
 				<pubDate>Wed, 23 Aug 2023 23:56:00 +0000</pubDate>
-				<guid>/judis-marinated-baked-tofu/</guid>
+				<guid>//localhost:8000/judis-marinated-baked-tofu/</guid>
 				<description>&lt;p&gt;Judi shared her easy marinated and baked tofu recipe, yay! I&amp;rsquo;ve tried other marinades and not been so happy with them; they&amp;rsquo;ve been too liquidy, and didn&amp;rsquo;t turn out better than frying. This one was easy and the marinade really stuck to the tofu because it was thick from the cornstarch and nutritional yeast. Serve on salad or in a stir fry.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Cauliflower Walnut Apple Salad</title>
-				<link>/cauliflower-walnut-apple-salad/</link>
+				<link>//localhost:8000/cauliflower-walnut-apple-salad/</link>
 				<pubDate>Sun, 28 May 2023 16:53:00 +0000</pubDate>
-				<guid>/cauliflower-walnut-apple-salad/</guid>
+				<guid>//localhost:8000/cauliflower-walnut-apple-salad/</guid>
 				<description>&lt;p&gt;Marina shared a recipe for &lt;a href=&#34;https://cooking.nytimes.com/recipes/1024043-cauliflower-salad-sandwiches&#34;&gt;Cauliflower Salad Sandwiches&lt;/a&gt; from the New York Times; delicious! If you make sandwiches, a roll handy to keep everything in place, since it&amp;rsquo;s a bit chunky. Alternately,  serve on top of a lettuce salad (yum!), or as a side salad by itself.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Pita Pizza</title>
-				<link>/crispy-thin-pizza-pizza/</link>
+				<link>//localhost:8000/crispy-thin-pizza-pizza/</link>
 				<pubDate>Sun, 20 Nov 2022 22:05:00 +0000</pubDate>
-				<guid>/crispy-thin-pizza-pizza/</guid>
+				<guid>//localhost:8000/crispy-thin-pizza-pizza/</guid>
 				<description>&lt;p&gt;Visiting Munira in Dallas, we made our favorite homemade pizza using &lt;a href=&#34;http://www.traderjoesreviews.com/product/trader-joes-whole-wheat-pita-bread-reviews/&#34;&gt;Trader Joe&amp;rsquo;s Whole Wheat Pita&lt;/a&gt; Bread. They make a nice crispy crust, and it&amp;rsquo;s a super easy way to make tasty personal size pizzas (no slicing required). Use your favorite veggies, and optionally top with sauteed tofu, our new favorite addition (recommended by brother Jeff &amp;ndash; thank you!). Note that you can use &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/01/classic-vegan-pesto.html&#34;&gt;pesto&lt;/a&gt; in place of tomato sauce as a base for some of them if you want more variety, and let people make/top their own pizzas for some fun.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lentil Dosa</title>
-				<link>/lentil-dosa/</link>
+				<link>//localhost:8000/lentil-dosa/</link>
 				<pubDate>Thu, 15 Sep 2022 04:45:00 +0000</pubDate>
-				<guid>/lentil-dosa/</guid>
+				<guid>//localhost:8000/lentil-dosa/</guid>
 				<description>&lt;p&gt;Munira is visiting from Texas, yay! We biked over with some &lt;a href=&#34;https://peachykeengreen.blogspot.com/2022/09/fig-banana-bread.html&#34;&gt;fig banana bread&lt;/a&gt;, and she treated us to an impromptu, delicious dinner of her lentil dosa and &lt;a href=&#34;https://peachykeengreen.blogspot.com/2021/11/muniras-secret-gobi.html&#34;&gt;secret gobi&lt;/a&gt;. I thought dosa was super hard to make, but she showed me how &amp;ndash; and it wasn&amp;rsquo;t so hard! I&amp;rsquo;m very excited because besides their delicate deliciousness, her lentil dosas are high protein, super healthy, and a wonderful pairing with indian veggies. She also cooked up some bhindi masala for her IT guy (Larry) and sent it home with us, along with leftover dosa batter and a (loaner) dosa pan so I could practice my dosa-making skills again tomorrow.  Sweet! She recommended serving with lettuce, tomato, and chopped onion, and filling the center and rolling up into a &amp;ldquo;stuffed&amp;rdquo; wrap. Lots of possibilities!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chicky &#39;Tuna&#39; Salad Sandwich</title>
-				<link>/chickpea-of-sea-salad-sandwiches/</link>
+				<link>//localhost:8000/chickpea-of-sea-salad-sandwiches/</link>
 				<pubDate>Fri, 15 Jul 2022 01:26:00 +0000</pubDate>
-				<guid>/chickpea-of-sea-salad-sandwiches/</guid>
+				<guid>//localhost:8000/chickpea-of-sea-salad-sandwiches/</guid>
 				<description>&lt;p&gt;Our grape vines are prolific, but the grapes are teeeeeeny. Larry&amp;rsquo;s sister Cyndy mentioned that she loved putting grapes in any sandwich, like tuna or turkey. That reminded me of a nice &amp;ldquo;fake tuna&amp;rdquo; salad I made long ago. So I did a quick search and adapted &lt;a href=&#34;https://simple-veganista.com/chickpea-of-sea-salad-sandwic/&#34;&gt;this recipe&lt;/a&gt; by adding grapes. Really good! I might add pickles next time - or at least serve them on the side.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kira&#39;s Soba Noodles with Tahini Sauce</title>
-				<link>/kiras-soba-noodles-with-tahini-sauce/</link>
+				<link>//localhost:8000/kiras-soba-noodles-with-tahini-sauce/</link>
 				<pubDate>Sun, 01 May 2022 23:39:00 +0000</pubDate>
-				<guid>/kiras-soba-noodles-with-tahini-sauce/</guid>
+				<guid>//localhost:8000/kiras-soba-noodles-with-tahini-sauce/</guid>
 				<description>&lt;p&gt;We had a super fun, impromptu potluck today at Judi and Nick&amp;rsquo;s, featuring soba noodles with Kira&amp;rsquo;s special sauce. So delicious! The amounts below are guesses based on watching Kira mix; no measurements were made. Kira says measure with your heart. Aaaw!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fried Rice</title>
-				<link>/fried-rice/</link>
+				<link>//localhost:8000/fried-rice/</link>
 				<pubDate>Wed, 13 Apr 2022 03:08:00 +0000</pubDate>
-				<guid>/fried-rice/</guid>
+				<guid>//localhost:8000/fried-rice/</guid>
 				<description>&lt;p&gt;Another recipe from Munira! After making us a wonderful dinner, she described how to make fried rice from the leftover rice in her Instant Pot, and sent me home with spiced rice that I could fry up with an onion and veggies. So simple, tasty, and pretty. Here&amp;rsquo;s the (rough) recipe (guessing at measurements).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fried Tofu</title>
-				<link>/fried-tofu/</link>
+				<link>//localhost:8000/fried-tofu/</link>
 				<pubDate>Wed, 30 Mar 2022 22:19:00 +0000</pubDate>
-				<guid>/fried-tofu/</guid>
+				<guid>//localhost:8000/fried-tofu/</guid>
 				<description>&lt;p&gt;Over the holidays, I tried an air fryer to try to get more crispy tofu. The result was pretty good, but the fryer seemed like more of a hassle than benefit (wasn&amp;rsquo;t easy to clean, took up a lot of space), so we returned it. Later, with the help of Munira, I discovered that pressing the tofu to get the water out, then frying it, resulted in really delicious tofu that is firm and absorbs the spicing more readily. And no extra appliances! After a few tries, here&amp;rsquo;s a recipe that made some really delicious tofu. Once you get a tofu press, you won&amp;rsquo;t go back!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chana Masala</title>
-				<link>/chana-masala/</link>
+				<link>//localhost:8000/chana-masala/</link>
 				<pubDate>Fri, 07 Jan 2022 06:06:00 +0000</pubDate>
-				<guid>/chana-masala/</guid>
+				<guid>//localhost:8000/chana-masala/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;ve been meaning to try to make a chana masala for awhile, and today I found a nice recipe in &lt;a href=&#34;https://www.veganricha.com/vegan-richas-indian-kitchen-cookbook/&#34;&gt;Vegan Richa&amp;rsquo;s Indian Kitchen&lt;/a&gt;that I adapted slightly, using wisdom from Munira, some canned tomatoes since I didn&amp;rsquo;t have enough fresh, and adding cilantro and mushrooms, which I love in masala. It was super good!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Roasted Cauliflower, Tofu, and Black Lentil Salad with Cilantro-Lime Dressing</title>
-				<link>/roasted-cauliflower-tofu-and-black/</link>
+				<link>//localhost:8000/roasted-cauliflower-tofu-and-black/</link>
 				<pubDate>Mon, 03 Jan 2022 06:15:00 +0000</pubDate>
-				<guid>/roasted-cauliflower-tofu-and-black/</guid>
+				<guid>//localhost:8000/roasted-cauliflower-tofu-and-black/</guid>
 				<description>&lt;p&gt;After a lovely, spur-of-the-moment hike with Judy and Robert on New Year&amp;rsquo;s Day, Judy made us a fabulous dinner of pasta and lettuce salad (with olive oil, rice vinegar, and cumin dressing), along with leftovers of a vegan version of this &lt;a href=&#34;https://cooking.nytimes.com/recipes/1019607-roasted-cauliflower-paneer-and-lentil-salad&#34;&gt;NYT lentil salad&lt;/a&gt; with back beluga lentils. Very tasty, and these lentils hold together so well! A great high protein component of a veggie meal.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kala Chana (Black Chickpea Curry)</title>
-				<link>/kala-chana-black-chickpea-curry/</link>
+				<link>//localhost:8000/kala-chana-black-chickpea-curry/</link>
 				<pubDate>Mon, 03 Jan 2022 05:38:00 +0000</pubDate>
-				<guid>/kala-chana-black-chickpea-curry/</guid>
+				<guid>//localhost:8000/kala-chana-black-chickpea-curry/</guid>
 				<description>&lt;p&gt;Another of Munira&amp;rsquo;s yummy recipes. Black chickpeas have such a nice flavor. Of course all the measures are approximate guesses; no actual measurement tools were used in the making :)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Munira&#39;s Secret Gobi</title>
-				<link>/muniras-secret-gobi/</link>
+				<link>//localhost:8000/muniras-secret-gobi/</link>
 				<pubDate>Wed, 17 Nov 2021 20:46:00 +0000</pubDate>
-				<guid>/muniras-secret-gobi/</guid>
+				<guid>//localhost:8000/muniras-secret-gobi/</guid>
 				<description>&lt;p&gt;Shhhhhh&amp;hellip;. Munira shared her marvelous gobi recipe with me! I&amp;rsquo;m not sure what got into her, but she made us a delicious dinner (as usual!) and this time, showed me a lot of her secrets. If you know Munira, you know that&amp;rsquo;s a big deal :) She also bought me some frozen methi (fenugreek) to use in recipes, and gave me some fresh-ground ginger &amp;amp; peppers and a container of nigella seed. What a sweetie. (Note: Of course no actual measuring was involved; amounts below are approximate.)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Oh la la Lasagna</title>
-				<link>/oh-la-la-lasagna/</link>
+				<link>//localhost:8000/oh-la-la-lasagna/</link>
 				<pubDate>Sun, 29 Aug 2021 01:46:00 +0000</pubDate>
-				<guid>/oh-la-la-lasagna/</guid>
+				<guid>//localhost:8000/oh-la-la-lasagna/</guid>
 				<description>&lt;p&gt;The &lt;a href=&#34;https://peachykeengreen.blogspot.com/2021/01/impossible-lasagna.html&#34;&gt;Impossible Lasagna&lt;/a&gt; that I blogged earlier this year is tasty, but Impossible beef has a heavy taste like real beef does. We wanted to try a lighter, no-fake-meat lasagna, and I found the perfect recipe in my &lt;a href=&#34;https://www.chefchloe.com/&#34;&gt;Chloe&amp;rsquo;s Kitchen&lt;/a&gt;cookbook. Looks like &lt;a href=&#34;https://www.happyhealthylonglife.com/happy_healthy_long_life/2013/02/enlightened-lasagna.html&#34;&gt;Happy Healthy&lt;/a&gt; did the same. Here&amp;rsquo;s my slightly-adapted version of Chloe&amp;rsquo;s great recipe. It&amp;rsquo;s super easy and delish!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Impossible Lasagna</title>
-				<link>/impossible-lasagna/</link>
+				<link>//localhost:8000/impossible-lasagna/</link>
 				<pubDate>Wed, 27 Jan 2021 06:07:00 +0000</pubDate>
-				<guid>/impossible-lasagna/</guid>
+				<guid>//localhost:8000/impossible-lasagna/</guid>
 				<description>&lt;p&gt;I made a &lt;a href=&#34;https://www.elephantasticvegan.com/lasagne-w-nooch-cheese/&#34;&gt;Vegan Lasagna with Nooch Cheese&lt;/a&gt; a couple of weeks ago, and it was good, but didn&amp;rsquo;t remind me much of classic lasagna, and Larry didn&amp;rsquo;t like the nooch. So I made a mental note to try to make a classic lasagna with impossible beef and shredded vegan cheese. Two weeks later, my grad school friend Judy texts me: &amp;ldquo;Hey, there. Happy new year! Happy new administration! Just going through my old recipe binder and found (this)&amp;rdquo; &amp;ndash; a recipe for lasagna that I gave her back around 1990. Yay, I get to veganize my own recipe. Thank you, Judy! After a few tries, we decided the following was the ticket: biggest pan, less cheese, lots of noodles, a little extra marinara to help the noodles cook.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Shepherd&#39;s Pie</title>
-				<link>/shepherds-pie/</link>
+				<link>//localhost:8000/shepherds-pie/</link>
 				<pubDate>Sat, 23 Jan 2021 03:00:00 +0000</pubDate>
-				<guid>/shepherds-pie/</guid>
+				<guid>//localhost:8000/shepherds-pie/</guid>
 				<description>&lt;p&gt;Updated from the 2026 Blue Zone Cookbook. Originally from the &lt;a href=&#34;https://nutritionfacts.org/book/how-not-to-die-cookbook/&#34;&gt;How Not To Die Cookbook&lt;/a&gt; that Susie gave me, I asked Larry what he thought; he said &amp;ldquo;I always like pie.&amp;rdquo; The following is a mashup between the one in the book and this&#xA;&lt;a href=&#34;https://nutritionfacts.org/book/how-not-to-die-cookbook/&#34;&gt;minimalist baker&lt;/a&gt;&#xA;recipe, and the Blue SAone cookbook plus some ideas from our favorite&#xA;&lt;a href=&#34;https://peachykeengreen.blogspot.com/2018/11/vegan-chicken-pot-pie.html&#34;&gt;pot pie&lt;/a&gt;&#xA;. It was very good!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Impossible Meatloaf</title>
-				<link>/impossible-meatloaf/</link>
+				<link>//localhost:8000/impossible-meatloaf/</link>
 				<pubDate>Mon, 07 Dec 2020 22:19:00 +0000</pubDate>
-				<guid>/impossible-meatloaf/</guid>
+				<guid>//localhost:8000/impossible-meatloaf/</guid>
 				<description>&lt;p&gt;Vegans eating meatloaf? Impossible! Until Trader Joe&amp;rsquo;s starting carrying Impossible Burger. My first foray into fake beef cooking, &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/11/cmon-man-sloppy-joes.html&#34;&gt;C&amp;rsquo;mon Man! Sloppy Joes&lt;/a&gt;, turned out well, so I decided to give meatloaf a try. I googled &amp;ldquo;impossible meatloaf&amp;rdquo; and tried a mashup with &lt;a href=&#34;https://app.ckbk.com/recipe/then64371c08s001ss003r011/market-street-meat-loaf&#34;&gt;Market Street Meatloaf&lt;/a&gt; from my New Basics Cookbook (an excellent, classic omnivore cookbook). Larry contributed some needed-to-use scallions from our backyard;  I think the onion and veggies were important components. Would totally fool and omnivore, I bet.  Super delicious with mashed potatoes and cranberry sauce!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>C&#39;mon Man! Sloppy Joes</title>
-				<link>/cmon-man-sloppy-joes/</link>
+				<link>//localhost:8000/cmon-man-sloppy-joes/</link>
 				<pubDate>Mon, 09 Nov 2020 22:09:00 +0000</pubDate>
-				<guid>/cmon-man-sloppy-joes/</guid>
+				<guid>//localhost:8000/cmon-man-sloppy-joes/</guid>
 				<description>&lt;p&gt;In honor of our new President-elect &amp;ndash; and his fine VP-elect &amp;ndash; I decided to try to make sloppy joes from the (new) &lt;a href=&#34;https://impossiblefoods.com/&#34;&gt;Impossible Burger&lt;/a&gt; plant-based meat I got at Trader Joe&amp;rsquo;s last week. What follows is a mashup of 4 different recipes, plus a little twist of heat. It was delicious! You could &lt;em&gt;totally&lt;/em&gt; fool carnivores with this one. (&amp;ldquo;What, this is all plants?  &lt;a href=&#34;https://www.redbubble.com/i/sticker/C-Mon-Man-Joe-Biden-by-CarterCooper/41365791.EJUG5&#34;&gt;C&amp;rsquo;mon, man&lt;/a&gt;!&amp;rdquo;)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Cauliflower Potato Curry</title>
-				<link>/cauliflower-potato-curry/</link>
+				<link>//localhost:8000/cauliflower-potato-curry/</link>
 				<pubDate>Sun, 08 Nov 2020 04:45:00 +0000</pubDate>
-				<guid>/cauliflower-potato-curry/</guid>
+				<guid>//localhost:8000/cauliflower-potato-curry/</guid>
 				<description>&lt;p&gt;Larry asked his colleague Supraja what she had for lunch the other day, and she shared this &lt;a href=&#34;https://www.foodfidelity.com/cauliflower-curry/&#34;&gt;cauliflower curry&lt;/a&gt; recipe. I had a small head of cauliflower and some potatoes and cabbage to use, so I added a few more vegetables and changed up the spicing a little (making up the &amp;ldquo;curry&amp;rdquo; part with the various spices I have), and it was very good! Thank you, Supraja!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Cabbage Steak with Mashed Potatoes &amp; Mushroom Gravy</title>
-				<link>/cabbage-steak-with-mashed-potatoes/</link>
+				<link>//localhost:8000/cabbage-steak-with-mashed-potatoes/</link>
 				<pubDate>Sat, 31 Oct 2020 23:25:00 +0000</pubDate>
-				<guid>/cabbage-steak-with-mashed-potatoes/</guid>
+				<guid>//localhost:8000/cabbage-steak-with-mashed-potatoes/</guid>
 				<description>&lt;p&gt;Laurie tried out some new recipes for dinner when we stopped by on our way back from our Nebraska road trip &amp;ndash; and it was delicious! Who&amp;rsquo;da thought that cabbage could make such a good steak? The&#xA;gravy (finely chopped mushrooms, cashew cream, nutritional yeast) is a perfect, rich complement to the potatoes and cabbage. Laurie used green cabbage; I&amp;rsquo;ve tried green and purple, and also cauliflower. All yum! The mushroom gravy ties it all together.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Black Pepper Tempeh Stir Fry</title>
-				<link>/celery-black-pepper-tempeh/</link>
+				<link>//localhost:8000/celery-black-pepper-tempeh/</link>
 				<pubDate>Mon, 20 Jul 2020 21:06:00 +0000</pubDate>
-				<guid>/celery-black-pepper-tempeh/</guid>
+				<guid>//localhost:8000/celery-black-pepper-tempeh/</guid>
 				<description>&lt;p&gt;I came home from Nebraska to a couple of bunches of celery in the fridge that needed to be used. I adapted this &lt;a href=&#34;https://www.blogger.com/#&#34;&gt;celery black pepper tofu recipe from Vegan Richa&lt;/a&gt;and it was pretty good! Over time I changed added more spices and liquid to the marinade, substituted corn flour in place of arrowroot or cornstarch (tastier!), and added in more veggies. Gets better every iteration!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Risotto with Mushrooms and Squash</title>
-				<link>/white-wine-risotto-with-mushrooms-and/</link>
+				<link>//localhost:8000/white-wine-risotto-with-mushrooms-and/</link>
 				<pubDate>Wed, 01 Jul 2020 02:46:00 +0000</pubDate>
-				<guid>/white-wine-risotto-with-mushrooms-and/</guid>
+				<guid>//localhost:8000/white-wine-risotto-with-mushrooms-and/</guid>
 				<description>&lt;p&gt;Alba clamshell mushrooms and fresh zucchini arrived in our last farmer&amp;rsquo;s market delivery, and Viki left a nice bottle of white wine with us, and we still had a little arborio rice from John &amp;amp; Wanda&amp;rsquo;s visit last year when they made us a delicious farmer&amp;rsquo;s market risotto&amp;hellip; So, with the help of my &lt;a href=&#34;https://www.theppk.com/books/isa-does-it/&#34;&gt;Isa Does It&lt;/a&gt;cookbook, I decided to try my first risotto. I&amp;rsquo;ve made it a few times, trying different mushrooms, squash types (including acorn), and wines (white &amp;amp; mango), and it&amp;rsquo;s always delish! I&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fried Chickn Salad</title>
-				<link>/fried-chickn-salad/</link>
+				<link>//localhost:8000/fried-chickn-salad/</link>
 				<pubDate>Sat, 27 Jun 2020 05:49:00 +0000</pubDate>
-				<guid>/fried-chickn-salad/</guid>
+				<guid>//localhost:8000/fried-chickn-salad/</guid>
 				<description>&lt;p&gt;During the pandemic, I ordered some &lt;a href=&#34;https://butlerfoods.com/index.html&#34;&gt;soy curls&lt;/a&gt; and made fake chick&amp;rsquo;n nuggets out of of them, adapting this &amp;ldquo;&lt;a href=&#34;https://blog.fatfreevegan.com/2019/06/spicy-vegan-fried-chicken-soy-curls.html&#34;&gt;chicken&amp;rdquo; soy curl salad&lt;/a&gt;. It was quite good! But it&amp;rsquo;s much easier to buy fake chick&amp;rsquo;n from the store.The recipe for soy curl chick&amp;rsquo;n is at the bottom, in case you&amp;rsquo;re inspired to try,  but nowadays I just buy and bake fake chick&amp;rsquo;n nuggets from Trader Joe&amp;rsquo;s and cut those up over the salad. Delish.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Masala Dabba</title>
-				<link>/masala-dabba/</link>
+				<link>//localhost:8000/masala-dabba/</link>
 				<pubDate>Tue, 12 May 2020 04:10:00 +0000</pubDate>
-				<guid>/masala-dabba/</guid>
+				<guid>//localhost:8000/masala-dabba/</guid>
 				<description>&lt;p&gt;Munira brought back a &lt;a href=&#34;https://www.spicekitchenuk.com/blogs/news/17144493-what-the-hell-is-a-masala-dabba&#34;&gt;masala dabba&lt;/a&gt; for me from India. So exciting! The next morning I filled it with some of the spices I use the most, and drew a key to help me remember what is what. It was SO fun to use it to make my &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/05/pav-bhaji-and-muniras-secrets.html&#34;&gt;Pav Bhaji&lt;/a&gt;this weekend. I need to make &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/03/aloo-patta-gobhi-indian-spiced-potato.html&#34;&gt;Aloo Patta Gobhi&lt;/a&gt; next.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Veggie Mushroom Quiche with optional Red Pepper Relish</title>
-				<link>/mushroom-leek-quiche-with-red-pepper/</link>
+				<link>//localhost:8000/mushroom-leek-quiche-with-red-pepper/</link>
 				<pubDate>Sat, 02 May 2020 03:40:00 +0000</pubDate>
-				<guid>/mushroom-leek-quiche-with-red-pepper/</guid>
+				<guid>//localhost:8000/mushroom-leek-quiche-with-red-pepper/</guid>
 				<description>&lt;p&gt;Our neighbor Elsa gave us 4 beautiful fresh leeks from her garden. I had been planning to make my &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/05/festive-chickpea-tart.html&#34;&gt;chickpea tart&lt;/a&gt;, but then I found a mushroom leek quiche in &lt;a href=&#34;https://www.amazon.com/dp/B071PCM3Q3/&#34;&gt;Vegan Comfort Classics&lt;/a&gt; that looked worth a try! Here&amp;rsquo;s my slightly adapted version, using zucchinis and mushroom. The red pepper relish is amazing on crackers or anything else you might serve a chutney with.  If you don&amp;rsquo;t have time to make the relish, cranberry sauce or mango chutney is pretty good with the quiche. The Parm is totally optional; I&amp;rsquo;ve made this several times and don&amp;rsquo;t usually bother with it anymore.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Soyrizo</title>
-				<link>/soyrizo/</link>
+				<link>//localhost:8000/soyrizo/</link>
 				<pubDate>Wed, 29 Apr 2020 22:43:00 +0000</pubDate>
-				<guid>/soyrizo/</guid>
+				<guid>//localhost:8000/soyrizo/</guid>
 				<description>&lt;p&gt;Getting fake meat during the pandemic is unpredictable; some basic things (tofu, tempeh, soyrizo) are often out of stock. I wanted to make my &lt;a href=&#34;https://peachykeengreen.blogspot.com/2015/02/chipotle-mexican-lasagna.html&#34;&gt;Mexican lasagna&lt;/a&gt;, but couldn&amp;rsquo;t get soyrizo. So I wondered&amp;hellip; can I make my own? Turns out, yes! I found a &lt;a href=&#34;https://yupitsvegan.com/homemade-soyrizo/&#34;&gt;couple&lt;/a&gt; of &lt;a href=&#34;https://thehiddenveggies.com/soyrizo/&#34;&gt;recipes&lt;/a&gt; that use &lt;a href=&#34;https://www.bobsredmill.com/tvp-textured-veg-protein.html&#34;&gt;textured vegetable protein&lt;/a&gt; (TVP, which I wasn&amp;rsquo;t aware of before now), and with a few tweaks, came up with this recipe, which makes enough for 2 lasagnas (use half, freeze half). Verdict: Delicious! We definitely like it better than purchased soyrizo.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sweet Potato Pizza with Almond Ricotta</title>
-				<link>/sweet-potato-pizza-with-rosemary-red/</link>
+				<link>//localhost:8000/sweet-potato-pizza-with-rosemary-red/</link>
 				<pubDate>Mon, 13 Apr 2020 01:54:00 +0000</pubDate>
-				<guid>/sweet-potato-pizza-with-rosemary-red/</guid>
+				<guid>//localhost:8000/sweet-potato-pizza-with-rosemary-red/</guid>
 				<description>&lt;p&gt;In one of our zoom chats with friends during the pandemic, Robert &amp;amp; Judy shared their desktop to flip through some random photos. I asked them to pause on a beautiful pizza they made for dinner. Judy said it was one of her favorites! So I had to give it a try. I found a &lt;a href=&#34;https://www.foodnetwork.com/recipes/food-network-kitchen/no-yeast-pizza-dough-7262814&#34;&gt;crust&lt;/a&gt; recipe and adapted it; the dough turned out crunchy and good! We wanted a bit more flavor, so I added kalamata olives, as well as &lt;a href=&#34;https://minimalistbaker.com/whipped-almond-ricotta-5-ingredients/&#34;&gt;whipped almond ricotta&lt;/a&gt;,  like &lt;a href=&#34;https://www.veganosity.com/butternut-squash-and-almond-ricotta-pizza/&#34;&gt;True Food Kitchen does&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Yellow Split Pea Dal</title>
-				<link>/yellow-split-pea-dal/</link>
+				<link>//localhost:8000/yellow-split-pea-dal/</link>
 				<pubDate>Mon, 23 Mar 2020 03:38:00 +0000</pubDate>
-				<guid>/yellow-split-pea-dal/</guid>
+				<guid>//localhost:8000/yellow-split-pea-dal/</guid>
 				<description>&lt;p&gt;Loving my &lt;a href=&#34;https://www.veganricha.com/&#34;&gt;Vegan Richa&lt;/a&gt;&amp;rsquo;s Indian Kitchen cookbook. With the uneasiness in the world, our pantry is full of dried beans and lentils - and I&amp;rsquo;ll definitely be making this again. Here&amp;rsquo;s a slightly adapted (and tripled) recipe from the cookbook. (Thank you, Munira, for bringing us all the great lentils and other items from your Indian grocery store - and especially for your homemade garam masala!)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Aloo Patta Gobhi (Indian Spiced Potato Cabbage)</title>
-				<link>/aloo-patta-gobhi-indian-spiced-potato/</link>
+				<link>//localhost:8000/aloo-patta-gobhi-indian-spiced-potato/</link>
 				<pubDate>Sun, 08 Mar 2020 18:04:00 +0000</pubDate>
-				<guid>/aloo-patta-gobhi-indian-spiced-potato/</guid>
+				<guid>//localhost:8000/aloo-patta-gobhi-indian-spiced-potato/</guid>
 				<description>&lt;p&gt;Munira often makes a potato cabbage fry for us that is yummy. I love cabbage and have a head of it that needs used, and found a recipe in my Vegan Richa cookbook to try!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lentil Curry Soup</title>
-				<link>/lentil-curry-soup/</link>
+				<link>//localhost:8000/lentil-curry-soup/</link>
 				<pubDate>Wed, 19 Feb 2020 01:13:00 +0000</pubDate>
-				<guid>/lentil-curry-soup/</guid>
+				<guid>//localhost:8000/lentil-curry-soup/</guid>
 				<description>&lt;p&gt;One of our favorite restaurants, &lt;a href=&#34;http://cafesprout.com/home&#34;&gt;Cafe Sprout&lt;/a&gt;, has a spicy red curry soup that we love &amp;ndash; with chickpeas, tomatoes, carrots, celery, onion, red lentils, and quinoa. Isa also has a &lt;a href=&#34;http://www.theppk.com/2011/01/red-curry-soup-with-rice-purple-kale/&#34;&gt;Sweet Potato and Red Curry Soup&lt;/a&gt; that looks good. So I made up a recipe that pulls from both. Larry said it was fantastic! (Originally posted September 2015; updated February 2020 to be even better :)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Pav Bhaji (Indian Street Food)</title>
-				<link>/pav-bhaji-and-muniras-secrets/</link>
+				<link>//localhost:8000/pav-bhaji-and-muniras-secrets/</link>
 				<pubDate>Thu, 09 May 2019 03:58:00 +0000</pubDate>
-				<guid>/pav-bhaji-and-muniras-secrets/</guid>
+				<guid>//localhost:8000/pav-bhaji-and-muniras-secrets/</guid>
 				<description>&lt;p&gt;My friend Munira is a wonderful cook! For years she would never share her recipes, saying why would we come over for dinner if we knew how to cook the food? :)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Palak Paneer with Curried Tofu</title>
-				<link>/vegan-palak-paneer-with-curried-tofu/</link>
+				<link>//localhost:8000/vegan-palak-paneer-with-curried-tofu/</link>
 				<pubDate>Sun, 05 May 2019 04:36:00 +0000</pubDate>
-				<guid>/vegan-palak-paneer-with-curried-tofu/</guid>
+				<guid>//localhost:8000/vegan-palak-paneer-with-curried-tofu/</guid>
 				<description>&lt;p&gt;Shelley Million sent me this super &lt;a href=&#34;https://minimalistbaker.com/vegan-palak-paneer-with-curried-tofu/&#34;&gt;minimalist baker recipe for saag paneer&lt;/a&gt; with tofu in place of the cheese! I&amp;rsquo;ve tried a saag recipe or two and wasn&amp;rsquo;t thrilled, but this one is different - we loved it. Here&amp;rsquo;s a slightly simplified version that also incorporates tips from Munira &amp;ndash; in particular, using a mix of greens like Power Greens (kale, spinach, chard, etc.) from Costco.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Breaded Eggplant with Marinara</title>
-				<link>/breaded-eggplant-with-marinara/</link>
+				<link>//localhost:8000/breaded-eggplant-with-marinara/</link>
 				<pubDate>Mon, 04 Mar 2019 22:36:00 +0000</pubDate>
-				<guid>/breaded-eggplant-with-marinara/</guid>
+				<guid>//localhost:8000/breaded-eggplant-with-marinara/</guid>
 				<description>&lt;p&gt;Cyndy visited this weekend, and we made this for a dinner with Munira and Vinod. She soaked some dried mushrooms overnight and cut them up in small pieces to add to the marinara. it was really good!  I need to look at &lt;a href=&#34;https://veryveryverygreen.blogspot.com/2015/12/christmas-eve.html&#34;&gt;Judi&amp;rsquo;s eggplant recipe&lt;/a&gt;too; she fries it forever, but doesn&amp;rsquo;t bread it (her dad never did). Then she bakes it with her homemade marinara, alternating layers so it&amp;rsquo;s like a little lasagna. She says it melts in your mouth.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chick&#39;n Pot Pie</title>
-				<link>/vegan-chicken-pot-pie/</link>
+				<link>//localhost:8000/vegan-chicken-pot-pie/</link>
 				<pubDate>Sat, 24 Nov 2018 04:21:00 +0000</pubDate>
-				<guid>/vegan-chicken-pot-pie/</guid>
+				<guid>//localhost:8000/vegan-chicken-pot-pie/</guid>
 				<description>&lt;p&gt;We ate at &lt;a href=&#34;https://vegenationlv.com/&#34;&gt;Vegenation&lt;/a&gt; in Las Vegas during our Southwest vacation, and their Chicken Pot Pie Gnocchi was amazing! The Chicky Chicky Bang Bang sandwich came in a close second, followed by the Strawberry Crepes and Lemon Merengue Tart. But oh, the pot pie. It was a comfort food for Larry growing up. For one of our early dates, I made Chicken Pot Pie Nouveau for Larry from the New Basics cookbook; it used pearl onions, snap peas, sliced carrots, fresh rosemary, and puff pastry. I&amp;rsquo;ve wanted to make it again - and now I can! Below is an adapted version of a &lt;a href=&#34;https://www.vegederrian.com/recipes/vegan-chicken-pot-pie-gnocchi&#34;&gt;recipe inspired by vegenation pot pie&lt;/a&gt;. Larry&amp;rsquo;s sisters Cyndy and Laurie made this when we visited from Vegas a few days later. Serve with garlic bread! (Shown here with delicious &lt;a href=&#34;https://peachykeengreen.blogspot.com/2016/11/wild-rice-salad-with-apples-and-walnuts.html&#34;&gt;wild rice salad&lt;/a&gt;.)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Dan&#39;s Hypnotic Dal</title>
-				<link>/dans-masala-dal/</link>
+				<link>//localhost:8000/dans-masala-dal/</link>
 				<pubDate>Fri, 19 Oct 2018 05:14:00 +0000</pubDate>
-				<guid>/dans-masala-dal/</guid>
+				<guid>//localhost:8000/dans-masala-dal/</guid>
 				<description>&lt;p&gt;Dan Suthers shared his favorite dal recipe with me. Yay! For so long I&amp;rsquo;ve wanted a good dal recipe. How did he know? This dal is from &lt;a href=&#34;https://www.veganricha.com/vegan-richas-indian-kitchen-cookbook&#34;&gt;Vegan Richa&amp;rsquo;s Indian Kitchen Cookbook&lt;/a&gt;, which is now on my wish list. In the book it&amp;rsquo;s called Masala Lentils or Sabut Masoor. Dan suggested doubling the recipe if you want a second meal, and since we always want a second meal, here&amp;rsquo;s the recipe doubled. I made just a few other minor tweaks.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Collaborative Couscous</title>
-				<link>/collaborative-couscous/</link>
+				<link>//localhost:8000/collaborative-couscous/</link>
 				<pubDate>Sat, 13 Oct 2018 18:59:00 +0000</pubDate>
-				<guid>/collaborative-couscous/</guid>
+				<guid>//localhost:8000/collaborative-couscous/</guid>
 				<description>&lt;p&gt;Dan Suthers is visiting! After a hike with Jeff, Jeremy invited us over for dinner, and allowed us to use his awesome kitchen to make Collaborative Couscous: a treasure hunt for ingredients that add color. Among the discoveries were figs, carrots, parsley, and green beans. Jeremy also grilled up fresh veggies from the local farmer&amp;rsquo;s market, and prepared beets beforehand in the instant pot. Delicious!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Best Beet Burgers</title>
-				<link>/best-beet-burgers/</link>
+				<link>//localhost:8000/best-beet-burgers/</link>
 				<pubDate>Mon, 08 Oct 2018 02:41:00 +0000</pubDate>
-				<guid>/best-beet-burgers/</guid>
+				<guid>//localhost:8000/best-beet-burgers/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;ve tried to make beet burgers a few times, with just so-so results. Often they&amp;rsquo;re too soft and just not as tasty as I hoped. But for Labor Day this year, I finally did mashup of a couple of different recipes, and it was delish. I learned a lot from this &lt;a href=&#34;https://www.theawesomegreen.com/the-ultimate-veggie-burger/&#34;&gt;Ultimate Veggie Burger&lt;/a&gt; recipe &amp;ndash; how you can swap in and out various vegetables and grains, for example &amp;ndash; and crossed this &lt;a href=&#34;http://powerhungry.com/2018/03/incredible-beet-burgers-vegan-grain-free/&#34;&gt;Amazing Beet Burger&lt;/a&gt; recipe with my other favorite &lt;a href=&#34;http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html&#34;&gt;Double Double burgers&lt;/a&gt; from Chloe. I think what made this mashup a winner was **roasting the beets (don&amp;rsquo;t buy them pre-cooked!) and adding **mushrooms (yum). I also think that for the grain, **tempeh is much tastier than the rice many recipes call for.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Homemade BBQ Sauce</title>
-				<link>/homemade-bbq-sauce/</link>
+				<link>//localhost:8000/homemade-bbq-sauce/</link>
 				<pubDate>Sun, 27 May 2018 18:02:00 +0000</pubDate>
-				<guid>/homemade-bbq-sauce/</guid>
+				<guid>//localhost:8000/homemade-bbq-sauce/</guid>
 				<description>&lt;p&gt;Jeff &amp;amp; Brenda came over for lunch, and they had a hankering for bbq chicken, so we bought them a roast chicken at Costco and I made some &lt;a href=&#34;https://www.foodnetwork.com/recipes/ree-drummond/homemade-bbq-sauce-recipe-2107702&#34;&gt;homemade BBQ&lt;/a&gt; sauce. The sauce was delicious and super easy! Takes about 30 minutes. Could use this for bbq tofu, or &lt;a href=&#34;https://veganinthefreezer.com/texas-bbq-sausage-sandwich/&#34;&gt;bbq seitan sandwiches&lt;/a&gt;, yum! Jeff even put it on top of a pita slathered with hummus and ate it that way, it was so good.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Gado Gado (Peanut Sauce) Stir Fry</title>
-				<link>/gado-gado-peanut-sauce-stir-fry/</link>
+				<link>//localhost:8000/gado-gado-peanut-sauce-stir-fry/</link>
 				<pubDate>Wed, 21 Feb 2018 17:37:00 +0000</pubDate>
-				<guid>/gado-gado-peanut-sauce-stir-fry/</guid>
+				<guid>//localhost:8000/gado-gado-peanut-sauce-stir-fry/</guid>
 				<description>&lt;p&gt;An Indonesian dish with spicy peanut sauce that Tim and Karen made for us for dinner, to put on top of a delicious tofu and vegetable stir-fry. Yum!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 T vegan butter for frying&lt;/li&gt;&#xA;&lt;li&gt;1 cup chopped onion&lt;/li&gt;&#xA;&lt;li&gt;2 medium cloves garlic (crushed)&lt;/li&gt;&#xA;&lt;li&gt;1 bay leaf&lt;/li&gt;&#xA;&lt;li&gt;1-2 T ginger (crushed)&lt;/li&gt;&#xA;&lt;li&gt;1 small red pepper, diced (optional)&lt;/li&gt;&#xA;&lt;li&gt;1 cup peanut butter&lt;/li&gt;&#xA;&lt;li&gt;1 T honey&lt;/li&gt;&#xA;&lt;li&gt;1 T vinegar&lt;/li&gt;&#xA;&lt;li&gt;3 cups water&lt;/li&gt;&#xA;&lt;li&gt;1 tsp salt&lt;/li&gt;&#xA;&lt;li&gt;dash tamari&lt;/li&gt;&#xA;&lt;li&gt;juice of 1 lemon&lt;/li&gt;&#xA;&lt;li&gt;1/4 tsp cayenne (or Sriracha to taste)&lt;/li&gt;&#xA;&lt;li&gt;Optional garnish: sesame oil, sesame seeds&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;In a saucepan, cook the onions, garlic, bay leaf, pepper, and ginger in butter. When onions become translucent, add other ingredients. Simmer on low heat 30 minutes, stirring occasionally.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Vegan Double-Double Burgers &amp; Field Roast Sausages</title>
-				<link>/vegan-double-double-burgers-fieldroast/</link>
+				<link>//localhost:8000/vegan-double-double-burgers-fieldroast/</link>
 				<pubDate>Mon, 24 Jul 2017 17:55:00 +0000</pubDate>
-				<guid>/vegan-double-double-burgers-fieldroast/</guid>
+				<guid>//localhost:8000/vegan-double-double-burgers-fieldroast/</guid>
 				<description>&lt;p&gt;Judi reminded me that we made these burgers with special sauce from &lt;a href=&#34;https://www.amazon.com/Chloes-Kitchen-Delicious-Recipes-Making/dp/1451636741&#34;&gt;Chloe&amp;rsquo;s Kitchen&lt;/a&gt; recipes a couple of years ago and they were yummy. So I decided to make them for a summer BBQ this year. They were great! They are my favorite burgers now (with the sauce, they are amazing), although Larry likes the &lt;a href=&#34;http://peachykeengreen.blogspot.com/search/label/bbq&#34;&gt;black bean carrot burgers&lt;/a&gt; a little more.  I also sautéed red &amp;amp; yellow pepper and a red onion, with a little garlic, to top of Italian Field Roast sausages. Oh my, that made them so much better. Got that idea from Judi &amp;amp; Nick, and the video, below, of Chloe &amp;amp; Roberto making Vegan Double-Double Burgers and Field Roast Sausage w/Peppers &amp;amp; Onion:&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Indian Cabbage with Lentils</title>
-				<link>/indian-cabbage-with-mung-beans/</link>
+				<link>//localhost:8000/indian-cabbage-with-mung-beans/</link>
 				<pubDate>Sun, 30 Apr 2017 18:29:00 +0000</pubDate>
-				<guid>/indian-cabbage-with-mung-beans/</guid>
+				<guid>//localhost:8000/indian-cabbage-with-mung-beans/</guid>
 				<description>&lt;p&gt;Our favorite local Indian restaurant, &lt;a href=&#34;https://www.yelp.com/biz/janta-indian-cuisine-palo-alto&#34;&gt;Janta&lt;/a&gt;, had a buffet with several delicious dishes the other day, including a cabbage dish and a mung bean dal. I had lots of cabbage and &lt;a href=&#34;http://www.wholefoodsmarket.com/blog/whole-story/mighty-mung-bean&#34;&gt;mung beans&lt;/a&gt; at home to use up, and I found a few recipes that combined them, so I gave this adaptation a try. It was totally easy and delish! The second time I made it, I used &lt;a href=&#34;http://www.thekitchn.com/whats-the-difference-brown-gre-111139&#34;&gt;brown lentils&lt;/a&gt;. Just as good; maybe even better. I&amp;rsquo;m more likely to have lentils than mung beans around, so I think I&amp;rsquo;ll stick with lentils for this from now on.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Vegetable Bean Chili</title>
-				<link>/vegetable-bean-chili/</link>
+				<link>//localhost:8000/vegetable-bean-chili/</link>
 				<pubDate>Fri, 28 Apr 2017 04:02:00 +0000</pubDate>
-				<guid>/vegetable-bean-chili/</guid>
+				<guid>//localhost:8000/vegetable-bean-chili/</guid>
 				<description>&lt;p&gt;This recipe is adapted from a &lt;a href=&#34;http://www.food.com/recipe/chili-con-carne-with-vegetables-468362&#34;&gt;vegetable chili con carne in Jane Brody&amp;rsquo;s Good Food Book&lt;/a&gt;; my sister-in-law Brenda made a vegetarian version of it for me back in the &amp;rsquo;90s, and it was delish! I swap in different veggies sometimes, and replaced the brown sugar with dark chocolate (!), and of course, it has beans instead of carne.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Stuffed Mushroom Phyllo Role</title>
-				<link>/stuffed-mushroom-phyllo-role/</link>
+				<link>//localhost:8000/stuffed-mushroom-phyllo-role/</link>
 				<pubDate>Mon, 13 Mar 2017 05:24:00 +0000</pubDate>
-				<guid>/stuffed-mushroom-phyllo-role/</guid>
+				<guid>//localhost:8000/stuffed-mushroom-phyllo-role/</guid>
 				<description>&lt;p&gt;Larry brought in some cabbage and kale leaves from the garden, and I thought I&amp;rsquo;d try a new recipe. This is adapted from a mix of &lt;a href=&#34;http://www.connoisseurusveg.com/spinach-mushroom-mini-vegan-puff-pastry-quiche/&#34;&gt;Spinach &amp;amp; Mushroom Mini Vegan Puff Pastry Quiche&lt;/a&gt; and Oh She Glows &lt;a href=&#34;http://ohsheglows.com/2011/08/23/stuffed-mushroom-phyllo-roll-mango-kale-salad/&#34;&gt;Stuffed Mushroom Phyllo Roll&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Royal Eggplant (Baingan Bharta)</title>
-				<link>/royal-eggplant-baingan-bharta/</link>
+				<link>//localhost:8000/royal-eggplant-baingan-bharta/</link>
 				<pubDate>Wed, 21 Sep 2016 16:38:00 +0000</pubDate>
-				<guid>/royal-eggplant-baingan-bharta/</guid>
+				<guid>//localhost:8000/royal-eggplant-baingan-bharta/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg&#34;&gt;&#xA;&lt;/a&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJVtaU8UKUjjxsquXQu0BRVW1PXWwgdHe2Ti49sm9OlXAJioqsZV1J_JYKRZiHGN7ce2UI_rteV1dJNPuQX8JVdLC-XtHbeYCxUAfwuLYIjvo0Gli5kv90u4FJxOsM6yE2JEOe_x78mgA8/s640/bengan.jpg&#34;&gt;&#xA;&lt;/a&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg&#34;&gt;&#xA;&lt;/a&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg&#34;&gt;&#xA;&lt;/a&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmU9uddB0kgA9ZiwytgfIVhlefxl-0MtZEFP2p_CWvgwKiIk079lqFju1hl8UANTHO-bDkkCaniCbtYB7YgVPCir-M-e2rRJYmpvePhjcmXu1GeL5XkMWbG8GhyphenhyphenGjvlotmSS7foiPDcEf/s640/bengan.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;Another recipe adapted from a recipe in &lt;a href=&#34;https://www.blogger.com/#&#34;&gt;The Indian Vegetarian&lt;/a&gt; cookbook by Neelam Batra (see also the &lt;a href=&#34;https://www.blogger.com/#&#34;&gt;diced potatoes and tomatoes&lt;/a&gt; recipe). The original calls for 4 jalapenos (!!). I use one medium jalapeno; any more and we can barely eat it, it&amp;rsquo;s so spicy. Shown here with Munira&amp;rsquo;s yummy roti!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Red Beans</title>
-				<link>/red-beans/</link>
+				<link>//localhost:8000/red-beans/</link>
 				<pubDate>Sun, 11 Sep 2016 16:41:00 +0000</pubDate>
-				<guid>/red-beans/</guid>
+				<guid>//localhost:8000/red-beans/</guid>
 				<description>&lt;p&gt;This bean dish was served at a lunch at work, in both vegan and with-bacon-and-ham forms. Judi and I thought the vegan one was delicious (don&amp;rsquo;t know about the other!); I brought home leftovers, and Larry agreed. Turns out catering got the recipe from our admin assistant, Vickie, whose office is next to mine. So we bought dry red beans and tried it. The veggie broth had plenty of salt in it, so I don&amp;rsquo;t list the half teaspoon of salt called for in this recipe, after tasting it. Anyway, it was easy and very flavorful! I think dry beans taste better than canned, but you could used canned, of course. And I liked cooking the dried beans in the large soup pot for this; I usually boil beans in a smaller saucepan, and that&amp;rsquo;s messy. Big soup pot from now on for beans! Serve with rice or cauliflower rice and a veggie.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Pasta Primavera</title>
-				<link>/pasta-primavera/</link>
+				<link>//localhost:8000/pasta-primavera/</link>
 				<pubDate>Sat, 13 Aug 2016 06:58:00 +0000</pubDate>
-				<guid>/pasta-primavera/</guid>
+				<guid>//localhost:8000/pasta-primavera/</guid>
 				<description>&lt;p&gt;So many tomatoes in our new garden bed! And our friends Elsa &amp;amp; John gave us some lovely zucchini from their garden. So I though I&amp;rsquo;d try to make a primavera similar to one at our favorite Italian restaurant. I tried this a couple of weeks ago, and the result was good, but we wanted even more flavor&amp;hellip; so this version has a few changes (red wine instead of white, adding olives, more mushrooms). It was delish!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Thai Vegetable Curry</title>
-				<link>/thai-vegetable-curry/</link>
+				<link>//localhost:8000/thai-vegetable-curry/</link>
 				<pubDate>Sat, 05 Mar 2016 19:34:00 +0000</pubDate>
-				<guid>/thai-vegetable-curry/</guid>
+				<guid>//localhost:8000/thai-vegetable-curry/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;ve made many veggie curries with Trader Joes bottled curry sauce, and they&amp;rsquo;re okay, but never as good as what you get at a Thai restaurant. Once I tried to make curry with store-bought curry paste and coconut milk, but it was eh. What&amp;rsquo;s the trick? Well, we went to Thailand last November and I brought back some curry packets for gifts; I decided to try one. The directions called for coconut cream (not coconut milk). We also had some fresh ginger that I had frozen (grated) in ice cube trays, so I tossed in a cube. (I didn&amp;rsquo;t add the fish sauce it called for.) Boy, what a difference. It was nice and spicy and flavorful. We thought we were in a restaurant! Here&amp;rsquo;s what I did.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Jeff&#39;s Flavorful Favas</title>
-				<link>/jeffs-flavorful-favas/</link>
+				<link>//localhost:8000/jeffs-flavorful-favas/</link>
 				<pubDate>Wed, 17 Feb 2016 06:45:00 +0000</pubDate>
-				<guid>/jeffs-flavorful-favas/</guid>
+				<guid>//localhost:8000/jeffs-flavorful-favas/</guid>
 				<description>&lt;p&gt;My brother Jeff gave me a couple bags of dried fava beans this weekend. He gets them at his local farmers market. I soaked, boiled, and then sautéed them with some garlic and pepper. It was good, but needed something. Then I remembered that Jeff made a yummy fava dish a few months ago in Nebraska. So I called him up to ask what all he put in it. &amp;ldquo;Tomatoes and onion really go well with favas,&amp;rdquo; he said. I had some chard in the back yard; how about that, too? &amp;ldquo;That&amp;rsquo;s great, chop it up well!&amp;rdquo; And so I did. Later: &amp;ldquo;Didn&amp;rsquo;t chopping the greens change everything? I think chopping releases more flavor and improves the texture.&amp;rdquo; Yes, it does! It was delicious.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Squash Spaghetti with Meatless Meatballs</title>
-				<link>/squash-spaghetti-with-meatless-meatballs/</link>
+				<link>//localhost:8000/squash-spaghetti-with-meatless-meatballs/</link>
 				<pubDate>Sun, 14 Feb 2016 18:50:00 +0000</pubDate>
-				<guid>/squash-spaghetti-with-meatless-meatballs/</guid>
+				<guid>//localhost:8000/squash-spaghetti-with-meatless-meatballs/</guid>
 				<description>&lt;p&gt;A new twist on pasta from Larry&amp;rsquo;s sister Cyndy. Delicious and super healthy. Here&amp;rsquo;s the recipe for 2 people; increase proportionally for 4. (Okay, way too much yellow in this photo; I&amp;rsquo;ll get a better one later.)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Corn Chowder</title>
-				<link>/corn-chowder/</link>
+				<link>//localhost:8000/corn-chowder/</link>
 				<pubDate>Wed, 16 Sep 2015 17:08:00 +0000</pubDate>
-				<guid>/corn-chowder/</guid>
+				<guid>//localhost:8000/corn-chowder/</guid>
 				<description>&lt;p&gt;A hearty, nice corn chowder, from &lt;a href=&#34;http://www.theppk.com/books/vegan-with-a-vengeance/&#34;&gt;Vegan with a Vengeance&lt;/a&gt;. You can use frozen corn, but I think it&amp;rsquo;s better if you use fresh. I made this the first time with my sweet corn harvest (see photos below). It was exciting to turn my lemon-ears (corn that most anyone else would have sent them to the compost bin) into chowder-ade! The soup has some nice heat, and the maple syrup gives it a slight contrasting sweetness.  And it&amp;rsquo;s easy to make. Serve with nice whole wheat bread, crackers, or salad.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Nutty Black Bean Carrot Veggie Burger</title>
-				<link>/veggie-burger/</link>
+				<link>//localhost:8000/veggie-burger/</link>
 				<pubDate>Sat, 25 Jul 2015 17:22:00 +0000</pubDate>
-				<guid>/veggie-burger/</guid>
+				<guid>//localhost:8000/veggie-burger/</guid>
 				<description>&lt;p&gt;Our perfect veggie burger from &lt;a href=&#34;http://ohsheglows.com/2011/07/13/our-perfect-veggie-burger/&#34;&gt;Oh She Glows&lt;/a&gt;. The nuts and seeds really make it, it&amp;rsquo;s crispy outside, and it stays together well. I&amp;rsquo;m not a big parsley fan, so I use fresh basil instead of parsley, but otherwise I follow the recipe pretty much exactly. I usually make them for summer bbqs, so I prebake them 15 minutes and then we grill them a few minutes outside. Makes 8 burgers; sometimes I double it to have leftovers.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Festive Chickpea Tart</title>
-				<link>/festive-chickpea-tart/</link>
+				<link>//localhost:8000/festive-chickpea-tart/</link>
 				<pubDate>Fri, 08 May 2015 17:29:00 +0000</pubDate>
-				<guid>/festive-chickpea-tart/</guid>
+				<guid>//localhost:8000/festive-chickpea-tart/</guid>
 				<description>&lt;p&gt;Judi made this tart from &lt;a href=&#34;http://plantpoweredkitchen.com/recipe-page/?recipe_id=6033817&#34;&gt;Plant-Powered Kitchen&lt;/a&gt; for Thanksgiving, and we loved it! It&amp;rsquo;s delicious with cranberry sauce on it, but super delicious on its own, too. This is my a slightly adapted version. Note the pie crusts come in 2, so you could double, or make a &lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/05/vegan-pumpkin-pie.html&#34;&gt;pumpkin pie&lt;/a&gt; with the other one! Serve with home-made cranberry sauce (recipe on the bag), &lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/04/roasted-vegetables.html&#34;&gt;roasted veggies&lt;/a&gt;, &lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html&#34;&gt;mashed cauliflower potatoes&lt;/a&gt;, and/or &lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/02/shredded-kale-salad-with-cranberry.html&#34;&gt;kale salad&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Soy Curls</title>
-				<link>/soy-curls/</link>
+				<link>//localhost:8000/soy-curls/</link>
 				<pubDate>Thu, 12 Mar 2015 03:30:00 +0000</pubDate>
-				<guid>/soy-curls/</guid>
+				<guid>//localhost:8000/soy-curls/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Q1th0ijRuY3stSAkLmeu6Xcr7QkVDF0NFutyjOMLsQxjZzITKMFjeBf9tjE77fbXHICV-cZfd1u97Zozj_JM5Buz_8O42b_LK7AzANN48ok1miCdoyGiV2ZC-4vEnYsgaF4k5_kQGaA/s1600/Photo-728841.jpg&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Q1th0ijRuY3stSAkLmeu6Xcr7QkVDF0NFutyjOMLsQxjZzITKMFjeBf9tjE77fbXHICV-cZfd1u97Zozj_JM5Buz_8O42b_LK7AzANN48ok1miCdoyGiV2ZC-4vEnYsgaF4k5_kQGaA/s320/Photo-728841.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;My friend Judi totally loves these &lt;a href=&#34;http://veryveryverygreen.blogspot.com/search?q=soy+curls&#34;&gt;soy curls&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I made her &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2014/06/vegan-umami.html&#34;&gt;vegan bacon&lt;/a&gt; version of these and liked them; Larry thought they were too sweet. Next time I&amp;rsquo;ll cut down the maple syrup.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Nutty Meatless Loaf</title>
-				<link>/nutty-meatless-loaf/</link>
+				<link>//localhost:8000/nutty-meatless-loaf/</link>
 				<pubDate>Sat, 21 Feb 2015 00:26:00 +0000</pubDate>
-				<guid>/nutty-meatless-loaf/</guid>
+				<guid>//localhost:8000/nutty-meatless-loaf/</guid>
 				<description>&lt;p&gt;Larry&amp;rsquo;s sister Laurie made this yummy dish for us. The chutney, garam masala, and nuts really make it. (Garam masala is a blend of spices such as nutmeg, cloves, cumin, cinnamon, cardamom, coriander, and pepper.) Bake in a glass pie plate; comes out really colorful and pretty. Makes 8 servings.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chipotle Mexican Lasagna</title>
-				<link>/chipotle-mexican-lasagna/</link>
+				<link>//localhost:8000/chipotle-mexican-lasagna/</link>
 				<pubDate>Sat, 21 Feb 2015 00:08:00 +0000</pubDate>
-				<guid>/chipotle-mexican-lasagna/</guid>
+				<guid>//localhost:8000/chipotle-mexican-lasagna/</guid>
 				<description>&lt;p&gt;A great recipe from &lt;a href=&#34;http://www.happyhealthylonglife.com/happy_healthy_long_life/2012/02/chorizo-lasagna.html&#34;&gt;Happy Healthy Long Life&lt;/a&gt; that&amp;rsquo;s easy to make. I&amp;rsquo;ve made some slight modifications, and&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2-3 medium sweet potatoes, peeled &amp;amp; sliced&lt;/li&gt;&#xA;&lt;li&gt;32 oz salsa (mix of mild &amp;amp; hot, or yummy Tomatillo &amp;amp; Hatch Chile from Costco)&lt;/li&gt;&#xA;&lt;li&gt;12 oz soyrizo - or even better &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/04/soyrizo.html&#34;&gt;homemade soyrizo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;12 oz package corn tortillas (12 count)&lt;/li&gt;&#xA;&lt;li&gt;15 oz can black beans&lt;/li&gt;&#xA;&lt;li&gt;1/2 package roasted frozen corn&lt;/li&gt;&#xA;&lt;li&gt;Ripe avocado, sliced&lt;/li&gt;&#xA;&lt;li&gt;Optional: Use kale or chard as middle layer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Preheat oven to 400 degrees&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Eggplant &amp; Zucchini Pasta</title>
-				<link>/eggplant-zucchini-bread-crumb-fettuccine/</link>
+				<link>//localhost:8000/eggplant-zucchini-bread-crumb-fettuccine/</link>
 				<pubDate>Sun, 08 Feb 2015 23:51:00 +0000</pubDate>
-				<guid>/eggplant-zucchini-bread-crumb-fettuccine/</guid>
+				<guid>//localhost:8000/eggplant-zucchini-bread-crumb-fettuccine/</guid>
 				<description>&lt;p&gt;Well, you don&amp;rsquo;t have to serve this with fettuccine; we serve it over &lt;a href=&#34;http://www.amazon.com/gp/product/B004TQPJP2/&#34;&gt;Garofalo whole wheat&lt;/a&gt; spaghetti or fusilli with &lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/02/marinara.html&#34;&gt;my homemade marinara&lt;/a&gt;.  This is recipe adapted from the wonderful cookbook &lt;a href=&#34;http://www.amazon.com/Isa-Does-It-Amazingly-Delicious/dp/0316221902&#34;&gt;Isa Does It&lt;/a&gt;. Isa&amp;rsquo;s recipes are so awesome. Her &lt;a href=&#34;http://www.theppk.com/&#34;&gt;Post Punk Kitchen&lt;/a&gt;blog is another great source of vegan recipes. Anyway, it&amp;rsquo;s very easy to make, and people seem to love it. It&amp;rsquo;s a great dinner meal to serve to non-vegans!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Marinara</title>
-				<link>/marinara/</link>
+				<link>//localhost:8000/marinara/</link>
 				<pubDate>Tue, 03 Feb 2015 06:48:00 +0000</pubDate>
-				<guid>/marinara/</guid>
+				<guid>//localhost:8000/marinara/</guid>
 				<description>&lt;p&gt;A colleague at work (Savitha) brought me a jar of her homemade marinara, and it was so delicious. I asked her how she made it, and talked with Judi about how she makes hers, and it&amp;rsquo;s so easy! And so much better than purchased. You just have to be around for a few hours as it cooks on the stove. But it smells lovely, so that&amp;rsquo;s not hard to do.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Classic (Vegan) Pesto</title>
-				<link>/classic-vegan-pesto/</link>
+				<link>//localhost:8000/classic-vegan-pesto/</link>
 				<pubDate>Sun, 11 Jan 2015 03:18:00 +0000</pubDate>
-				<guid>/classic-vegan-pesto/</guid>
+				<guid>//localhost:8000/classic-vegan-pesto/</guid>
 				<description>&lt;p&gt;Slightly adapted from the wonderful &lt;a href=&#34;http://www.theppk.com/books/vegan-with-a-vengeance/&#34;&gt;Vegan with a Vengeance&lt;/a&gt; cookbook, an easy, yummy vegan pesto. Larry had missed pesto; it&amp;rsquo;s so hard or impossible to find without cheese in it; we&amp;rsquo;ve purchase a few vegan versions, but they weren&amp;rsquo;t very good. This one is great. Serve it with whole-wheat pasta; we like &lt;a href=&#34;http://www.amazon.com/Garofalo-Fusilli-Whole-Wheat-16-Ounce/dp/B004TQR8AG&#34;&gt;Garofalo Fusilli&lt;/a&gt; or Spaghetti Whole Wheat Pasta. You can also serve it with fresh grated parmesan cheese on the side for non-vegans. See a &lt;a href=&#34;http://www.youtube.com/watch?v=1E8jN3O2iqM&#34;&gt;video demonstration&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 	</channel>
