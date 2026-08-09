@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bread on Peachy Keen Green</title>
-		<link>/categories/bread/</link>
+		<link>//localhost:8000/categories/bread/</link>
 		<description>Recent content in Bread on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,96 +12,96 @@
 		
 			<lastBuildDate>Fri, 02 Jan 2026 18:19:20 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/bread/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:8000/categories/bread/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Whole Wheat Bread</title>
-				<link>/whole-wheat-bread/</link>
+				<link>//localhost:8000/whole-wheat-bread/</link>
 				<pubDate>Fri, 26 Apr 2024 23:32:00 +0000</pubDate>
-				<guid>/whole-wheat-bread/</guid>
+				<guid>//localhost:8000/whole-wheat-bread/</guid>
 				<description>&lt;p&gt;When we visit Robert and Judy, we often get to sample Robert&amp;rsquo;s latest delicious homemade bread.  Robert shared with me the NYTimes recipe he follows for &lt;a href=&#34;https://www.nytimes.com/2006/12/06/dining/06mini.html&#34;&gt;no-knead bread&lt;/a&gt;. He &lt;a href=&#34;https://www.nytimes.com/2006/11/08/dining/081mrex.html?action=click&amp;amp;module=RelatedCoverage&amp;amp;pgtype=Article&amp;amp;region=Footer&#34;&gt;uses this recipe&lt;/a&gt;(also below, with whole wheat) with all whole-wheat flour, but suggested that I use some white flour the first time. I bought a 6 qt enamel dutch this week for this purpose, using it for the first time yesterday to make a yummy &lt;a href=&#34;https://peachykeengreen.blogspot.com/2024/04/mushroom-white-bean-gratin.html&#34;&gt;mushroom white bean gratin&lt;/a&gt;. Today I gave the bread a go. It turned out great! Definitely doing this again.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fig Banana Bread</title>
-				<link>/fig-banana-bread/</link>
+				<link>//localhost:8000/fig-banana-bread/</link>
 				<pubDate>Tue, 13 Sep 2022 15:07:00 +0000</pubDate>
-				<guid>/fig-banana-bread/</guid>
+				<guid>//localhost:8000/fig-banana-bread/</guid>
 				<description>&lt;p&gt;Larry is harvesting figs by the gallon. In the past I&amp;rsquo;ve made fig &lt;a href=&#34;https://peachykeengreen.blogspot.com/2020/09/fig-apple-compote.html&#34;&gt;pie, compote, and jam&lt;/a&gt;, and even &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/09/dried-figs.html&#34;&gt;dried figs&lt;/a&gt;. Yesterday I tried a f&lt;a href=&#34;https://www.thelittleepicurean.com/2019/08/fig-banana-bread.html&#34;&gt;ig banana bread&lt;/a&gt;with a few tweaks: whole wheat flour, less sugar, oil instead of butter, and added pecans. I had put just a few sliced figs on top, but then Larry layered on the figs so that every slice got some &amp;ndash; good call; that made it beautiful!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Almond Butter Chocolate Chip Oatmeal Cups</title>
-				<link>/almond-butter-chocolate-chip-oatmeal/</link>
+				<link>//localhost:8000/almond-butter-chocolate-chip-oatmeal/</link>
 				<pubDate>Sun, 14 Nov 2021 19:29:00 +0000</pubDate>
-				<guid>/almond-butter-chocolate-chip-oatmeal/</guid>
+				<guid>//localhost:8000/almond-butter-chocolate-chip-oatmeal/</guid>
 				<description>&lt;p&gt;Our pantry still has lots of oatmeal and almond butter from pandemic stockups. Looking for recipes to use up some of these ingredients, I came across these &lt;a href=&#34;https://thealmondeater.com/baked-almond-butter-oatmeal-cups/&#34;&gt;healthy almond butter baked oatmeal cups&lt;/a&gt;. Low in sugar, high in oatmeal, and super tasty! I didn&amp;rsquo;t change the recipe, am adding it to my blog to remember and share (and not have to do the endless scroll with ads&amp;ndash;the huge downside of most recipe sites. I&amp;rsquo;ll put up with ads the first time, but not a second time, if it&amp;rsquo;s blog worthy - and this is!)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lemon Cake or Bread</title>
-				<link>/lemon-cake/</link>
+				<link>//localhost:8000/lemon-cake/</link>
 				<pubDate>Mon, 21 Dec 2020 03:53:00 +0000</pubDate>
-				<guid>/lemon-cake/</guid>
+				<guid>//localhost:8000/lemon-cake/</guid>
 				<description>&lt;p&gt;It&amp;rsquo;s lemon season! When the frost comes they go bad, so Larry is bringing in scores of meyer lemons and limes. After success with &lt;a href=&#34;https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html&#34;&gt;key lime yogurt&lt;/a&gt;, I got a craving for lemon cake. Larry said yes, please! (And Sandy says lemon cake is one of her favorites - good to know!) I tried this &lt;a href=&#34;https://lovingitvegan.com/vegan-lemon-cake/&#34;&gt;loving it vegan recipe&lt;/a&gt;, and the cake was delish. The powdered-sugar frosting was sweeter than we liked, though. Then I tried a vegan cream cheese frosting from &lt;a href=&#34;https://www.veganricha.com/vegan-lemon-cake-with-cream-cheese-frosting/&#34;&gt;Vegan Richa&lt;/a&gt;, which was pretty good.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Persimmon Bread</title>
-				<link>/persimmon-bread/</link>
+				<link>//localhost:8000/persimmon-bread/</link>
 				<pubDate>Tue, 08 Dec 2020 20:33:00 +0000</pubDate>
-				<guid>/persimmon-bread/</guid>
+				<guid>//localhost:8000/persimmon-bread/</guid>
 				<description>&lt;p&gt;Pat and Allen shared at least a dozen persimmons with us from their bountiful harvest, along with their persimmon bread recipe. Here&amp;rsquo;s a slightly tweaked, vegan version of their bread; turned out yummy!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Blueberry Bran Muffins</title>
-				<link>/blueberry-bran-muffins/</link>
+				<link>//localhost:8000/blueberry-bran-muffins/</link>
 				<pubDate>Sat, 29 Aug 2020 18:28:00 +0000</pubDate>
-				<guid>/blueberry-bran-muffins/</guid>
+				<guid>//localhost:8000/blueberry-bran-muffins/</guid>
 				<description>&lt;p&gt;Oh my, these are delicious and healthy. This recipe is adapted from my favorite &lt;a href=&#34;https://www.theppk.com/books/isa-does-it/&#34;&gt;Isa Does It&lt;/a&gt; cookbook to use slightly less sugar and a couple other small tweaks. This makes a dozen; consider doubling so you can freeze some! You&amp;rsquo;ll eat a dozen way too quickly.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Spiced Roti</title>
-				<link>/muniras-roti/</link>
+				<link>//localhost:8000/muniras-roti/</link>
 				<pubDate>Fri, 01 May 2020 00:14:00 +0000</pubDate>
-				<guid>/muniras-roti/</guid>
+				<guid>//localhost:8000/muniras-roti/</guid>
 				<description>&lt;p&gt;Our friend Judy shared this &lt;a href=&#34;https://veganyumyum.com/2007/01/roti-for-two/index.html&#34;&gt;roti for two recipe&lt;/a&gt;with us, which just uses flour and water, and is very good! Munira adds some spice to her roti, and luckily, she shared her secrets with me in Whatsapp. I also searched to see what other spices people use in rot. So I&amp;rsquo;ve adapted the recipe (below) to include some optional spicing :)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Dough for Pita, Pizza, or Empanadas</title>
-				<link>/pizza-or-pita-dough/</link>
+				<link>//localhost:8000/pizza-or-pita-dough/</link>
 				<pubDate>Thu, 22 Mar 2018 18:47:00 +0000</pubDate>
-				<guid>/pizza-or-pita-dough/</guid>
+				<guid>//localhost:8000/pizza-or-pita-dough/</guid>
 				<description>&lt;p&gt;We like the Trader Joes Sprouted Whole-Grain Pizza Crust for this &lt;a href=&#34;http://peachykeengreen.blogspot.com/2018/02/crispy-thin-pizza-pizza.html&#34;&gt;homemade pizza&lt;/a&gt;, but I wanted to make my own for a Greek meza (photos below) with Yannis, Merche, John, &amp;amp; Elsa. Mom made homemade bread all the time, but I&amp;rsquo;ve never made a yeast dough. Judi says it&amp;rsquo;s easy; Nick makes dough for their pizzas all the time. Natalie did a science fair &lt;a href=&#34;http://thekcompanyblog.blogspot.com/2013/03/nats-experiment-for-science-fair.html&#34;&gt;experiment&lt;/a&gt; and found that adding sugar, honey, or maple syrup to the wet yeast made it rise more.  Judi says her favorite dough is whole wheat flour with a little maple syrup.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Apple, Banana, Apricot, Walnut &#34;Danger&#34; Bread</title>
-				<link>/apple-banana-apricot-walnut-danger-bread/</link>
+				<link>//localhost:8000/apple-banana-apricot-walnut-danger-bread/</link>
 				<pubDate>Wed, 03 Jan 2018 20:55:00 +0000</pubDate>
-				<guid>/apple-banana-apricot-walnut-danger-bread/</guid>
+				<guid>//localhost:8000/apple-banana-apricot-walnut-danger-bread/</guid>
 				<description>&lt;p&gt;Larry calls this &amp;ldquo;danger bread&amp;rdquo; because he can&amp;rsquo;t stop eating it :)&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dry:&lt;/li&gt;&#xA;&lt;li&gt;3 cups whole wheat flour&lt;/li&gt;&#xA;&lt;li&gt;1 tsp salt&lt;/li&gt;&#xA;&lt;li&gt;2 tsp baking soda&lt;/li&gt;&#xA;&lt;li&gt;1 cup walnut pieces&lt;/li&gt;&#xA;&lt;li&gt;Wet:&lt;/li&gt;&#xA;&lt;li&gt;3 medium bananas, mashed&lt;/li&gt;&#xA;&lt;li&gt;3 medium apples, chopped&lt;/li&gt;&#xA;&lt;li&gt;10 dried apricots, chopped&lt;/li&gt;&#xA;&lt;li&gt;1 cup sugar&lt;/li&gt;&#xA;&lt;li&gt;3 flax eggs (3 T flax meal, 9 T warm water)&lt;/li&gt;&#xA;&lt;li&gt;1 cup canola oil&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Make the flax eggs in a bowl; set aside to soak. Mash the bananas, chop the apples (I leave the skin on) and apricots, and mix them together.  Mix in the sugar, flax eggs, and oil. Then add the dry ingredients and walnuts. Stir until the flour is moistened.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Carrot Walnut Muffins</title>
-				<link>/carrot-walnut-muffins/</link>
+				<link>//localhost:8000/carrot-walnut-muffins/</link>
 				<pubDate>Mon, 01 May 2017 03:20:00 +0000</pubDate>
-				<guid>/carrot-walnut-muffins/</guid>
+				<guid>//localhost:8000/carrot-walnut-muffins/</guid>
 				<description>&lt;p&gt;Given our abundance of carrots, I decided to tweak my &lt;a href=&#34;http://peachykeengreen.blogspot.com/2015/01/zucchini-bread.html&#34;&gt;zucchini walnut bread&lt;/a&gt; recipe to make carrot muffins. I borrowed some ideas from the Carrot-Raisin muffin in Vegan with a Vengeance, replacing raisins with walnuts and tweaking other ingredients a bit. It has less oil, sugar, and flour than my zucchini walnut bread, and adds almond milk, nutmeg, and (optionally) coconut. I also saw a recipe for carrot cake that used pecans, coconut, and pineapple&amp;hellip; reminder to self to try adding pineapple sometime. Note: The first time I made this I used 1/2 C sugar and 1/2 C oil. They were delish. I tried reducing both to 1/4 C, and I think next time I&amp;rsquo;ll do 1/3 C (just right?)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Cornbread Muffins</title>
-				<link>/cornbread-muffins/</link>
+				<link>//localhost:8000/cornbread-muffins/</link>
 				<pubDate>Sat, 29 Apr 2017 03:24:00 +0000</pubDate>
-				<guid>/cornbread-muffins/</guid>
+				<guid>//localhost:8000/cornbread-muffins/</guid>
 				<description>&lt;p&gt;From &lt;a href=&#34;http://www.foodrepublic.com/recipes/vegan-cornbread-muffins-recipe/&#34;&gt;Isa Does It,&lt;/a&gt; with a few adaptations to replace the coconut oil and applesauce with coconut yogurt, and reduce the sugar a little (it&amp;rsquo;s plenty sweet). And it&amp;rsquo;s a good opportunity to use my new adorable teeny weeny &lt;a href=&#34;https://www.amazon.com/Pantry-Elements-Rectangular-Silicone-Baking/dp/B00ZYE43AA/&#34;&gt;silicone baking cup&lt;/a&gt;s. Makes about 12 teeny loaves (each about the size of a muffin).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Pumpkin Bread</title>
-				<link>/pumpkin-bread/</link>
+				<link>//localhost:8000/pumpkin-bread/</link>
 				<pubDate>Sat, 21 Feb 2015 00:20:00 +0000</pubDate>
-				<guid>/pumpkin-bread/</guid>
+				<guid>//localhost:8000/pumpkin-bread/</guid>
 				<description>&lt;p&gt;My mom&amp;rsquo;s recipe, with less sugar and whole wheat flour instead of white. Really easy to make, not overly sweet, and hard to stop eating! I like to make mini loafs to give as gifts. (Like for Judi. Her family loves this, yay!)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Zucchini Bread</title>
-				<link>/zucchini-bread/</link>
+				<link>//localhost:8000/zucchini-bread/</link>
 				<pubDate>Fri, 30 Jan 2015 06:41:00 +0000</pubDate>
-				<guid>/zucchini-bread/</guid>
+				<guid>//localhost:8000/zucchini-bread/</guid>
 				<description>&lt;p&gt;Mom&amp;rsquo;s easy recipe for zucchini bread, except with about half the sugar, using whole wheat flour, and with flax &amp;ldquo;eggs&amp;rdquo; to make it vegan (you can use regular eggs if you&amp;rsquo;re not vegan). Moist and delicious. Thanks, Mom!&lt;/p&gt;</description>
 			</item>
 	</channel>

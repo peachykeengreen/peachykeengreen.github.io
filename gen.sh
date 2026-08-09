@@ -78,8 +78,8 @@ fi
 
 if [ "$CLEAN" = true ]; then
   if [ -d "docs" ]; then
-    echo "🧹 Cleaning docs/ (preserving docs/images/, docs/css/, and docs/favicon.svg)..."
-    find docs -mindepth 1 ! -path 'docs/images*' ! -path 'docs/css*' ! -path 'docs/favicon.svg*' -delete 2>/dev/null || true
+    echo "🧹 Cleaning docs/ (preserving docs/css/ and docs/favicon.svg)..."
+    find docs -mindepth 1 ! -path 'docs/css*' ! -path 'docs/favicon.svg*' -delete 2>/dev/null || true
   fi
 fi
 

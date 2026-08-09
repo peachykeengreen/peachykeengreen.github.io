@@ -1,0 +1,30 @@
+---
+title: "3 Bean Salad"
+slug: "3-bean-salad"
+date: "2016-08-14T06:36:00.003Z"
+lastmod: "2016-08-14T06:45:46.636Z"
+draft: false
+categories: ["Side Dish"]
+aliases: ["/2016/08/3-bean-salad.html"]
+featured_image: "beans-of-3.jpg"
+description: "3 Bean Salad recipe."
+---
+
+A colleague of Larry's made this for a party at Pivotal about 3 weeks ago. So easy to make, and really good! The fresh tomatoes, onion, cilantro, and lemon really make it. I took it to our friend Munira's house tonight, and it paired nicely with grilled veggies. Her family ate it up, yay!
+
+## Ingredients
+
+- 1 can kidney beans
+- 1 can garbanzo beans
+- 1 can black beans
+- 3 tomatoes, chopped
+- 1/2 red onion, chopped
+- 1/4 cup olive oil (or more)
+- 1/4 cup red vinegar (or more)
+- 1 lemon, juiced
+- 3/4 - 1 cup cilantro, chopped
+- Salt and pepper to taste
+
+## Instructions
+
+[![](label.jpg)](label.jpg)Drain the beans and toss in a bowl. Add tomatoes, onion, and cilantro. Whip together the olive oil, vinegar, lemon juice, salt, and pepper, and add. Mix it all up. Season to taste. Eat!

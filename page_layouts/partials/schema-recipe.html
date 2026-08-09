@@ -1,7 +1,14 @@
 {{- if and .IsPage (ne .Slug "about") (ne .Slug "sources") -}}
 {{- $img := "" -}}
-{{- with .Params.featured_image -}}
-  {{- $img = . -}}
+{{- if .Params.featured_image -}}
+  {{- $res := .Resources.GetMatch .Params.featured_image -}}
+  {{- if $res -}}
+    {{- $img = $res.RelPermalink -}}
+  {{- else if hasPrefix .Params.featured_image "/" -}}
+    {{- $img = .Params.featured_image -}}
+  {{- else -}}
+    {{- $img = printf "%s%s" .RelPermalink .Params.featured_image -}}
+  {{- end -}}
 {{- end -}}
 
 {{- $desc := .Description -}}
