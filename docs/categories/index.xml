@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Peachy Keen Green</title>
-		<link>//localhost:8000/categories/</link>
+		<link>/categories/</link>
 		<description>Recent content in Categories on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -10,77 +10,77 @@
 		
 		
 		
-			<lastBuildDate>Wed, 15 Jul 2026 18:14:31 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 08 Aug 2026 21:24:05 -0700</lastBuildDate>
 		
-			<atom:link href="//localhost:8000/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Indian</title>
-				<link>//localhost:8000/categories/indian/</link>
+				<link>/categories/indian/</link>
 				<pubDate>Sat, 11 Jul 2026 04:19:04 +0000</pubDate>
-				<guid>//localhost:8000/categories/indian/</guid>
+				<guid>/categories/indian/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Soup</title>
-				<link>//localhost:8000/categories/soup/</link>
+				<link>/categories/soup/</link>
 				<pubDate>Sat, 07 Feb 2026 22:39:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/soup/</guid>
+				<guid>/categories/soup/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dessert</title>
-				<link>//localhost:8000/categories/dessert/</link>
+				<link>/categories/dessert/</link>
 				<pubDate>Mon, 19 Jan 2026 03:46:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/dessert/</guid>
+				<guid>/categories/dessert/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Side Dish</title>
-				<link>//localhost:8000/categories/side-dish/</link>
+				<link>/categories/side-dish/</link>
 				<pubDate>Wed, 20 Aug 2025 19:08:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/side-dish/</guid>
+				<guid>/categories/side-dish/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Entree</title>
-				<link>//localhost:8000/categories/entree/</link>
+				<link>/categories/entree/</link>
 				<pubDate>Thu, 14 Aug 2025 17:24:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/entree/</guid>
+				<guid>/categories/entree/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Salad</title>
-				<link>//localhost:8000/categories/salad/</link>
+				<link>/categories/salad/</link>
 				<pubDate>Thu, 14 Aug 2025 17:04:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/salad/</guid>
+				<guid>/categories/salad/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Breakfast</title>
-				<link>//localhost:8000/categories/breakfast/</link>
+				<link>/categories/breakfast/</link>
 				<pubDate>Wed, 31 Jul 2024 23:26:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/breakfast/</guid>
+				<guid>/categories/breakfast/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bread</title>
-				<link>//localhost:8000/categories/bread/</link>
+				<link>/categories/bread/</link>
 				<pubDate>Fri, 26 Apr 2024 23:32:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/bread/</guid>
+				<guid>/categories/bread/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sauce</title>
-				<link>//localhost:8000/categories/sauce/</link>
+				<link>/categories/sauce/</link>
 				<pubDate>Fri, 13 May 2022 20:28:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/sauce/</guid>
+				<guid>/categories/sauce/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Appetizer</title>
-				<link>//localhost:8000/categories/appetizer/</link>
+				<link>/categories/appetizer/</link>
 				<pubDate>Fri, 03 Jul 2020 19:03:00 +0000</pubDate>
-				<guid>//localhost:8000/categories/appetizer/</guid>
+				<guid>/categories/appetizer/</guid>
 				<description></description>
 			</item>
 	</channel>
