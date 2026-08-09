@@ -19,10 +19,28 @@ for arg in "$@"; do
       CLEAN=false
       shift
       ;;
+    --new)
+      NEW_TITLE="$2"
+      shift 2
+      ;;
     *)
       ;;
   esac
 done
+
+if [ -n "$NEW_TITLE" ]; then
+  SLUG=$(echo "$NEW_TITLE" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g' | sed -E 's/^-+|-+$//g')
+  echo "✨ Creating new article bundle: src/$SLUG/index.md"
+  hugo new "$SLUG/index.md"
+  # Override title in index.md with exact provided title
+  if [[ "$OSTYPE" == "darwin"* ]]; then
+    sed -i '' -E "s/^title: .*/title: \"$NEW_TITLE\"/" "src/$SLUG/index.md"
+  else
+    sed -i -E "s/^title: .*/title: \"$NEW_TITLE\"/" "src/$SLUG/index.md"
+  fi
+  echo "✅ Created src/$SLUG/index.md with title \"$NEW_TITLE\""
+  exit 0
+fi
 
 echo "=================================================="
 echo "🌱 Peachy Keen Green - Site Generator"

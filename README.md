@@ -29,25 +29,21 @@ Peachy Keen Green is a static site for Vegan Recipies that is built with [Hugo](
 
 Content is organized as Hugo Leaf Bundles under `src/`. Each recipe has its own folder containing `index.md` and its dedicated image files.
 
-To create a new Leaf Bundle article automatically:
+To create a new Leaf Bundle article directly from a title:
 
 ```bash
-hugo new foo-bar-baz/index.md
+./gen.sh --new "Foo Bar Baz"
 ```
 
-Hugo automatically creates the folder (`src/foo-bar-baz/`), sets `title: "Foo Bar Baz"` and `slug: "foo-bar-baz"`, and populates `index.md` using the default archetype template (`archetypes/default.md`).
+This automatically creates the slugified directory (`src/foo-bar-baz/`), sets `title: "Foo Bar Baz"` and `slug: "foo-bar-baz"`, and populates `index.md` using the default archetype template ([`archetypes/default.md`](archetypes/default.md)).
 
-Example directory: `src/foo-bar-baz/`
-- `index.md`
-- `foo-bar-baz-img-1.jpg`
-
-Example generated `src/foo-bar-baz/index.md`:
+Generated `src/foo-bar-baz/index.md` frontmatter:
 ```yaml
 ---
 title: "Foo Bar Baz"
 slug: "foo-bar-baz"
-date: 2026-08-09T13:46:55-07:00
-draft: false
+date: 2026-08-09T14:17:41-07:00
+draft: true
 categories: []
 description: ""
 featured_image: ""
@@ -74,22 +70,18 @@ To skip the clean step and build directly into `docs/`:
 ```
 
 ### Running the Hugo Local Development Server (`hugo server`)
-To preview the site locally on port 8080:
+
+To preview the site locally on port 8080, use the command below.
+
+To prevent Hugo from injecting the live reload auto-refresh script (`<script src="/livereload.js...">`) into HTML files during local preview, use the --renderToMemory option:
 
 ```bash
-hugo server --port 8080
-```
-
-To prevent Hugo from injecting the live reload auto-refresh script (`<script src="/livereload.js...">`) into HTML files during local preview:
-
-```bash
-hugo server --port 8080 --disableLiveReload
+hugo server --port 8080 --renderToMemory
 ```
 
 Useful flags:
 - Include draft posts: `hugo server --port 8080 -D`
 - Include future-dated posts: `hugo server --port 8080 --buildFuture`
-- Disable live reload script injection: `hugo server --port 8080 --disableLiveReload`
 
 The development server serves the site at `http://localhost:8080/` and watches `src/` and `page_layouts/` for updates.
 
