@@ -27,19 +27,30 @@ Peachy Keen Green is a static site for Vegan Recipies that is built with [Hugo](
 
 ## 2. Creating New Content
 
-The starting point for creating new content (recipes or posts) is adding a new `.md` file to `src/`.
+Content is organized as Hugo Leaf Bundles under `src/`. Each recipe has its own folder containing `index.md` and its dedicated image files.
 
-Example `src/my-new-recipe.md`:
+To create a new Leaf Bundle article automatically:
+
+```bash
+hugo new foo-bar-baz/index.md
+```
+
+Hugo automatically creates the folder (`src/foo-bar-baz/`), sets `title: "Foo Bar Baz"` and `slug: "foo-bar-baz"`, and populates `index.md` using the default archetype template (`archetypes/default.md`).
+
+Example directory: `src/foo-bar-baz/`
+- `index.md`
+- `foo-bar-baz-img-1.jpg`
+
+Example generated `src/foo-bar-baz/index.md`:
 ```yaml
 ---
-title: "My New Recipe"
-slug: "my-new-recipe"
-date: "2026-08-07T09:00:00-07:00"
-lastmod: "2026-08-07T09:00:00-07:00"
+title: "Foo Bar Baz"
+slug: "foo-bar-baz"
+date: 2026-08-09T13:46:55-07:00
 draft: false
-categories: ["Entree"]
-description: "A description of the recipe."
-featured_image: "/images/my-new-recipe-img-1.jpg"
+categories: []
+description: ""
+featured_image: ""
 ---
 
 Recipe content goes here in Markdown format.
@@ -63,17 +74,24 @@ To skip the clean step and build directly into `docs/`:
 ```
 
 ### Running the Hugo Local Development Server (`hugo server`)
-To preview the site locally with live reloading on port 8080:
+To preview the site locally on port 8080:
 
 ```bash
 hugo server --port 8080
 ```
 
+To prevent Hugo from injecting the live reload auto-refresh script (`<script src="/livereload.js...">`) into HTML files during local preview:
+
+```bash
+hugo server --port 8080 --disableLiveReload
+```
+
 Useful flags:
 - Include draft posts: `hugo server --port 8080 -D`
 - Include future-dated posts: `hugo server --port 8080 --buildFuture`
+- Disable live reload script injection: `hugo server --port 8080 --disableLiveReload`
 
-The development server serves the site at `http://localhost:8080/` and automatically watches `src/` and `page_layouts/` for live updates. Image assets live directly in `docs/images/` and CSS assets live in `docs/css/`, both preserved across `./gen.sh` builds.
+The development server serves the site at `http://localhost:8080/` and watches `src/` and `page_layouts/` for updates.
 
 ---
 
