@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
-# gen.sh - Rebuild Peachy Keen Green Hugo Website
+# gen.sh - Manage the Peachy Keen Green Website
 #
 # Usage:
-#   ./gen.sh           Clean docs/ (preserving static assets) and build static site
-#   ./gen.sh --no-clean Build static site without cleaning docs/
+#   ./gen.sh                  Clean docs/ and rebuild static site
+#   ./gen.sh --no-clean       Build static site without cleaning docs/
+#   ./gen.sh --new "My Title" Create a new article bundle in src/ with the given title
 
 set -e
 
