@@ -34,8 +34,6 @@ Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so
 
 ## Instructions
 
-[![](lemon-cake-2026-img-2.jpg)](lemon-cake-2026-img-2.jpg)
-
 Zest lemons into olive oil and set aside.
 
 Lightly oil two 8-inch cake pans and line the bottoms with parchment paper. Set aside.
@@ -51,3 +49,5 @@ Remove the cakes from the pans and place onto a wire cooling rack to cool comple
 Prepare the frosting by placing ingredients in an electric mixer. Start off at slow speed, gradually increasing speed until thick and smooth.
 
 Frost the cooled cakes and decorate with lemon zest.
+
+[![](lemon-cake-2026-img-2.jpg)](lemon-cake-2026-img-2.jpg)

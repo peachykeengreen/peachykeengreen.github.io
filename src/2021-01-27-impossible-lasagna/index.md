@@ -12,8 +12,6 @@ description: "Impossible Lasagna recipe."
 
 I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/lasagne-w-nooch-cheese/) a couple of weeks ago, and it was good, but didn't remind me much of classic lasagna, and Larry didn't like the nooch. So I made a mental note to try to make a classic lasagna with impossible beef and shredded vegan cheese. Two weeks later, my grad school friend Judy texts me: "Hey, there. Happy new year! Happy new administration! Just going through my old recipe binder and found (this)" -- a recipe for lasagna that I gave her back around 1990. Yay, I get to veganize my own recipe. Thank you, Judy! After a few tries, we decided the following was the ticket: biggest pan, less cheese, lots of noodles, a little extra marinara to help the noodles cook.
 
-##
-
 ## Ingredients
 
 - Sauce:
@@ -39,9 +37,9 @@ I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/la
 
 ## Instructions
 
-[![](IMG_9095.jpg)](IMG_9095.jpg)
-
 In a large pan or soup pot, saute onion, carrot, pepper flakes, and salt in oil for a few minutes. Add garlic and paprika (and mushrooms if using), and stir another minute. Add crumbled impossible burger and saute until it turns brown.
+
+[![](IMG_9095.jpg)](IMG_9095.jpg)
 
 Finally, add tomatoes, oregano, and basil, and simmer for 30 minutes. Turn off and let cool. If you want to finish the lasagna tomorrow, put it in a big bowl and refrigerate overnight.
 

@@ -29,7 +29,9 @@ I've tried to make beet burgers a few times, with just so-so results. Often they
 
 ## Instructions
 
-[![](IMG_0008.JPG)](IMG_0008.JPG)Tightly wrap beets in foil and roast in the oven (can do the day before) for about 45 minutes at 400 degrees. Let cool.
+Tightly wrap beets in foil and roast in the oven (can do the day before) for about 45 minutes at 400 degrees. Let cool.
+
+[![](IMG_0008.JPG)](IMG_0008.JPG)
 
 I waited to long (a month later) to write this down, and now I don't remember if (like [Chloe's recipe](http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html)), I used tempeh in this recipe when I created it! I did this recipe later with Cyndy and we did add tempeh, and it was good. If you want to add tempeh, steam it for 5 minutes, in microwave steamer or on the stove, and let cool.
 

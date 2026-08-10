@@ -38,7 +38,9 @@ several dashes fresh black pepper
 
 ## Instructions
 
-[![](IMG_5857.jpg)](IMG_5857.jpg)Precook veggies: Saute squash in oil, and add mushrooms after a few minutes. Remove and set aside in a bowl.
+Precook veggies: Saute squash in oil, and add mushrooms after a few minutes. Remove and set aside in a bowl.
+
+[![](IMG_5857.jpg)](IMG_5857.jpg)
 
 Saute the onions in oil with a pinch of salt until translucent, 4-5 minutes, over medium heat. Mix in the garlic and thyme and saute for 1 more minute.
 

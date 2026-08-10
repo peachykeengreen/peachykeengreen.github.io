@@ -1,6 +1,7 @@
 ---
 title: "About"
 slug: "about"
+type: "page"
 date: "2020-04-12T17:39:00Z"
 lastmod: "2026-08-07T21:56:57Z"
 draft: false

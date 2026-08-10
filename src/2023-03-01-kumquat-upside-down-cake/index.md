@@ -6,7 +6,7 @@ lastmod: "2024-02-12T17:06:40.873Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2023/03/kumquat-upside-down-cake.html"]
-featured_image: "cake.jpg"
+featured_image: "kumquat-upside-down-cake-img-1.jpg"
 description: "Upside Down Cake (Pineapple or Kumquat!) recipe."
 ---
 
@@ -37,10 +37,6 @@ Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Ma
 ## Instructions
 
 Preheat oven to 350ºF.
-
-##
-
-![Kumquat version](kumquat-upside-down-cake-img-1.jpg)
 
 Lightly grease the sides of a 9 or 10-inch cast iron skillet, then heat over medium-high heat and melt butter.  When butter is bubbling and just starts to brown, stir in brown sugar.
 
