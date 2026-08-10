@@ -37,19 +37,30 @@ To create a new Leaf Bundle article directly from a title:
 
 This automatically creates the slugified directory (`src/foo-bar-baz/`), sets `title: "Foo Bar Baz"` and `slug: "foo-bar-baz"`, and populates `index.md` using the default archetype template ([`archetypes/default.md`](archetypes/default.md)).
 
-Generated `src/foo-bar-baz/index.md` frontmatter:
+Generated `src/foo-bar-baz/index.md` output:
 ```yaml
 ---
 title: "Foo Bar Baz"
 slug: "foo-bar-baz"
-date: 2026-08-09T14:17:41-07:00
+date: 2026-08-09T22:59:54-07:00
 draft: true
 categories: []
 description: ""
 featured_image: ""
 ---
 
-Recipe content goes here in Markdown format.
+My amazing intro.
+
+<!-- ![foo-bar-baz](foo-bar-baz-1.jpg) -->
+
+## Ingredients
+
+- My first ingredient
+- My awesome next ingredient
+
+## Instructions
+
+My instructions.
 ```
 
 ---
