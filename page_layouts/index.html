@@ -13,8 +13,10 @@
   </div>
 
   <div class="recipe-grid" id="recipeGrid">
-    {{ range (where .Site.RegularPages "Type" "ne" "page") }}
-      {{ partial "recipe-card.html" . }}
+    {{ range .Site.RegularPages }}
+      {{ if ne .Params.slug "about" }}
+        {{ partial "recipe-card.html" . }}
+      {{ end }}
     {{ end }}
   </div>
 </section>

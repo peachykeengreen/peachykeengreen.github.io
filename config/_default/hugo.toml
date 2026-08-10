@@ -20,6 +20,14 @@ target = "content"
 source = "page_layouts"
 target = "layouts"
 
+[[module.mounts]]
+source = "static"
+target = "static"
+
+[[module.mounts]]
+source = "archetypes"
+target = "archetypes"
+
 
 
 [taxonomies]

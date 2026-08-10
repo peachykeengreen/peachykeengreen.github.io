@@ -1,11 +1,15 @@
 [
-  {{ range $index, $page := (where .Site.RegularPages "Type" "ne" "page") }}
-  {{ if $index }},{{ end }}
+  {{ $first := true }}
+  {{ range $index, $page := .Site.RegularPages }}
+  {{ if ne $page.Params.slug "about" }}
+  {{ if not $first }},{{ end }}
   {
     "title": {{ $page.Title | jsonify }},
     "permalink": {{ $page.RelPermalink | jsonify }},
     "categories": {{ $page.Params.categories | jsonify }},
     "summary": {{ $page.Summary | plainify | jsonify }}
   }
+  {{ $first = false }}
+  {{ end }}
   {{ end }}
 ]

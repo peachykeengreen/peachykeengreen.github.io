@@ -46,9 +46,9 @@ echo "=================================================="
 echo "🌱 Peachy Keen Green - Site Generator"
 echo "=================================================="
 
-# Auto-bump CSS version in config/_default/hugo.toml if docs/css/styles.css changed
-CSS_FILE="docs/css/styles.css"
-HASH_FILE="docs/css/.styles_hash"
+# Auto-bump CSS version in config/_default/hugo.toml if static/css/styles.css changed
+CSS_FILE="static/css/styles.css"
+HASH_FILE="static/css/.styles_hash"
 CONFIG_FILE="config/_default/hugo.toml"
 
 if [ -f "$CSS_FILE" ]; then
@@ -96,8 +96,8 @@ fi
 
 if [ "$CLEAN" = true ]; then
   if [ -d "docs" ]; then
-    echo "🧹 Cleaning docs/ (preserving docs/css/ and docs/favicon.svg)..."
-    find docs -mindepth 1 ! -path 'docs/css*' ! -path 'docs/favicon.svg*' -delete 2>/dev/null || true
+    echo "🧹 Cleaning docs/..."
+    rm -rf docs/*
   fi
 fi
 
