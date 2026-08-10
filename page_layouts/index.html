@@ -13,7 +13,7 @@
   </div>
 
   <div class="recipe-grid" id="recipeGrid">
-    {{ range .Site.RegularPages }}
+    {{ range (where .Site.RegularPages "Type" "ne" "page") }}
       {{ partial "recipe-card.html" . }}
     {{ end }}
   </div>

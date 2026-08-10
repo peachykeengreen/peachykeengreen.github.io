@@ -1,5 +1,5 @@
 window.allSiteRecipes = [
-  {{ range $i, $e := .Site.RegularPages }}{{ if $i }},{{ end }}"{{ $e.RelPermalink }}"{{ end }}
+  {{ range $i, $e := (where .Site.RegularPages "Type" "ne" "page") }}{{ if $i }},{{ end }}"{{ $e.RelPermalink }}"{{ end }}
 ];
 
 function pickRandomSiteRecipe(e) {

@@ -1,5 +1,5 @@
 [
-  {{ range $index, $page := .Site.RegularPages }}
+  {{ range $index, $page := (where .Site.RegularPages "Type" "ne" "page") }}
   {{ if $index }},{{ end }}
   {
     "title": {{ $page.Title | jsonify }},
