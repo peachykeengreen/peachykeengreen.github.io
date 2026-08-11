@@ -424,7 +424,7 @@
 				<link>/soy-curls/</link>
 				<pubDate>Thu, 12 Mar 2015 03:30:00 +0000</pubDate>
 				<guid>/soy-curls/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;Photo-728841.jpg&#34;&gt;&lt;img src=&#34;Photo-728841.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;My friend Judi totally loves these &lt;a href=&#34;http://veryveryverygreen.blogspot.com/search?q=soy+curls&#34;&gt;soy curls&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I made her &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2014/06/vegan-umami.html&#34;&gt;vegan bacon&lt;/a&gt; version of these and liked them; Larry thought they were too sweet. Next time I&amp;rsquo;ll cut down the maple syrup.&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;a href=&#34;Photo-728841.jpg&#34;&gt;&lt;figure class=&#34;recipe-figure&#34;&gt;&#xA;  &lt;a href=&#34;/soy-curls/Photo-728841.jpg&#34;&gt;&#xA;    &lt;img src=&#34;/soy-curls/Photo-728841.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&#xA;  &lt;/a&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;My friend Judi totally loves these &lt;a href=&#34;http://veryveryverygreen.blogspot.com/search?q=soy+curls&#34;&gt;soy curls&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I made her &lt;a href=&#34;http://veryveryverygreen.blogspot.com/2014/06/vegan-umami.html&#34;&gt;vegan bacon&lt;/a&gt; version of these and liked them; Larry thought they were too sweet. Next time I&amp;rsquo;ll cut down the maple syrup.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Nutty Meatless Loaf</title>
