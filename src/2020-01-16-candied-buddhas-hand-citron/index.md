@@ -41,9 +41,9 @@ Drain the citron through a sieve or colander, retaining the delicious syrup, whi
 
 Spread the citron on a cookie sheet lined with wax or parchment paper, scattering to separate the citron if possible. Allow to dry completely. move it around with a spatula occasionally. You might change the paper the next day to get rid of the excess sugar and speed the drying process. It can take 2-3 days to dry fully.
 
-[
+<!-- [
 
-](candied.jpg)
+](candied.jpg) -->
 When dry, store the candied citron in the refrigerator and use in baking or as candy. The syrup is delicious poured over vanilla ice cream.
 
 Thanks, Pat & Allen!

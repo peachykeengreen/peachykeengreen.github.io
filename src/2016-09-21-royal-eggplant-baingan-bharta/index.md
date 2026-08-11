@@ -10,12 +10,6 @@ featured_image: "bengan.jpg"
 description: "Royal Eggplant (Baingan Bharta) recipe."
 ---
 
-[
-](bengan.jpg)[
-](bengan.jpg)[
-](bengan.jpg)[
-](bengan.jpg)[
-](bengan.jpg)
 Another recipe adapted from a recipe in [The Indian Vegetarian](https://www.blogger.com/#) cookbook by Neelam Batra (see also the [diced potatoes and tomatoes](https://www.blogger.com/#) recipe). The original calls for 4 jalapenos (!!). I use one medium jalapeno; any more and we can barely eat it, it's so spicy. Shown here with Munira's yummy roti!
 
 ## Ingredients

@@ -10,8 +10,6 @@ featured_image: "hummus.jpg"
 description: "Hummus recipe."
 ---
 
-[**](hummus.jpg)
-
 This is a thick, yummy homemade hummus slightly adapted from [Judi's hummus.](http://veryveryverygreen.blogspot.com/2012/12/garbanzo-bean-hummus.html) For the two of us, I halve her recipe, don't use as much salt, and don't use any olive oil (it doesn't need it). Serve with pita chips or sourdough baguette. Eat it up in a day or two while it's still fresh!
 
 ## Ingredients

@@ -36,6 +36,4 @@ Rolled in oat flour (grind some oats in the food processor and roll!)
 
 {{< figure src="cherry-bites-oat-flour.jpg" alt="" caption="" >}}
 
-{{< figure src="cherry-bites-food-processor.jpg" alt="" caption="" >}}[
-](cherry-bites-food-processor.jpg)[
-](cherry-bites-food-processor.jpg)
+{{< figure src="cherry-bites-food-processor.jpg" alt="" caption="" >}}

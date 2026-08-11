@@ -78,15 +78,4 @@ If using tofu: Drain tofu and put in a food processor with remaining ingredients
 
 Make the red pepper relish: Saute the pepper and onion 5 minutes in oil. Add garlic, red pepper flakes, salt, and mustard, and saute another 3 minutes. Add sugar and vinegar, bring to a simmer, and cook for 10 minutes until most of the liquid is absorbed. Let cool & serve with quiche!
 
-With red pepper relish:
-
-{{< figure src="quiche.png" alt="" caption="" >}}
-
-Tofu version:
-
-{{< figure src="doublequiche.jpg" alt="" caption="" >}}[
-](doublequiche.jpg)[
-](doublequiche.jpg)
-[
-](blogger_img_4f982372ea.jpg)[
-](blogger_img_4f982372ea.jpg)
+{{< figure src="quiche.png" alt="With red-pepper relish" caption="With red-pepper relish" >}}{{< figure src="doublequiche.jpg" alt="Tofu version" caption="Tofu version" >}}

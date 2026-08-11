@@ -33,9 +33,6 @@ Warm a crepe pan on medium heat. Pour about 1/2 C of the batter on the center of
 
 {{< figure src="lentil-dosa-img-3.jpg" alt="" caption="" >}}
 
-[
-](blogger_img_7548e469f5.jpg)
-
 Making the batter: Rinse and soak!
 
 {{< figure src="lentil-dosa-img-4.jpg" alt="" caption="" >}}

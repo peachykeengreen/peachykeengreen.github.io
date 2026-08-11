@@ -34,8 +34,8 @@ I'm not sure that I'll do this again, so decided not to make a separate post for
 
 Still, it's great spooned into my [homemade yogurt](https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html) or spooned onto toast. We'll enjoy what we have, and it is kinda cool storing them in the pantry instead of filling the freezer. But I think I'll return to "freezer" jam/compote/sauce for the future -- and just give away jars frequently so they don't fill my freezer. I usually do that, but it's been a little harder to give away in COVID times, as we're not socializing as much. This time next year hopefully things will be different.
 
-{{< figure src="IMG_6910.jpg" alt="" caption="" >}}{{< figure src="jam-sugar.jpg" alt="" caption="" >}}[ ](IMG_6910.jpg)
+{{< figure src="IMG_6910.jpg" alt="" caption="" >}}{{< figure src="jam-sugar.jpg" alt="" caption="" >}}
 
 {{< figure src="IMG_6912.jpg" alt="" caption="" >}}{{< figure src="wipe.jpg" alt="" caption="" >}}
 
- {{< figure src="IMG_6935.jpg" alt="" caption="" >}}{{< figure src="jam.jpg" alt="" caption="" >}}[ ](IMG_6935.jpg)
+ {{< figure src="IMG_6935.jpg" alt="" caption="" >}}{{< figure src="jam.jpg" alt="" caption="" >}}<

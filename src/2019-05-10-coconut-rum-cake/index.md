@@ -79,11 +79,6 @@ If using  bundt pan, let the cake sit at least 10 minutes and then invert it on
 
 Use a knife to make several holes in the top. With a spoon, slowly spoon half the glaze all around the top slowly, so that it has time to sink in.  If decorating with roasted walnuts, poke them into the holes and then use up rest of glaze.
 
-Serve when cool! Nice with (vegan) ice cream.
+Serve when cool! Nice with ice cream.
 
-Vanilla coconut (left) & chocolate walnut (right).
-
-{{< figure src="choc.jpg" alt="" caption="" >}}{{< figure src="IMG_2193.jpg" alt="" caption="" >}}
-
-[
-](IMG_2193.jpg)
+{{< figure src="choc.jpg" alt="Vanilla coconut" caption="Vanilla coconut" >}}{{< figure src="IMG_2193.jpg" alt="Chocolate walnut" caption="Chocolate walnut" >}}

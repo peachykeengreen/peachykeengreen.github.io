@@ -62,5 +62,4 @@ and with zucchini and fancy mushrroms and white wine:
 
 {{< figure src="IMG_5851.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5852.jpg" alt="" caption="" >}}[
-](IMG_5852.jpg)
+{{< figure src="IMG_5852.jpg" alt="" caption="" >}}

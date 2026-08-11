@@ -75,7 +75,6 @@ Keep leftovers covered in the fridge, if there are any. It is also freezer frien
 
 Making the cake with fresh pineapple, and with the help of my new 10" cast-iron skillet and bicep guy:
 
-
 {{< figure src="kumquat-upside-down-cake-img-4.jpg" alt="" caption="" >}}
 
 {{< figure src="kumquat-upside-down-cake-img-5.jpg" alt="" caption="" >}}

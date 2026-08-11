@@ -14,11 +14,6 @@ Our friend Judy shared this [roti for two recipe](https://veganyumyum.com/2007/0
 
 ## Ingredients
 
-##
-[
-
-](roti.png)
-
 1 1/2 C whole wheat flour
 
 3/4 C water
