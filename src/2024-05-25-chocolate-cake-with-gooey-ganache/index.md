@@ -44,9 +44,9 @@ Preheat oven to 350 degrees.
 
 Whisk together the almond milk and vinegar in a large bowl, and set aside to curdle.
 
-[![](cakebeforeganache.jpg)](cakebeforeganache.jpg)
+![](cakebeforeganache.jpg)
 
-[![](cakewithganache.jpg)](cakewithganache.jpg)
+![](cakewithganache.jpg)
 
 Optional: Zest one orange into the oil and set aside to let it infuse. (This is really good!)
 
@@ -66,5 +66,4 @@ If making ganache, let it cool for about 15 minutes, and pour it on to drip into
 
 For frosting (uses more milk): let it cool completely and spread it on an hour later with a knife.
 
-[![](chocolate-cake-with-gooey-ganache-img-2.jpg)](chocolate-cake-with-gooey-ganache-img-2.jpg)
-<div class="img-caption">For Judi's 50th in 2019<br>(Judi doesn't like oranges, so no zest in this version!)</div>
+![For Judi's 50th in 2019<br>(Judi doesn't like oranges, so no zest in this version!)](chocolate-cake-with-gooey-ganache-img-2.jpg)
