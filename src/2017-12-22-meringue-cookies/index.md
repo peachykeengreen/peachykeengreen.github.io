@@ -39,7 +39,7 @@ Bake for 1.5-2 hours (a long time, I know!) Turn off the oven, open the door, an
 
 {{< figure src="meringue-mix.jpg" alt="" caption="" >}}
 
- Beet juice makes a great, healthy red dye!
+Beet juice makes a great, healthy red dye!
 
 {{< figure src="meringue-sheet.jpg" alt="" caption="" >}}
 

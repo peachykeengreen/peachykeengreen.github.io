@@ -23,8 +23,7 @@ This recipe is adapted from a [vegetable chili con carne in Jane Brody's Good Fo
 - 2 large carrots, chopped
 - 2 potatoes, chopped
 - 28 oz can diced tomatoes
-- (opt.) 2 cups broccoli, chopped
-   -or- 2 cups chopped greens
+- (opt.) 2 cups broccoli, chopped (or 2 cups chopped greens)
 - (opt.) 1 cup corn (add late)
 - 2+ cups cooked beans (any mix of kidney, pinto, fava, or xmas beans)
 - Spices (almost double for big pot)

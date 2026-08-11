@@ -44,7 +44,7 @@ On the other baking sheet, toss the bell pepper, and zucchini squash with 1 tabl
 
 Place the eggplant pan on the middle rack and the other vegetables on the top rack. Set the timer for 15 minutes.
 
- Meanwhile, saute onion, ¼ teaspoon salt, and hot pepper. Cook, stirring occasionally, until the onion is tender and caramelizing on the edges, about 8 to 10 minutes.
+Meanwhile, saute onion, ¼ teaspoon salt, and hot pepper. Cook, stirring occasionally, until the onion is tender and caramelizing on the edges, about 8 to 10 minutes.
 
 Add the garlic, stir, and cook until fragrant, about 30 seconds. Add the tomatoes, stir. Reduce the heat to medium-low, or as necessary to maintain a gentle simmer.
 

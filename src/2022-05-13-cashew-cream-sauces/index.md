@@ -41,6 +41,6 @@ Put ingredients in blender and blend until smooth. (I use a small ninja single-s
 Baked yams on a bed of sautéed chard tossed with a pinch of salt and lime juice,
 topped with spicy cashew sauce and cashew pieces:{{< figure src="IMG_1793.jpg" alt="" caption="" >}}
 
- Smokey portabello tacos with jalapeno cashew sauce:
+Smokey portabello tacos with jalapeno cashew sauce:
 
 {{< figure src="IMG_1821.jpg" alt="" caption="" >}}

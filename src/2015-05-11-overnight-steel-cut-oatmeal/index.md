@@ -26,7 +26,7 @@ A wonderful chocolate oatmeal, or make it plain with maple and brown sugar. I fo
 ### Plain Version
 
 - 2 T brown sugar
-*I use more water, less almond milk here
+- *I use more water, less almond milk here
 
 ### Toppings
 

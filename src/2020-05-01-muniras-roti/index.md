@@ -14,27 +14,19 @@ Our friend Judy shared this [roti for two recipe](https://veganyumyum.com/2007/0
 
 ## Ingredients
 
-1 1/2 C whole wheat flour
+- 1 1/2 C whole wheat flour
+- 3/4 C water
+- 1/2 tsp salt
 
-3/4 C water
+### Optional Spices (mix and Match)
 
-1/2 tsp salt
-
-optional spices (mix and match)
-
-1 tsp cumin seeds or 1/2 tsp cumin powder
-
-1 tsp roasted flax seeds of flax meal
-
-1/2 tsp garam masala (or other curry powder)
-
-1/2 tsp turmeric
-
-1/2 tsp fenugreek (if not using leaves, below)
-
-2 T fenugreek leaves or cilantro leaves
-
-1/2 small red onion, finely chopped
+- 1 tsp cumin seeds or 1/2 tsp cumin powder
+- 1 tsp roasted flax seeds of flax meal
+- 1/2 tsp garam masala (or other curry powder)
+- 1/2 tsp turmeric
+- 1/2 tsp fenugreek (if not using leaves, below)
+- 2 T fenugreek leaves or cilantro leaves
+- 1/2 small red onion, finely chopped
 
 ## Instructions
 

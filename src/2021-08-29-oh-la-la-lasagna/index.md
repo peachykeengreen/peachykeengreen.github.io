@@ -43,11 +43,8 @@ Make the ricotta: Saute onion 5-7 minutes until soft.  Let cool. In a food proc
 Assemble the lasagna:
 
 - Spread a thin layer of sauce on the bottom of your pan.
-
 - Arrange 4 lasagna noodles across the pan.  Spread half of the Garden Ricotta over the noodles.  Layer half of the spinach and mushrooms (and zucchini, if using) over the Garden Ricotta.
-
 - Arrange 4 more noodles on top of the spinach layer.  Spread another layer of sauce over the noodles, and then arrange 4 more noodles on top--and then top the noodles with another layer of sauce.  Yep, that's the weird part.  Noodles, sauce, noodles, sauce.
-
 - Finally, spread the remaining Garden Ricotta on top of the sauce layer.  Top the Ricotta with the remaining raw spinach and mushrooms (and zucchini, if using).  Now finish with final layer of 4 noodles--and top the noodles with the remaining sauce.
 
 Cover the lasagna pan with foil and bake at 375 degrees for about 45 minutes or until the noodles are cooked and the sauce is hot & bubbly.  Remove from the oven & let it sit for about 10 minutes before serving.

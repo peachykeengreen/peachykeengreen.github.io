@@ -14,7 +14,7 @@ I like making pies, including
 [tofu quiche](https://peachykeengreen.blogspot.com/2020/04/mushroom-leek-quiche-with-red-pepper.html)
 and
 
- [fruit pie](https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html) and
+[fruit pie](https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html) and
 [pumpkin pie](http://peachykeengreen.blogspot.com/2015/05/vegan-pumpkin-pie.html).
 
 Good pie crust is hard to make, though. I buy

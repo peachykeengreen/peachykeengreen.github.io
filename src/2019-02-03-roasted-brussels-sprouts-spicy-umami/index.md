@@ -14,34 +14,23 @@ Judi's [sriracha brussels](https://peachykeengreen.blogspot.com/2016/11/spicy-r
 
 ## Ingredients
 
-1.5 pounds brussels sprouts, halved
-2 garlic cloves, chopped
+- 1.5 pounds brussels sprouts, halved
+- 2 garlic cloves, chopped
+- 1/3 cup umami sauce (see below)
+- 2 T extra-virgin olive oil
+- 2 T fresh squeezed lemon
+- 1/2 tsp grated lemon zest
+- 1/4 tsp salt
+- 1/4 tsp freshly ground black pepper
 
-1/3 cup umami sauce (see below)
+### Umami Sauce (Dr. Weil's Recipe)
 
-2 T extra-virgin olive oil
-
-2 T fresh squeezed lemon
-
-1/2 tsp grated lemon zest
-
-1/4 tsp salt
-
-1/4 tsp freshly ground black pepper
-
-* Buy umami paste or spice at TJs, or use [Dr. Weil's umami recipe](https://www.drweil.com/diet-nutrition/recipes/umami-sauce/):
-
-2 T apple cider vinegar
-
-2 T tamari (low sodium)
-
-1/2 C nutritional yeast
-
-1/2 C olive oil
-
-1/4 cup water
-
-3 cloves garlic, mashed
+- 2 T apple cider vinegar
+- 2 T tamari (low sodium)
+- 1/2 C nutritional yeast
+- 1/2 C olive oil
+- 1/4 cup water
+- 3 cloves garlic, mashed
 
 ## Instructions
 

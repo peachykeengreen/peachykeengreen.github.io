@@ -14,63 +14,41 @@ I came home from Nebraska to a couple of bunches of celery in the fridge that ne
 
 ## Ingredients
 
-1.5 C tempeh or firm tofu, cubed in small chunks
+- 1.5 C tempeh or firm tofu, cubed in small chunks
 
 ### Marinade
 
-1 T soy sauce
-
-1 T lemon
-
-3 T water
-
-1/4 tsp garlic powder
-
-1/4 tsp black pepper
-
-1/4 tsp onion pwd
-
-1/4 tsp smoke paprika
-
-2 T corn flour or cornmeal
+- 1 T soy sauce
+- 1 T lemon
+- 3 T water
+- 1/4 tsp garlic powder
+- 1/4 tsp black pepper
+- 1/4 tsp onion pwd
+- 1/4 tsp smoke paprika
+- 2 T corn flour or cornmeal
 
 ### Saute
 
-1 T canola oil
-
-1 inch ginger, finely chopped
-
-1 hot pepper OR red pepper flakes
-
-1/2 onion, chopped
-
-Add a variety of veggies, such as:
-
-8 cloves garlic, chopped
-
-1 C celery, chopped
-
-1 C carrot, chopped
-
-1 C red pepper, chopped
-
-1 C cabbage, chopped
-
-1/2 C raw or dry roasted cashews (optional)
+- 1 T canola oil
+- 1 inch ginger, finely chopped
+- 1 hot pepper OR red pepper flakes
+- 1/2 onion, chopped
+- Add a variety of veggies, such as:
+- 8 cloves garlic, chopped
+- 1 C celery, chopped
+- 1 C carrot, chopped
+- 1 C red pepper, chopped
+- 1 C cabbage, chopped
+- 1/2 C raw or dry roasted cashews (optional)
 
 ### Stir Fry Sauce
 
-1 tsp black pepper
-
-1 T soy sauce
-
-2 T water
-
-1 T maple syrup
-
-1 tsp rice vinegar
-
-Optional: Add a little commercial stir fry sauce at the end, like TJ's General Tsao
+- 1 tsp black pepper
+- 1 T soy sauce
+- 2 T water
+- 1 T maple syrup
+- 1 tsp rice vinegar
+- Optional: Add a little commercial stir fry sauce at the end, like TJ's General Tsao
 
 ## Instructions
 

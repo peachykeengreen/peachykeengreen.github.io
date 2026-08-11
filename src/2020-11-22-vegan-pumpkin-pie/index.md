@@ -15,12 +15,13 @@ description: "Vegan Pumpkin Pie recipe."
 ](https://www.blogger.com/#)
 
 ##
+
 A super easy, yummy vegan pumpkin pie, great for using up that 2-pack of Wholly Wholesome pie crust (use the other one for the
 
 [Festive Chickpea Tart](https://www.blogger.com/#)
 ).
 
- I've tried a few vegan pumpkin pie recipes. I used to use tofu, but am moving away from that; now doing something closer to this [minimalist baker](https://minimalistbaker.com/vegan-gluten-free-pumpkin-pie/) recipe.
+I've tried a few vegan pumpkin pie recipes. I used to use tofu, but am moving away from that; now doing something closer to this [minimalist baker](https://minimalistbaker.com/vegan-gluten-free-pumpkin-pie/) recipe.
 
 ## Ingredients
 
@@ -46,7 +47,7 @@ Preheat oven to 350 degrees.
 
 Put all the ingredients in a food processor and blend a couple minutes until smooth.
 
- Pour into the pie shell and bake 1 hour at 350 degrees. Check at 30 minutes; if the crust starts to burn, cover the crust with a pie shield.
+Pour into the pie shell and bake 1 hour at 350 degrees. Check at 30 minutes; if the crust starts to burn, cover the crust with a pie shield.
 
 After an hour, the middle may still look jiggly; that's normal. (Sometimes I bake it an extra 5-10 minutes, but that's the max.) Remove and let cool at room temperature for 30 minutes. Cover and refrigerate at least 2 hours or overnight.
 

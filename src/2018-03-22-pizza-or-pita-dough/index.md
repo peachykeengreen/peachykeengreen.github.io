@@ -19,11 +19,11 @@ mostly following the recipe for
 [greek pita recipe](https://www.halfbakedharvest.com/traditional-greek-pita-bread/)
 . We made
 [pizza the greek way](https://www.williams-sonoma.com/recipe/pizza-with-caramelized-red-onions-olives-and-feta-cheese.html)
- with red onion, capers, oregano, and kalamata olives, and Yannis brought feta. We also had a meza of
+with red onion, capers, oregano, and kalamata olives, and Yannis brought feta. We also had a meza of
 [stewed okra](https://www.thespruce.com/stewed-greek-okra-1706417)
- in tomato sauce,
+in tomato sauce,
 [greek fava](http://www.mygreekdish.com/recipe/authentic-greek-fava-recipe-yellow-split-peas-puree/)
- hummus, and
+hummus, and
 [stuffed eggplant](http://www.geniuskitchen.com/recipe/imam-bayildi-a-stuffed-eggplant-recipe-from-asia-minor-84776)
 , which we ate with pita made from the dough. I used the leftovers to make empanadas with the leftovers (see photos below).
 
@@ -65,7 +65,7 @@ Place in pan, and **flip after 30 seconds or a minute, when you see bubbles star
 
 Photos, below.
 
- {{< figure src="IMG_8951.JPG" alt="" caption="" >}}{{< figure src="IMG_8952.jpg" alt="" caption="" >}}
+{{< figure src="IMG_8951.JPG" alt="" caption="" >}}{{< figure src="IMG_8952.jpg" alt="" caption="" >}}
 
 After an hour, it doubled in size and I put it in the fridge, where it got a little bigger yet. Then that evening I took it out and made pita.
 

@@ -44,7 +44,7 @@ Wash the eggplant and poke holes in it with a fork. Bake in 400 degree oven for 
 
 {{< figure src="eggplant1.jpg" alt="" caption="" >}}
 
- Saute cumin seeds in oil until they sizzle. Stir in garlic and ginger, then onion and pepper. Cook, stirring occasionally, until the onions are golden, 5-7 minutes.
+Saute cumin seeds in oil until they sizzle. Stir in garlic and ginger, then onion and pepper. Cook, stirring occasionally, until the onions are golden, 5-7 minutes.
 
 Add the tomato and cilantro, and cook until liquid from the tomato evaporates, another 10 minutes. Mix in the spices, then add the mashed eggplant. Add fresh peas if using them.
 

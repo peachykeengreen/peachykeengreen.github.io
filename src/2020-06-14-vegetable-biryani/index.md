@@ -39,10 +39,8 @@ Munira gave me a huge bag of dry rice, and I decided to try to make a biryani in
 - 2 cloves or 1/4 tsp powder
 - 1 bay leaf
 - 4 T raw cashews
-
-1.5 C rice
-
-2 C water
+- 1.5 C rice
+- 2 C water
 
 ## Instructions
 

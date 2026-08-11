@@ -38,4 +38,4 @@ Still, it's great spooned into my [homemade yogurt](https://peachykeengreen.blog
 
 {{< figure src="IMG_6912.jpg" alt="" caption="" >}}{{< figure src="wipe.jpg" alt="" caption="" >}}
 
- {{< figure src="IMG_6935.jpg" alt="" caption="" >}}{{< figure src="jam.jpg" alt="" caption="" >}}<
+{{< figure src="IMG_6935.jpg" alt="" caption="" >}}{{< figure src="jam.jpg" alt="" caption="" >}}<

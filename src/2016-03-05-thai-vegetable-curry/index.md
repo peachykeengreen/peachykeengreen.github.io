@@ -14,7 +14,7 @@ I've made many veggie curries with Trader Joes bottled curry sauce, and they're 
 
 ## Ingredients
 
-[Blue Elephant Royal Thai Yellow Curry](http://www.amazon.com/Blue-Elephant-Royal-Thai-Cuisine/dp/B00DJPRSBW) paste (or similar)
+- [Blue Elephant Royal Thai Yellow Curry](http://www.amazon.com/Blue-Elephant-Royal-Thai-Cuisine/dp/B00DJPRSBW) paste (or similar)
 - 1 can coconut cream
 - Fresh ginger (optional)
 - Olive oil

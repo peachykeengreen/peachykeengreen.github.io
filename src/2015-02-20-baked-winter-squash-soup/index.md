@@ -32,10 +32,10 @@ Cut the squash in half or thirds, scoop out the seeds.
 
 Roast the veggies: bake squash and other veggies (onion, carrot) for 1 hour at 350 degrees. (I bake on a silicon sheet with a little olive oil on the sheet, squash face down). Remove from oven and let cool. You can store it in the refrigerator for a day or two, if desired, and finish making soup later.
 
- In a large soup pot, add the pepper, ginger, butter, onion, carrots, and cook over medium heat a few minutes. Add brown sugar and cook a little longer to caramelize a bit.
+In a large soup pot, add the pepper, ginger, butter, onion, carrots, and cook over medium heat a few minutes. Add brown sugar and cook a little longer to caramelize a bit.
 
- Add stock, nutmeg, curry, salt, and squash. When I use a thin-skinned green squash like buttercup or kabocha, I leave the skin on (just cut off stems or blemishes, if any); the skin has tons of nutrients! And like it thick, so I usually no more than 5 cups stock.
+Add stock, nutmeg, curry, salt, and squash. When I use a thin-skinned green squash like buttercup or kabocha, I leave the skin on (just cut off stems or blemishes, if any); the skin has tons of nutrients! And like it thick, so I usually no more than 5 cups stock.
 
- Stir well and bring to boil. Reduce the heat and simmer, uncovered, for 10 minutes.
+Stir well and bring to boil. Reduce the heat and simmer, uncovered, for 10 minutes.
 
- Puree the soup with a hand blender (or food processor or regular blender). Taste and adjust seasonings, and serve.
+Puree the soup with a hand blender (or food processor or regular blender). Taste and adjust seasonings, and serve.

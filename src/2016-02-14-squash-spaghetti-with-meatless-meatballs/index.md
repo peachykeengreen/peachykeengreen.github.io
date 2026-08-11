@@ -15,7 +15,7 @@ A new twist on pasta from Larry's sister Cyndy. Delicious and super healthy. Her
 ## Ingredients
 
 - 4 zucchini squash
-[homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html) (with onion and mushroom to make it thicker)
+- [homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html) (with onion and mushroom to make it thicker)
 - TJ's meatless meatballs
 
 ## Instructions

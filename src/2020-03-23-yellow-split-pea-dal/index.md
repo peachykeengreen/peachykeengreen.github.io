@@ -14,39 +14,30 @@ Loving my [Vegan Richa](https://www.veganricha.com/)'s Indian Kitchen cookbook. 
 
 ## Ingredients
 
-### 3 C Mix of Dry Lentils with Similar Cooking Time
-
+- 3 C dry lentils (can be a mix of different lentils if they have similar cooking time)
 - split pigeon pea (>= 1 C)
 - chana dal (< 1 C)
 - moong dal (< 1 C)
 - red lentils (less cooking time)
-- 5+ cups water for cooking)
+- 5+ cups water for cooking
 - 2 T canola oil
 - 1 T cumin seeds
 - 2 tsp mustard seed
 - 2 cups chopped red onion
 - 1-2 green or red chiles, chopped
 - 10 cloves garlic, chopped
-
-1.5 inch knob ginger, chopped
-
-1.5 tsp turmeric
-
-1.5 tsp coriander
-
-1.5 tsp garam masala
-
-4 tomatoes, chopped (or 1 can diced)
-
-1 tsp salt
+- 1.5 inch knob ginger, chopped
+- 1.5 tsp turmeric
+- 1.5 tsp coriander
+- 1.5 tsp garam masala
+- 4 tomatoes, chopped (or 1 can diced)
+- 1 tsp salt
 
 ### Garnish
 
-fresh chopped cilantro
-
-fresh chopped mint
-
-lemon juice
+- fresh chopped cilantro
+- fresh chopped mint
+- lemon juice
 
 ## Instructions
 

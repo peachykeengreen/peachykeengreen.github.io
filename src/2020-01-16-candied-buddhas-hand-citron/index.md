@@ -65,7 +65,7 @@ A few days later, Pat and Allen gave me 8 more! That led to
 
 {{< figure src="IMG_4952.jpg" alt="" caption="" >}}
 
- {{< figure src="IMG_4953.jpg" alt="" caption="" >}}{{< figure src="IMG_4954.JPG" alt="" caption="" >}}
+{{< figure src="IMG_4953.jpg" alt="" caption="" >}}{{< figure src="IMG_4954.JPG" alt="" caption="" >}}
 
 Walking through China Town in SF a few days after that, we saw them for sale - for $7 a pound!
 

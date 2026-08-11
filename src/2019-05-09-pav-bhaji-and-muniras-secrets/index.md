@@ -47,27 +47,27 @@ Shown above with Chinese broccoli that Jackie made (saute fried fresh garlic in 
 
 {{< figure src="IMG_2016.JPG" alt="" caption="" >}}
 
- {{< figure src="IMG_2017.JPG" alt="" caption="" >}}
+{{< figure src="IMG_2017.JPG" alt="" caption="" >}}
 
 {{< figure src="IMG_2018.JPG" alt="" caption="" >}}
 
- {{< figure src="IMG_2019.JPG" alt="" caption="" >}}
+{{< figure src="IMG_2019.JPG" alt="" caption="" >}}
 
 {{< figure src="IMG_2020.JPG" alt="" caption="" >}}
 
- {{< figure src="IMG_2021.JPG" alt="" caption="" >}}
+{{< figure src="IMG_2021.JPG" alt="" caption="" >}}
 
 {{< figure src="IMG_2023.JPG" alt="" caption="" >}}
 
- {{< figure src="IMG_2024.JPG" alt="" caption="" >}}
+{{< figure src="IMG_2024.JPG" alt="" caption="" >}}
 
 {{< figure src="IMG_2025.JPG" alt="" caption="" >}}
 
- {{< figure src="IMG_2026.JPG" alt="" caption="" >}}
+{{< figure src="IMG_2026.JPG" alt="" caption="" >}}
 
 {{< figure src="IMG_2027.JPG" alt="" caption="" >}}
 
- {{< figure src="IMG_2028.JPG" alt="" caption="" >}}
+{{< figure src="IMG_2028.JPG" alt="" caption="" >}}
 
 {{< figure src="IMG_2033.JPG" alt="" caption="" >}}
 

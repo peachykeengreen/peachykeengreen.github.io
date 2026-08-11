@@ -21,20 +21,14 @@ Alba clamshell mushrooms and fresh zucchini arrived in our last farmer's market 
 - 1/3 C peas
 - 1 onion, diced
 - 3 cloves garlic, minced
-
-1.5 C arborio rice
-
-1.5 C white wine or mango wine
-4 C broth
-1 tsp thyme
-
-several dashes fresh black pepper
-
-1/2 tsp salt
-
-2 T fresh lemon juice
-
-1/2 C cashew cream (3 T cashew butter + water, or 1/2 cup soaked cashews blended)
+- 1.5 C arborio rice
+- 1.5 C white wine or mango wine
+- 4 C broth
+- 1 tsp thyme
+- several dashes fresh black pepper
+- 1/2 tsp salt
+- 2 T fresh lemon juice
+- 1/2 C cashew cream (3 T cashew butter + water, or 1/2 cup soaked cashews blended)
 
 ## Instructions
 

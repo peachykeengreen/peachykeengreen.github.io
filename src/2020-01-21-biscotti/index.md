@@ -59,6 +59,6 @@ Store covered at room temperature for 3-4 days. A large jar is ideal.
 
 {{< figure src="IMG_4972.jpg" alt="" caption="" >}}
 
- Thanks to Pati for helping me make a batch!
+Thanks to Pati for helping me make a batch!
 
 {{< figure src="IMG_5143.jpg" alt="" caption="" >}}

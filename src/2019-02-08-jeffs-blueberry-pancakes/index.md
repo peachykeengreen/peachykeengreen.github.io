@@ -16,12 +16,9 @@ Jeff texted us (siblings) a photo of his blueberry pancake dinner. It looked del
 
 - 1 cup whole wheat flour
 - 4 T wheat germ, ground into flour
-
-1.5 C soy milk
-
-1 package yeast (quick rise, or regular active dry)
-
-12 oz blueberries
+- 1.5 C soy milk
+- 1 package yeast (quick rise, or regular active dry)
+- 12 oz blueberries
 
 ## Instructions
 

@@ -38,4 +38,4 @@ Pour into loaf pans (I used 4 small silicon loaf pans plus a dozen cupcake/mini 
 
 {{< figure src="smallloaf.jpg" alt="" caption="" >}}
 
- Small loaves in silicon loaf pan. (Mini loaves above.)
+Small loaves in silicon loaf pan. (Mini loaves above.)

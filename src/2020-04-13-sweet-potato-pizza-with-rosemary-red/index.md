@@ -64,8 +64,8 @@ To make almond ricotta: Whip blanched almonds, water, and salt in food processor
 
 {{< figure src="IMG_5486.jpg" alt="" caption="" >}}
 
- Blanched almonds!
+Blanched almonds!
 
 {{< figure src="IMG_5491.jpg" alt="" caption="" >}}
 
- Adding almond ricotta
+Adding almond ricotta

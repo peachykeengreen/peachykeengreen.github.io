@@ -11,7 +11,7 @@ description: "Cabbage Steak with Mashed Potatoes & Mushroom Gravy recipe."
 ---
 
 Laurie tried out some new recipes for dinner when we stopped by on our way back from our Nebraska road trip -- and it was delicious! Who'da thought that cabbage could make such a good steak? The
- gravy (finely chopped mushrooms, cashew cream, nutritional yeast) is a perfect, rich complement to the potatoes and cabbage. Laurie used green cabbage; I've tried green and purple, and also cauliflower. All yum! The mushroom gravy ties it all together.
+gravy (finely chopped mushrooms, cashew cream, nutritional yeast) is a perfect, rich complement to the potatoes and cabbage. Laurie used green cabbage; I've tried green and purple, and also cauliflower. All yum! The mushroom gravy ties it all together.
 
 ## Ingredients
 

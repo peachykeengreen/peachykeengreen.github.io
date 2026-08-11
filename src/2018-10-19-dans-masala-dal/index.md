@@ -16,45 +16,28 @@ Dan Suthers shared his favorite dal recipe with me. Yay! For so long I've wanted
 
 ## Ingredients
 
-1.5 cups lentils, brown or yellow, rinsed
-
-4 cups water
-
-1 cup finely chopped onion
-
-1 T canola oil
-
-4 T water
-
-2 cans diced tomato (or 3 cups fresh)
+- 1.5 cups lentils, brown or yellow, rinsed
+- 4 cups water
+- 1 cup finely chopped onion
+- 1 T canola oil
+- 4 T water
+- 2 cans diced tomato (or 3 cups fresh)
 
 ### Spices
 
-12 cloves garlic (I use TJ's jar of minced)
-
-1 tsp cumin
-
-4 tsp coriander
-
-1 tsp cardamom (I ground seeds)
-
-1 tsp cinnamon
-
-1/4 tsp fenugreek seeds (if you have it)
-
-2 tsp sweet or hot paprika (I had smoked)
-
-1/4 tsp nutmeg
-
-1/2 tsp pepper
-
-2 T sriracha (or 3T if you like really hot)
-
-1 tsp salt
-
-4 T chopped cilantro (optional, garnish)
-
-1 T vegan butter (optional, garnish)
+- 12 cloves garlic (I use TJ's jar of minced)
+- 1 tsp cumin
+- 4 tsp coriander
+- 1 tsp cardamom (I ground seeds)
+- 1 tsp cinnamon
+- 1/4 tsp fenugreek seeds (if you have it)
+- 2 tsp sweet or hot paprika (I had smoked)
+- 1/4 tsp nutmeg
+- 1/2 tsp pepper
+- 2 T sriracha (or 3T if you like really hot)
+- 1 tsp salt
+- 4 T chopped cilantro (optional, garnish)
+- 1 T vegan butter (optional, garnish)
 
 ## Instructions
 

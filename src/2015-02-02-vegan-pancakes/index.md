@@ -31,7 +31,7 @@ Thanks to Wanda and Judi, who gave me their great recipes, which I merged and pl
 - Blueberries (fresh, or frozen cooked a little to make a light syrup)
 - Peanut butter
 - Mini chocolate chips (dot a few on top of pancakes when they are cooking)
-[Ginger pear compote](http://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html)
+- [Ginger pear compote](http://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html)
 
 ## Instructions
 

@@ -15,24 +15,16 @@ Shelley and Michael had us over for lunch and served us the most delicious, thic
 ## Ingredients
 
 - 2 medium onions or 1 large leek (2 C), chopped
-
-1.5 lb potatoes (2-3 cups), chopped
-1.5 lb carrots (2-3 cups), chopped
-
-1 medium sweet potato/yam (2+ C), chopped
-
-3 cloves garlic (no need to chop)
-
-2 T oil
-
-1 tsp red pepper flakes
-
-1 tsp dried thyme
-
-Salt and pepper
-6 C vegetable stock (water + Better than Bouillon)
-
-1 T chopped fresh thyme for topping (optional)
+- 1.5 lb potatoes (2-3 cups), chopped
+- 1.5 lb carrots (2-3 cups), chopped
+- 1 medium sweet potato/yam (2+ C), chopped
+- 3 cloves garlic (no need to chop)
+- 2 T oil
+- 1 tsp red pepper flakes
+- 1 tsp dried thyme
+- Salt and pepper
+- 6 C vegetable stock (water + Better than Bouillon)
+- 1 T chopped fresh thyme for topping (optional)
 
 ## Instructions
 

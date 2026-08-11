@@ -22,8 +22,7 @@ Larry put Japanese miso powder on his Christmas wish list; he wanted powder sinc
 - 1-2 roasted seaweed, cut up
 - 1/4 cup tofu, cubed
 - 1 T chives, chopped
-
-1.5 C hot water
+- 1.5 C hot water
 
 ## Instructions
 

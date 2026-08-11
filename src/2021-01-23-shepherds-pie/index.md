@@ -12,7 +12,7 @@ description: "Shepherd's Pie recipe."
 
 Updated from the 2026 Blue Zone Cookbook. Originally from the [How Not To Die Cookbook](https://nutritionfacts.org/book/how-not-to-die-cookbook/) that Susie gave me, I asked Larry what he thought; he said "I always like pie." The following is a mashup between the one in the book and this
 [minimalist baker](https://nutritionfacts.org/book/how-not-to-die-cookbook/)
- recipe, and the Blue SAone cookbook plus some ideas from our favorite
+recipe, and the Blue SAone cookbook plus some ideas from our favorite
 [pot pie](https://peachykeengreen.blogspot.com/2018/11/vegan-chicken-pot-pie.html)
 . It was very good!
 

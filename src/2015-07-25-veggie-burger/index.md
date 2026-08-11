@@ -21,32 +21,19 @@ Image from [Oh She Glows](http://ohsheglows.com/2011/07/13/our-perfect-veggie-bu
 - 1 large garlic clove
 - Flax eggs: 2.5 tbsp ground flax + 1/2 cup warm water, mixed in bowl
 - 1 cup oats, processed into flour
-
-1.5 cups bread crumbs
-
-1 cup grated carrots
-
-1 cup cooked black beans, rinsed and roughly mashed
-
-1/4 cup finely chopped basil (or other herb)
-
-1/3 cup toasted almonds, sliced or chopped
-
-1/2 cup sunflower seeds
-
-1 T olive pil
-
-1 T soy sauce
-
-1.5 tsp chili powder (heaping)
-
-1 tsp cumin (heaping)
-
-1 tsp oregano (heaping)
-
-1/2 tsp salt (heaping)
-
-ground pepper to taste
+- 1.5 cups bread crumbs
+- 1 cup grated carrots
+- 1 cup cooked black beans, rinsed and roughly mashed
+- 1/4 cup finely chopped basil (or other herb)
+- 1/3 cup toasted almonds, sliced or chopped
+- 1/2 cup sunflower seeds
+- 1 T olive pil
+- 1 T soy sauce
+- 1.5 tsp chili powder (heaping)
+- 1 tsp cumin (heaping)
+- 1 tsp oregano (heaping)
+- 1/2 tsp salt (heaping)
+- ground pepper to taste
 
 ## Instructions
 
