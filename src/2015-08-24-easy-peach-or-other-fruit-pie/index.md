@@ -16,13 +16,17 @@ During a visit to Nebraska, Dad's friend Jack gave him a bag of about 30 fresh-p
 
 - 4-5 cups fruit, fresh or frozen:
 - peaches, pears, apples, blackberries, strawberries, figs, or mix
-- Dry:
+
+### Dry
+
 - 2 T flour
 - 2 T arrowroot or cornstarch
 - 1/2 cup brown sugar
 - 1 tsp cinnamon
 - 1/2 tsp nutmeg (optional)
-- Wet:
+
+### Wet
+
 - 1 T lemon juice
 - 1 tsp vanilla
 - Dots of vegan butter

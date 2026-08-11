@@ -21,7 +21,9 @@ We often enjoy [Andersen's Pea Soup](http://www.peasoupandersens.net/) in Buell
 - 2 carrots, chopped
 - 1 onion or leek, chopped
 - 8 C water or veggie broth
-- Spices:
+
+### Spices
+
 - 1 bayleaf
 - 1/2 tsp dried thyme
 - 1/2 tsp pepper

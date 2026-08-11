@@ -27,7 +27,9 @@ I used tempeh (as in Chloe's book's recipe) and lentils from Trader Joes that we
 - 1 tsp dried basil
 - 1 tsp salt
 - 1 tsp ground pepper
-- Special sauce:
+
+### Special Sauce
+
 - 1/4 C vegan mayo
 - 1 clove garlic
 - 1 T mustard

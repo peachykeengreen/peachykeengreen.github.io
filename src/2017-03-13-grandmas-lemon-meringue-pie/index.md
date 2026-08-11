@@ -23,7 +23,9 @@ Another recipe of my grandma Esther's, easier to make than her [ostakaka](http:/
 - 1/4 tsp salt
 - 3 (or 4) egg yolks, beaten
 - Baked 9-inch pie crust
-- Meringue:
+
+### Meringue
+
 - 3 (or 4) egg whites
 - 1 T cream tarter (or 2T cornstarch)
 - 6T sugar

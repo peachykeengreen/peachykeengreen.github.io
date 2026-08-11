@@ -16,13 +16,16 @@ Larry is harvesting figs by the gallon. In the past I've made fig [pie, compote,
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 3 C flour (I used whole wheat)
 - 2 tsp baking soda
 - 1 tsp cinnamon
 - 1 tsp salt
 - 1 C chopped pecans or walnuts
-- Wet:
+
+### Wet
+
 - 2 bananas, mashed
 - 3 C figs, chopped
 - 3 flax eggs (3 T flax, 9 T warm water, mixed)

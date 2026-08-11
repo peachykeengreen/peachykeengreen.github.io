@@ -20,7 +20,9 @@ Then in 2025, Munira's friend Rajshree treated us to delicious thick, homemade s
 
 - 1 qt soy milk (no additives)
 - 1 packet [yogourmet](https://www.amazon.com/dp/B0C9R45S5K/) starter
-- Toppings:
+
+### Toppings
+
 - Berries, bananasa, walnuts, granola
 - Jam or honey if you want it sweeter
 

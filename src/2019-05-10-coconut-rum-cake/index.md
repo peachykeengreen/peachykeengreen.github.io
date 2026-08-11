@@ -14,34 +14,46 @@ Munira is cooking us another delicious dinner, and wants rum cake! So I gave it 
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - For vanilla: 2 2/3 C whole wheat flour
 - For chocolate: 2 C wheat flour + 2/3 C cocoa
 - 1 1/2 tsp baking soda
 - 1 tsp baking powder
 - 1/2 tsp salt
-- optional:
+
+### Optional
+
 - For vanilla: 1/2 C shredded coconut or
 - For chocolate: 2/3 cup chopped walnuts
-- Wet:
+
+### Wet
+
 - 2 C unsweetened almond milk (or coconut)
 - 2 tsp vinegar
 - 1 1/2 C sugar
 - 2/3 C canola oil
 - 3 tsp vanilla
 [![](IMG_2199.jpg)](IMG_2199.jpg)
-- Glaze:
-- for chocolate:
+
+### Glaze
+
+### For Chocolate
+
 - 2 T vegan butter
 - 1/4 C water
 - 1/3 C sugar
 - 1/3 C rum (add after above is brought to boil removed from heat)
-- for vanilla:
+
+### For Vanilla
+
 - 2 T vegan butter
 - 1/3 C dark brown sugar
 - 2 tsp molasses
 - 1/3 - 1/2 C rum (add after above is simmered and removed from heat)
-- Topping (optional):
+
+### Topping (optional)
+
 - 1/2 cup roasted walnut halves
 - powdered sugar (for dusting)
 - Note: If you want a white glaze -- particularly if you want a pretty bundt cake -- make another batch of glaze and mix in 2 C powdered sugar, and dribble over the top.

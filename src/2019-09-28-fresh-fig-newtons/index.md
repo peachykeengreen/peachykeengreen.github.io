@@ -14,12 +14,15 @@ Figs! So many figs. (See [previous post](http://peachykeengreen.blogspot.com/)).
 
 ## Ingredients
 
-- Filling:
+### Filling
+
 - 16 fresh figs, washed, dried, and quartered
 - 1/4 cup brown sugar or maple syrup
 - 1 T lemon zest
 - 1 tsp vanilla
-- Dough:
+
+### Dough
+
 - 2 C whole wheat flour
 - 2 tsp vanilla
 - 1/2 tsp baking powder

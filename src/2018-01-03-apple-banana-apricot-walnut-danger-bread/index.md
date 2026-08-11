@@ -14,12 +14,15 @@ Larry calls this "danger bread" because he can't stop eating it :)
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 3 cups whole wheat flour
 - 1 tsp salt
 - 2 tsp baking soda
 - 1 cup walnut pieces
-- Wet:
+
+### Wet
+
 - 3 medium bananas, mashed
 - 3 medium apples, chopped
 - 10 dried apricots, chopped

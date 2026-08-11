@@ -18,7 +18,8 @@ Note: There's a sliding scale between cornbread and corn cake. One bread end is 
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 3/4 C flour
 - 1 1/4 C stone ground cornmeal
 - 1 T baking powder
@@ -26,7 +27,9 @@ Note: There's a sliding scale between cornbread and corn cake. One bread end is 
 - 1/4 C brown sugar (for corn bread)
 - (optional) 1/4 C agave (for corn cake :)
 - (optional) 1 T chopped rosemary
-- Wet:
+
+### Wet
+
 - 1 1/4 C non-dairy milk (almond or soy or oat)
 - 2 tsp apple cider vinegar
 - 4 T oil or vegan butter (or combo)

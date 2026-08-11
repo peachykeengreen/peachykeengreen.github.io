@@ -14,7 +14,8 @@ Given our abundance of carrots, I decided to tweak my [zucchini walnut bread](ht
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 2 C whole wheat flour
 - 1/3 C sugar
 - 2 tsp baking powder
@@ -22,7 +23,9 @@ Given our abundance of carrots, I decided to tweak my [zucchini walnut bread](ht
 - 1 tsp cinnamon
 - 1/2 tsp nutmeg
 - 1/2 tsp salt
-- Wet:
+
+### Wet
+
 - 1 1/4 C almond or soy milk
 - 1/3 cup canola oil
 - 1 tsp vanilla

@@ -14,14 +14,17 @@ Oh my, these are delicious and healthy. This recipe is adapted from my favorite 
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 1 C whole wheat flour
 - 1 1/2 C wheat bran
 - 1/3 C sugar
 - 1 1/2 tsp baking powder
 - 1/2 tsp baking soda
 - 1/2 tsp salt
-- Wet:
+
+### Wet
+
 - 1 C almond milk
 - 1 T apple cider
 - 1/4 C canola oil

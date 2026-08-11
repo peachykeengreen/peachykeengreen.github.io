@@ -21,7 +21,9 @@ In honor of our new President-elect -- and his fine VP-elect -- I decided to try
 - 1/2 tsp pepper flakes
 - 1 bell pepper, chopped
 - 2 cloves garlic, minced
-- Sauce (or could use bbq sauce):
+
+### Sauce (or Could Use Bbq Sauce)
+
 - 15 oz can tomato sauce
 - 1 T brown sugar or molasses
 - 2 T yellow mustard

@@ -14,7 +14,8 @@ In one of our zoom chats with friends during the pandemic, Robert & Judy shared 
 
 ## Ingredients
 
-- Toppings:
+### Toppings
+
 - Sweet potatoes or squash, cubed or sliced
 - Red onion, sliced
 - salt & pepper
@@ -33,7 +34,9 @@ In one of our zoom chats with friends during the pandemic, Robert & Judy shared 
 - 1/2 tsp sugar
 - 3/4 C water
 - 1 T oil
-- Whipped almond ricotta:
+
+### Whipped Almond Ricotta
+
 - 1 C blanched almonds (raw almonds in boiling water 60 seconds, cool, pop off skins)
 - 1/3 C water
 - 1 T lemon juice

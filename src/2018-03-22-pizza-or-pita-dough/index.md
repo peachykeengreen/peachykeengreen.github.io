@@ -31,10 +31,13 @@ Our verdict: Worth it for pita and empanadas. For pizza, we'll probably stick wi
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 2.5 cups whole wheat flour
 - 1-2 tsp salt
-- Wet:
+
+### Wet
+
 - 1 cup lukewarm water
 - 1 packet yeast (~2 tsp)
 - 1 tsp maple syrup

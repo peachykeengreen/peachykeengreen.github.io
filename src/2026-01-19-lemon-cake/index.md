@@ -14,18 +14,23 @@ Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 2 2/3 C flour
 - 1 1/2 C sugar
 - 1 1/2 tsp baking soda
 - 3/4 tsp salt
-- Wet:
+
+### Wet
+
 - 1 1/3 C non-dairy milk
 - 1/2 C canola oil 
 - zest of 3 lemons
 - juice of 3 lemons
 - 1 tsp vanilla
-- Frosting:
+
+### Frosting
+
 - 4 C powdered sugar
 - 1/2 C vegan butter
 - 1/4 C vegan cream cheese (optional)

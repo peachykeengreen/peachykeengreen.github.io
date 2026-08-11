@@ -16,7 +16,7 @@ I came home from Nebraska to a couple of bunches of celery in the fridge that ne
 
 1.5 C tempeh or firm tofu, cubed in small chunks
 
-Marinade:
+### Marinade
 
 1 T soy sauce
 
@@ -34,7 +34,7 @@ Marinade:
 
 2 T corn flour or cornmeal
 
-Saute:
+### Saute
 
 1 T canola oil
 
@@ -58,7 +58,7 @@ Add a variety of veggies, such as:
 
 1/2 C raw or dry roasted cashews (optional)
 
-Stir fry sauce:
+### Stir Fry Sauce
 
 1 tsp black pepper
 

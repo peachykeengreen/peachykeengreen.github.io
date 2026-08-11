@@ -16,14 +16,17 @@ It's yummy without any frosting, just as a lemon bread -- which is probably how 
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 1 C + 1 T whole-wheat flour
 - 1 1/2 C white flour
 - 1 1/2 C sugar
 - 1 1/2 tsp. baking soda
 - 1/2 tsp salt
 - 1/3 tsp turmeric for color (optional)
-- Wet:
+
+### Wet
+
 - 1 T vinegar
 - 1 1/2 C non-dairy milk (oat, soy, or almond)
 - 1/2 C canola oil

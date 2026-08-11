@@ -14,13 +14,16 @@ The best things I've learned so far from a 2-week [Purple Carrot](https://www.p
 
 ## Ingredients
 
-- Jalapeno Cashew Sauce:
+### Jalapeno Cashew Sauce
+
 - 1/3 C cashews
 - 2 garlic cloves
 - 1 lime, juiced
 - 1 jalapeno, deseeded and roughly chopped
 - Serve on: Corn tortillas topped with Spanish rice, sliced portabellos sautéed in a little soy sauce and liquid smoke, diced scallion, sliced radish, and shredded purple cabbage
-- Spicy Cashew Sauce:
+
+### Spicy Cashew Sauce
+
 - 1/3 C cashews
 - 2 garlic cloves
 - 2 T rice vinegar

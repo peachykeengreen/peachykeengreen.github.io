@@ -25,7 +25,9 @@ A delicious lentil soup that Larry's sisters Laurie and Cyndy discovered. It's p
 - 6 cups veggie broth
 - 2 cups greens (kale, spinach, cabbage), chopped
 - 2 T white balsamic vinegar
-- Spices:
+
+### Spices
+
 - 1 tsp dried oregano
 - 1 bay leaf
 - 1 tsp dried basil

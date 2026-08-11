@@ -14,7 +14,8 @@ I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/la
 
 ## Ingredients
 
-- Sauce:
+### Sauce
+
 - 2 T canola oil
 - 3/4 lb (1 pkg) Impossible Beef
 - 1 onion, diced
@@ -27,7 +28,9 @@ I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/la
 - 2 tsp dried oregano
 - 1 tsp dried baslil
 - 1/2 tsp salt (or to taste)
-- For layering:
+
+### For Layering
+
 - Fresh greens (spinach, kale, broccoli, or other leaf)
 - 1 tsp nutmeg
 - 1/2 tsp brown pepper

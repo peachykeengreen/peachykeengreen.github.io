@@ -14,13 +14,16 @@ Thinking about alternatives to my (limited) flour as we go shopping less during 
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 1/2 C powdered peanut butter
 - 1/2 C flour
 - 1/2 cup cocoa powder
 - 1 tsp baking soda
 - 1/4 tsp salt
-- Wet:
+
+### Wet
+
 - 1 flax egg (1 T flaxmeal, 3 T water)
 - 1/3 cup sugar
 - 1 C plus 1T water

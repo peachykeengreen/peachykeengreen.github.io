@@ -19,7 +19,9 @@ I've made many veggie curries with Trader Joes bottled curry sauce, and they're 
 - Fresh ginger (optional)
 - Olive oil
 - 1/2 cup water
-- Veggies:
+
+### Veggies
+
 - 1 onion, chopped
 - 12 cups mushrooms, chopped
 - 1 cup cabbage, chopped

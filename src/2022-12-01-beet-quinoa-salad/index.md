@@ -20,7 +20,9 @@ Cyndy made this delish salad for us when we visited a few days ago, along with h
 - 3 scallions (green onions), chopped
 - 3 oz feta (vegan, from Trader Joes), crumbled on top
 - 1/4 C pine nuts (best!) or pumpkin seeds, roasted
-- Dressing:
+
+### Dressing
+
 - 3 T olive oil
 - Juice from 1 lemon or lime juice
 - Salt and pepper to taste

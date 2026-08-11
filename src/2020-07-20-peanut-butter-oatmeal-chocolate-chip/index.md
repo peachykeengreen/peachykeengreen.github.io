@@ -14,12 +14,15 @@ I needed some cookies to fill the empty space in a box I'm mailing to Dad, and I
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 3/4 C old fashioned oats
 - 3/4 C flour
 - 1/2 tsp baking soda
 - 1/4 tsp salt
-- Wet:
+
+### Wet
+
 - 1/2 C almond or peanut butter
 - 1/3 C brown sugar (1/2 C for sweeter)
 - 2 T (or more as needed) non dairy milk

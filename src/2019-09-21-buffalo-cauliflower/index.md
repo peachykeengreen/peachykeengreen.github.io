@@ -17,7 +17,9 @@ We've had some really good buffalo cauliflower at [Vegenation](https://vegenatio
 - 1 large (or 2 small) head cauliflower
 - 2 cups bread crumbs
 - 1/2 cup wheat germ (optional)
-- Batter:
+
+### Batter
+
 - 3/4 cup flour
 - 2 tsp garlic powder
 - 2 tsp onion powder (optional)
@@ -25,12 +27,16 @@ We've had some really good buffalo cauliflower at [Vegenation](https://vegenatio
 - 1 tsp paprika
 - 1/2 tsp each salt & pepper
 - 1 1/3 cup nondairy milk
-- Buffalo sauce:
+
+### Buffalo Sauce
+
 - 2 T vegan butter
 - 1/4 cup Sriracha (or more; 1/3 ?)
 - 1/4 cup ketchup
 - 1 T maple syrup
-- Ranch dressing:
+
+### Ranch Dressing
+
 - 1/2 cup vegan mayo
 - 2 tsp apple cider
 - 1 T chopped fresh dill or 2 tsp dried

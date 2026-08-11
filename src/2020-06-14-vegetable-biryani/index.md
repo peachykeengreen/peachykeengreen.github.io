@@ -14,7 +14,8 @@ Munira gave me a huge bag of dry rice, and I decided to try to make a biryani in
 
 ## Ingredients
 
-- Make vegetable mix and set aside:
+### Make Vegetable Mix and Set Aside
+
 - 1 large potato, chopped
 - 2 C cauliflower, chopped
 - 1/2 C carrots, chopped
@@ -25,7 +26,9 @@ Munira gave me a huge bag of dry rice, and I decided to try to make a biryani in
 - 2 tsp biryani or garam masala blend
 - 1/2 tsp turmeric
 - 1-2 tsp salt
-- Saute in Instant Pot:
+
+### Saute in Instant Pot
+
 - 1 onion, chopped
 - 1 small jalapeno pepper, diced
 - 2 tsp cumin seeds

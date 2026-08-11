@@ -14,7 +14,8 @@ So many pears on our tree! So I googled for a pear dessert, and found this recip
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 2 1/4 cups whole wheat flour
 - 4 tsp tapioca or 1.5 T cornstarch
 - 2 tsp baking soda
@@ -23,17 +24,23 @@ So many pears on our tree! So I googled for a pear dessert, and found this recip
 - 1 tsp nutmeg
 - 1/2 tsp salt
 - 1/4 tsp cloves
-- Wet:
+
+### Wet
+
 - 2 cups (generous) freshly pureed pears (4-5 large pears whipped in a food processor)
 - 3 T water
 - 1/2 C maple syrup
 - 1 T lemon zest
 - 1 1/2 T lemon juice
 - 1 1/2 tsp vanilla extract
-- Pear topping:
+
+### Pear Topping
+
 - 2 ripe pears, sliced
 - 1/2 C maple syrup
-- Alternate berry bottom:
+
+### Alternate Berry Bottom
+
 - 4 T vegan butter
 - 1/3 C brown sugar
 - 1/4 tsp salt

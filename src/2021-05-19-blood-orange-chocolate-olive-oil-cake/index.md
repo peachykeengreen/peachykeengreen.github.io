@@ -25,7 +25,9 @@ Shelley Million gave us a [blood orange cake](https://tasty.co/recipe/blood-oran
 - 1 1/4 C sugar
 - 1 C water
 - 1 1/2 tsp white vinegar
-- topping:
+
+### Topping
+
 - 1 C powdered sugar
 - 1-2 small oranges, sliced thin (use blood oranges for red color; regular orange also fine)
 - zest from 1 orange

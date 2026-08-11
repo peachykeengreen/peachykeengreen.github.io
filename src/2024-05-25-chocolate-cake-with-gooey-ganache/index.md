@@ -20,13 +20,17 @@ A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/jus
 - 3 tsp vanilla extract
 - 2/3 cup canola oil
 [![](cakewithganache.jpg)](cakewithganache.jpg)Zest of 1 orange (let it infuse in the oil; optional)
-- Dry mix:
+
+### Dry Mix
+
 - 2 cups flour (I use white whole wheat)
 - 2/3 cup cocoa powder
 - 1 1/2 tsp baking soda
 - 1 tsp baking powder
 - 1/2 tsp salt
-- Ganache (for pouring):
+
+### Ganache (for Pouring)
+
 - 1 C nondairy milk
 - 12 oz semi sweet chocolate (like TJ Dark Chocolate or Chocolate Chunk Chips)
 - Frosting (more milk makes it softer, spreadable):

@@ -19,14 +19,18 @@ I made these cookies to bring to Munira & Vinod's for dinner because I know they
 - 1/4 tsp salt
 - 1 tsp cinnamon
 - 1/2 tsp cloves
-- Wet:
+
+### Wet
+
 - 3+ T fresh grated ginger (or 3 tsp ground)
 - 1/2 C canola oil or vegan butter
 - 1/4 C molasses
 - 1/4 C soy or almond milk
 - 1 C brown sugar
 - 1 tsp vanilla extract
-- Topping:
+
+### Topping
+
 - granulated sugar (coarse if you have it)
 
 ## Instructions

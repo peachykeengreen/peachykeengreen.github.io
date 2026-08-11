@@ -21,7 +21,9 @@ I used this recipe to make a pudding pie, and that was also delish! I vote for g
 - 4 T soy creamer (or nondairy milk)
 - 4 T dark cocoa powder
 - 5 pitted dates
-- If making pie version:
+
+### If Making Pie Version
+
 - Pie crust (regular or graham cracker)
 - sliced strawberries
 - powdered sugar

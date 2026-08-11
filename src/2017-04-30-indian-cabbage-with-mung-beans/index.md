@@ -19,12 +19,16 @@ Our favorite local Indian restaurant, [Janta](https://www.yelp.com/biz/janta-ind
 - 1 small head cabbage, shredded
 - (try half green, half purple)
 - 1/2 cup diced tomato
-- Saute:
+
+### Saute
+
 - 2 T oil
 - 1 jalapeno pepper, diced (or ground red pepper)
 - 2 tsp cumin seed
 - 2 tsp ginger, minced
-- Spices:
+
+### Spices
+
 - 2 tsp garlic, minced
 - 1 tsp turmeric
 - 1 T ground coriander

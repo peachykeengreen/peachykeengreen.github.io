@@ -17,7 +17,8 @@ A week after posting Kira's recipe, I got the ingredients for this tahini-sauce 
 
 ## Ingredients
 
-- Sauce:
+### Sauce
+
 - 2 T tahini
 - 1 T white miso
 - 2 tsp sriracha
@@ -26,7 +27,9 @@ A week after posting Kira's recipe, I got the ingredients for this tahini-sauce 
 - 1/2 tsp powdered ginger
 - 1/2 tsp powdered garlic
 - 2 t rice vinegar
-- Toppings:
+
+### Toppings
+
 - 2-4 Just Egg folded patties
 - 2 Sweet Earth Applewood Smoked Plant-based Ham deli slices
 - 2 diced scallions

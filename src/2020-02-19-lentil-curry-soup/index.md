@@ -28,7 +28,9 @@ One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has 
 - 1 can or 2 cups chickpeas, cooked
 - 1/2 to 1 can lite coconut milk
 [![](soup-pot.jpg)](soup-pot.jpg)3T fresh lime juice
-- Spices:
+
+### Spices
+
 - 2 tsp cumin seeds (or ground & add w/other spices)
 - 3 cloves garlic, minced
 - 1 T fresh ginger, minced

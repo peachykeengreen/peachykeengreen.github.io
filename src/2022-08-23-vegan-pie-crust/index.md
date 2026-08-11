@@ -31,11 +31,15 @@ Update: Allen Moench's oil-based pie crust is to die for. Pat shared his recipe 
 - 1 tsp salt
 - 2 tsp sugar
 - 1-2 T orange zest (optional but excellent)
-- Butter crust:
+
+### Butter Crust
+
 - 1 C vegan butter, cold, cubed
 - 8 T ice water
 - OR
-- Oil crust (Allen's):
+
+### Oil Crust (allen's)
+
 - 2/3 C canola oil
 - 4 T ice water
 

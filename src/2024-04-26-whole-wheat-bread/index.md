@@ -25,12 +25,16 @@ Notes: 1/4 tsp yeast is enough for slow rise white; Robert suggested 1/2 tsp for
 - 1/2 tsp instant or active dry yeast
 - 1 1/2 tsp salt
 - 1 5/8 C water (approximately; so the dough is wet but not sticky)
-- For dusting:
+
+### For Dusting
+
 - wheat bran
 - corn meal
 - rice flour
 - Parchment paper for transfer to dutch oven
-- optional additions to dough:
+
+### Optional Additions to Dough
+
 - 1 C chopped walnuts, OR
 - 2 T finely chopped rosemary
 - 1 C kalamata olives

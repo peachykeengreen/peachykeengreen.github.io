@@ -16,13 +16,17 @@ Larry brought in some cabbage and kale leaves from the garden, and I thought I'd
 
 - 1 sheet vegan puff pastry (about 8 oz.), thawed if frozen
 - 1 cup shredded [Daiya cheese](http://daiyafoods.com/)
-- OR tofu mix:
+
+### Or Tofu Mix
+
 - 1 lb. extra firm tofu, drained
 - 1 T soy sauce
 - 2 T lemon juice
 - 2 T nutritional yeast
 - black pepper to taste
-- saute:
+
+### Saute
+
 - 1 T olive oil
 - 3 cups finely chopped mushrooms
 - 1 onion, diced

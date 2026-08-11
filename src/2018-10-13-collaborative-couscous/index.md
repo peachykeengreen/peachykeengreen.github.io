@@ -22,7 +22,9 @@ Dan Suthers is visiting! After a hike with Jeff, Jeremy invited us over for dinn
 - 3 fresh figs, chopped
 - 1 cup carrots, chopped
 - 1/2 cup green beans chopped
-- seasoning (for layers & top):
+
+### Seasoning (for Layers & Top)
+
 - cumin
 - garam masala
 - salt & pepper

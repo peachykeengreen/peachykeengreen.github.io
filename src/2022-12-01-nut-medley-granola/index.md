@@ -14,13 +14,16 @@ Laurie made an out-of-this-world granola when we visited last week. It's all nut
 
 ## Ingredients
 
-- Toss:
+### Toss
+
 - 2 C shredded unsweetened coconut
 - 1 C sliced almonds
 - 1 C raw sunflower seeds
 - 1/2 C raw pumpkin seeds
 - 1/2 C walnuts
-- Stir:
+
+### Stir
+
 - 1/2 C melted coconut oil
 - 2 T maple syrup (to replace 10 drops stevia; we don't like artificial sweeteners)
 - 1 tsp cinnamon

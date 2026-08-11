@@ -27,7 +27,9 @@ Aside: I now have lots of TVP and [soy curls](https://www.bobsredmill.com/tvp-te
 - 1/2 onion (or scallions), diced
 - 3 cloves garlic, diced
 - 1 C fresh cilantro, chopped (loved this, but can add more coriander if you don't have it--it's the same plant)
-- Spices:
+
+### Spices
+
 - 1/2 tsp chipotle seasoning
 - 2 tsp thyme
 - 2 T dried oregano (or 1/3 C fresh)

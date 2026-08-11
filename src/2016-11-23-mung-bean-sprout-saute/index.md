@@ -24,7 +24,9 @@ Munira's family gave us some sauteed mung bean sprouts last year, and they were 
 - 1 tsp turmeric
 - 1 tsp coriander
 - salt and pepper to taste
-- For mung bean sprouting:
+
+### For Mung Bean Sprouting
+
 - 5 T mung bean seeds (about 1/3 cup seeds); I use [Todd's seeds](https://www.amazon.com/Sprouting-Seeds-Mung-Bean-Pound/dp/B0001W2W2Q/)
 - sprouting jar; I use [Jar Seed Sprouter](https://www.amazon.com/dp/B004UB5GQ8?psc=1&smid=A3IQGL03Z0MNP5)
 - cool water

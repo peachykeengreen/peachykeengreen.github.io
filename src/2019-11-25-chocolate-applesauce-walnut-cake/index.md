@@ -14,7 +14,8 @@ A vegan variation on a cake recipe by my college roommate Elizabeth, with orange
 
 ## Ingredients
 
-- Wet:
+### Wet
+
 - 1/2 cup soft vegan butter (or oil is ok)
 - 1 1/4 cup brown sugar
 - 2 flax eggs (2 T flaxmeal, 6 T water)
@@ -22,7 +23,9 @@ A vegan variation on a cake recipe by my college roommate Elizabeth, with orange
 - 2 cups applesauce OR pureed apple
 - 1 tsp vanilla
 - 1 T grated orange or tangerine rind
-- Dry:
+
+### Dry
+
 - 3 cup whole wheat flour, or a mix of whole grains
 - 1/2 cup unsweetened cocoa
 - 1/2 tsp salt

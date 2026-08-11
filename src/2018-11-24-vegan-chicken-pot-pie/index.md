@@ -19,13 +19,17 @@ We ate at [Vegenation](https://vegenationlv.com/) in Las Vegas during our South
 - 10 oz mushrooms, washed and sliced
 - 1 large potato, diced
 - 2 T canola oil
-- Liquids:
+
+### Liquids
+
 - 1/2 cup flour
 - 2 T arrowroot
 - 1 cup water
 - 3 cups veggie broth
 - 1/2 cup plant-based milk
-- Seasoning:
+
+### Seasoning
+
 - 4 T nutritional yeast
 - 1 tsp black pepper
 - 1 tsp salt

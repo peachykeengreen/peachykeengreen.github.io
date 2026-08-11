@@ -22,7 +22,9 @@ Laurie tried out some new recipes for dinner when we stopped by on our way back 
 - black pepper to taste
 - salt to taste
 - lemon juice (to squeeze on top after)
-- Gravy:
+
+### Gravy
+
 - mushrooms, 8-10 oz
 - 1/2 onion, chopped
 - 2 T canola oil
@@ -30,7 +32,9 @@ Laurie tried out some new recipes for dinner when we stopped by on our way back 
 - red pepper flakes
 - salt & pepper to taste
 - 1/2 C nutritional yeast
-- Cashew cream (make in blender):
+
+### Cashew Cream (make in Blender)
+
 - 1/2 C cashews
 - 2/3 C water
 - 2 T olive oil

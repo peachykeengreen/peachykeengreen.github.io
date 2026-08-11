@@ -14,23 +14,30 @@ For our acappella rehearsal, Harold's wife Chris served this delicious, easy spi
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 3 C flour
 - 2 C brown sugar
 - 2 tsp baking soda
 - 2 tsp baking powder
 - 1 tsp salt
-- spices:
+
+### Spices
+
 - 2 tsp cinnamon
 - 1/2 tsp allspice
 - 1 tsp ginger
 - 1 tsp cloves
-- Wet:
+
+### Wet
+
 - 1/2 C oil
 - 2 T vinegar
 - 2 tsp vanilla
 - 2 C warm water OR (optional) 1 can pumpkin and ~1 C water for pumpkin spice cake version
-- Cream cheese frosting (optional):
+
+### Cream Cheese Frosting (optional)
+
 - 6 oz Miyoko's plant-based cream cheese
 - 4 oz Miyoko's vegan butter
 - 1 tsp vanilla

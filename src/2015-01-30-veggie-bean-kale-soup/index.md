@@ -28,7 +28,9 @@ I often double the recipe to get a big 5-qt pot full of soup, and freeze some of
 - (garbanzo, calypso, etc.)
 - A big bunch of kale, chopped
 - (opt.) 1 cup of barley (TJs fast, or pre-cooked)
-- Spices (double for full pot):
+
+### Spices (double for Full Pot)
+
 - 1 bay leaf
 - 1 1/2 tsp cumin
 - 2 tsp chili powder

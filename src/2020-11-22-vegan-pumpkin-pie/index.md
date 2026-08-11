@@ -23,7 +23,8 @@ A super easy, yummy vegan pumpkin pie, great for using up that 2-pack of Wholly 
 
 ## Ingredients
 
-- Filling:
+### Filling
+
 - 1 15 ounce can pumpkin puree
 - or 2 cups cooked pumpkin or sweet potato
 - 1 1/2 tsp cinnamon

@@ -20,13 +20,16 @@ interesting twist on that -- with just a tweak to the butter to make it vegan, a
 
 ## Ingredients
 
-- For apricot filling:
+### For Apricot Filling
+
 - 6 oz dried apricots (~1 cup packed), chopped
 - fine
 - 1/4 cup granulated sugar
 - 3/4 cup water
 - 1 teaspoon vanilla
-- For chocolate chip mixture:
+
+### For Chocolate Chip Mixture
+
 - 1 1/3 cups pecans
 - 1 cup all-purpose flour
 - 1/2 cup firmly packed light brown sugar

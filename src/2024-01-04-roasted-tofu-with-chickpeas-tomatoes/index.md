@@ -18,7 +18,9 @@ Judy and Robert made a variation of this delicious NYTimes recipe for [Za’atar
 - 1 pint cherry or grape tomatoes (can also try butternut squash)
 - 1 (8-ounce) bag leafy greens, such as baby spinach, baby kale, arugula, or mixed greens
 - Salt and pepper
-- Marinade:
+
+### Marinade
+
 - 3 garlic cloves, diced
 - 2 lemons
 - 2T oil
@@ -26,7 +28,9 @@ Judy and Robert made a variation of this delicious NYTimes recipe for [Za’atar
 - 1 tsp dried oregano or marjoram
 - 1/2 cup chopped flat-leaf parsley
 - 2 T soy sauce (for 2nd half of marinade, used on tofu)
-- Dressing:
+
+### Dressing
+
 - 1/4 C tahini
 - 1 T honey
 - 2T water

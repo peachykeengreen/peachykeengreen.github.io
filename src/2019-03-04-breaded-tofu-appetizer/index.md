@@ -17,7 +17,9 @@ Another hit from Cyndy. She got this recipe in a vegan cooking class. The instru
 - 1 container firm tofu
 - 1 cup bread crumbs
 - canola oil (for frying)
-- Marinade:
+
+### Marinade
+
 - 1/3 cup soy or almond milk
 - 2 T mustard
 - 1 tsp worchestershire

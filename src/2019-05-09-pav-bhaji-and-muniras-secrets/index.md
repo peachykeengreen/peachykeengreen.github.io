@@ -24,7 +24,9 @@ But last weekend we arrived as she was starting to make [Pav Bhaji (from Cook w/
 - 1 large onion (red best), chopped
 - 1 cup cilantro
 - 2 cups chopped tomato
-- Spices:
+
+### Spices
+
 - turmeric
 - coriander
 - chili powder

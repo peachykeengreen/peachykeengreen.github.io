@@ -15,7 +15,9 @@ Our neighbor Elsa gave us 4 beautiful fresh leeks from her garden. I had been pl
 ## Ingredients
 
 - 2 pie crusts; like Wholly Wholesome or  [whole wheat pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
-- Veggie saute:
+
+### Veggie Saute
+
 - 2 T canola oil
 - 2 C leeks or onion, diced
 - 1-2 C mushrooms, sliced
@@ -24,13 +26,17 @@ Our neighbor Elsa gave us 4 beautiful fresh leeks from her garden. I had been pl
 - 3 cloves garlic, minced
 - 1/2 tsp salt
 - 1/2 tsp pepper
-- optional:
+
+### Optional
+
 - 1 tsp sage (or 1T fresh)
 - 1 tsp tarragon
 - 1 carton [Egg from Plants](https://www.ju.st/eat/eggs) (16 oz)
 - 2 slices vegan cheese, chopped (optional)
 - OR
-- Tofu mix:
+
+### Tofu Mix
+
 - 2 12-oz silken tofu
 - 1/4 C nutritional yeast
 - 1/3 C chickpea flour
@@ -41,7 +47,9 @@ Our neighbor Elsa gave us 4 beautiful fresh leeks from her garden. I had been pl
 - 1 tsp turmeric
 - 1/2 tsp smoked paprika
 - 1 C vegetable broth
-- Red pepper relish:
+
+### Red Pepper Relish
+
 - 2 T canola oil
 - 1 C red onion, chopped
 - 1 red pepper, chopped

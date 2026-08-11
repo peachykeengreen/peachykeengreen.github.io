@@ -14,11 +14,14 @@ We bought a big pineapple. It's kinda sour, and that's a lot to eat! So I google
 
 ## Ingredients
 
-- Crust:
+### Crust
+
 - 2 cups pecans (toasted)
 - 2 T oil
 - 2 T maple syrup or honey
-- Filling:
+
+### Filling
+
 - 1 C pineapple
 - 1 C vegan yogurt (like Kite Hill unsweetened plain)
 - 1/2 cup shredded coconut (toasted)
@@ -26,7 +29,9 @@ We bought a big pineapple. It's kinda sour, and that's a lot to eat! So I google
 - 2 T maple syrup
 - 1/4 tsp salt
 - 1 tsp vanilla
-- Mix in:
+
+### Mix in
+
 - 1/2 C diced pineapple
 - 1/3 cup toasted shredded coconut
 

@@ -27,13 +27,17 @@ Serve with crackers or fresh bread or garlic bread, or top with fresh bread crou
 - 1/3 cup nutritional yeast
 - 1 T balsamic vinegar
 - (optional) kale (a few leaves, chopped)
-- Spices:
+
+### Spices
+
 - 1 tsp dried oregano
 - 1 tsp dried basil
 - 1 tsp paprika
 - salt & pepper to taste
 - (optional) 2 tsp 21 spice no-salt seasoning (like Kirkland's or Trader Joes)
-- Garnish (optional):
+
+### Garnish (optional)
+
 - Fresh basil or other herbs
 - Fresh bread croutons (seasoned with garlic and toasted)
 

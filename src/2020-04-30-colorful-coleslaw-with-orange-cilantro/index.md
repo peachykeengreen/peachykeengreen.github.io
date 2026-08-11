@@ -18,7 +18,9 @@ We have a ton of fresh cilantro growing in our side yard, to I searched for reci
 - Half a cabbage (about 6 cups, red or green or mix), shredded
 - 1/2 C red onion, chopped
 - 1 C cilantro leaves
-- Dressing:
+
+### Dressing
+
 - 1/4 C plain yogurt (I use [homemade](https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html))
 - 1/4 vegan mayo
 - 1/4 C fresh squeezed orange juice

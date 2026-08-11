@@ -14,23 +14,30 @@ Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Ma
 
 ## Ingredients
 
-- Topping:
+### Topping
+
 - 2 T vegan butter (original was 4; reduced)
 - 2 T brown sugar, packed
 - 6 slices of pineapple (1/4" thick) OR 20 kumquats (seed removed), sliced 1/4" thick, OR mix of mango and pineapple chunks
-- Dry mix:
+
+### Dry Mix
+
 - 1 3/4 C flour
 - 3/4 C sugar (original was 1 C; reduced)
 - 1 tsp baking soda
 - 1/2 tsp salt
-- Wet:
+
+### Wet
+
 - 1 pineapple ring or 6 kumquats (seeds removed), diced finely
 - 3/4 C non-dairy milk (almond or oat)
 - 1/4 C pineapple juice (or kumquat juice)
 - 2 tsp vanilla
 - 1/3 cup vegetable oil
 - 1 T apple cider vinegar
-- Optional rum glaze:
+
+### Optional Rum Glaze
+
 - 1 T rum
 - 1/2 C powdered sugar
 

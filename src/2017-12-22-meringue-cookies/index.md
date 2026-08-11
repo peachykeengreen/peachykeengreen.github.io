@@ -21,7 +21,9 @@ What? No, really, My pal Judi mentioned this months ago when she made [vegan ma
 - 1 cup liquid from cooked or canned chickpeas, chilled
 - 1/2 tsp vanilla
 - 1/4 tsp cream of tartar
-- Optional:
+
+### Optional
+
 - 2 ziplock sandwich bags for squeezing (rather than dolloping)
 - 4 tsp brightly colored juice, like beet (liquidy jam might work - very liquidy)
 

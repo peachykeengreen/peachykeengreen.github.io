@@ -21,7 +21,7 @@ When we visited Chelsey and Josh last November, Chelsey made a delicious, super 
 
 2 heaping T wheat germ
 
-Topping:
+### Topping
 
 blackberries or other berries
 

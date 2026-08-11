@@ -16,11 +16,15 @@ The [Impossible Lasagna](https://peachykeengreen.blogspot.com/2021/01/impossible
 
 - 50 oz marinara (I like Rao's)
 - 9 oz box no-boil lasagna noodles
-- Veggies:
+
+### Veggies
+
 - 5 oz spinach
 - 10 oz mushrooms, sliced
 - zucchini, sliced (optional)
-- Garden Ricotta:
+
+### Garden Ricotta
+
 - 1 medium onion, chopped
 - 3 cloves garlic, chopped
 - 14-ounce firm tofu

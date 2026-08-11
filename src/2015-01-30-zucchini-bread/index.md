@@ -14,7 +14,8 @@ Mom's easy recipe for zucchini bread, except with about half the sugar, using wh
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 3 C flour
 - 1 1/4 C sugar
 - 1 tsp soda
@@ -23,7 +24,9 @@ Mom's easy recipe for zucchini bread, except with about half the sugar, using wh
 - 1 tsp cinnamon
 - 2/3 C chopped walnuts
 - optional: 1/2 C chocolate chips
-- Wet:
+
+### Wet
+
 - 2 1/2 C grated zucchini
 - 1 C canola oil
 - 3 flax "eggs" (which means 3 T flaxseed meal dissolved in 9 T water*)

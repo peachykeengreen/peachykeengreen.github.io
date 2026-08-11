@@ -16,15 +16,20 @@ Variations: Can make with plums or cherries, or bake in regular cake pans.
 
 ## Ingredients
 
-- Wet:
+### Wet
+
 - 1 C apricot puree (about 6-8 apricots)
 - 2/3 C sugar
 - 1/2 C sparkling water or sparkling fruit water
 - 7 T canola oil
-- Dry:
+
+### Dry
+
 - 2 1/3 C flour
 - 4 tsp baking soda
-- Topping:
+
+### Topping
+
 - 20-24 small apricots, halved (or 12 large, quartered)
 - 2 tsp powdered sugar
 - toasted almond slices

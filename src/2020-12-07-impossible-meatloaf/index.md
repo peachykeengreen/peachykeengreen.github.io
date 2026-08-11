@@ -24,7 +24,9 @@ Update 1/2/21: Larry asked for more veggie to meat ratio, so I increased the veg
 - 1/3 - 1/2 C celery, chopped
 - 1/3 - 1/2 C bell pepper, chopped
 - 2-3 cloves garlic, minced
-- Spices:
+
+### Spices
+
 - 1/2 tsp salt
 - 1 tsp pepper
 - 1 tsp nutmeg

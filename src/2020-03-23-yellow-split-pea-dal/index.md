@@ -14,7 +14,8 @@ Loving my [Vegan Richa](https://www.veganricha.com/)'s Indian Kitchen cookbook. 
 
 ## Ingredients
 
-- 3 C mix of dry lentils with similar cooking time:
+### 3 C Mix of Dry Lentils with Similar Cooking Time
+
 - split pigeon pea (>= 1 C)
 - chana dal (< 1 C)
 - moong dal (< 1 C)
@@ -39,7 +40,7 @@ Loving my [Vegan Richa](https://www.veganricha.com/)'s Indian Kitchen cookbook. 
 
 1 tsp salt
 
-Garnish:
+### Garnish
 
 fresh chopped cilantro
 

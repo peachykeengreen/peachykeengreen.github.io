@@ -14,14 +14,17 @@ My mom's recipe, with less sugar and whole wheat flour instead of white. Really 
 
 ## Ingredients
 
-- Dry:
+### Dry
+
 - 3 1/3 cups whole wheat flour
 - 1 1/2 cups sugar
 - 1 tsp salt
 - 1 tsp cinnamon (heaping)
 - 1 tsp nutmeg (heaping)
 - 2 tsp baking soda
-- Wet:
+
+### Wet
+
 - 1 cup oil (I use canola)
 - 4 flax eggs (1/4 C flax meal + 3/4 C water)
 - 2/3 cup water

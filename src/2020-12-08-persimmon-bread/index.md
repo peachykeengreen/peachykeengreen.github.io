@@ -20,7 +20,9 @@ Pat and Allen shared at least a dozen persimmons with us from their bountiful ha
 - 1 1/2 C sugar
 - 1/2 C salad oil
 - 2 flax eggs (2 T flaxmeal, 6 T warm water)
-- Dry:
+
+### Dry
+
 - 2 C flour
 - 2 tsp. baking powder
 - 1 tsp. cinnamon
