@@ -29,6 +29,7 @@ Larry's sister Laurie made this yummy dish for us. The chutney, garam masala, an
 - 3/4 cup pecans, toasted and chopped
 - 1/4 cup chopped red sweet pepper
 - 1/4 cup chopped peeled fresh mango
+
 ## Instructions
 
 1. Preheat oven to 350 F. Bring 3 cups water and lentils to boiling; reduce heat. Cover, simmer 10-15 min or until tender. Drain; set aside.

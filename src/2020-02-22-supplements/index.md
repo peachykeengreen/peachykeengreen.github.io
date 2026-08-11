@@ -54,12 +54,15 @@ I also chew Smarty Pants multivitamins **for omega 3, iodine,  CoQ10, and K2. 
 (2021 update: I don't take separate CoQ10 or K2 anymore, as I'm getting both from the multi chews; Larry continues to take the K2 since his multi doesn't have it. The multis don't have enough D, either, so we continue take D separately. I also used to take Astragalus for [anti-aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758356/) benefits, but it just fell off the list for me, as I'm trying to minimize what I take and the research findings on it were less strong.)
 
 Evening (partly for better sleep)
+
 {{< figure src="/images/magnesium.jpg" alt="" caption="" >}}
+
 Magnesium - 100-200 mg after dinner (best to take with food). We take TJ's magnesium, but have also taken Doctor's Best Magnesium chelated with the amino acids glycine and lysine (which optimize bioavailability,  and glycine is a precursor for glutathione; see COVID discussion above). [Magnesium helps sleep](https://www.ncbi.nlm.nih.gov/pubmed/23853635) (and all my researchy friends take magnesium in the evening), and has [other health benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5926493/), including possibly reducing R-loops that contribute to unstable genome and aging. [Glycine also benefits sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4397399/) so taking Doctor's Best brand gives you two for one :)
 
 Melatonin - 1.5 mg half an hour before going to bed. I get TJs chewable and eat (bite) half a pill. [Research shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6429360/) that besides helping folks fall asleep, it's an antioxidant and increases expression of SIRT genes - and we generate less melatonin as we age. (Note: melatonin may also confer some [protection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102583/) against COVID; see above.)
 
 Colds/Flu - as needed
+
 {{< figure src="/images/IMG_5264.jpg" alt="" caption="" >}}If we're feeling under the weather, we pop the following. Note that [Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4488782/) is also important -- see a nice [Medcram](https://www.youtube.com/watch?v=gmqgGwT6bw0&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_&index=31) review of relevant research here -- but we get in in the sun & supplement regularly. Research shows *regular* supplementation of D--*not* a single bolus dose-- is better.
 
 Oil of oregano 150 mg, a couple at start of any signs of cold/flu symptoms, for it's [antiviral](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6152729/) activity
@@ -73,6 +76,7 @@ Zinc lozenges 23 mg - suck 1 or 2 a day, for [antiviral](https://www.ncbi.nlm.ni
 Quercetin 500-1000 mg for [antiviral](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808895/) activity (taking regularly in morning yogurt, but boost if sick)
 
 Larry's Supplement Adjustments
+
 {{< figure src="/images/larrys.jpg" alt="" caption="" >}}Larry takes mostly what I take, with a few adjustments.
 
 First, he does the same morning yogurt regime (I mix it for him!) and evening magnesium and melatonin. Like me, he takes other vitamins periodically (recall that pulsing is probably good :) In particular, he adds:

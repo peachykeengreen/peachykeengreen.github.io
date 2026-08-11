@@ -28,6 +28,7 @@ This potato dish is adapted from a recipe in [The Indian Vegetarian](https://ww
 - 1/2 tsp garam masala
 - 3 T chopped cilantro for garnish
 - Other vegetables as desired (I sometimes add peas or kale)
+
 ## Instructions
 
 Pre-cook the potatoes: I cut them into chunks and use a microwave steamer (5 minutes), in batches.

@@ -13,6 +13,7 @@ description: "Pear Spice Upside-Down Cake recipe."
 So many pears on our tree! So I googled for a pear dessert, and found this recipe for [Pear Spice Upside-Down Cak](http://blog.fatfreevegan.com/2015/12/pear-spice-upside-down-cake.html)e that looked good - and it was! And relatively healthy, too. The freshly pureed pears makes it spongy and light, and removes the need for oil. I adapted it to make two 8-inch rounds (rather than one 9-inch) since that's what I have -- and why not round up? For the bottom, you can use pear (or other fruit) slices, or  a [berry topping from this NYT recipe](https://www.nytimes.com/2022/07/28/dining/upside-down-cake-easy-summer-recipes.html) (I did that when we had lots of blackberries!). If you use pear slices, make sure they are very ripe or they can be too hard even when cooked. The pears used in the puree can (optionally) be more green. The pear sauce, ginger, and spice combination in the cake is delicious.
 
 ## Ingredients
+
 ### Dry
 
 - 2 1/4 cups whole wheat flour

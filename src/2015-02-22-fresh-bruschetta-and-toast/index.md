@@ -20,6 +20,7 @@ An easy appetizer that is delish!
 - 1T olive oil
 - salt to taste
 - baguette (french or sourdough)
+
 ## Instructions
 
 Dice the tomatoes and garlic, and chop the basil. Toss together with olive oil and a little salt to taste.

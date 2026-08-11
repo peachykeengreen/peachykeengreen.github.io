@@ -26,6 +26,7 @@ I've tried to make beet burgers a few times, with just so-so results. Often they
 - 1 tsp ground pepper
 - 1 8 oz TJ package tempeh, steamed (optional - we did this with Cyndy and it was good)
 - avocado (sliced) for topping
+
 ## Instructions
 
 Tightly wrap beets in foil and roast in the oven (can do the day before) for about 45 minutes at 400 degrees. Let cool.

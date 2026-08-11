@@ -25,6 +25,7 @@ Purple Carrot's [Crispy Sheet Pan Tofu](https://www.purplecarrot.com/plant-base
 - pinch salt and pepper
 - lemon zest
 - (other spices, like garlic and red pepper flakes, as desired)
+
 ### Miso Dressing
 
 - 2 T lemon juice

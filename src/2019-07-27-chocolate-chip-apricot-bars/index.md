@@ -19,6 +19,7 @@ barbecue. I mentioned to my dad that I thought I'd take cookies, and he said,
 interesting twist on that -- with just a tweak to the butter to make it vegan, and reducing the brown sugar a bit (it's pretty sweet as is).
 
 ## Ingredients
+
 ### For Apricot Filling
 
 - 6 oz dried apricots (~1 cup packed), chopped

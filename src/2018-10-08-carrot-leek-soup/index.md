@@ -33,6 +33,7 @@ Salt and pepper
 6 C vegetable stock (water + Better than Bouillon)
 
 1 T chopped fresh thyme for topping (optional)
+
 ## Instructions
 
 Heat the oil in a soup pot. Add onions with red pepper flakes and a little salt. Saute 5 minutes. Add carrots, potato, and sweet potato, and saute another 5 minutes. Add garlic, thyme, and pepper, ad saute another 5 minutes.

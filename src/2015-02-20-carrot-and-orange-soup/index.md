@@ -21,6 +21,7 @@ Super delicious! From the Silver Palate cookbook.
 - 1 cup orange juice (fresh squeezed is best)
 - 2-3 T grated fresh orange zest (to taste, but critical)
 - salt and freshly ground black pepper to taste
+
 ## Instructions
 
 Melt the margarine in a soup pot. Add the onions, cover, and cook over low heat until tender and lightly colored, about 25 minutes, stirring along the way. Add carrots and stock and bring to a boil. Reduce heat, cover, and simmer until carrots are very tender, about 30 minutes.

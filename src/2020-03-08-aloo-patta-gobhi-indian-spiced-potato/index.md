@@ -26,6 +26,7 @@ Munira often makes a potato cabbage fry for us that is yummy. I love cabbage and
 - 5+ cups chopped green cabbage
 - 1 tsp salt
 - 2 T cilantro, chopped, for garnish
+
 ## Instructions
 
 Saute cumin seeds, mustard seeds, fenugreek seeds (if using), and pepper in oil. Add garlic, ginger, and cook 2 minutes. Add turmeric and salt and mix. Add potatoes and mix well. Add cabbage and mix. Cover and cook for 15 minutes. Taste and adjust salt and spice. Serve hot, garnished with cilantro.

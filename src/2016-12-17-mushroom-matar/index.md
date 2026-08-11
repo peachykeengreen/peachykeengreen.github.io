@@ -27,6 +27,7 @@ My friend Shuchi recommended a super-easy masala: Buy frozen [Trader Joes Channa
 - 1 cup green peas
 - 1 cup garbanzo beans (optional)
 - Chopped cilantro for garnish (optional)
+
 ### Spices
 
 - 1 tsp cumin

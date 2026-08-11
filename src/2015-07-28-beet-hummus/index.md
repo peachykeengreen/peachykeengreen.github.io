@@ -21,6 +21,7 @@ Mark brought [Trader Joes Beet Hummus](http://www.traderjoes.com/digin/post/beet
 - 1 clove garlic (or 1 tsp minced)
 - 1/2 tsp salt
 - 1-2 T olive oil
+
 ## Instructions
 
 Drain and rinse garbanzo beans. Put all the ingredients in a food processor and blend! Scrape into a bowl to chill, or serve right away.

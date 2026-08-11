@@ -24,6 +24,7 @@ During the pandemic, I ordered some [soy curls](https://butlerfoods.com/index.ht
 - Sprouts
 - Bell pepper
 - Black olives (sliced)
+
 ### Ranch Dressing
 
 - 3 T vegan mayo

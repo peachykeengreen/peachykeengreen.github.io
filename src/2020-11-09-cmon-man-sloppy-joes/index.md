@@ -54,4 +54,5 @@ And browns like hamburger:
 {{< figure src="IMG_7977.jpg" alt="" caption="" >}}
 
 And here's after adding the sauce!
+
 {{< figure src="IMG_7978.jpg" alt="" caption="" >}}

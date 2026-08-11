@@ -23,6 +23,7 @@ Makes 2 dozen cookies.
 - 1/2 tsp baking powder
 - 1/2 tsp baking soda
 - 1/4 tsp salt
+
 ### Wet Ingredients
 
 - 1/2 C almond butter (or 1/3 C vegan butter)

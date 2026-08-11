@@ -25,6 +25,7 @@ Larry asked his colleague Supraja what she had for lunch the other day, and she 
 - 1/2 tsp fenugreek seed
 - 4 cloves garlic, minced
 - 1" ginger, minced
+
 ### Spices
 
 - 1 bay leaf

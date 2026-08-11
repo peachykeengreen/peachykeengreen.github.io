@@ -20,6 +20,7 @@ We got a batch of bananas that wasn't so tasty, so I thought hey, why don't I tr
 - olive oil
 - cinnamon
 - shredded coconut (optional, but yum!)
+
 ## Instructions
 
 Drizzle a little olive oil in a skillet over medium heat. Arrange banana slices in pan and cook for a couple of minutes on each side.

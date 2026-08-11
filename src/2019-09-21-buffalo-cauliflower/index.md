@@ -17,6 +17,7 @@ We've had some really good buffalo cauliflower at [Vegenation](https://vegenatio
 - 1 large (or 2 small) head cauliflower
 - 2 cups bread crumbs
 - 1/2 cup wheat germ (optional)
+
 ### Batter
 
 - 3/4 cup flour

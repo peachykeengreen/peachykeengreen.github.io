@@ -20,6 +20,7 @@ This bean dish was served at a lunch at work, in both vegan and with-bacon-and-h
 - 3/4 cup chopped celery
 - 3/4 cup chopped bell peppers (yellow or green)
 - 10 cups veggie stock
+
 ### Seasoning
 
 - 3 bay leaves

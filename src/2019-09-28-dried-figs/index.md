@@ -15,6 +15,7 @@ Figs! We have so many figs. Larry is picking a dozen a day, scrambling onto the 
 ## Ingredients
 
 - Fresh figs, a dozen or more
+
 ## Instructions
 
 Figs are pretty juicy, so slice them into quarters at minimum, and into eighths if you can (i.e., they still have integrity).

@@ -27,6 +27,7 @@ I first had this in during college, maybe when I was visiting Chicago and Brenda
 - 1 can garbanzo beans
 - 1 can black beans (or another garbanzo, or other bean)
 - 1 C dry barley or farro (optional)
+
 ### Spices
 
 - 1 large bay leaf
@@ -44,4 +45,3 @@ Saute hot pepper and onion in oil for a few minutes. Add celery, carrot, yam and
 Bring to a boil. Reduce heat and simmer (covered) 20 minutes. Stir in soy sauce and serve!
 
 Earlier version of this recipe with garbanzos & green beans, no barley, more broth:
-

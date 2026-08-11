@@ -25,6 +25,7 @@ Shelley Million gave us a [blood orange cake](https://tasty.co/recipe/blood-oran
 - 1 1/4 C sugar
 - 1 C water
 - 1 1/2 tsp white vinegar
+
 ### Topping
 
 - 1 C powdered sugar

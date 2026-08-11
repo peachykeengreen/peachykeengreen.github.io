@@ -13,6 +13,7 @@ description: "Apple, Banana, Apricot, Walnut \"Danger\" Bread recipe."
 Larry calls this "danger bread" because he can't stop eating it :)
 
 ## Ingredients
+
 ### Dry
 
 - 3 cups whole wheat flour

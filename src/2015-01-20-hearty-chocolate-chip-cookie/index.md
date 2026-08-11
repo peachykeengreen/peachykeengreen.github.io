@@ -15,6 +15,7 @@ Judi found this [Hearty Cookie recipe](http://veryveryverygreen.blogspot.com/20
 This recipe makes about 16 cookies. Often I double it and freeze some of them before cooking so I just take them out and cook when we need more!
 
 ## Ingredients
+
 ### Dry
 
 - 1 cup gluten-free rolled oats, blended into oat flour

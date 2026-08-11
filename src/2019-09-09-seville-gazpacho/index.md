@@ -23,6 +23,7 @@ Last month we went for a walk on the beach near Half Moon Bay, where Larry propo
 - 1/2 tsp cumin (optional!)
 - 2 tsp sherry vinegar (or substitute with a sweet white, apple, or rice wine vinegar)
 - 1/3 C extra-virgin olive oil
+
 ## Instructions
 
 Cut tomatoes, pepper, cucumber, and onion into rough chunks. Combine tomatoes, pepper, cucumber, onion and garlic in food processor or blender (we have a Ninja blender and that's perfect!) Blend at high speed until very smooth, at least 2 minutes, scraping sides.

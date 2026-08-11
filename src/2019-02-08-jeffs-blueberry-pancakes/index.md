@@ -22,6 +22,7 @@ Jeff texted us (siblings) a photo of his blueberry pancake dinner. It looked del
 1 package yeast (quick rise, or regular active dry)
 
 12 oz blueberries
+
 ## Instructions
 
 Mix the flour and wheat germ.

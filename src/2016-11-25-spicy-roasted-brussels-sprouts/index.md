@@ -20,6 +20,7 @@ Judi made so many delicious things for [Thanksgiving](http://veryveryverygreen.
 - 1/4 cup brown sugar or maple syrup
 - 2 T Sriracha
 - fresh ground salt and pepper
+
 ## Instructions
 
 Preheat the oven to 400°F. Trim the base away from the brussels sprouts and discard. Cut the sprouts in half. Toss in a large gallon bag.

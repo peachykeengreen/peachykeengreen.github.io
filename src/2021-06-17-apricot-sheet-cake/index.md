@@ -15,6 +15,7 @@ We harvested some of Judi's apricots while her family was out of town. Her tree 
 Variations: Can make with plums or cherries, or bake in regular cake pans.
 
 ## Ingredients
+
 ### Wet
 
 - 1 C apricot puree (about 6-8 apricots)

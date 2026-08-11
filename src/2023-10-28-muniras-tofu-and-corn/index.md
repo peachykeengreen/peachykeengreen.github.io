@@ -21,6 +21,7 @@ A simple, delicious dish, created by Munira. Who'da thought corn and tofu would 
 - oil
 - salt to taste
 - optional: bell peppers (chopped)
+
 ## Instructions
 
 Press the tofu to drain some of the water. Cut into chunks.

@@ -21,6 +21,7 @@ Adapted from [Chloe's Kitchen](http://chefchloe.com/books), a simple delicious d
 - 1/2 t cinnamon
 - 1/2 t cloves
 - 1/2 t ginger
+
 ## Instructions
 
 Peel the yams, dice, and roast in the oven with a little olive oil. (Or boil or microwave, but roasting is easy, and you can throw in some other veggies to much while you mash!)

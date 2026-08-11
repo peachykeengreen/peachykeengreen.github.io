@@ -29,6 +29,7 @@ Shhhhhh.... Munira shared her marvelous gobi recipe with me! I'm not sure what g
 - 1 tsp ground cumin
 - 1 tsp chili pepper
 - 1 tsp salt
+
 ## Instructions
 
 Optional: Steam the cauliflower in the microwave if you want the dish to be done faster.

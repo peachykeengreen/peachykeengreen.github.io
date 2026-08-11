@@ -24,6 +24,7 @@ Larry put Japanese miso powder on his Christmas wish list; he wanted powder sinc
 - 1 T chives, chopped
 
 1.5 C hot water
+
 ## Instructions
 
 Cut up tofu into cubes and toss into soup bowls. Using a scissors, cut up chives and seaweed over each bowl. Add miso powder to the bowls.

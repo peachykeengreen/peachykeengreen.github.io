@@ -17,6 +17,7 @@ Talking with Judi  later: she loves her [cornbread recipe](http://veryveryvery
 Note: There's a sliding scale between cornbread and corn cake. One bread end is represented by just 1/4 C sugar, which we like. Most folks are probably used to sweeter cornbread, though; if that's you, double it (as noted below, by adding agave--or just double the sugar).
 
 ## Ingredients
+
 ### Dry
 
 - 3/4 C flour

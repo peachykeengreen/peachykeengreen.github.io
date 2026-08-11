@@ -13,6 +13,7 @@ description: "Upside Down Cake (Pineapple or Kumquat!) recipe."
 Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Marilyn's frozen kumquats (which had thawed out during our 2.5 day power outage). Omg, it was one of the best cakes I've had. Rick did a mashup of this [non-vegan kumquat upside down cake](https://familyspice.com/kumquat-upside-down-cake) and this [vegan pineapple upside down cake](https://lovingitvegan.com/vegan-pineapple-upside-down-cake/ ). Definitely use a cast iron skillet if you have one; I think it makes a difference (and I bought a 10" skillet just for this recipe!) If you don't have kumquats, try with pineapple or another citrus-y fruit!
 
 ## Ingredients
+
 ### Topping
 
 - 2 T vegan butter (original was 4; reduced)
@@ -40,11 +41,13 @@ Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Ma
 - 1 T rum
 - 1/2 C powdered sugar
 
+{{< figure src="kumquat-upside-down-cake-img-2.jpg" alt="Kumquat version" caption="Kumquat version" >}}
+
+{{< figure src="kumquat-upside-down-cake-img-3.jpg" alt="" caption="Mango pineapple chunk version" >}}
+
 ## Instructions
 
 Preheat oven to 350ºF.
-
-{{< figure src="kumquat-upside-down-cake-img-2.jpg" alt="Kumquat version" caption="Kumquat version" >}}
 
 Lightly grease the sides of a 9 or 10-inch cast iron skillet, then heat over medium-high heat and melt butter.  When butter is bubbling and just starts to brown, stir in brown sugar.
 
@@ -72,7 +75,6 @@ Keep leftovers covered in the fridge, if there are any. It is also freezer frien
 
 Making the cake with fresh pineapple, and with the help of my new 10" cast-iron skillet and bicep guy:
 
-{{< figure src="kumquat-upside-down-cake-img-3.jpg" alt="" caption="" >}}
 
 {{< figure src="kumquat-upside-down-cake-img-4.jpg" alt="" caption="" >}}
 

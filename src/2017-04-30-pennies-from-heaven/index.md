@@ -22,6 +22,7 @@ Our wonderful neighbors gave us two 5-lb bags of carrots after an online order s
 - 15 dried apricots, slivered
 - 1/2 cup sliced almonds, toasted
 - salt and pepper to taste.
+
 ## Instructions
 
 Bring carrots to a boil. Reduce the heat and simmer 10 minutes. Rinse under cold water and drain.

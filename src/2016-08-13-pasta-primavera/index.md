@@ -30,6 +30,7 @@ Note: I didn't measure as I made it, so the amounts below are just rough guesses
 - 1/2 tsp cayenne pepper (or to taste)
 - 1/3 cup fresh basil, chopped
 - Pasta (we like [Garofalo whole wheat](https://www.amazon.com/Garofalo-Fusilli-Whole-Wheat-16-Ounce/dp/B004TQR8AG/) pasta, fusilli especially, and also spaghetti)
+
 ## Instructions
 
 Dice the onions, slice the mushrooms, and chop the zuchinni and tomatoes; set aside in separate bowls. Saute the onion in olive oil for a few minutes. Add the mushrooms and saute a few minutes more. Add zucchini, saute a few minutes more. Add garlic, olives, dry spices and red wine, and saute a few minutes more. Add tomatoes and fresh basil, saute a couple more minutes. Cover and turn off the heat. What, you haven't made the pasta yet? Git going on that. Serve over pasta. Yum!

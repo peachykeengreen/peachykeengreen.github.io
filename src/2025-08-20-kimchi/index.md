@@ -22,6 +22,7 @@ Fermented foods are good for the gut. Larry likes kimchi, so he decided to try t
 - 1/2 tsp ground or use fresh ginger
 - 1 1/2 T gochugaru (Korean chili powder)
 - 1 T gochujang (Korean fermented red pepper paste from TJ)
+
 ## Instructions
 
 Cut cabbage in half lengthwise and trim ends. Rinse and cut into pieces about 2 inches square. Place cabbage into large bowl or resealable bags; sprinkle salt evenly over leaves to coat. Use your hands to rub salt into cabbage. Seal and leave at room temperature for 6 hours.

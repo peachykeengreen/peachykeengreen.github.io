@@ -26,6 +26,7 @@ Happy Healthy and Oh She Glows both have recipes for chocolate chia pudding. One
 - Breakfast version, add:
 - 1 mashed banana
 - 3/4 rolled oats (not instant)
+
 ### Toppings
 
 - Berries

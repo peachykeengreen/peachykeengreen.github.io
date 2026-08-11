@@ -22,6 +22,7 @@ Rough measurements for ingredients follow (of course no actual measuring was don
 - 2/3 C channa dal
 - 1 tsp salt (or to taste)
 - Water (for rinsing & soaking)
+
 ## Instructions
 
 Measure out the lentils into a bowl together and mix. Rinse well a couple of times, then add several cups of water and soak overnight. The next day, grind up the soaked lentils in a blender. Add a little salt, and water as needed, to make a thin batter.

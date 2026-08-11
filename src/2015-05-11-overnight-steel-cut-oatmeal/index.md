@@ -18,6 +18,7 @@ A wonderful chocolate oatmeal, or make it plain with maple and brown sugar. I fo
 - 2 cups water
 - 3 cups vanilla almond milk
 - 2 T maple syrup
+
 ### Chocolate Version
 
 - 1/4 cup unsweetened cocoa powder

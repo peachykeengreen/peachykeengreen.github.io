@@ -20,6 +20,7 @@ The following recipe (slightly adapted with a bit less sugar) makes about 1.5 cu
 - 1 cup extra fine sugar
 - 1 T lemon juice
 - 1 tsp pectin
+
 ## Instructions
 
 Place the blackberries in a medium-sized pot and bring them to a boil over medium-high heat.  Once boiling, reduce the heat and simmer for 15-20 minutes until very soft and mushy.  Remove from heat and mash with a potato masher to further break up the berries.

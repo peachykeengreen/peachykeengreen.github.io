@@ -13,6 +13,7 @@ description: "Blueberry Bran Muffins recipe."
 Oh my, these are delicious and healthy. This recipe is adapted from my favorite [Isa Does It](https://www.theppk.com/books/isa-does-it/) cookbook to use slightly less sugar and a couple other small tweaks. This makes a dozen; consider doubling so you can freeze some! You'll eat a dozen way too quickly.
 
 ## Ingredients
+
 ### Dry
 
 - 1 C whole wheat flour

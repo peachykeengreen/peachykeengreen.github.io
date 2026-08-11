@@ -25,6 +25,7 @@ Viki brought her adaptation of a [carrot-top chimichurri](https://www.loveandlem
 - 2 T rice vinegar
 - 2 T red wine vinegar
 - 1/4 C extra-virgin olive oil
+
 ## Instructions
 
 In a small bowl, combine the carrot greens, oregano, cumin, paprika, red pepper flakes, garlic, salt, and pepper. Stir in the vinegar and olive oil. Taste and adjust seasonings.

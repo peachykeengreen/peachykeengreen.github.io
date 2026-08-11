@@ -30,6 +30,7 @@ mostly following the recipe for
 Our verdict: Worth it for pita and empanadas. For pizza, we'll probably stick with TJs. Next time we do a greek meza, we may skip the pizza and just have the meza with pita. The pizza was fun to make, but we had plenty of food without it, and the dough didn't shine in the pizza like it did in the pita.
 
 ## Ingredients
+
 ### Dry
 
 - 2.5 cups whole wheat flour
@@ -43,6 +44,7 @@ Our verdict: Worth it for pita and empanadas. For pizza, we'll probably stick wi
 - 1 T olive oil
 
 ## Instructions
+
 In a bowl, mix water, yeast, and maple syrup. Stir and let sit for 5 minutes.
 
 Put dry the dry ingredients in the food processor and pulse briefly to combine. With the machine running, add the yeast mixture (from a container with a lip if you want to avoid spills). Unlike hand kneading that takes minutes, you "knead" the dough [briefly in the food processor](https://www.cooksillustrated.com/how_tos/5798-how-to-knead-bread-in-a-food-processor), like 45-90 seconds. Be careful not to over-knead. You want the dough to be a ball that springs back and is slightly sticky.

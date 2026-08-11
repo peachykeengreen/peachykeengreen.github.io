@@ -22,6 +22,7 @@ Jeff made a batch of his black bean soup and told me his recipe, so I thought I'
 - Collard greens or kale, chopped
 - vegetable broth (or just bean broth)
 - Tomatoes, chopped (optional)
+
 ### Spices
 
 - 1 T cumin seeds

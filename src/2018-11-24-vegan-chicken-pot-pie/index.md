@@ -19,6 +19,7 @@ We ate at [Vegenation](https://vegenationlv.com/) in Las Vegas during our South
 - 10 oz mushrooms, washed and sliced
 - 1 large potato, diced
 - 2 T canola oil
+
 ### Liquids
 
 - 1/2 cup flour

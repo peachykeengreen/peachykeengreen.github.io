@@ -20,6 +20,7 @@ Cyndy made this delish salad for us when we visited a few days ago, along with h
 - 3 scallions (green onions), chopped
 - 3 oz feta (vegan, from Trader Joes), crumbled on top
 - 1/4 C pine nuts (best!) or pumpkin seeds, roasted
+
 ### Dressing
 
 - 3 T olive oil
@@ -39,6 +40,7 @@ Ribboned spinach:
 {{< figure src="beet-quinoa-salad-img-2.jpg" alt="" caption="" >}}
 
 Toss!
+
 {{< figure src="beet-quinoa-salad-img-3.jpg" alt="" caption="" >}}
 
 Enjoy!

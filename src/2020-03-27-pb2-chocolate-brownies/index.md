@@ -13,6 +13,7 @@ description: "PB2 Chocolate Brownies recipe."
 Thinking about alternatives to my (limited) flour as we go shopping less during the pandemic, I recalled that I have two big jars of PB2 (powdered peanut butter) that have been in my cupboard for awhile. Googling brought up several lists of [healthy](https://dailyburn.com/life/recipes/powdered-peanut-butter-pb2-recipes/) [PB2](https://legionathletics.com/healthy-pb2-recipes/) [recipes](https://www.weightwatchers.com/us/blog/food/peanut-butter-powder-pb2-recipes) including some [PB2 Flourless Chocolate Brownies](https://www.skinnytaste.com/pb2-flourless-chocolate-brownies/#_a5y_p=1556183). I played with the recipe and made a few changes. In particular, it worked best for me with half PB2 and half flour, sugar in place of honey, and fewer chocolate chips. (And of course flaxmeal in place of eggs!). It's really yummy and not too sweet!
 
 ## Ingredients
+
 ### Dry
 
 - 1/2 C powdered peanut butter

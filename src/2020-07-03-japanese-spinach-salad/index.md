@@ -21,6 +21,7 @@ Larry has fond memories of cold spinach salad in Japan. We compared several reci
 - 2 tsp rice vinegar (or rice wine or sherry)
 - 4 tsp soy sauce
 - 1 1/2 tsp sugar
+
 ## Instructions
 
 Prepare spinach 30 minutes to 3 hours ahead: Bring a large pot of salted water to a boil add a pinch of salt. Add spinach to boiling water and cook for one minute. Drain and soak with cold water until cooled, removing as much water as possible. Chill the spinach for at least 30 minutes and up to 3 hours.

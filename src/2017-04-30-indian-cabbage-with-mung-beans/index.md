@@ -19,6 +19,7 @@ Our favorite local Indian restaurant, [Janta](https://www.yelp.com/biz/janta-ind
 - 1 small head cabbage, shredded
 - (try half green, half purple)
 - 1/2 cup diced tomato
+
 ### Saute
 
 - 2 T oil

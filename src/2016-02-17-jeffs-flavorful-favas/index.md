@@ -25,6 +25,7 @@ Next: reminder to self to try this [Portugese Fava recipe](http://www.foodnetwor
 - cayenne pepper
 - salt
 - other spices to taste
+
 ## Instructions
 
 If using dried favas, soak them over night, rinse, bring to a boil, and simmer 45 minutes. (I leave the shell on.) Jeff says save the broth and use it in the saute; I had already drained the beans when I asked him, so I missed that.

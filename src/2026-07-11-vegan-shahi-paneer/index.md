@@ -37,6 +37,7 @@ Nick and I love Darbar's Shahi Paneer, so I wanted to try making a vegan version
 - 2 T cornstarch or potato starch
 - 1 tsp nutritional yeast
 - 1 T canola oil
+
 ## Instructions
 
 Press, drain, and cut up the tofu. Marinate as desired, and air-fry or bake.

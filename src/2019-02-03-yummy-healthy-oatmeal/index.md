@@ -20,6 +20,7 @@ When we visited Chelsey and Josh last November, Chelsey made a delicious, super 
 1 heaping cup oatmeal flakes (NOT instant)
 
 2 heaping T wheat germ
+
 ### Topping
 
 blackberries or other berries

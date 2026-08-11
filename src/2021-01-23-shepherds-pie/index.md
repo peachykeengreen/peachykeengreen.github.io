@@ -27,6 +27,7 @@ Updated from the 2026 Blue Zone Cookbook. Originally from the [How Not To Die Co
 - Or other veggies, like zuccinni, or mixed frozen veggies
 - 2-3 C cooked lentils
 - 1/4 C red wine vinegar
+
 ### Slurry
 
 - 1 T potato starch or cornstarch

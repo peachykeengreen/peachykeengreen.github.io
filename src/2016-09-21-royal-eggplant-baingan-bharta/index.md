@@ -31,6 +31,7 @@ Another recipe adapted from a recipe in [The Indian Vegetarian](https://www.blo
 - 1/2 - 1 C chopped cilantro
 - 1 small hot green or red pepper
 - Optional: 1 cup fresh peas
+
 ### Spices
 
 - 1 tsp paprika

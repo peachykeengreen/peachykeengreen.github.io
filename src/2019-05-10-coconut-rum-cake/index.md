@@ -13,6 +13,7 @@ description: "Yummy Rummy Cake recipe."
 Munira is cooking us another delicious dinner, and wants rum cake! So I gave it a try. I googled and found a few recipes, and two stood out to me: A [vegan coconut rum cake](http://www.the350degreeoven.com/2017/11/cake/vegan-coconut-rum-cake-no-eggs-no-dairy/) that was somewhat similar to my favorite [vegan chocolate cake](https://peachykeengreen.blogspot.com/2015/05/chocolate-cake-with-gooey-ganache.html), and a [brown sugar and molasses based rum glaze.](https://www.myrecipes.com/recipe/rum-glaze-0) Since then, I've made both **vanilla-coconut and **chocolate-walnut versions of this (after Munira said try walnuts!). We thought the chocolate walnut was the best, but both are good depending on what you're looking for, so both variations are described below.
 
 ## Ingredients
+
 ### Dry
 
 - For vanilla: 2 2/3 C whole wheat flour
@@ -33,6 +34,7 @@ Munira is cooking us another delicious dinner, and wants rum cake! So I gave it 
 - 1 1/2 C sugar
 - 2/3 C canola oil
 - 3 tsp vanilla
+
 {{< figure src="IMG_2199.jpg" alt="" caption="" >}}
 
 ### Glaze

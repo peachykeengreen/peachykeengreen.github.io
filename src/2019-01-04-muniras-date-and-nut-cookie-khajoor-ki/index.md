@@ -20,6 +20,7 @@ Omg, these date cookies are so good. Munira and her friend Shobha made them for 
 - 2 C medjool dates, chopped
 - 2 tsp cardamom
 - 4T finely shredded coconut (optional)
+
 ## Instructions
 
 Chop dates (by hand or use food processor). Transfer to saucepan and cook over medium heat with vegan butter and cardamom. Saute for 5 minutes, stirring frequently. Reduce heat to low and stir until the mixture forms a paste (about 5 more minutes).

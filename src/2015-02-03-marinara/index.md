@@ -28,6 +28,7 @@ Use jarred tomatoes if you want to be sure that you're not getting any BPA or ot
 - red pepper flakes (to taste; half a teaspoon?)
 - Marjoram to taste (optional)
 - Thyme to taste (optional)
+
 ## Instructions
 
 In a big pot/dutch oven, cook the onion and mushrooms in oil if you are using them, until onions are translucent. Add garlic and spices and cook for a couple more minutes.. Add the tomatoes and bring to a boil. Reduce heat and simmer for 2-4 hours (more is better), no lid (so liquid evaporates). Serve over whole-wheat pasta (we like [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/) spaghetti or fusilli) OR spiral-cut squash.

@@ -23,6 +23,7 @@ Consider doubling, since they will disappear fast :-d
 - 1/2 cup soft (vegan) butter
 - 2 T sugar
 - 1 tsp vanilla
+
 ## **## Instructions
 
 Put pecans into into a food processor and pulse to grind. Add other ingredients and pulse until well mixed. Roll in small balls and put on non-greased cookie sheet. Bake at 300 degrees for 45 minutes. Roll while warm in powdered sugar.

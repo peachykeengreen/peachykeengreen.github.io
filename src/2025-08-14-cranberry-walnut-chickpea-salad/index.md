@@ -19,6 +19,7 @@ Cyndy made this salad for us during a visit. It has a great mix of sweetness, he
 - 1/2 C dried cranberries
 - 1/2 C walnuts, finely chopped
 - 1/2 C red onion, very thinly sliced
+
 ### Vinaigrette
 
 - 1/4 C olive oil

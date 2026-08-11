@@ -28,6 +28,7 @@ This makes about 4 dozen cookies. I froze half the dough and halved the glaze fo
 - 1/2 tsp salt
 - 1 C chopped walnuts
 - 1 C raisins
+
 ### Glaze
 
 - 2 C powdered sugar

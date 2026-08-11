@@ -50,6 +50,7 @@ April 2016 update: My friend Sherry made delicious roasted cauliflower for us la
 - juice of half a lemon
 - 4 T veg broth
 - roasted pistachios (optional)
+
 ## Instructions
 
 Wash and cut the cauliflower into florets, and put in a colander to dry.

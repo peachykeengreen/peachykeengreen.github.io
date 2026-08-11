@@ -21,6 +21,7 @@ After a lovely, spur-of-the-moment hike with Judy and Robert on New Year's Day, 
 - 1/2 tsp pepper
 - 1 T canola oil
 - 4 scallions, thinly sliced
+
 ### Dressing
 
 - 3/4 C olive oil

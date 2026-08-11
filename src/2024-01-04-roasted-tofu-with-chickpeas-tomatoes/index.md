@@ -18,6 +18,7 @@ Judy and Robert made a variation of this delicious NYTimes recipe for [Za’atar
 - 1 pint cherry or grape tomatoes (can also try butternut squash)
 - 1 (8-ounce) bag leafy greens, such as baby spinach, baby kale, arugula, or mixed greens
 - Salt and pepper
+
 ### Marinade
 
 - 3 garlic cloves, diced

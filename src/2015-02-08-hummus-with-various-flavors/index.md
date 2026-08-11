@@ -28,6 +28,7 @@ This is a thick, yummy homemade hummus slightly adapted from [Judi's hummus.](ht
 - 1/4 C shiracha
 - 1/4 C chipotle sauce ([Judi's recipe](http://veryveryverygreen.blogspot.com/search?q=chipotle)) YUM
 - 1/2 C sundried tomatoes
+
 ## Instructions
 
 Drain and rinse garbanzo beans (I don't use any of the liquid; it's better thick!). Put beans, tahini, lemon juice, garlic, salt, cumin, olive oil, and an (optional) flavoring in a food processor and blend. Scrape into a bowl to chill, or serve right away. The picture here is with Judi's chipotle sauce.

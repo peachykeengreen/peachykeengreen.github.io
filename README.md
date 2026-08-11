@@ -8,15 +8,18 @@ Peachy Keen Green is a static site for Vegan Recipies that is built with [Hugo](
 
 1. **Python 3.13** & `direnv` (optional but recommended):
    If using `direnv`, allow the directory environment to set `PROJECT_ROOT`, `PYTHON_VERSION="3.13"`, and add system paths:
+
    ```bash
    direnv allow
    ```
+
 2. **Hugo**:
    Ensure Hugo is installed (`hugo version`).
 
 3. **Virtual Environment & Dependencies (Optional)**:
    The tools use standard library modules exclusively and require no external runtime dependencies.
    If you wish to set up a virtual environment or install development tools (`pytest`, `ruff`):
+
    ```bash
    python -m venv .venv
    source .venv/bin/activate
@@ -68,6 +71,7 @@ My instructions.
 ## 3. Development & Usage
 
 ### Re-Building the Site (`./gen.sh`)
+
 By default, `./gen.sh` cleans generated site artifacts from `docs/` (while preserving static assets in `docs/images/` and `docs/css/`) before rebuilding the site:
 
 ```bash
@@ -91,6 +95,7 @@ hugo server --port 8080 --renderToMemory
 ```
 
 Useful flags:
+
 - Include draft posts: `hugo server --port 8080 -D`
 - Include future-dated posts: `hugo server --port 8080 --buildFuture`
 
@@ -101,6 +106,7 @@ The development server serves the site at `http://localhost:8080/` and watches `
 ## 4. Search System & GitHub Pages Serving
 
 The search system operates statically on GitHub Pages:
+
 - **Hugo Index Template (`docs/index.json`)**: Generated automatically during `./gen.sh` via Hugo's native `outputs.home = ["HTML", "JSON"]` template (`page_layouts/index.json`).
 - **Inline Header Search**: Clicking the 🔍 icon in the header expands an inline search input field. Pressing **Return / Enter** or clicking 🔍 executes search (`/?q=query`).
 - **Edge CDN JS Delivery**: Uses [Fuse.js](https://fusejs.io/) via jsDelivr Edge CDN (`https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js`) loaded with `defer` for zero initial page load impact.

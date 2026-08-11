@@ -13,6 +13,7 @@ description: "Vegetable Biryani recipe."
 Munira gave me a huge bag of dry rice, and I decided to try to make a biryani in the Instant Pot, somewhat like this recipe from [Piping Pot Curry](https://pipingpotcurry.com/instant-pot-vegetable-biryani/). It was pretty easy and good!  The recipe below is slightly updated with some ideas from Vegan Richa's Indian Kitchen, and more veggies and cashews. It was nice to have just one pot to clean at the end.
 
 ## Ingredients
+
 ### Make Vegetable Mix and Set Aside
 
 - 1 large potato, chopped

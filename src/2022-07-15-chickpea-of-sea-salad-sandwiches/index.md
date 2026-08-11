@@ -23,6 +23,7 @@ Our grape vines are prolific, but the grapes are teeeeeeny. Larry's sister Cyndy
 - 1/2 tsp garlic powder
 - 1/2 tsp pepper
 - 1/4 tsp cayenne or chili powder
+
 ### Optional
 
 - 2 crushed or shopped nori sheets (seaweed)

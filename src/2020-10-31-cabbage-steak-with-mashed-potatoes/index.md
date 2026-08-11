@@ -22,6 +22,7 @@ Laurie tried out some new recipes for dinner when we stopped by on our way back 
 - black pepper to taste
 - salt to taste
 - lemon juice (to squeeze on top after)
+
 ### Gravy
 
 - mushrooms, 8-10 oz

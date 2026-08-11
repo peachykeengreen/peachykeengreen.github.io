@@ -18,6 +18,7 @@ Our friends Pat and Allen have a Buddha's Hand Tree, and offered us a chance to 
 - For every 3 C chopped buddha's hand (I often have 6-9 C), use:
 - 2 C water (takes longer to reduce the more water you use)
 - 3 C granulated sugar (sometimes I use 2 C and it seems to work fine)
+
 ## Instructions
 
 Dice the citron, taking care to use only the portions that include the zest and some pith. Discard interior pith portion that has no zest.

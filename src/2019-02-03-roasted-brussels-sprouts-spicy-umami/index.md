@@ -42,6 +42,7 @@ Judi's [sriracha brussels](https://peachykeengreen.blogspot.com/2016/11/spicy-r
 1/4 cup water
 
 3 cloves garlic, mashed
+
 ## Instructions
 
 If making umami sauce: add everything to food processor and mix.

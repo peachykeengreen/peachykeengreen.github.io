@@ -24,6 +24,7 @@ Jeff & Brenda came over for lunch, and they had a hankering for bbq chicken, so 
 - 4 T distilled vinegar
 - 1 T Worcestershire sauce
 - Dash salt
+
 ## Instructions
 
 Heat the oil in a saucepan over medium-low heat. Add the garlic and onions and cook for 5 minutes, stirring, being careful not to burn them. Reduce the heat to low. Add the ketchup, molasses, brown sugar, chipotle peppers, vinegar (or less to taste), Worcestershire sauce and salt and stir. Allow to simmer for 20 minutes. Remove, taste, and adjust spices as desired. Serve warm.

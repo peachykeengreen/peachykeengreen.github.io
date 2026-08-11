@@ -17,6 +17,7 @@ A super easy, yummy vegan dessert. We used to make it with Grapenuts, but then C
 - Fresh strawberries (or other fresh berry/mix)
 - Crunchy topping like Grapenuts or Love Crunch
 - Vegan yogurt, like Trader Joes Vanilla Cultured Coconut Milk
+
 ## Instructions
 
 1. Get a pretty bowl and plop in some yogurt.

@@ -28,6 +28,7 @@ We discovered [mujadara](https://littlesunnykitchen.com/mujaddara/) at a middle 
 - or
 - 1/2 C rice (white or brown)
 - 1/2 C quinoa (or can use all rice)
+
 ## Instructions
 
 Rinse the lentils and put them in water to soak. Chop the onions, and saute in oil with spices in the Instant Pot for about 10 minutes. Add soaked lentils and grains along with water to the pot. Cook on Rice setting for 5 minutes. Serve!

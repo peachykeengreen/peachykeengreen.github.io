@@ -32,6 +32,7 @@ Thanks to Wanda and Judi, who gave me their great recipes, which I merged and pl
 - Peanut butter
 - Mini chocolate chips (dot a few on top of pancakes when they are cooking)
 [Ginger pear compote](http://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html)
+
 ## Instructions
 
 Mix the dry ingredients (I keep a batch of the dry mix in the fridge). When ready to cook, mix with wet ingredients as so:

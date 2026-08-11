@@ -32,6 +32,7 @@ Elsa made this dish for a dinner party a couple of times, served with a salad. I
 - 4-5 slices country bread, cut in 1/2" cubes
 - 1/4 C oil (olive or canola)
 - 1/4 C minced parsley OR mix of fresh herbs (basil, thyme, rosemary, sage) chopped
+
 ## Instructions
 
 Chop and dice the veggies. Whisk together the flour and water.

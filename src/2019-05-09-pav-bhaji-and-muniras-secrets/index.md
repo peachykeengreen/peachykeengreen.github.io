@@ -24,6 +24,7 @@ But last weekend we arrived as she was starting to make [Pav Bhaji (from Cook w/
 - 1 large onion (red best), chopped
 - 1 cup cilantro
 - 2 cups chopped tomato
+
 ### Spices
 
 - turmeric
@@ -89,6 +90,7 @@ And... it's ready! Yum!
 {{< figure src="IMG_2051.JPG" alt="" caption="" >}}
 
 {{< figure src="IMG_2057.JPG" alt="" caption="" >}}
+
 And fast forward to another bhaji attempt in May 2020 for the birthday boy - it was delicious!
 
 {{< figure src="bhaji.jpg" alt="" caption="" >}}{{< figure src="bday.jpg" alt="" caption="" >}}

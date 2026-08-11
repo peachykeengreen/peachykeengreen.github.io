@@ -22,6 +22,7 @@ Munira gave us some delicious homemade hot green chutney. I tried to replicate 
 - (or 2 parts cilantro to 1 part mint)
 - 1 tsp cumin
 - juice from one lime (or lemon)
+
 ### Optional
 
 - 1/4 cup seeds from pomegranate

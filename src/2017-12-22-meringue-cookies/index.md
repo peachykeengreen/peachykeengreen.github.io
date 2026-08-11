@@ -21,6 +21,7 @@ What? No, really, My pal Judi mentioned this months ago when she made [vegan ma
 - 1 cup liquid from cooked or canned chickpeas, chilled
 - 1/2 tsp vanilla
 - 1/4 tsp cream of tartar
+
 ### Optional
 
 - 2 ziplock sandwich bags for squeezing (rather than dolloping)

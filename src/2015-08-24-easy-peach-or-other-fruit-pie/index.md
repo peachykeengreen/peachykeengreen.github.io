@@ -16,6 +16,7 @@ During a visit to Nebraska, Dad's friend Jack gave him a bag of about 30 fresh-p
 
 - 4-5 cups fruit, fresh or frozen:
 - peaches, pears, apples, blackberries, strawberries, figs, or mix
+
 ### Dry
 
 - 2 T flour
