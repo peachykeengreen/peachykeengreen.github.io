@@ -12,6 +12,9 @@ enableGitInfo = false
 [frontmatter]
   lastmod = ["lastmod"]
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [[module.mounts]]
 source = "src"
 target = "content"
@@ -37,7 +40,7 @@ target = "archetypes"
   posts = "/:slug/"
 
 [params]
-  version = "1.0.8"
+  version = "1.0.9"
   author = "Patricia Schank"
   copyrightStartYear = "2015"
 
