@@ -10,7 +10,7 @@ featured_image: "sauce.jpg"
 description: "Applesauce recipe."
 ---
 
-Growing up, Larry's family had a tradition of eating applesauce at most meals. Since we've started doing weekly zoom dinners with his family, they decided everyone should always have applesauce for dessert. Cute! But it's been hard to find jars of applesauce. We're just seeing pouches and single-serve containers as options at Costco and our Instacart orders. Yuck.  But apples are easy to get. And I make a mean [ginger pear sauce](https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html).... So why not make applesauce, too? Of course!
+Growing up, Larry's family had a tradition of eating applesauce at most meals. Since we've started doing weekly zoom dinners with his family, they decided everyone should always have applesauce for dessert. Cute! But it's been hard to find jars of applesauce. We're just seeing pouches and single-serve containers as options at Costco and our Instacart orders. Yuck.  But apples are easy to get. And I make a mean [ginger pear sauce](/caramelized-ginger-pears/).... So why not make applesauce, too? Of course!
 
 ## Ingredients
 

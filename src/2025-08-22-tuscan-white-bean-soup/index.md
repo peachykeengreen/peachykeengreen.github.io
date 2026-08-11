@@ -10,7 +10,7 @@ featured_image: "tuscan-white-bean-soup-img-1.jpg"
 description: "Tuscan White Bean Soup recipe."
 ---
 
-Elsa and John came over for dinner, and I was inspired to make a soup with white beans to serve with a hearty [whole wheat bread](https://peachykeengreen.blogspot.com/2024/04/whole-wheat-bread.html). I searched and looked at a few recipes, chose this [Tuscan white bean soup](https://eatwithclarity.com/white-bean-soup/), and made a few adjustments. It was delicious! I increased the ingredients (below) but it still doesn't make a huge amount. I like lots of extra soup that I can freeze. Next time I might double this recipe.
+Elsa and John came over for dinner, and I was inspired to make a soup with white beans to serve with a hearty [whole wheat bread](/whole-wheat-bread/). I searched and looked at a few recipes, chose this [Tuscan white bean soup](https://eatwithclarity.com/white-bean-soup/), and made a few adjustments. It was delicious! I increased the ingredients (below) but it still doesn't make a huge amount. I like lots of extra soup that I can freeze. Next time I might double this recipe.
 
 ## Ingredients
 

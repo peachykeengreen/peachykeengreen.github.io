@@ -10,7 +10,7 @@ featured_image: "IMG_1610.jpg"
 description: "Best Beet Burgers recipe."
 ---
 
-I've tried to make beet burgers a few times, with just so-so results. Often they're too soft and just not as tasty as I hoped. But for Labor Day this year, I finally did mashup of a couple of different recipes, and it was delish. I learned a lot from this [Ultimate Veggie Burger](https://www.theawesomegreen.com/the-ultimate-veggie-burger/) recipe -- how you can swap in and out various vegetables and grains, for example -- and crossed this [Amazing Beet Burger](http://powerhungry.com/2018/03/incredible-beet-burgers-vegan-grain-free/) recipe with my other favorite [Double Double burgers](http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html) from Chloe. I think what made this mashup a winner was **roasting the beets (don't buy them pre-cooked!) and adding **mushrooms (yum). I also think that for the grain, **tempeh is much tastier than the rice many recipes call for.
+I've tried to make beet burgers a few times, with just so-so results. Often they're too soft and just not as tasty as I hoped. But for Labor Day this year, I finally did mashup of a couple of different recipes, and it was delish. I learned a lot from this [Ultimate Veggie Burger](https://www.theawesomegreen.com/the-ultimate-veggie-burger/) recipe -- how you can swap in and out various vegetables and grains, for example -- and crossed this [Amazing Beet Burger](http://powerhungry.com/2018/03/incredible-beet-burgers-vegan-grain-free/) recipe with my other favorite [Double Double burgers](/vegan-double-double-burgers-fieldroast/) from Chloe. I think what made this mashup a winner was **roasting the beets (don't buy them pre-cooked!) and adding **mushrooms (yum). I also think that for the grain, **tempeh is much tastier than the rice many recipes call for.
 
 ## Ingredients
 
@@ -33,7 +33,7 @@ Tightly wrap beets in foil and roast in the oven (can do the day before) for abo
 
 {{< figure src="IMG_0008.JPG" alt="" caption="" >}}
 
-I waited to long (a month later) to write this down, and now I don't remember if (like [Chloe's recipe](http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html)), I used tempeh in this recipe when I created it! I did this recipe later with Cyndy and we did add tempeh, and it was good. If you want to add tempeh, steam it for 5 minutes, in microwave steamer or on the stove, and let cool.
+I waited to long (a month later) to write this down, and now I don't remember if (like [Chloe's recipe](/vegan-double-double-burgers-fieldroast/)), I used tempeh in this recipe when I created it! I did this recipe later with Cyndy and we did add tempeh, and it was good. If you want to add tempeh, steam it for 5 minutes, in microwave steamer or on the stove, and let cool.
 
 Saute onion and mushrooms in oil until lightly brown; add garlic and saute a couple more minutes. Take off stove and let cool.
 

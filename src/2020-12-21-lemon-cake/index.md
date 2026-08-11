@@ -10,7 +10,7 @@ featured_image: "lemon-cake-2020-img-1.jpg"
 description: "Lemon Cake or Bread recipe."
 ---
 
-It's lemon season! When the frost comes they go bad, so Larry is bringing in scores of meyer lemons and limes. After success with [key lime yogurt](https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html), I got a craving for lemon cake. Larry said yes, please! (And Sandy says lemon cake is one of her favorites - good to know!) I tried this [loving it vegan recipe](https://lovingitvegan.com/vegan-lemon-cake/), and the cake was delish. The powdered-sugar frosting was sweeter than we liked, though. Then I tried a vegan cream cheese frosting from [Vegan Richa](https://www.veganricha.com/vegan-lemon-cake-with-cream-cheese-frosting/), which was pretty good.
+It's lemon season! When the frost comes they go bad, so Larry is bringing in scores of meyer lemons and limes. After success with [key lime yogurt](/soy-yogurt-with-instant-pot/), I got a craving for lemon cake. Larry said yes, please! (And Sandy says lemon cake is one of her favorites - good to know!) I tried this [loving it vegan recipe](https://lovingitvegan.com/vegan-lemon-cake/), and the cake was delish. The powdered-sugar frosting was sweeter than we liked, though. Then I tried a vegan cream cheese frosting from [Vegan Richa](https://www.veganricha.com/vegan-lemon-cake-with-cream-cheese-frosting/), which was pretty good.
 
 It's yummy without any frosting, just as a lemon bread -- which is probably how I'll use this recipe in the future
 

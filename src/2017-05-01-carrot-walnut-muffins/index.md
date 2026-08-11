@@ -10,7 +10,7 @@ featured_image: "carrotmuffins.jpg"
 description: "Carrot Walnut Muffins recipe."
 ---
 
-Given our abundance of carrots, I decided to tweak my [zucchini walnut bread](http://peachykeengreen.blogspot.com/2015/01/zucchini-bread.html) recipe to make carrot muffins. I borrowed some ideas from the Carrot-Raisin muffin in Vegan with a Vengeance, replacing raisins with walnuts and tweaking other ingredients a bit. It has less oil, sugar, and flour than my zucchini walnut bread, and adds almond milk, nutmeg, and (optionally) coconut. I also saw a recipe for carrot cake that used pecans, coconut, and pineapple... reminder to self to try adding pineapple sometime. Note: The first time I made this I used 1/2 C sugar and 1/2 C oil. They were delish. I tried reducing both to 1/4 C, and I think next time I'll do 1/3 C (just right?)
+Given our abundance of carrots, I decided to tweak my [zucchini walnut bread](/zucchini-bread/) recipe to make carrot muffins. I borrowed some ideas from the Carrot-Raisin muffin in Vegan with a Vengeance, replacing raisins with walnuts and tweaking other ingredients a bit. It has less oil, sugar, and flour than my zucchini walnut bread, and adds almond milk, nutmeg, and (optionally) coconut. I also saw a recipe for carrot cake that used pecans, coconut, and pineapple... reminder to self to try adding pineapple sometime. Note: The first time I made this I used 1/2 C sugar and 1/2 C oil. They were delish. I tried reducing both to 1/4 C, and I think next time I'll do 1/3 C (just right?)
 
 ## Ingredients
 

@@ -90,7 +90,7 @@ Bake at 350 degrees for 10 minutes and then turn the soy curls over as best you 
 
 Make the salad: On a bed of lettuce, arrange vegetables in piles around outer circle. Put fried curls in the center. Top with ranch dressing applied lightly with sweeping motion. Eat!
 
-Radishes courtesy of our garden; mix broccoli, clover, alfalfa, and radish [sprouts from a jar](https://peachykeengreen.blogspot.com/2016/11/mung-bean-sprout-saute.html); and soy-curl baked fried chick'n:
+Radishes courtesy of our garden; mix broccoli, clover, alfalfa, and radish [sprouts from a jar](/mung-bean-sprout-saute/); and soy-curl baked fried chick'n:
 
 {{< figure src="radishes.jpg" alt="" caption="" >}}
 

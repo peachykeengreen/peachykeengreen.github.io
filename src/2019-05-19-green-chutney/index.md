@@ -10,7 +10,7 @@ featured_image: "IMG_2328.jpg"
 description: "Cilantro Mint Chutney recipe."
 ---
 
-Munira gave us some delicious homemade hot green chutney. I tried to replicate it - with success: even Munira and Vinod liked it! This is adapted from a video Munira shared for this r[ecipe for Green Chutney (Mind & Coriander)](https://www.youtube.com/watch?v=Ef8IV-jmnRQ) and also Neelam Batra's The Indian Vegetarian cookbook. Most of the ingredients came from our garden, which was extra fun. Serve with samosas, on veggie burgers or sandwiches like [Pav Bhaji](http://peachykeengreen.blogspot.com/2019/05/pav-bhaji-and-muniras-secrets.html) (but that might make it too hot to eat!).
+Munira gave us some delicious homemade hot green chutney. I tried to replicate it - with success: even Munira and Vinod liked it! This is adapted from a video Munira shared for this r[ecipe for Green Chutney (Mind & Coriander)](https://www.youtube.com/watch?v=Ef8IV-jmnRQ) and also Neelam Batra's The Indian Vegetarian cookbook. Most of the ingredients came from our garden, which was extra fun. Serve with samosas, on veggie burgers or sandwiches like [Pav Bhaji](/pav-bhaji-and-muniras-secrets/) (but that might make it too hot to eat!).
 
 ## Ingredients
 

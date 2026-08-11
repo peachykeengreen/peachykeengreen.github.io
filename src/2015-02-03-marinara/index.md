@@ -37,7 +37,7 @@ The 112 oz boils down to about 72 oz. We eat some fresh and then freeze the rest
 
 Serving ideas:
 
-With fried, [breaded zucchini and eggplant](http://peachykeengreen.blogspot.com/2015/02/eggplant-zucchini-bread-crumb-fettuccine.html):
+With fried, [breaded zucchini and eggplant](/eggplant-zucchini-bread-crumb-fettuccine/):
 
 {{< figure src="zucchinipasta.JPG" alt="" caption="" >}}
 

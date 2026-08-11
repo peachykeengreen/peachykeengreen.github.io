@@ -44,11 +44,11 @@ gravy (finely chopped mushrooms, cashew cream, nutritional yeast) is a perfect, 
 
 ## Instructions
 
-Make [mashed (cauliflower) potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html) before, during, or after the following 🙂
+Make [mashed (cauliflower) potatoes](/mashed-cauliflower-potatoes/) before, during, or after the following 🙂
 
 Cabbage steaks: Slide the cabbage into 3/4 inch thick steaks. Brush them with oil, and sprinkle garlic, paprika, pepper flakes, salt & pepper on both sides, to taste. Arrange on cookie sheet (see below) and roast in the oven on 350 degrees for 50 minutes. Remove and squeeze some lemon on top before serving.
 
-Mushroom gravy: Finely chop the mushrooms (and onion, if using), and saute in oil with garlic, salt, and pepper. Turn down the heat, add the cashew cream and nutritional yeast, and cook another half hour. Serve over [mashed cauliflower potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html)!
+Mushroom gravy: Finely chop the mushrooms (and onion, if using), and saute in oil with garlic, salt, and pepper. Turn down the heat, add the cashew cream and nutritional yeast, and cook another half hour. Serve over [mashed cauliflower potatoes](/mashed-cauliflower-potatoes/)!
 Also good w/ purple cabbage (cauliflower steak, too)
 
 {{< figure src="IMG_0401.jpg" alt="" caption="" >}}{{< figure src="IMG_8326.jpg" alt="" caption="" >}}

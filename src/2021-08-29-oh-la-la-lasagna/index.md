@@ -10,7 +10,7 @@ featured_image: "IMG_9771.jpg"
 description: "Oh la la Lasagna recipe."
 ---
 
-The [Impossible Lasagna](https://peachykeengreen.blogspot.com/2021/01/impossible-lasagna.html) that I blogged earlier this year is tasty, but Impossible beef has a heavy taste like real beef does. We wanted to try a lighter, no-fake-meat lasagna, and I found the perfect recipe in my [Chloe's Kitchen](https://www.chefchloe.com/)cookbook. Looks like [Happy Healthy](https://www.happyhealthylonglife.com/happy_healthy_long_life/2013/02/enlightened-lasagna.html) did the same. Here's my slightly-adapted version of Chloe's great recipe. It's super easy and delish!
+The [Impossible Lasagna](/impossible-lasagna/) that I blogged earlier this year is tasty, but Impossible beef has a heavy taste like real beef does. We wanted to try a lighter, no-fake-meat lasagna, and I found the perfect recipe in my [Chloe's Kitchen](https://www.chefchloe.com/)cookbook. Looks like [Happy Healthy](https://www.happyhealthylonglife.com/happy_healthy_long_life/2013/02/enlightened-lasagna.html) did the same. Here's my slightly-adapted version of Chloe's great recipe. It's super easy and delish!
 
 ## Ingredients
 

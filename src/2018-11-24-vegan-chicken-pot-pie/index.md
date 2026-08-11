@@ -10,7 +10,7 @@ featured_image: "vegan-chicken-pot-pie-img-1.jpg"
 description: "Chick'n Pot Pie recipe."
 ---
 
-We ate at [Vegenation](https://vegenationlv.com/) in Las Vegas during our Southwest vacation, and their Chicken Pot Pie Gnocchi was amazing! The Chicky Chicky Bang Bang sandwich came in a close second, followed by the Strawberry Crepes and Lemon Merengue Tart. But oh, the pot pie. It was a comfort food for Larry growing up. For one of our early dates, I made Chicken Pot Pie Nouveau for Larry from the New Basics cookbook; it used pearl onions, snap peas, sliced carrots, fresh rosemary, and puff pastry. I've wanted to make it again - and now I can! Below is an adapted version of a [recipe inspired by vegenation pot pie](https://www.vegederrian.com/recipes/vegan-chicken-pot-pie-gnocchi). Larry's sisters Cyndy and Laurie made this when we visited from Vegas a few days later. Serve with garlic bread! (Shown here with delicious [wild rice salad](https://peachykeengreen.blogspot.com/2016/11/wild-rice-salad-with-apples-and-walnuts.html).)
+We ate at [Vegenation](https://vegenationlv.com/) in Las Vegas during our Southwest vacation, and their Chicken Pot Pie Gnocchi was amazing! The Chicky Chicky Bang Bang sandwich came in a close second, followed by the Strawberry Crepes and Lemon Merengue Tart. But oh, the pot pie. It was a comfort food for Larry growing up. For one of our early dates, I made Chicken Pot Pie Nouveau for Larry from the New Basics cookbook; it used pearl onions, snap peas, sliced carrots, fresh rosemary, and puff pastry. I've wanted to make it again - and now I can! Below is an adapted version of a [recipe inspired by vegenation pot pie](https://www.vegederrian.com/recipes/vegan-chicken-pot-pie-gnocchi). Larry's sisters Cyndy and Laurie made this when we visited from Vegas a few days later. Serve with garlic bread! (Shown here with delicious [wild rice salad](/wild-rice-salad-with-apples-and-walnuts/).)
 
 ## Ingredients
 
@@ -64,7 +64,7 @@ Fond memories of Vegenation...
 
 {{< figure src="IMG_0784.JPG" alt="" caption="" >}}{{< figure src="IMG_0786.JPG" alt="" caption="" >}}
 
-Oh, back to Vegenation: the lemon merengue tart! Very lemony. The chef said the custard was half sugar, half fresh lemon juice, with LOTS of corn starch. The [merengue](https://peachykeengreen.blogspot.com/2017/12/meringue-cookies.html) was aquafaba of course - a bit runnier than I've made.
+Oh, back to Vegenation: the lemon merengue tart! Very lemony. The chef said the custard was half sugar, half fresh lemon juice, with LOTS of corn starch. The [merengue](/meringue-cookies/) was aquafaba of course - a bit runnier than I've made.
 
 {{< figure src="IMG_0792.JPG" alt="" caption="" >}}
 

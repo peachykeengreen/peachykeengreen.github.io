@@ -10,7 +10,7 @@ featured_image: "beethummus.jpg"
 description: "Beet Hummus recipe."
 ---
 
-Mark brought [Trader Joes Beet Hummus](http://www.traderjoes.com/digin/post/beet-hummus) to our pool party this weekend, and we loved it! I had 3 huge (potato-sized) fresh beets from [Farmdoor](https://farmstand.me/) in my fridge, so I decided to give it a try. I cut up one of the big beets, microwaved it for 6 minutes, and added it to [my regular hummus recipe](http://peachykeengreen.blogspot.com/2015/02/hummus-with-various-flavors.html). Yum! It's delicious, and very slightly sweet from the beet. The Trader Joes version lists balsamic vinegar in the ingredients, and we tried adding a little to a bit on the side, but didn't like it so much. It has a whole lemon, and I think that's enough acidic punch.
+Mark brought [Trader Joes Beet Hummus](http://www.traderjoes.com/digin/post/beet-hummus) to our pool party this weekend, and we loved it! I had 3 huge (potato-sized) fresh beets from [Farmdoor](https://farmstand.me/) in my fridge, so I decided to give it a try. I cut up one of the big beets, microwaved it for 6 minutes, and added it to [my regular hummus recipe](/hummus-with-various-flavors/). Yum! It's delicious, and very slightly sweet from the beet. The Trader Joes version lists balsamic vinegar in the ingredients, and we tried adding a little to a bit on the side, but didn't like it so much. It has a whole lemon, and I think that's enough acidic punch.
 
 ## Ingredients
 

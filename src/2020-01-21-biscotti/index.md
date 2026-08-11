@@ -10,7 +10,7 @@ featured_image: "IMG_4975.jpg"
 description: "Almond Citron Biscotti recipe."
 ---
 
-We bumped into Elsa the other evening on a walk, and asked how she uses [Candied Buddha's Hand](https://peachykeengreen.blogspot.com/2020/01/candied-buddhas-hand-citron.html). She makes biscotti! Larry turned to me and said, "Biscotti, please." I found a recipe for vegan [orange almond biscotti by Minimalist Baker](https://minimalistbaker.com/orange-almond-biscotti/) and made a few small adaptations (like adding orange juice as [holycowvegan](https://holycowvegan.net/vegan-orange-almond-biscotti/) does). After experimenting with various flours (whole wheat, almond, and oat flour), eventually I landed on just white flour and cornmeal, which holds together well and is still yummy!
+We bumped into Elsa the other evening on a walk, and asked how she uses [Candied Buddha's Hand](/candied-buddhas-hand-citron/). She makes biscotti! Larry turned to me and said, "Biscotti, please." I found a recipe for vegan [orange almond biscotti by Minimalist Baker](https://minimalistbaker.com/orange-almond-biscotti/) and made a few small adaptations (like adding orange juice as [holycowvegan](https://holycowvegan.net/vegan-orange-almond-biscotti/) does). After experimenting with various flours (whole wheat, almond, and oat flour), eventually I landed on just white flour and cornmeal, which holds together well and is still yummy!
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ We bumped into Elsa the other evening on a walk, and asked how she uses [Candie
 - 1 1/2 tsp baking powder
 - 1/4 tsp sea salt
 - 1/2 C sliced almonds, toasted
-- 1/2 C  [candied buddha's hands](https://peachykeengreen.blogspot.com/2020/01/candied-buddhas-hand-citron.html) (optional)
+- 1/2 C  [candied buddha's hands](/candied-buddhas-hand-citron/) (optional)
 - 3/4 C chocolate chips (optional)
 
 ## Instructions

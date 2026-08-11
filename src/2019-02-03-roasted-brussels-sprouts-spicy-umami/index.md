@@ -10,7 +10,7 @@ featured_image: "brussels.png"
 description: "Umami Brussels Sprouts recipe."
 ---
 
-Judi's [sriracha brussels](https://peachykeengreen.blogspot.com/2016/11/spicy-roasted-brussels-sprouts.html) dish is yummy. Last night we joined Judi at True Food Kitchen, and couldn't get over their incredible [brussels with umami sauce](https://camillestyles.com/food/10-healthy-foods-that-will-help-you-feel-full-for-longer/). We also loved their [roasted cauliflower with tahini dressing](http://www.hermodernkitchen.com/roasted-mediterranean-cauliflower/) too - I now link to that from my [roasted cauliflower](https://peachykeengreen.blogspot.com/2015/05/tandori-roasted-cauliflower.html) dish - another to try!
+Judi's [sriracha brussels](/spicy-roasted-brussels-sprouts/) dish is yummy. Last night we joined Judi at True Food Kitchen, and couldn't get over their incredible [brussels with umami sauce](https://camillestyles.com/food/10-healthy-foods-that-will-help-you-feel-full-for-longer/). We also loved their [roasted cauliflower with tahini dressing](http://www.hermodernkitchen.com/roasted-mediterranean-cauliflower/) too - I now link to that from my [roasted cauliflower](/tandori-roasted-cauliflower/) dish - another to try!
 
 ## Ingredients
 

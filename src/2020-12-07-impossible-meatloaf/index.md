@@ -10,7 +10,7 @@ featured_image: "impossible-meatloaf-img-1.jpg"
 description: "Impossible Meatloaf recipe."
 ---
 
-Vegans eating meatloaf? Impossible! Until Trader Joe's starting carrying Impossible Burger. My first foray into fake beef cooking, [C'mon Man! Sloppy Joes](https://peachykeengreen.blogspot.com/2020/11/cmon-man-sloppy-joes.html), turned out well, so I decided to give meatloaf a try. I googled "impossible meatloaf" and tried a mashup with [Market Street Meatloaf](https://app.ckbk.com/recipe/then64371c08s001ss003r011/market-street-meat-loaf) from my New Basics Cookbook (an excellent, classic omnivore cookbook). Larry contributed some needed-to-use scallions from our backyard;  I think the onion and veggies were important components. Would totally fool and omnivore, I bet.  Super delicious with mashed potatoes and cranberry sauce!
+Vegans eating meatloaf? Impossible! Until Trader Joe's starting carrying Impossible Burger. My first foray into fake beef cooking, [C'mon Man! Sloppy Joes](/cmon-man-sloppy-joes/), turned out well, so I decided to give meatloaf a try. I googled "impossible meatloaf" and tried a mashup with [Market Street Meatloaf](https://app.ckbk.com/recipe/then64371c08s001ss003r011/market-street-meat-loaf) from my New Basics Cookbook (an excellent, classic omnivore cookbook). Larry contributed some needed-to-use scallions from our backyard;  I think the onion and veggies were important components. Would totally fool and omnivore, I bet.  Super delicious with mashed potatoes and cranberry sauce!
 
 Update 1/2/21: Larry asked for more veggie to meat ratio, so I increased the veggies and bread crumbs, below. Use the upper range for more veg heavy; lower range for more meat heavy.
 
@@ -50,7 +50,7 @@ Bake in 350 degree oven for 30 minutes. Remove and let sit for 10 minutes. Serve
 
 {{< figure src="IMG_8215.jpg" alt="" caption="" >}}
 
-baked, with more veggies and [carrot greens chimichurri](https://peachykeengreen.blogspot.com/2020/06/vikis-carrot-greens-chimichurri.html):
+baked, with more veggies and [carrot greens chimichurri](/vikis-carrot-greens-chimichurri/):
 
 {{< figure src="IMG_8425.jpg" alt="" caption="" >}}
 

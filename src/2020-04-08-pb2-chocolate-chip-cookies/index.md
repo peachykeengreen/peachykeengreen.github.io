@@ -10,7 +10,7 @@ featured_image: "coookies.jpg"
 description: "PB2 Chocolate Chip Cookies recipe."
 ---
 
-We really like these [PB2 brownies](https://peachykeengreen.blogspot.com/2020/03/pb2-chocolate-brownies.html) - super easy to make, not too sweet, and very satisfying. But it's time to try some other desserts. I still have a lot of PB2 and almond butter; surely one can make a good chocolate chip cookie from that? I googled, looked through several recipes, and decided to try a twist on these vegan [chocolate chip almond butter cookies](https://beamingbaker.com/gluten-free-almond-butter-chocolate-chip-cookies-vegan-gf-dairy-free-refined-sugar-free/) by Beaming Baker. I made several changes, including using half PB2 and making them less sweet (most desserts are always too sweet!), and used brown sugar and fewer chocolate chips (half the amount listed was plenty!)
+We really like these [PB2 brownies](/pb2-chocolate-brownies/) - super easy to make, not too sweet, and very satisfying. But it's time to try some other desserts. I still have a lot of PB2 and almond butter; surely one can make a good chocolate chip cookie from that? I googled, looked through several recipes, and decided to try a twist on these vegan [chocolate chip almond butter cookies](https://beamingbaker.com/gluten-free-almond-butter-chocolate-chip-cookies-vegan-gf-dairy-free-refined-sugar-free/) by Beaming Baker. I made several changes, including using half PB2 and making them less sweet (most desserts are always too sweet!), and used brown sugar and fewer chocolate chips (half the amount listed was plenty!)
 
 Note: If you don't have PB2, just use 1 1/4 cups of any flour (oat, almond, wheat, or a mix).
 

@@ -10,7 +10,7 @@ featured_image: ""
 description: "Judi's Chocolately Walnut Crust recipe."
 ---
 
-Yummy chocolately walnut crust from Judi (bottom crust only); try with pumpkin pie or [pudding pie](https://peachykeengreen.blogspot.com/2019/12/yammy-chocolate-pudding.html).
+Yummy chocolately walnut crust from Judi (bottom crust only); try with pumpkin pie or [pudding pie](/yammy-chocolate-pudding/).
 
 ## Ingredients
 

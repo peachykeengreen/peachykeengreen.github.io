@@ -10,7 +10,7 @@ featured_image: "overnight-oats-img-1.jpg"
 description: "Overnight Oats recipe."
 ---
 
-My brother Jeff turned me on to this, and it's my new favorite thing! Delicious, high fiber, and lots of ways to mix it up. Oats are so good for you, as is wheat germ, berries, and nuts. This has replaced morning yogurt for us; it's healthier (more fiber, less sugar), cheaper, and super easy to make. Years ago, I also made an [overnight chia pudding](https://peachykeengreen.blogspot.com/2015/05/chia-pudding.html) that we often had for breakfast and dessert. That's also really tasty, and you can add more chia to this if you like, or a little maple syrup if you want something sweeter.
+My brother Jeff turned me on to this, and it's my new favorite thing! Delicious, high fiber, and lots of ways to mix it up. Oats are so good for you, as is wheat germ, berries, and nuts. This has replaced morning yogurt for us; it's healthier (more fiber, less sugar), cheaper, and super easy to make. Years ago, I also made an [overnight chia pudding](/chia-pudding/) that we often had for breakfast and dessert. That's also really tasty, and you can add more chia to this if you like, or a little maple syrup if you want something sweeter.
 
 ## Ingredients
 

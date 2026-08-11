@@ -10,7 +10,7 @@ featured_image: "beet-quinoa-salad-img-1.jpg"
 description: "Roasted Beet Quinoa Salad recipe."
 ---
 
-Cyndy made this delish salad for us when we visited a few days ago, along with her [wild rice salad](https://peachykeengreen.blogspot.com/2016/11/wild-rice-salad-with-apples-and-walnuts.html). This recipe is super fast if you buy pre-cooked beats, which we get at Trader Joes. Trader Joes also carries a good vegan feta, but of course you could use real feta if you prefer.
+Cyndy made this delish salad for us when we visited a few days ago, along with her [wild rice salad](/wild-rice-salad-with-apples-and-walnuts/). This recipe is super fast if you buy pre-cooked beats, which we get at Trader Joes. Trader Joes also carries a good vegan feta, but of course you could use real feta if you prefer.
 
 ## Ingredients
 

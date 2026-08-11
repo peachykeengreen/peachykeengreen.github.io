@@ -10,7 +10,7 @@ featured_image: "fig-banana-bread-img-1.jpg"
 description: "Fig Banana Bread recipe."
 ---
 
-Larry is harvesting figs by the gallon. In the past I've made fig [pie, compote, and jam](https://peachykeengreen.blogspot.com/2020/09/fig-apple-compote.html), and even [dried figs](https://peachykeengreen.blogspot.com/2019/09/dried-figs.html). Yesterday I tried a f[ig banana bread](https://www.thelittleepicurean.com/2019/08/fig-banana-bread.html)with a few tweaks: whole wheat flour, less sugar, oil instead of butter, and added pecans. I had put just a few sliced figs on top, but then Larry layered on the figs so that every slice got some -- good call; that made it beautiful!
+Larry is harvesting figs by the gallon. In the past I've made fig [pie, compote, and jam](/fig-apple-compote/), and even [dried figs](/dried-figs/). Yesterday I tried a f[ig banana bread](https://www.thelittleepicurean.com/2019/08/fig-banana-bread.html)with a few tweaks: whole wheat flour, less sugar, oil instead of butter, and added pecans. I had put just a few sliced figs on top, but then Larry layered on the figs so that every slice got some -- good call; that made it beautiful!
 
 ##
 

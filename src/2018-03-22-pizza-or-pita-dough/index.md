@@ -10,7 +10,7 @@ featured_image: "IMG_8956.JPG"
 description: "Dough for Pita, Pizza, or Empanadas recipe."
 ---
 
-We like the Trader Joes Sprouted Whole-Grain Pizza Crust for this [homemade pizza](http://peachykeengreen.blogspot.com/2018/02/crispy-thin-pizza-pizza.html), but I wanted to make my own for a Greek meza (photos below) with Yannis, Merche, John, & Elsa. Mom made homemade bread all the time, but I've never made a yeast dough. Judi says it's easy; Nick makes dough for their pizzas all the time. Natalie did a science fair [experiment](http://thekcompanyblog.blogspot.com/2013/03/nats-experiment-for-science-fair.html) and found that adding sugar, honey, or maple syrup to the wet yeast made it rise more.  Judi says her favorite dough is whole wheat flour with a little maple syrup.
+We like the Trader Joes Sprouted Whole-Grain Pizza Crust for this [homemade pizza](/crispy-thin-pizza-pizza/), but I wanted to make my own for a Greek meza (photos below) with Yannis, Merche, John, & Elsa. Mom made homemade bread all the time, but I've never made a yeast dough. Judi says it's easy; Nick makes dough for their pizzas all the time. Natalie did a science fair [experiment](http://thekcompanyblog.blogspot.com/2013/03/nats-experiment-for-science-fair.html) and found that adding sugar, honey, or maple syrup to the wet yeast made it rise more.  Judi says her favorite dough is whole wheat flour with a little maple syrup.
 
 So that's what I tried here, while
 mostly following the recipe for

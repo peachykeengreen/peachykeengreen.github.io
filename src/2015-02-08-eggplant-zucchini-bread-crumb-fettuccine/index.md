@@ -10,7 +10,7 @@ featured_image: "zucchinipasta.JPG"
 description: "Eggplant & Zucchini Pasta recipe."
 ---
 
-Well, you don't have to serve this with fettuccine; we serve it over [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/) spaghetti or fusilli with [my homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html).  This is recipe adapted from the wonderful cookbook [Isa Does It](http://www.amazon.com/Isa-Does-It-Amazingly-Delicious/dp/0316221902). Isa's recipes are so awesome. Her [Post Punk Kitchen](http://www.theppk.com/)blog is another great source of vegan recipes. Anyway, it's very easy to make, and people seem to love it. It's a great dinner meal to serve to non-vegans!
+Well, you don't have to serve this with fettuccine; we serve it over [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/) spaghetti or fusilli with [my homemade marinara](/marinara/).  This is recipe adapted from the wonderful cookbook [Isa Does It](http://www.amazon.com/Isa-Does-It-Amazingly-Delicious/dp/0316221902). Isa's recipes are so awesome. Her [Post Punk Kitchen](http://www.theppk.com/)blog is another great source of vegan recipes. Anyway, it's very easy to make, and people seem to love it. It's a great dinner meal to serve to non-vegans!
 
 ## Ingredients
 
@@ -18,7 +18,7 @@ Well, you don't have to serve this with fettuccine; we serve it over [Garofalo w
 - 1 eggplant, sliced into 1/4 thick half melons
 - 2 long green zucchini, sliced into half melons
 - Breadcrumbs
-- Marinara (I use [homemade](http://peachykeengreen.blogspot.com/2015/02/marinara.html))
+- Marinara (I use [homemade](/marinara/))
 - Pasta (we like [Garofalo whole wheat](http://www.amazon.com/gp/product/B004TQPJP2/))
 - Bread crumbs
 - 1/2 cup whole wheat bread crumbs

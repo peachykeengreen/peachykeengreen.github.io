@@ -10,7 +10,7 @@ featured_image: "IMG_5641.jpg"
 description: "Larry's Miso Soup recipe."
 ---
 
-Larry put Japanese miso powder on his Christmas wish list; he wanted powder since paste can go bad if you don't use it up quickly. Good thing, since we just opened the jar today, 5 months later! He made up a quick recipe using our roasted seaweed snacks, some silken tofu in the pantry, and chives from our garden. It was super fast and delicious. Serve with [spinach salad](https://peachykeengreen.blogspot.com/2020/07/japanese-spinach-salad.html)and yakisoba!
+Larry put Japanese miso powder on his Christmas wish list; he wanted powder since paste can go bad if you don't use it up quickly. Good thing, since we just opened the jar today, 5 months later! He made up a quick recipe using our roasted seaweed snacks, some silken tofu in the pantry, and chives from our garden. It was super fast and delicious. Serve with [spinach salad](/japanese-spinach-salad/)and yakisoba!
 
 ##
 

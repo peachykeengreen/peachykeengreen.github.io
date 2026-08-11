@@ -10,7 +10,7 @@ featured_image: "pennies.jpg"
 description: "Pennies from Heaven recipe."
 ---
 
-Our wonderful neighbors gave us two 5-lb bags of carrots after an online order snafu. So I pulled out the carrot recipes! I made my [carrot soup](http://peachykeengreen.blogspot.com/2015/02/carrot-and-orange-soup.html), cut up a lot of carrots to eat with [hummus](http://peachykeengreen.blogspot.com/2015/02/hummus-with-various-flavors.html), and made this old recipe from The New Basics cookbook that I haven't made for years - slightly adapted to be a little less sweet. I didn't have slivered almonds handy so I pulsed some whole almonds in the food processor and toasted them. I also made a new [carrot walnut muffin](http://peachykeengreen.blogspot.com/2017/04/carrot-walnut-muffins.html) recipe.
+Our wonderful neighbors gave us two 5-lb bags of carrots after an online order snafu. So I pulled out the carrot recipes! I made my [carrot soup](/carrot-and-orange-soup/), cut up a lot of carrots to eat with [hummus](/hummus-with-various-flavors/), and made this old recipe from The New Basics cookbook that I haven't made for years - slightly adapted to be a little less sweet. I didn't have slivered almonds handy so I pulsed some whole almonds in the food processor and toasted them. I also made a new [carrot walnut muffin](/carrot-walnut-muffins/) recipe.
 
 ## Ingredients
 

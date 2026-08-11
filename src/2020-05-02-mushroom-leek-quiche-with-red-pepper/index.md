@@ -10,11 +10,11 @@ featured_image: "mushroom-leek-quiche-with-red-pepper-img-1.jpg"
 description: "Veggie Mushroom Quiche with optional Red Pepper Relish recipe."
 ---
 
-Our neighbor Elsa gave us 4 beautiful fresh leeks from her garden. I had been planning to make my [chickpea tart](https://peachykeengreen.blogspot.com/2015/05/festive-chickpea-tart.html), but then I found a mushroom leek quiche in [Vegan Comfort Classics](https://www.amazon.com/dp/B071PCM3Q3/) that looked worth a try! Here's my slightly adapted version, using zucchinis and mushroom. The red pepper relish is amazing on crackers or anything else you might serve a chutney with.  If you don't have time to make the relish, cranberry sauce or mango chutney is pretty good with the quiche. The Parm is totally optional; I've made this several times and don't usually bother with it anymore.
+Our neighbor Elsa gave us 4 beautiful fresh leeks from her garden. I had been planning to make my [chickpea tart](/festive-chickpea-tart/), but then I found a mushroom leek quiche in [Vegan Comfort Classics](https://www.amazon.com/dp/B071PCM3Q3/) that looked worth a try! Here's my slightly adapted version, using zucchinis and mushroom. The red pepper relish is amazing on crackers or anything else you might serve a chutney with.  If you don't have time to make the relish, cranberry sauce or mango chutney is pretty good with the quiche. The Parm is totally optional; I've made this several times and don't usually bother with it anymore.
 
 ## Ingredients
 
-- 2 pie crusts; like Wholly Wholesome or  [whole wheat pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
+- 2 pie crusts; like Wholly Wholesome or  [whole wheat pie crust](/vegan-pie-crust/)
 
 ### Veggie Saute
 

@@ -10,7 +10,7 @@ featured_image: "IMG_5816.jpg"
 description: "Marmalade recipe."
 ---
 
-Every year we have so many oranges! They're more difficult to give away this year given COVID... we give to a few neighbors and friends, but I can't take them to the office and hand them out like in past years. An abundance of pears lead to [ginger pear sauce](https://peachykeengreen.blogspot.com/2015/02/caramelized-ginger-pears.html) and too many fingers led to [candied buddha's hands](https://peachykeengreen.blogspot.com/2020/01/candied-buddhas-hand-citron.html)... so doh, why not try my hand at marmalade? After skimming several recipes on the web, I decided to adapt this [orange lemon marmalade recipe](https://www.culinaryhill.com/orange-marmalade-recipe/) slightly to use less sugar and more oranges. It's just a little tart, and really delicious! The neighbors loved it. One request from Kurt & Pete: Cut the rinds into even smaller pieces.
+Every year we have so many oranges! They're more difficult to give away this year given COVID... we give to a few neighbors and friends, but I can't take them to the office and hand them out like in past years. An abundance of pears lead to [ginger pear sauce](/caramelized-ginger-pears/) and too many fingers led to [candied buddha's hands](/candied-buddhas-hand-citron/)... so doh, why not try my hand at marmalade? After skimming several recipes on the web, I decided to adapt this [orange lemon marmalade recipe](https://www.culinaryhill.com/orange-marmalade-recipe/) slightly to use less sugar and more oranges. It's just a little tart, and really delicious! The neighbors loved it. One request from Kurt & Pete: Cut the rinds into even smaller pieces.
 
 ## Ingredients
 

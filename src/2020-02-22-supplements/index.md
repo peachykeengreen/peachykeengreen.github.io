@@ -10,7 +10,7 @@ featured_image: "IMG_5256.jpg"
 description: "Supplements recipe."
 ---
 
-Some supplements we take to support healthy aging and longevity. (See also [COVID Digression](https://peachykeengreen.blogspot.com/2019/12/supplements.html#covid).)
+Some supplements we take to support healthy aging and longevity. (See also [COVID Digression](/covid/).)
 
 Lifestyle factors important to [longevity](https://nutritionfacts.org/topics/longevity/) include healthy diet, [exercise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5980968/), good [sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5841578/), not smoking, not drinking in excess, and staying on top of health issues (like high cholesterol or blood pressure). What do we do? We're [vegan for health reasons](https://nutritionfacts.org/topics/plant-based-diets/), though also glad that it helps animals and the planet. Plant-based diets confer some of the [longevity benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4836177/)of [calorie restriction](https://nutritionfacts.org/topics/caloric-restriction/), plus we practice intermittent fasting. [Exercise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6055105/) gets at least an hour/day (walking, cardio, strength). Sleep gets 8 hours in a dark, quiet, cold room with an open window, and no food 4 hrs before bed. In addition, we take some supplements - ones that show meaningful effect sizes in studies and are (importantly) safe. I've included a few research links below; search evidence-based sources like [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/) and [nutritionfacts](https://nutritionfacts.org/) for more info. Also, many thanks to my brother [Jeff](https://psychology.ucdavis.edu/people/jcschank), a psychobiologist who shares with me longevity research findings and protocols for countering aging - including exercise, fasting, and supplements.
 
@@ -20,7 +20,7 @@ Supplements
 
 Most I get from Trader Joes (TJs), Costco, or Amazon (e.g., Bulk Supplements for powdered). The fat in the yogurt should help absorption. We also took [NMN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515004/) briefly, but stopped for now; supplementing with NAD precursors seems promising [but research is needed](https://blogs.scientificamerican.com/guest-blog/beyond-resveratrol-the-anti-aging-nad-fad/) (esp. on safety) in humans.
 
-In our morning [homemade yogurt](https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html), we take:
+In our morning [homemade yogurt](/soy-yogurt-with-instant-pot/), we take:
 
 Flaxmeal - 1/2 tsp for omega 3's and [more](https://nutritionfacts.org/topics/flax-seeds/)
 

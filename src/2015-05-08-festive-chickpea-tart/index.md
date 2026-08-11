@@ -10,7 +10,7 @@ featured_image: "chickpea-tart.jpg"
 description: "Festive Chickpea Tart recipe."
 ---
 
-Judi made this tart from [Plant-Powered Kitchen](http://plantpoweredkitchen.com/recipe-page/?recipe_id=6033817) for Thanksgiving, and we loved it! It's delicious with cranberry sauce on it, but super delicious on its own, too. This is my a slightly adapted version. Note the pie crusts come in 2, so you could double, or make a [pumpkin pie](http://peachykeengreen.blogspot.com/2015/05/vegan-pumpkin-pie.html) with the other one! Serve with home-made cranberry sauce (recipe on the bag), [roasted veggies](http://peachykeengreen.blogspot.com/2015/04/roasted-vegetables.html), [mashed cauliflower potatoes](http://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html), and/or [kale salad](http://peachykeengreen.blogspot.com/2015/02/shredded-kale-salad-with-cranberry.html).
+Judi made this tart from [Plant-Powered Kitchen](http://plantpoweredkitchen.com/recipe-page/?recipe_id=6033817) for Thanksgiving, and we loved it! It's delicious with cranberry sauce on it, but super delicious on its own, too. This is my a slightly adapted version. Note the pie crusts come in 2, so you could double, or make a [pumpkin pie](/vegan-pumpkin-pie/) with the other one! Serve with home-made cranberry sauce (recipe on the bag), [roasted veggies](/roasted-vegetables/), [mashed cauliflower potatoes](/mashed-cauliflower-potatoes/), and/or [kale salad](/shredded-kale-salad-with-cranberry/).
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Judi made this tart from [Plant-Powered Kitchen](http://plantpoweredkitchen.com/
 - 1 bag fresh chopped spinach (or kale)
 - 1/4 cup dried cranberries (optionally soak them in a little water)
 - 1 tsp thyme
-- Pie crust: We like this [easy homemade whole wheat crust](http://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html) or Whole Food's [Wholly Wholesome 9" Whole Wheat or Spelt Organic Pie Shell](http://www.whollywholesome.com/ourproducts-pie-shells.php)
+- Pie crust: We like this [easy homemade whole wheat crust](/vegan-pie-crust/) or Whole Food's [Wholly Wholesome 9" Whole Wheat or Spelt Organic Pie Shell](http://www.whollywholesome.com/ourproducts-pie-shells.php)
 - Topping
 - 1/2 tsp olive oil
 - 1 tsp tamari

@@ -10,7 +10,7 @@ featured_image: "lemonmeringuepie.jpg"
 description: "Grandma's Lemon Meringue Pie recipe."
 ---
 
-Another recipe of my grandma Esther's, easier to make than her [ostakaka](http://peachykeengreen.blogspot.com/2016/12/grandmas-ostakaka.html) and also not vegan, but vegetarian of course. Blogging it here for posterity and so I have access to it when I'm visiting Dad, in case we need to use up some of his eggs 🙂 And here is a [similar recipe](http://allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/).
+Another recipe of my grandma Esther's, easier to make than her [ostakaka](/grandmas-ostakaka/) and also not vegan, but vegetarian of course. Blogging it here for posterity and so I have access to it when I'm visiting Dad, in case we need to use up some of his eggs 🙂 And here is a [similar recipe](http://allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/).
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Another recipe of my grandma Esther's, easier to make than her [ostakaka](http:/
 
 ## Instructions
 
-Boil the sugar, cornstarch, and water for 1 minute. Add slightly beaten egg yolks. Boil 1 minute and remove from heat. Add butter, salt, lemon juice and lemon rind. Stir and pour filling in a baked [pie crust](http://peachykeengreen.blogspot.com/search?q=crust).
+Boil the sugar, cornstarch, and water for 1 minute. Add slightly beaten egg yolks. Boil 1 minute and remove from heat. Add butter, salt, lemon juice and lemon rind. Stir and pour filling in a baked [pie crust](/crust/).
 
 Make the meringue: Beat egg whites until frothy. Add cream tarter, and then the sugar, 2 T at a time. Beat until it stands in stiff peaks. Spread the meringue over the pie, sealing edges at the crust.
 

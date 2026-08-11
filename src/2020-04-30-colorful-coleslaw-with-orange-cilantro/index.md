@@ -21,7 +21,7 @@ We have a ton of fresh cilantro growing in our side yard, to I searched for reci
 
 ### Dressing
 
-- 1/4 C plain yogurt (I use [homemade](https://peachykeengreen.blogspot.com/2019/05/soy-yogurt-with-instant-pot.html))
+- 1/4 C plain yogurt (I use [homemade](/soy-yogurt-with-instant-pot/))
 - 1/4 vegan mayo
 - 1/4 C fresh squeezed orange juice
 - Zest of 1 orange

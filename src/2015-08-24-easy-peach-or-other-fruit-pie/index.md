@@ -10,7 +10,7 @@ featured_image: "pieeee.jpg"
 description: "Easy Delicious Fruit Pie recipe."
 ---
 
-During a visit to Nebraska, Dad's friend Jack gave him a bag of about 30 fresh-picked peaches. I decided to try to make a pie, and after a little googling and experimenting, came up with an easy, yummy recipe. When our ripe pears and blackberries start entering the house in buckets, I can easily make a dozen pies. I freeze some blackberries and sliced-up pears so as to spread that out over time. Pears and strawberries are another great combination. That mix reminded me of [rhubarb pie](https://peachykeengreen.blogspot.com/2020/08/strawberry-rhubarb-pie.html), another great mix. And figs work, too!
+During a visit to Nebraska, Dad's friend Jack gave him a bag of about 30 fresh-picked peaches. I decided to try to make a pie, and after a little googling and experimenting, came up with an easy, yummy recipe. When our ripe pears and blackberries start entering the house in buckets, I can easily make a dozen pies. I freeze some blackberries and sliced-up pears so as to spread that out over time. Pears and strawberries are another great combination. That mix reminded me of [rhubarb pie](/strawberry-rhubarb-pie/), another great mix. And figs work, too!
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ During a visit to Nebraska, Dad's friend Jack gave him a bag of about 30 fresh-p
 - 1 T lemon juice
 - 1 tsp vanilla
 - Dots of vegan butter
-- 2 vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
+- 2 vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](/vegan-pie-crust/)
 
 ## Instructions
 

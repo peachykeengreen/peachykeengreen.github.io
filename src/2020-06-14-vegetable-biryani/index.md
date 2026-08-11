@@ -22,7 +22,7 @@ Munira gave me a huge bag of dry rice, and I decided to try to make a biryani in
 - 1 C broccoli, chopped
 - 1/2 C geen peas
 - 3/4 C nondairy yogurt or cashew cream + 1 tsp vinegar
-- 2 T [green chutney](https://peachykeengreen.blogspot.com/2019/05/green-chutney.html) or 2 T each cilantro and mint leaves
+- 2 T [green chutney](/green-chutney/) or 2 T each cilantro and mint leaves
 - 2 tsp biryani or garam masala blend
 - 1/2 tsp turmeric
 - 1-2 tsp salt

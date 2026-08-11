@@ -10,7 +10,7 @@ featured_image: "IMG_3067.jpg"
 description: "Lentil Arugula Salad with Cumin Roasted Carrots recipe."
 ---
 
-Shelley followed up the wonderful [mango guacamole](https://peachykeengreen.blogspot.com/2019/08/mango-guacamole.html) with a fresh pea soup and this fantastic [masala lentil salad](https://cookieandkate.com/masala-lentil-salad-with-cumin-roasted-carrots/), which is pretty easy to make if you buy the lentils & arugula ready to eat at trader Joes. Roast the carrots ahead of time and toss it all together!
+Shelley followed up the wonderful [mango guacamole](/mango-guacamole/) with a fresh pea soup and this fantastic [masala lentil salad](https://cookieandkate.com/masala-lentil-salad-with-cumin-roasted-carrots/), which is pretty easy to make if you buy the lentils & arugula ready to eat at trader Joes. Roast the carrots ahead of time and toss it all together!
 
 ## Ingredients
 

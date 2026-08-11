@@ -16,7 +16,7 @@ A great recipe from [Happy Healthy Long Life](http://www.happyhealthylonglife.co
 
 - 2-3 medium sweet potatoes, peeled & sliced
 - 32 oz salsa (mix of mild & hot, or yummy Tomatillo & Hatch Chile from Costco)
-- 12 oz soyrizo - or even better [homemade soyrizo](https://peachykeengreen.blogspot.com/2020/04/soyrizo.html)
+- 12 oz soyrizo - or even better [homemade soyrizo](/soyrizo/)
 - 12 oz package corn tortillas (12 count)
 - 15 oz can black beans
 - 1/2 package roasted frozen corn

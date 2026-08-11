@@ -10,12 +10,12 @@ featured_image: "sheetpan.jpg"
 description: "Crispy Sheet Pan Tofu recipe."
 ---
 
-Purple Carrot's [Crispy Sheet Pan Tofu](https://www.purplecarrot.com/plant-based-recipes/sheet-pan-roasted-tofu-vegetables-with-beluga-lentils-miso-power-dressing) was relatively easy, with a couple nice twists, including the lentil grain mix, dressing, and layering. I don't expect to order more from Purple Carrot (see below*), but was glad for this recipe. I tweaked it to use [mujadara](https://peachykeengreen.blogspot.com/2022/09/mujadara.html) and tried different veggies for dinner with Judy and Robert when they visited. Thanks, Robert, for the nice photo!
+Purple Carrot's [Crispy Sheet Pan Tofu](https://www.purplecarrot.com/plant-based-recipes/sheet-pan-roasted-tofu-vegetables-with-beluga-lentils-miso-power-dressing) was relatively easy, with a couple nice twists, including the lentil grain mix, dressing, and layering. I don't expect to order more from Purple Carrot (see below*), but was glad for this recipe. I tweaked it to use [mujadara](/mujadara/) and tried different veggies for dinner with Judy and Robert when they visited. Thanks, Robert, for the nice photo!
 
 ## Ingredients
 
 - 1/2 C dry grains (mix of lentils, rice, quinoa)
-- OR make [mujadara](https://peachykeengreen.blogspot.com/2022/09/mujadara.html) (yum!)
+- OR make [mujadara](/mujadara/) (yum!)
 - 6 oz green beans
 - 6 oz broccoli florets
 - Other veggies as desired (mushroom, peppers, etc.)

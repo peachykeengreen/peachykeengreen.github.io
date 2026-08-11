@@ -59,7 +59,7 @@ Buddha's Hand tree:
 {{< figure src="IMG_4949.jpg" alt="" caption="" >}}
 
 A few days later, Pat and Allen gave me 8 more! That led to
-[biscotti](https://peachykeengreen.blogspot.com/2020/01/biscotti.html)
+[biscotti](/biscotti/)
 
 🙂
 

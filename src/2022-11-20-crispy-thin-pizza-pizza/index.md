@@ -10,7 +10,7 @@ featured_image: "crispy-thin-pizza-pizza-img-1.jpg"
 description: "Pita Pizza recipe."
 ---
 
-Visiting Munira in Dallas, we made our favorite homemade pizza using [Trader Joe's Whole Wheat Pita](http://www.traderjoesreviews.com/product/trader-joes-whole-wheat-pita-bread-reviews/) Bread. They make a nice crispy crust, and it's a super easy way to make tasty personal size pizzas (no slicing required). Use your favorite veggies, and optionally top with sauteed tofu, our new favorite addition (recommended by brother Jeff -- thank you!). Note that you can use [pesto](https://peachykeengreen.blogspot.com/2015/01/classic-vegan-pesto.html) in place of tomato sauce as a base for some of them if you want more variety, and let people make/top their own pizzas for some fun.
+Visiting Munira in Dallas, we made our favorite homemade pizza using [Trader Joe's Whole Wheat Pita](http://www.traderjoesreviews.com/product/trader-joes-whole-wheat-pita-bread-reviews/) Bread. They make a nice crispy crust, and it's a super easy way to make tasty personal size pizzas (no slicing required). Use your favorite veggies, and optionally top with sauteed tofu, our new favorite addition (recommended by brother Jeff -- thank you!). Note that you can use [pesto](/classic-vegan-pesto/) in place of tomato sauce as a base for some of them if you want more variety, and let people make/top their own pizzas for some fun.
 
 ## Ingredients
 

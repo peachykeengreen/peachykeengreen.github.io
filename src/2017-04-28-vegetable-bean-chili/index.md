@@ -40,4 +40,4 @@ This recipe is adapted from a [vegetable chili con carne in Jane Brody's Good Fo
 
 In large pan, saute the vegetables, stirring frequently, for about 10 minutes. Add tomato, spices, and beans, and bring to boil. Reduce heat, cover, and simmer for 15 minutes. Add chopped greens and corn  (if using) and simmer another 15 minutes.
 
-Serve with [cornbread muffins](http://peachykeengreen.blogspot.com/2017/04/cornbread-muffins.html)!
+Serve with [cornbread muffins](/cornbread-muffins/)!

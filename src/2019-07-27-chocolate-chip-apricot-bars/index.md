@@ -64,6 +64,6 @@ Makes 16 bars
 
 {{< figure src="making.jpg" alt="" caption="" >}}
 
-Cookie tray for neighbors party with Wanda's chocolate chip apricot bars bars, Elizabeth's [ginger molasses crinkles](http://peachykeengreen.blogspot.com/2019/05/ginger-molasses-cookies.html), and Munira's [date and nut cookies](http://peachykeengreen.blogspot.com/2019/01/muniras-date-and-nut-cookie-khajoor-ki.html). It was a hit!
+Cookie tray for neighbors party with Wanda's chocolate chip apricot bars bars, Elizabeth's [ginger molasses crinkles](/ginger-molasses-cookies/), and Munira's [date and nut cookies](/muniras-date-and-nut-cookie-khajoor-ki/). It was a hit!
 
 {{< figure src="cookie-tray.jpg" alt="" caption="" >}}

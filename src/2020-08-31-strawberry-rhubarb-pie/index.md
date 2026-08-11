@@ -10,7 +10,7 @@ featured_image: "rhubarb.jpg"
 description: "Strawberry Rhubarb Pie recipe."
 ---
 
-I've made half a dozen [fruit pies](https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html) in the past few weeks because of our prolific pear tree. I usually mix blackberries with the pears, because we have to use those up, too. But recently, for something different, I mixed strawberries with the pears, and it was delicious. Color-wise, it reminded me of the rhubarb pie we loved as kids; Mom made it from wild rhubarb we picked from patches near the corn crib. ([Rhubarb pie is a big deal in Nebraska.](https://history.nebraska.gov/blog/rhubarb-pie-lover%E2%80%99s-delight)) She made it straight -- all rhubarb -- but I decided to look for recipes with strawberries, so I wouldn't have to add a ton of sugar (rhubarb is pretty tart). I gave the following a try, and it was amazing! It's different enough from my other [fruit pies](https://peachykeengreen.blogspot.com/2015/08/easy-peach-or-other-fruit-pie.html) that it earns its own post. Serve this with (vegan) vanilla ice cream.
+I've made half a dozen [fruit pies](/easy-peach-or-other-fruit-pie/) in the past few weeks because of our prolific pear tree. I usually mix blackberries with the pears, because we have to use those up, too. But recently, for something different, I mixed strawberries with the pears, and it was delicious. Color-wise, it reminded me of the rhubarb pie we loved as kids; Mom made it from wild rhubarb we picked from patches near the corn crib. ([Rhubarb pie is a big deal in Nebraska.](https://history.nebraska.gov/blog/rhubarb-pie-lover%E2%80%99s-delight)) She made it straight -- all rhubarb -- but I decided to look for recipes with strawberries, so I wouldn't have to add a ton of sugar (rhubarb is pretty tart). I gave the following a try, and it was amazing! It's different enough from my other [fruit pies](/easy-peach-or-other-fruit-pie/) that it earns its own post. Serve this with (vegan) vanilla ice cream.
 
 If you're generous with the filling, this easily makes 2 pies.
 
@@ -26,7 +26,7 @@ If you're generous with the filling, this easily makes 2 pies.
 - 1/3 C granulated sugar
 - 1 tsp vanilla
 - 1 T orange juice
-- Vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
+- Vegan pie crusts (like [Wholly Wholesome](http://www.whollywholesome.com/ourproducts-pie-shells.php)) or [make a vegan pie crust](/vegan-pie-crust/)
 
 ### Easier Alternative Crumble Top
 

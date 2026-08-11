@@ -10,7 +10,7 @@ featured_image: "potatosalad.png"
 description: "Roasted Garlic Potato Salad w/Arugula recipe."
 ---
 
-This [cashew cream potato salad](https://peachykeengreen.blogspot.com/2015/02/creamy-potato-salad-with-fresh-herbs.html) is delicious, but I wanted to try a not-creamy potato salad. I found a [Roasted Garlic Potato Salad](https://www.thefullhelping.com/roasted-garlic-basil-pesto-potatoes/) from Oh She Glows that looked easy and worth trying. I don't know where to get hemp seeds, so I skipped that. Below is my adapted recipe. Then last week, Elsa gave us some fresh dill from her garden, and I used that instead of arugula - also delish. But generally, roasting potatoes for salad is a win!
+This [cashew cream potato salad](/creamy-potato-salad-with-fresh-herbs/) is delicious, but I wanted to try a not-creamy potato salad. I found a [Roasted Garlic Potato Salad](https://www.thefullhelping.com/roasted-garlic-basil-pesto-potatoes/) from Oh She Glows that looked easy and worth trying. I don't know where to get hemp seeds, so I skipped that. Below is my adapted recipe. Then last week, Elsa gave us some fresh dill from her garden, and I used that instead of arugula - also delish. But generally, roasting potatoes for salad is a win!
 
 ## Ingredients
 
