@@ -79,11 +79,11 @@ Make the red pepper relish: Saute the pepper and onion 5 minutes in oil. Add gar
 
 With red pepper relish:
 
-[![](quiche.png)](quiche.png)
+{{< figure src="quiche.png" alt="" caption="" >}}
 
 Tofu version:
 
-[![](doublequiche.jpg)](doublequiche.jpg)[
+{{< figure src="doublequiche.jpg" alt="" caption="" >}}[
 ](doublequiche.jpg)[
 ](doublequiche.jpg)
 [

@@ -61,18 +61,18 @@ Once the cake has cooled, pour the glaze over the cake, letting it drip down the
 
 Making the cake (double recipe):
 
-[![](IMG_9286.jpg)](IMG_9286.jpg)
+{{< figure src="IMG_9286.jpg" alt="" caption="" >}}
 
-[![](IMG_9288.jpg)](IMG_9288.jpg)
+{{< figure src="IMG_9288.jpg" alt="" caption="" >}}
 
-[![](IMG_9291.jpg)](IMG_9291.jpg)
+{{< figure src="IMG_9291.jpg" alt="" caption="" >}}
 
-[![](IMG_9292.jpg)](IMG_9292.jpg)
+{{< figure src="IMG_9292.jpg" alt="" caption="" >}}
 
-[![](IMG_9294.jpg)](IMG_9294.jpg)
+{{< figure src="IMG_9294.jpg" alt="" caption="" >}}
 
-[![](IMG_5711%20(480x640).jpg)](IMG_5711%20(480x640).jpg)
+[{{< figure src="IMG_5711%20(480x640" alt="" caption="" >}}.jpg)](IMG_5711%20(480x640).jpg)
 
-[![](IMG_5708%20(640x480).jpg)](IMG_5708%20(640x480).jpg)
+[{{< figure src="IMG_5708%20(640x480" alt="" caption="" >}}.jpg)](IMG_5708%20(640x480).jpg)
 
-[![](IMG_5716%20(480x640).jpg)](IMG_5716%20(480x640).jpg)
+[{{< figure src="IMG_5716%20(480x640" alt="" caption="" >}}.jpg)](IMG_5716%20(480x640).jpg)

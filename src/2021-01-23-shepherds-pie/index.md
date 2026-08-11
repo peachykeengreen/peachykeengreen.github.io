@@ -54,4 +54,4 @@ Pour into large pie pan and top with mashed potatoes/cauliflower.  Bake for abo
 
 Out of the oven:
 
-[![](IMG_8588.jpg)](IMG_8588.jpg)
+{{< figure src="IMG_8588.jpg" alt="" caption="" >}}

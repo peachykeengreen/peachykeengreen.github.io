@@ -63,20 +63,20 @@ Take it out of the oven right away; the bites are better a bit firm than a bit m
 
 Take out and serve. Oh, topping it with chopped chives looks good, too! Yuuuum.
 
-[![](caul.jpg)](caul.jpg)
+{{< figure src="caul.jpg" alt="" caption="" >}}
 
 And some photos of the process:
 
-[![](IMG_3255.jpg)](IMG_3255.jpg)
+{{< figure src="IMG_3255.jpg" alt="" caption="" >}}
 
 Can just throw it all in a big bowl of batter! Here with carrots :)
 
-![](batter.jpg)
+{{< figure src="batter.jpg" alt="" caption="" >}}
 
-[![](IMG_3256.JPG)](IMG_3256.JPG)
+{{< figure src="IMG_3256.JPG" alt="" caption="" >}}
 
-[![](IMG_3258.JPG)](IMG_3258.JPG)
+{{< figure src="IMG_3258.JPG" alt="" caption="" >}}
 
-[![](IMG_3260.JPG)](IMG_3260.JPG)
+{{< figure src="IMG_3260.JPG" alt="" caption="" >}}
 
 Yea, there are some open spots in the pan in the oven... some baked cauliflower mysteriously disappeared before it went back into the oven.

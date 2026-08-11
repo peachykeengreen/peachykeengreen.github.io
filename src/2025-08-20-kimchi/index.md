@@ -32,8 +32,8 @@ Place rinsed cabbae in a large container with a tight fitting lid. Stir in sauce
 
 Put leaves into container that lets you press down and press out the liquid. Seal and set in a cool dry place. Leave undisturbed for about 4 days. Refrigerate before serving, and store in fridge.
 
-[![](kimchi-img-2.jpg)](kimchi-img-2.jpg)[![](kimchi-img-3.jpg)](kimchi-img-3.jpg)
+{{< figure src="kimchi-img-2.jpg" alt="" caption="" >}}{{< figure src="kimchi-img-3.jpg" alt="" caption="" >}}
 
-[![](kimchi-img-4.jpg)](kimchi-img-4.jpg)[![](kimchi-img-5.jpg)](kimchi-img-5.jpg)
+{{< figure src="kimchi-img-4.jpg" alt="" caption="" >}}{{< figure src="kimchi-img-5.jpg" alt="" caption="" >}}
 
-[![](kimchi-img-6.jpg)](kimchi-img-6.jpg)
+{{< figure src="kimchi-img-6.jpg" alt="" caption="" >}}

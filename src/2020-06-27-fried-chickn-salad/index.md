@@ -91,6 +91,6 @@ Make the salad: On a bed of lettuce, arrange vegetables in piles around outer ci
 
 Radishes courtesy of our garden; mix broccoli, clover, alfalfa, and radish [sprouts from a jar](https://peachykeengreen.blogspot.com/2016/11/mung-bean-sprout-saute.html); and soy-curl baked fried chick'n:
 
-[![](radishes.jpg)](radishes.jpg)
+{{< figure src="radishes.jpg" alt="" caption="" >}}
 
-![](chickn.jpg)
+{{< figure src="chickn.jpg" alt="" caption="" >}}

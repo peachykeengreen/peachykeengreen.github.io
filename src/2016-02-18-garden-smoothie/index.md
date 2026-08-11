@@ -27,8 +27,8 @@ Put everything in a powerful blender and pulse until mixed. I tend to mix everyt
 
 Makes 2-3 glasses, and keeps fine in the fridge until the next day if you can't drink it all.
 
-[![](momba2.jpg)](momba2.jpg)
+{{< figure src="momba2.jpg" alt="" caption="" >}}
 
 And with even more frozen blueberries... purple!
 
-[![](purple.jpg)](purple.jpg)
+{{< figure src="purple.jpg" alt="" caption="" >}}

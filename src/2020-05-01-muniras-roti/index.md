@@ -51,10 +51,10 @@ Keep flipping until you don't see any raw dough and spots are nice and dark. Ser
 
 Munira's roti:
 
-[![](roti1.png)](roti1.png)
+{{< figure src="roti1.png" alt="" caption="" >}}
 
-[![](roti-pan.png)](roti-pan.png)[![](IMG_5417.jpg)](IMG_5417.jpg)
+{{< figure src="roti-pan.png" alt="" caption="" >}}{{< figure src="IMG_5417.jpg" alt="" caption="" >}}
 
-[![](IMG_5403.jpg)](IMG_5403.jpg)
+{{< figure src="IMG_5403.jpg" alt="" caption="" >}}
 
-[![](roti-grill.png)](roti-grill.png)
+{{< figure src="roti-grill.png" alt="" caption="" >}}

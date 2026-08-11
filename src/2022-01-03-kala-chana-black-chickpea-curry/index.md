@@ -36,4 +36,4 @@ Cook chickpeas in instant pot: 15 minutes with 3 C water if soaked; 30 min w/5 C
 
 Saute pepper, ginger, mustard seed, cumin seed, hing, onion, and salt a few minutes in oil. Add garlic and cilantro, and stir. Add remaining spices and cooked chana, including water (may need to add more water, depending). Simmer 30 minutes and serve!
 
-[![](kala-chana-black-chickpea-curry-img-2.jpg)](kala-chana-black-chickpea-curry-img-2.jpg)
+{{< figure src="kala-chana-black-chickpea-curry-img-2.jpg" alt="" caption="" >}}

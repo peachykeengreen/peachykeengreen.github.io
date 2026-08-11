@@ -38,8 +38,8 @@ Serving ideas:
 
 With fried, [breaded zucchini and eggplant](http://peachykeengreen.blogspot.com/2015/02/eggplant-zucchini-bread-crumb-fettuccine.html):
 
-[![](zucchinipasta.JPG)](zucchinipasta.JPG)
+{{< figure src="zucchinipasta.JPG" alt="" caption="" >}}
 
 With a side of lightly-fried spinach (in vegan butter):
 
-[![](marinara.jpg)](marinara.jpg)
+{{< figure src="marinara.jpg" alt="" caption="" >}}

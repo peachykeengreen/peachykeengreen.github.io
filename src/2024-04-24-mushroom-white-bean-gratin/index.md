@@ -52,20 +52,20 @@ Remove and let sit 10-15 minutes. Serve! Nice with a light salad.
 
 Gathering ingredients, including pressure-cooking the white beans:
 
-[![](IMG_7889.jpg)](IMG_7889.jpg)
+{{< figure src="IMG_7889.jpg" alt="" caption="" >}}
 
 Ready to assemble:
 
-[![](IMG_7890.jpg)](IMG_7890.jpg)
+{{< figure src="IMG_7890.jpg" alt="" caption="" >}}
 
 Out of the oven:
 
-[![](IMG_7897.jpg)](IMG_7897.jpg)
+{{< figure src="IMG_7897.jpg" alt="" caption="" >}}
 
 Such a pretty top crust!
 
-[![](IMG_7898.jpg)](IMG_7898.jpg)
+{{< figure src="IMG_7898.jpg" alt="" caption="" >}}
 
 Second version, with more root veggies and a can of diced tomatoes, served with cranberry sauce and green beans:
 
-[![](IMG_0345.jpg)](IMG_0345.jpg)
+{{< figure src="IMG_0345.jpg" alt="" caption="" >}}

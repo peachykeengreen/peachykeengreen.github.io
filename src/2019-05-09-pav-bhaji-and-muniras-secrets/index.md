@@ -44,51 +44,51 @@ Serve with toasted bread (to make a sandwich) and garnish with red onion, cilant
 
 Shown above with Chinese broccoli that Jackie made (saute fried fresh garlic in sesame oil and a little soy sauce, and add slightly steamed Chinese broccoli, toss and serve!)
 
-[![](IMG_2016.JPG)](IMG_2016.JPG)
+{{< figure src="IMG_2016.JPG" alt="" caption="" >}}
 
- [![](IMG_2017.JPG)](IMG_2017.JPG)
+ {{< figure src="IMG_2017.JPG" alt="" caption="" >}}
 
-[![](IMG_2018.JPG)](IMG_2018.JPG)
+{{< figure src="IMG_2018.JPG" alt="" caption="" >}}
 
- [![](IMG_2019.JPG)](IMG_2019.JPG)
+ {{< figure src="IMG_2019.JPG" alt="" caption="" >}}
 
-[![](IMG_2020.JPG)](IMG_2020.JPG)
+{{< figure src="IMG_2020.JPG" alt="" caption="" >}}
 
- [![](IMG_2021.JPG)](IMG_2021.JPG)
+ {{< figure src="IMG_2021.JPG" alt="" caption="" >}}
 
-[![](IMG_2023.JPG)](IMG_2023.JPG)
+{{< figure src="IMG_2023.JPG" alt="" caption="" >}}
 
- [![](IMG_2024.JPG)](IMG_2024.JPG)
+ {{< figure src="IMG_2024.JPG" alt="" caption="" >}}
 
-[![](IMG_2025.JPG)](IMG_2025.JPG)
+{{< figure src="IMG_2025.JPG" alt="" caption="" >}}
 
- [![](IMG_2026.JPG)](IMG_2026.JPG)
+ {{< figure src="IMG_2026.JPG" alt="" caption="" >}}
 
-[![](IMG_2027.JPG)](IMG_2027.JPG)
+{{< figure src="IMG_2027.JPG" alt="" caption="" >}}
 
- [![](IMG_2028.JPG)](IMG_2028.JPG)
+ {{< figure src="IMG_2028.JPG" alt="" caption="" >}}
 
-[![](IMG_2033.JPG)](IMG_2033.JPG)
+{{< figure src="IMG_2033.JPG" alt="" caption="" >}}
 
-[![](IMG_2029.JPG)](IMG_2029.JPG)
+{{< figure src="IMG_2029.JPG" alt="" caption="" >}}
 
 Jackie makes her Chinese broccoli on the second burner...
 
 Munira stirs and waits... and toasts and waits...
 
-[![](IMG_2048.JPG)](IMG_2048.JPG)
+{{< figure src="IMG_2048.JPG" alt="" caption="" >}}
 
-[![](IMG_2053.JPG)](IMG_2053.JPG)
+{{< figure src="IMG_2053.JPG" alt="" caption="" >}}
 
 Patti hopes she can replicate this!
 
-[![](IMG_2039.JPG)](IMG_2039.JPG)
+{{< figure src="IMG_2039.JPG" alt="" caption="" >}}
 
 And... it's ready! Yum!
 
-[![](IMG_2051.JPG)](IMG_2051.JPG)
+{{< figure src="IMG_2051.JPG" alt="" caption="" >}}
 
-[![](IMG_2057.JPG)](IMG_2057.JPG)
+{{< figure src="IMG_2057.JPG" alt="" caption="" >}}
 And fast forward to another bhaji attempt in May 2020 for the birthday boy - it was delicious!
 
-[![](bhaji.jpg)](bhaji.jpg)[![](bday.jpg)](bday.jpg)
+{{< figure src="bhaji.jpg" alt="" caption="" >}}{{< figure src="bday.jpg" alt="" caption="" >}}

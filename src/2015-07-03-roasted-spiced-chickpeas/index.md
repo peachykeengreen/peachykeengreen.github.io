@@ -32,7 +32,7 @@ Put the chickpeas into a medium mixing bowl and stir in the oil until coated. No
 
 Discard paper towel and line baking sheet with parchment paper. Add chickpeas back onto the baking sheet.
 
-[![](roastingchicks.jpg)](roastingchicks.jpg)
+{{< figure src="roastingchicks.jpg" alt="" caption="" >}}
 
 Roast at 400F for 20 minutes. Give the pan a gentle shake to stir the chickpeas and roast for another 15-20 minutes, until golden and lightly charred on the bottom.
 

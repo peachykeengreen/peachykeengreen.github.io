@@ -50,4 +50,4 @@ Let it all simmer, covered, for 15-20 minutes, stirring occasionally, until pref
 
 Grate lime zest on top to finish the dish. Serve over rice with fresh cilantro and some lime juice.
 
-[![](IMG_7972.jpg)](IMG_7972.jpg)
+{{< figure src="IMG_7972.jpg" alt="" caption="" >}}

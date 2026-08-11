@@ -51,12 +51,12 @@ Turn off oven. Remove sheet pan from oven and top with greens.  Put pan back in
 
 Spread farro (or other grain) on a large plate. Carefully transfer the roasted mixture onto the farro. Dress the plate with tahini mixture and sprinkle with remaining ¼ cup parsley. Serve!
 
-[![](IMG_7150.jpg)](IMG_7150.jpg)
+{{< figure src="IMG_7150.jpg" alt="" caption="" >}}
 
-[![](IMG_7153.jpg)](IMG_7153.jpg)
+{{< figure src="IMG_7153.jpg" alt="" caption="" >}}
 
-[![](IMG_7154.jpg)](IMG_7154.jpg)
+{{< figure src="IMG_7154.jpg" alt="" caption="" >}}
 
-[![](IMG_7156.jpg)](IMG_7156.jpg)
+{{< figure src="IMG_7156.jpg" alt="" caption="" >}}
 
-[![](IMG_7164.jpg)](IMG_7164.jpg)
+{{< figure src="IMG_7164.jpg" alt="" caption="" >}}

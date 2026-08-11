@@ -32,8 +32,8 @@ Saute the pepper, garlic, and salt for about a minute on medium low heat. Add th
 
 Below are some photos of pressing the tofu. I crank it tighter after a few minutes, and find that removing about 1/2 a cup of water is about perfect. (But no need to measure; I just did it for the photo :)
 
-[![](fried-tofu-img-2.jpg)](fried-tofu-img-2.jpg)
+{{< figure src="fried-tofu-img-2.jpg" alt="" caption="" >}}
 
-[![](fried-tofu-img-3.jpg)](fried-tofu-img-3.jpg)
+{{< figure src="fried-tofu-img-3.jpg" alt="" caption="" >}}
 
-[![](fried-tofu-img-4.jpg)](fried-tofu-img-4.jpg)
+{{< figure src="fried-tofu-img-4.jpg" alt="" caption="" >}}

@@ -43,8 +43,8 @@ Pour into buttered loaf pans and top with sliced figs. For mini loaf pans, bake 
 
 Large loaves
 
-[![](fig-banana-bread-img-2.jpg)](fig-banana-bread-img-2.jpg)
+{{< figure src="fig-banana-bread-img-2.jpg" alt="" caption="" >}}
 
 Before Larry added more figs on top. Good call, huh?
 
-[![](fig-banana-bread-img-3.jpg)](fig-banana-bread-img-3.jpg)
+{{< figure src="fig-banana-bread-img-3.jpg" alt="" caption="" >}}

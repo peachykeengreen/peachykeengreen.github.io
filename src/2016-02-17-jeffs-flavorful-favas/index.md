@@ -33,6 +33,6 @@ Saute the onion in a little oil until translucent. Add tomatoes and greens, and 
 
 Serve over rice. Yum! And OMG healthy.
 
-[![](driedfavas.jpg)](driedfavas.jpg)
+{{< figure src="driedfavas.jpg" alt="" caption="" >}}
 
 Dried fava beans

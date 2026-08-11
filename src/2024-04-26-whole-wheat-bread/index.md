@@ -55,28 +55,28 @@ Cover with lid and bake 30 minutes, then remove lid and bake another 8-10 minute
 
 Gathering the ingredients:
 
-[![](IMG_7904.jpg)](IMG_7904.jpg)
+{{< figure src="IMG_7904.jpg" alt="" caption="" >}}
 
 Mixed by hand, just enough to blend (careful not to overmix):
 
-[![](IMG_7905.jpg)](IMG_7905.jpg)
+{{< figure src="IMG_7905.jpg" alt="" caption="" >}}
 
 Dough (with walnuts!) resting and rising (covered) for the next 18 hours:
 
-[![](whole-wheat-bread-img-2.jpg)](whole-wheat-bread-img-2.jpg)
+{{< figure src="whole-wheat-bread-img-2.jpg" alt="" caption="" >}}
 
 18 hours later... It was nice and stringy. I folded it twice, with flour and bran. Then put in batard (my new fav!) and cover with mom's pastry cloth. to get beautiful circle design:
 
-[![](whole-wheat-bread-img-3.jpg)](whole-wheat-bread-img-3.jpg)
+{{< figure src="whole-wheat-bread-img-3.jpg" alt="" caption="" >}}
 
 After 2 hours, flip onto parchment paper:
 
-[![](whole-wheat-bread-img-4.jpg)](whole-wheat-bread-img-4.jpg)
+{{< figure src="whole-wheat-bread-img-4.jpg" alt="" caption="" >}}
 
 Lift the parchment paper with dough into the hot cast iron dutch oven, and put the cover on:
 
-[![](whole-wheat-bread-img-5.jpg)](whole-wheat-bread-img-5.jpg)
+{{< figure src="whole-wheat-bread-img-5.jpg" alt="" caption="" >}}
 
 30 minutes later remove lid, and then another 8 minutes later remove loaf from oven:
 
-[![](whole-wheat-bread-img-6.jpg)](whole-wheat-bread-img-6.jpg)
+{{< figure src="whole-wheat-bread-img-6.jpg" alt="" caption="" >}}

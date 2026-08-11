@@ -40,9 +40,9 @@ When I want something really fast, I skip the quinoa, and walnuts, and instead s
 
 Wash the kale leaves and rip them off the stems (to discard). I use a salad spinner to get most all of the water off the leaves. Chop up the fresh kale leaves into smaller pieces and put in a big salad bowl.
 
-[![](kale1.jpg)](kale1.jpg)
+{{< figure src="kale1.jpg" alt="" caption="" >}}
 
-[![](kale3.jpg)](kale3.jpg)
+{{< figure src="kale3.jpg" alt="" caption="" >}}
 
 To make the candied walnuts, heat the vegan butter in a pan on medium low, and when melted, add the walnuts. Cook 5 minutes, stirring and watching closely. Mix the sugar and cayenne in a small bowl and then mix into the nuts. Cook another 5 minutes or whatever it takes to brown, stirring and watching closely. (I set a timer for every 2 minutes to stir and check.)
 

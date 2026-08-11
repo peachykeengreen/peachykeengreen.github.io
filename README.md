@@ -51,7 +51,7 @@ featured_image: ""
 
 My amazing intro.
 
-<!-- ![foo-bar-baz](foo-bar-baz-1.jpg) -->
+<!-- {{< figure src="foo-bar-baz-1.jpg" alt="" caption="" >}} -->
 
 ## Ingredients
 

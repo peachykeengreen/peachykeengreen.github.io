@@ -23,4 +23,4 @@ Place them on dehydrator shelves, skin side down so they don't stick to the shel
 
 Dry on medium or high overnight, or for 10-12 hours. Check after 8 hours. When they're no longer juicy, remove and put in glass container. We keep ours in an open bowl in the fridge, but you could also put them in a jar  on the counter and eat them over a few days - if they last that long! A little jar of dried figs also makes a fun gift.
 
-[![](IMG_3320.JPG)](IMG_3320.JPG)[![](IMG_3219.JPG)](IMG_3219.JPG)
+{{< figure src="IMG_3320.JPG" alt="" caption="" >}}{{< figure src="IMG_3219.JPG" alt="" caption="" >}}

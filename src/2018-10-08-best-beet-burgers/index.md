@@ -30,7 +30,7 @@ I've tried to make beet burgers a few times, with just so-so results. Often they
 
 Tightly wrap beets in foil and roast in the oven (can do the day before) for about 45 minutes at 400 degrees. Let cool.
 
-[![](IMG_0008.JPG)](IMG_0008.JPG)
+{{< figure src="IMG_0008.JPG" alt="" caption="" >}}
 
 I waited to long (a month later) to write this down, and now I don't remember if (like [Chloe's recipe](http://peachykeengreen.blogspot.com/2017/07/vegan-double-double-burgers-fieldroast.html)), I used tempeh in this recipe when I created it! I did this recipe later with Cyndy and we did add tempeh, and it was good. If you want to add tempeh, steam it for 5 minutes, in microwave steamer or on the stove, and let cool.
 
@@ -42,12 +42,12 @@ Mix all burger ingredients in food processor in 2 batches. Pulse until coarsely 
 
 Form mixture into patties in the palm of your hand. Fry or bbq 5-10 minutes on each side until browned on both sides. (If used oil, remove and drain on paper towels.)
 
-[![](IMG_1609.jpeg)](IMG_1609.jpeg)[![](IMG_0009.JPG)](IMG_0009.JPG)
+{{< figure src="IMG_1609.jpeg" alt="" caption="" >}}{{< figure src="IMG_0009.JPG" alt="" caption="" >}}
 
-[![](IMG_0017.JPG)](IMG_0017.JPG)
+{{< figure src="IMG_0017.JPG" alt="" caption="" >}}
 
 Chloe's burgers and beet burgers side by side!
 
 And Field Roast Italian sausage with roasted pepper and onion, if you just don't feel like a burger.
 
-[![](IMG_0018.JPG)](IMG_0018.JPG)
+{{< figure src="IMG_0018.JPG" alt="" caption="" >}}

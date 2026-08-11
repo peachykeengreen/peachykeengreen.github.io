@@ -72,10 +72,10 @@ Run a knife around the edge to loosen any stuck parts of the cake. Place a servi
 
 One to eat, one to give away!
 
-[![](pearspice.jpg)](pearspice.jpg)
+{{< figure src="pearspice.jpg" alt="" caption="" >}}
 
 Alternate berry topping (same pear puree cake):
 
-[![](pear-spice-upside-down-cake-img-1.jpg)](pear-spice-upside-down-cake-img-1.jpg)
+{{< figure src="pear-spice-upside-down-cake-img-1.jpg" alt="" caption="" >}}
 
-[![](pear-spice-upside-down-cake-img-2.jpg)](pear-spice-upside-down-cake-img-2.jpg)
+{{< figure src="pear-spice-upside-down-cake-img-2.jpg" alt="" caption="" >}}

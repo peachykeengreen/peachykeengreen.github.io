@@ -47,7 +47,7 @@ Another recipe adapted from a recipe in [The Indian Vegetarian](https://www.blo
 
 Wash the eggplant and poke holes in it with a fork. Bake in 400 degree oven for 40 minutes. Let cool. Puree in a food processor. (This can be done the day before and stored.)
 
-[![](eggplant1.jpg)](https://www.blogger.com/#)
+{{< figure src="eggplant1.jpg" alt="" caption="" >}}
 
  Saute cumin seeds in oil until they sizzle. Stir in garlic and ginger, then onion and pepper. Cook, stirring occasionally, until the onions are golden, 5-7 minutes.
 
@@ -55,6 +55,6 @@ Add the tomato and cilantro, and cook until liquid from the tomato evaporates, a
 
 Reduce to low and cook for 15-20 min, stirring occasionally. Transfer to a dish and garnish with cilantro. Serve with naan and/or rice.
 
-![](IMG_5277.jpg)
+{{< figure src="IMG_5277.jpg" alt="" caption="" >}}
 
-[![](IMG_5278.jpg)](https://www.blogger.com/#)
+{{< figure src="IMG_5278.jpg" alt="" caption="" >}}

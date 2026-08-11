@@ -63,8 +63,8 @@ For the BBQ, pre-bake the burgers for about 15 minutes in oven before placing on
 
 A double batch, about to go in the oven:
 
-[![](veganburgers-double.jpg)](veganburgers-double.jpg)
+{{< figure src="veganburgers-double.jpg" alt="" caption="" >}}
 
 Prebaked 15 minutes, ready for bbq:
 
-[![](prebaked.jpg)](prebaked.jpg)
+{{< figure src="prebaked.jpg" alt="" caption="" >}}

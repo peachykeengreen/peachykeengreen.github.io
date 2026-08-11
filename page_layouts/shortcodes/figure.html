@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- $res := .Page.Resources.GetMatch $src -}}
+{{- if $res -}}
+  {{- $src = $res.RelPermalink -}}
+{{- end -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $link := .Get "link" | default $src -}}
+<figure class="recipe-figure">
+  {{ if $link }}<a href="{{ $link | safeURL }}">{{ end }}
+    <img src="{{ $src | safeURL }}" alt="{{ $alt }}" loading="lazy" />
+  {{ if $link }}</a>{{ end }}
+  {{ with $caption }}
+    <figcaption class="img-caption">{{ . | safeHTML }}</figcaption>
+  {{ end }}
+</figure>

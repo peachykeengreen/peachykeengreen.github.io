@@ -14,7 +14,7 @@ Larry put Japanese miso powder on his Christmas wish list; he wanted powder sinc
 
 ##
 
-![](IMG_5641.jpg)
+{{< figure src="IMG_5641.jpg" alt="" caption="" >}}
 
 ## Ingredients
 
@@ -34,6 +34,6 @@ Pour hot water in the bowls. Stir and serve!
 
 Larry says that in Japan, on often eats it by slurping from the side of the bowl, stirring as you slurp.
 
-[![](IMG_5636.jpg)](IMG_5636.jpg)
+{{< figure src="IMG_5636.jpg" alt="" caption="" >}}
 
-[![](IMG_5631.jpg)](IMG_5631.jpg)
+{{< figure src="IMG_5631.jpg" alt="" caption="" >}}

@@ -35,6 +35,6 @@ My brother Jeff turned me on to this, and it's my new favorite thing! Delicious,
 
 Mix together the dry ingredients in a 1 pint jar. Fill jar with soy milk and mix. Put in fridge overnight. Top with fruit and nuts. The jar will last a few days in the fridge, so no worries if you don't finish it. Sometimes I have a couple of jars going at once.
 
-[![](overnight-oats-img-2.jpg)](overnight-oats-img-2.jpg)
+{{< figure src="overnight-oats-img-2.jpg" alt="" caption="" >}}
 
-[![](overnight-oats-img-3.jpg)](overnight-oats-img-3.jpg)
+{{< figure src="overnight-oats-img-3.jpg" alt="" caption="" >}}

@@ -57,8 +57,8 @@ Remove the pot from the heat. Stir in 1 teaspoon olive oil and fresh basil. Seas
 
 Serve in bowls, perhaps with a little drizzle of olive oil, additional chopped basil, or black pepper on top.
 
-[![](ratatouille-img-2.jpg)](ratatouille-img-2.jpg)
+{{< figure src="ratatouille-img-2.jpg" alt="" caption="" >}}
 
-[![](ratatouille-img-3.jpg)](ratatouille-img-3.jpg)
+{{< figure src="ratatouille-img-3.jpg" alt="" caption="" >}}
 
-[![](ratatouille-img-4.jpg)](ratatouille-img-4.jpg)[![](ratatouille-img-5.jpg)](ratatouille-img-5.jpg)
+{{< figure src="ratatouille-img-4.jpg" alt="" caption="" >}}{{< figure src="ratatouille-img-5.jpg" alt="" caption="" >}}

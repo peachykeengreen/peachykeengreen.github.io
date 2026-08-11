@@ -57,16 +57,16 @@ Prepare the frosting: mix by hand is fine, or can an electric mixer. (Can chill 
 
 Frost the cooled cakes and decorate with lemon zest.
 
-[![](IMG_8287.jpg)](IMG_8287.jpg)
+{{< figure src="IMG_8287.jpg" alt="" caption="" >}}
 
-[![](IMG_8288.jpg)](IMG_8288.jpg)
+{{< figure src="IMG_8288.jpg" alt="" caption="" >}}
 
 Frost with cream cheese frosting, and top with lemon zest!
 
-[![](IMG_8311.jpg)](IMG_8311.jpg)
+{{< figure src="IMG_8311.jpg" alt="" caption="" >}}
 
 Earlier powdered sugar frosting version below. Beautiful, but a little too sweet.
 
-[![](IMG_8297.jpg)](IMG_8297.jpg)
+{{< figure src="IMG_8297.jpg" alt="" caption="" >}}
 
-[![](IMG_8302.jpg)](IMG_8302.jpg)
+{{< figure src="IMG_8302.jpg" alt="" caption="" >}}

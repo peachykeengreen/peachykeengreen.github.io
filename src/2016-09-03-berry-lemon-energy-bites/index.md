@@ -33,8 +33,8 @@ Roll into small (1 inch) balls. Optionally roll the balls into additional coconu
 
 Rolled in oat flour (grind some oats in the food processor and roll!)
 
-[![](cherry-bites-oat-flour.jpg)](cherry-bites-oat-flour.jpg)
+{{< figure src="cherry-bites-oat-flour.jpg" alt="" caption="" >}}
 
-[![](cherry-bites-food-processor.jpg)](cherry-bites-food-processor.jpg)[
+{{< figure src="cherry-bites-food-processor.jpg" alt="" caption="" >}}[
 ](cherry-bites-food-processor.jpg)[
 ](cherry-bites-food-processor.jpg)

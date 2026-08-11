@@ -25,12 +25,12 @@ Larry has fond memories of cold spinach salad in Japan. We compared several reci
 
 Prepare spinach 30 minutes to 3 hours ahead: Bring a large pot of salted water to a boil add a pinch of salt. Add spinach to boiling water and cook for one minute. Drain and soak with cold water until cooled, removing as much water as possible. Chill the spinach for at least 30 minutes and up to 3 hours.
 
-[![](IMG_5894.jpg)](IMG_5894.jpg)Toast the sesame seeds in a dry small skillet over medium low heat, shaking skillet occasionally, until slightly darkened in color and fragrant, about 4 minutes. Remove from heat. Let cool. Crush in a mortar and pestle or put in a resealable plastic bag and use a rolling pin to crush seeds. Crush until mostly mashed but with some whole seeds remaining.
+{{< figure src="IMG_5894.jpg" alt="" caption="" >}}Toast the sesame seeds in a dry small skillet over medium low heat, shaking skillet occasionally, until slightly darkened in color and fragrant, about 4 minutes. Remove from heat. Let cool. Crush in a mortar and pestle or put in a resealable plastic bag and use a rolling pin to crush seeds. Crush until mostly mashed but with some whole seeds remaining.
 
 In a large bowl, whisk together the toasted sesame seeds, sesame oil (if using), vinegar, soy sauce, and sugar. Mix well.
 
 Collect the spinach in a long row, and cut into 4 quarters/pieces. Squeeze out any excess water. Transfer to the large bowl with dressing and toss with your hands, taking care to break up any clumps so the spinach gets well coated. Serve!
 
-[![](IMG_5897.jpg)](IMG_5897.jpg)
+{{< figure src="IMG_5897.jpg" alt="" caption="" >}}
 
-[![](dinner.jpg)](dinner.jpg)
+{{< figure src="dinner.jpg" alt="" caption="" >}}

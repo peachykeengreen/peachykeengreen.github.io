@@ -41,7 +41,7 @@ I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/la
 
 In a large pan or soup pot, saute onion, carrot, pepper flakes, and salt in oil for a few minutes. Add garlic and paprika (and mushrooms if using), and stir another minute. Add crumbled impossible burger and saute until it turns brown.
 
-[![](IMG_9095.jpg)](IMG_9095.jpg)
+{{< figure src="IMG_9095.jpg" alt="" caption="" >}}
 
 Finally, add tomatoes, oregano, and basil, and simmer for 30 minutes. Turn off and let cool. If you want to finish the lasagna tomorrow, put it in a big bowl and refrigerate overnight.
 
@@ -59,22 +59,22 @@ Bake the lasagna in the oven for about 45 minutes, until the cheese sauce is gol
 
 Making the layers:
 
-![](IMG_9096.jpg)
+{{< figure src="IMG_9096.jpg" alt="" caption="" >}}
 
 Medium pan (was too much cheese for us):
 
-[![](IMG_9097.jpg)](IMG_9097.jpg)
+{{< figure src="IMG_9097.jpg" alt="" caption="" >}}
 
 Large pan with vegan mozzarella (better, but will try even less cheese next time):
 
-[![](IMG_9335.jpg)](IMG_9335.jpg)
+{{< figure src="IMG_9335.jpg" alt="" caption="" >}}
 
 Cooked!
 
-![](IMG_9336.jpg)
+{{< figure src="IMG_9336.jpg" alt="" caption="" >}}
 
 Below is the original that Judy sent me. Marti was my first roommate in grad school, and Garnet was a unix server we had our email accounts on :)
 
 Can you believe how much cheese we used? FIVE POUNDS total. And what's with "cover the pan with foil" before you do anything? That's just weird.
 
-[![](IMG_4532.jpeg)](IMG_4532.jpeg)
+{{< figure src="IMG_4532.jpeg" alt="" caption="" >}}

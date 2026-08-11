@@ -34,6 +34,7 @@ Judi made this tart from [Plant-Powered Kitchen](http://plantpoweredkitchen.com/
 - 1 tsp tamari
 - 2 T walnuts
 - 1/4 cup dried cranberries (optionally, soak them in a little water)
+
 ## Instructions
 
 Preheat oven to 400 degrees. Add oil to skillet, and cook onion, celery, and garlic over medium-high heat for 9-10 minutes, stirring occasionally, until softened and turning golden.
@@ -44,6 +45,4 @@ In skillet, cook down spinach in a little oil. Turn off heat, and transfer food 
 
 Transfer mixture to pie shell, smoothing to evenly distribute. Brush tamari/oil topping over top Sprinkle on walnuts and cranberries. Bake in preheated oven at 400 degrees for 30-35 minutes, until tart is golden on edges and top. Cool 5-10 minutes and serve.
 
-[![Birthday-Boy Approved!](bdayboy.jpg)](bdayboy.jpg)
-
-
+{{< figure src="bdayboy.jpg" alt="Birthday-Boy Approved!" caption="Birthday-Boy Approved!" >}}

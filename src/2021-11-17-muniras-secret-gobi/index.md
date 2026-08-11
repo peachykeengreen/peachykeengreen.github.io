@@ -43,20 +43,20 @@ Serve with rice or roti!
 
 Munira making her delicious potato dish, which uses similar spices (sans the methi and peas).
 
-[![](IMG_0637.jpg)](IMG_0637.jpg)
+{{< figure src="IMG_0637.jpg" alt="" caption="" >}}
 
 Munira's gobi:
 
-[![](IMG_0631.jpg)](IMG_0631.jpg)
+{{< figure src="IMG_0631.jpg" alt="" caption="" >}}
 
 And dal and roti:
 
-[![](IMG_0663.jpg)](IMG_0663.jpg)
+{{< figure src="IMG_0663.jpg" alt="" caption="" >}}
 
 Fenugreek leaves for my freezer - a key ingredient in lots of dishes!
 
-[![](IMG_0712.jpg)](IMG_0712.jpg)
+{{< figure src="IMG_0712.jpg" alt="" caption="" >}}
 
 Here's the gobi before adding turmeric, coriander, and chili pepper. Add these late so they don't burn.
 
-[![](IMG_0713.jpg)](IMG_0713.jpg)
+{{< figure src="IMG_0713.jpg" alt="" caption="" >}}

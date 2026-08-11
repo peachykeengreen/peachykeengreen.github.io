@@ -52,12 +52,12 @@ Note: Could also dip in chocolate. To do so, add chopped chocolate to a mixing b
 
 Store covered at room temperature for 3-4 days. A large jar is ideal.
 
-[![](IMG_4968.jpg)](IMG_4968.jpg)
+{{< figure src="IMG_4968.jpg" alt="" caption="" >}}
 
-[![](IMG_4970.jpg)](IMG_4970.jpg)
+{{< figure src="IMG_4970.jpg" alt="" caption="" >}}
 
-[![](IMG_4972.jpg)](IMG_4972.jpg)
+{{< figure src="IMG_4972.jpg" alt="" caption="" >}}
 
  Thanks to Pati for helping me make a batch!
 
-[![](IMG_5143.jpg)](IMG_5143.jpg)
+{{< figure src="IMG_5143.jpg" alt="" caption="" >}}

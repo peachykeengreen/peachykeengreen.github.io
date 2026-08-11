@@ -54,4 +54,4 @@ Prepare the frosting by placing ingredients in an electric mixer. Start off at s
 
 Frost the cooled cakes and decorate with lemon zest.
 
-[![](lemon-cake-2026-img-2.jpg)](lemon-cake-2026-img-2.jpg)
+{{< figure src="lemon-cake-2026-img-2.jpg" alt="" caption="" >}}

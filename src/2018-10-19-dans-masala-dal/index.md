@@ -12,7 +12,7 @@ description: "Dan's Hypnotic Dal recipe."
 
 Dan Suthers shared his favorite dal recipe with me. Yay! For so long I've wanted a good dal recipe. How did he know? This dal is from [Vegan Richa's Indian Kitchen Cookbook](https://www.veganricha.com/vegan-richas-indian-kitchen-cookbook), which is now on my wish list. In the book it's called Masala Lentils or Sabut Masoor. Dan suggested doubling the recipe if you want a second meal, and since we always want a second meal, here's the recipe doubled. I made just a few other minor tweaks.
 
-![](DansDal.jpg)
+{{< figure src="DansDal.jpg" alt="" caption="" >}}
 
 ## Ingredients
 

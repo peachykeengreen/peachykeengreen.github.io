@@ -33,12 +33,12 @@ In oil, saute mustard seed, hing, onion (and hot pepper, if using), cooking unti
 
 Munira does her magic:
 
-[![](IMG_1665.jpg)](IMG_1665.jpg)[![](IMG_1667.jpg)](IMG_1667.jpg)
+{{< figure src="IMG_1665.jpg" alt="" caption="" >}}{{< figure src="IMG_1667.jpg" alt="" caption="" >}}
 
 Patti continues at home:
 
-[![](IMG_1673.jpg)](IMG_1673.jpg)[![](IMG_1674.jpg)](IMG_1674.jpg)
+{{< figure src="IMG_1673.jpg" alt="" caption="" >}}{{< figure src="IMG_1674.jpg" alt="" caption="" >}}
 
 add cashews!
 
-[![](IMG_1675.jpg)](IMG_1675.jpg)
+{{< figure src="IMG_1675.jpg" alt="" caption="" >}}

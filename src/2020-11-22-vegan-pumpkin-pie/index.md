@@ -50,14 +50,14 @@ After an hour, the middle may still look jiggly; that's normal. (Sometimes I bak
 
 Slice and serve. Add nondairy whipped topping if desired!
 
-[![](IMG_8064.jpg)](IMG_8064.jpg)
+{{< figure src="IMG_8064.jpg" alt="" caption="" >}}
 
-[![](IMG_8067.jpg)](IMG_8067.jpg)
+{{< figure src="IMG_8067.jpg" alt="" caption="" >}}
 
-[![](IMG_8068.jpg)](IMG_8068.jpg)
+{{< figure src="IMG_8068.jpg" alt="" caption="" >}}
 
-[![](IMG_8071.jpg)](IMG_8071.jpg)
+{{< figure src="IMG_8071.jpg" alt="" caption="" >}}
 
 And below is how it looked when I made it with tofu; it was more custardy, which was fine, but I think the tofu flavor was a little too much - at least compared to using nondairy milk.
 
-[![](pumpkinpie.jpg)](https://www.blogger.com/#)
+{{< figure src="pumpkinpie.jpg" alt="" caption="" >}}

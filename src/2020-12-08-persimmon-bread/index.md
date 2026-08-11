@@ -45,10 +45,10 @@ For small loaf pans (what I use): Cook at 350 degrees for 15 min.  325 degrees 
 
 Mixing it up:
 
-[![](IMG_8223.jpg)](IMG_8223.jpg)
+{{< figure src="IMG_8223.jpg" alt="" caption="" >}}
 
-[![](IMG_8224.jpg)](IMG_8224.jpg)
+{{< figure src="IMG_8224.jpg" alt="" caption="" >}}
 
 Just a few of Pat & Allen's persimmons (at their house, not ours :)
 
-[![](IMG_4563.jpg)](IMG_4563.jpg)
+{{< figure src="IMG_4563.jpg" alt="" caption="" >}}

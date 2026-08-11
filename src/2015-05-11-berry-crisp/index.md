@@ -32,8 +32,8 @@ A berry crisp that combines elements of a few recipes I've tried, including Judi
 
 Pour oil in pan. Put fruit in pan and sprinkle brown sugar and lemon over.  Mix up the topping and spread it over the fruit. Bake at 350 until the juice is all bubbly, about 30 minutes or so.
 
-[![](IMG_8703.jpg)](IMG_8703.jpg)
+{{< figure src="IMG_8703.jpg" alt="" caption="" >}}
 
 Here it is with fresh apricots, ready to go in the oven:
 
-[![](apricotcrisp.jpg)](apricotcrisp.jpg)
+{{< figure src="apricotcrisp.jpg" alt="" caption="" >}}

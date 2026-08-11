@@ -29,8 +29,8 @@ Mix wheat germ and bread crumbs together and put on a plate. Dip dry slices in a
 
 Pan fry or bake. Serve with marinara! Cyndy soaked some dried mushrooms overnight and chopped them up into small pieces to put in the marinara, heated over the stove.
 
-[![](eggplant-drying.jpg)](eggplant-drying.jpg)
+{{< figure src="eggplant-drying.jpg" alt="" caption="" >}}
 
-[![](eggplan-cyndy-muni.JPG)](eggplan-cyndy-muni.JPG)
+{{< figure src="eggplan-cyndy-muni.JPG" alt="" caption="" >}}
 
-[![](cyndy-eggplant.JPG)](cyndy-eggplant.JPG)
+{{< figure src="cyndy-eggplant.JPG" alt="" caption="" >}}

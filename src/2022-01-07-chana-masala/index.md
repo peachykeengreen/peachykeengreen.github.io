@@ -42,8 +42,8 @@ Add the pureed tomato-chickpea mixture. Cook partially covered for 15 minutes, s
 
 Add the cooked chickpeas and water. Cover and cook for 30-40 minutes over medium low heat, stirring occasionally. Garnish with cilantro, minced onion, and lemon juice, and serve hot.
 
-[![](chana-masala-img-2.jpg)](chana-masala-img-2.jpg)
+{{< figure src="chana-masala-img-2.jpg" alt="" caption="" >}}
 
 Reward for fixing our furnace today :)
 
-[![](chana-masala-img-3.jpg)](chana-masala-img-3.jpg)
+{{< figure src="chana-masala-img-3.jpg" alt="" caption="" >}}

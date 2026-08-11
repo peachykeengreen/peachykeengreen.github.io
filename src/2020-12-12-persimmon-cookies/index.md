@@ -52,4 +52,4 @@ To make the orange glaze, in a medium bowl, combine the confectioners' sugar, or
 
 Note: I froze half the dough, and halved the glaze, using zest and juice of one tangerine.
 
-[![](IMG_8265.jpg)](IMG_8265.jpg)
+{{< figure src="IMG_8265.jpg" alt="" caption="" >}}

@@ -36,4 +36,4 @@ Cool. Sprinkle cinnamon and nutmeg on top. Serve with preserves.
 
 (*) Larry and I visited Sweden in 2001, and in our travelogue we wrote: “Our lunchtime cafe's menu offers "oustakake", which turns out to be, literally, "cheesecake". Patti has an epiphany that her grandmother's custard "oustakake" was in fact a kind of cheesecake. The guides at Skansen said that the prestige item at a country smorgasbord (a potluck table of sandwiches and other food at a wedding or whatever) was that each Swedish family would bring their own particular type of cheesecake for the smorgasbord. Apparently Patti's family was the runny, custard-kind of family.” :)
 
-[![](dad.jpg)](dad.jpg)[![](osta.jpg)](osta.jpg)
+{{< figure src="dad.jpg" alt="" caption="" >}}{{< figure src="osta.jpg" alt="" caption="" >}}

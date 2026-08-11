@@ -37,4 +37,4 @@ Saute the onion in oil for 4 minutes. Add chorizo and saute 4-5 more minutes, st
 
 Add veggie broth, beans, tomatoes, cabbage, and kale (if using). Bring to a boil. Bring back to a simmer and cook about 5 minutes more. Stir in the vinegar. Serve!
 
-[![](soup.jpg)](soup.jpg)
+{{< figure src="soup.jpg" alt="" caption="" >}}

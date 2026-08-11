@@ -45,6 +45,6 @@ Put the TVP into a big bowl, and boil the water to make broth. Pour broth over T
 
 In the meantime, saute oil, onion, cumin, pepper, cilantro, and garlic in pan. Add in spices and stir. Add TVP mix and stir. Cook for 5 minutes, stirring often. Turn off heat. Serve with tacos, or use what you need for [Mexican lasagna](https://peachykeengreen.blogspot.com/2015/02/chipotle-mexican-lasagna.html) - and freeze the rest for the next lasagna!
 
-[![](soyrizo-ingredients.jpg)](soyrizo-ingredients.jpg)
+{{< figure src="soyrizo-ingredients.jpg" alt="" caption="" >}}
 
-[![](ready-to-fry.jpg)](ready-to-fry.jpg)
+{{< figure src="ready-to-fry.jpg" alt="" caption="" >}}

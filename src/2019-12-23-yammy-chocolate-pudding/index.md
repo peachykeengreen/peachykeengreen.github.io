@@ -38,4 +38,4 @@ OR, if making pie (pre-baked flour crust, or graham cracker crust): Fill pie cru
 
 Photos below: Pudding by itself (left), or as a pie topped with strawberries, roasted pecans, powdered sugar, and rum glaze (rum + butter + powdered sugar, whisked)
 
-[![](pudding.jpg)](pudding.jpg)[![](pudding-pie.jpg)](pudding-pie.jpg)
+{{< figure src="pudding.jpg" alt="" caption="" >}}{{< figure src="pudding-pie.jpg" alt="" caption="" >}}

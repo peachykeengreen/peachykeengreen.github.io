@@ -28,22 +28,22 @@ Place the cooked blackberries in a fine-meshed sieve or colander or in a cheesec
 
 Rinse out the pot and pour the blackberry juice in it along with the sugar and lemon juice.  Bring it to a boil and boil for 3 minutes.  Stir in the pectin and boil for another minute.  Serve immediately or store in fridge for up to 2 weeks.
 
-[![](IMG_3089.JPG)](IMG_3089.JPG)
+{{< figure src="IMG_3089.JPG" alt="" caption="" >}}
 
 Bring the blackberries to a boil and simmer 15-20 minutes. Mash a little with a potato masher to break up berries.
 
-[![](IMG_3090.JPG)](IMG_3090.JPG)
+{{< figure src="IMG_3090.JPG" alt="" caption="" >}}
 
 Strain in a fine-mesh-sieve colander. Use a spoon to move the puree around a bit.
 
-[![](IMG_3092.JPG)](IMG_3092.JPG)
+{{< figure src="IMG_3092.JPG" alt="" caption="" >}}
 
 Rinse the pot and put the juice in. Add the leom and sugar, bring to boil for 3 minutes, add the pectin and boil 1 more minute.
 
-[![](IMG_3093.JPG)](IMG_3093.JPG)
+{{< figure src="IMG_3093.JPG" alt="" caption="" >}}
 
 Ladle into jars.
 
-[![](IMG_3095.JPG)](IMG_3095.JPG)
+{{< figure src="IMG_3095.JPG" alt="" caption="" >}}
 
 Refrigerate for up to 2 weeks, or freeze. A great gift!

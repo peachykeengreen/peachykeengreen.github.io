@@ -57,14 +57,14 @@ After trying it, we decided that it needed something more... we added kalamata o
 
 To make almond ricotta: Whip blanched almonds, water, and salt in food processor until smooth, adding water as needed. Add nutritional yeast, lemon, and any other spices you want to try (basil?)
 
-![](IMG_5481.jpg)
+{{< figure src="IMG_5481.jpg" alt="" caption="" >}}
 
-![](IMG_5482.jpg)
+{{< figure src="IMG_5482.jpg" alt="" caption="" >}}
 
-![](IMG_5486.jpg)
+{{< figure src="IMG_5486.jpg" alt="" caption="" >}}
 
  Blanched almonds!
 
-![](IMG_5491.jpg)
+{{< figure src="IMG_5491.jpg" alt="" caption="" >}}
 
  Adding almond ricotta

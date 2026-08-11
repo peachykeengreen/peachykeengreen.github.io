@@ -21,6 +21,7 @@ In honor of our new President-elect -- and his fine VP-elect -- I decided to try
 - 1/2 tsp pepper flakes
 - 1 bell pepper, chopped
 - 2 cloves garlic, minced
+
 ### Sauce (or Could Use Bbq Sauce)
 
 - 15 oz can tomato sauce
@@ -46,11 +47,11 @@ Serve on toasted bun with pickles and/or chopped onion (optional).
 
 Cooking: Crazy how much it looks like hamburger:
 
-[![](IMG_7976.jpg)](IMG_7976.jpg)
+{{< figure src="IMG_7976.jpg" alt="" caption="" >}}
 
 And browns like hamburger:
 
-![](IMG_7977.jpg)
+{{< figure src="IMG_7977.jpg" alt="" caption="" >}}
 
 And here's after adding the sauce!
-[![](IMG_7978.jpg)](IMG_7978.jpg)
+{{< figure src="IMG_7978.jpg" alt="" caption="" >}}

@@ -33,7 +33,7 @@ Munira is cooking us another delicious dinner, and wants rum cake! So I gave it 
 - 1 1/2 C sugar
 - 2/3 C canola oil
 - 3 tsp vanilla
-[![](IMG_2199.jpg)](IMG_2199.jpg)
+{{< figure src="IMG_2199.jpg" alt="" caption="" >}}
 
 ### Glaze
 
@@ -81,7 +81,7 @@ Serve when cool! Nice with (vegan) ice cream.
 
 Vanilla coconut (left) & chocolate walnut (right).
 
-[![](choc.jpg)](choc.jpg)[![](IMG_2193.jpg)](IMG_2193.jpg)
+{{< figure src="choc.jpg" alt="" caption="" >}}{{< figure src="IMG_2193.jpg" alt="" caption="" >}}
 
 [
 ](IMG_2193.jpg)

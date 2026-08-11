@@ -38,18 +38,18 @@ Saute the onions a few minutes; add garlic and other vegetables (except maybe sp
 
 Preparing the pizzas (at Munira's place):
 
-[![](crispy-thin-pizza-pizza-img-2.jpg)](crispy-thin-pizza-pizza-img-2.jpg)
+{{< figure src="crispy-thin-pizza-pizza-img-2.jpg" alt="" caption="" >}}
 
-[![](crispy-thin-pizza-pizza-img-3.jpg)](crispy-thin-pizza-pizza-img-3.jpg)
+{{< figure src="crispy-thin-pizza-pizza-img-3.jpg" alt="" caption="" >}}
 
 Even more tofu!
 
-[![](crispy-thin-pizza-pizza-img-4.jpg)](crispy-thin-pizza-pizza-img-4.jpg)
+{{< figure src="crispy-thin-pizza-pizza-img-4.jpg" alt="" caption="" >}}
 
-[![](blogger_img_1fbad415cb.jpg)](blogger_img_1fbad415cb.jpg)
+{{< figure src="blogger_img_1fbad415cb.jpg" alt="" caption="" >}}
 
 Photos below are from 2018 when we made pizza from a large whole grain crust from Trader Joes. TJ's doesn't carry it anymore, but we prefer these whole wheat pita pizzas now, anyway. They're just the right size, taste great, and fit easily in the freezer so they're available when we get the craving :)
 
-[![](IMG_8857.JPG)](IMG_8857.JPG)[![](IMG_8855.JPG)](IMG_8855.JPG)
+{{< figure src="IMG_8857.JPG" alt="" caption="" >}}{{< figure src="IMG_8855.JPG" alt="" caption="" >}}
 
-[![](whole-wheat-pita.jpg)](whole-wheat-pita.jpg)
+{{< figure src="whole-wheat-pita.jpg" alt="" caption="" >}}

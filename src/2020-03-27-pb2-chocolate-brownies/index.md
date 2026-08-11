@@ -37,8 +37,8 @@ Make flax egg (mix flaxmeal and water) and set aside. In a large bowl, mix toget
 
 Pour mixture into prepared pan and bake for 30 minutes. Set aside to cool, and then cut into bars. Yum!
 
-![](pb.jpg)
+{{< figure src="pb.jpg" alt="" caption="" >}}
 
 2022 update: These have been the best pandemic recipe yet: Easy, delicious, low/no fat, and high protein.  Munira loves them, so she got them for her birthday!
 
-[![](pb2-chocolate-brownies-img-1.jpg)](pb2-chocolate-brownies-img-1.jpg)
+{{< figure src="pb2-chocolate-brownies-img-1.jpg" alt="" caption="" >}}

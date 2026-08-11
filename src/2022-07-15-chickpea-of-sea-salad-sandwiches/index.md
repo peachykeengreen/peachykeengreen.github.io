@@ -38,8 +38,8 @@ Assemble salad: Add the rest of the ingredients and mix well, adding any extra i
 
 Serve on toasted bread with sliced tomato and leafy greens, or on lettuce like a wrap or salad, or with fresh scoopable veggies (like cucumber, red bell peppers), or with crackers. Yum!
 
-[![](chickpea-of-sea-salad-sandwiches-img-2.jpg)](chickpea-of-sea-salad-sandwiches-img-2.jpg)
+{{< figure src="chickpea-of-sea-salad-sandwiches-img-2.jpg" alt="" caption="" >}}
 
-[![](chickpea-of-sea-salad-sandwiches-img-3.jpg)](chickpea-of-sea-salad-sandwiches-img-3.jpg)
+{{< figure src="chickpea-of-sea-salad-sandwiches-img-3.jpg" alt="" caption="" >}}
 
-[![](chickpea-of-sea-salad-sandwiches-img-4.jpg)](chickpea-of-sea-salad-sandwiches-img-4.jpg)
+{{< figure src="chickpea-of-sea-salad-sandwiches-img-4.jpg" alt="" caption="" >}}

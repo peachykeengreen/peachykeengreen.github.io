@@ -49,12 +49,12 @@ Let cool. Serve plain or with vegan vanilla ice cream. We like vanilla Almond Dr
 
 Here it is with pears and blackberries, and 2nd crust flipped on top:
 
-[![](pie2.jpg)](pie2.jpg)[![](fruit-pie.jpg)](fruit-pie.jpg)
+{{< figure src="pie2.jpg" alt="" caption="" >}}{{< figure src="fruit-pie.jpg" alt="" caption="" >}}
 
 And with Wholly Wholesome crust, trimmed to make criss-crosses on top, and butter dots:
 
-[![](IMG_6648.JPG)](IMG_6648.JPG)[![](pie-butter.jpg)](pie-butter.jpg)
+{{< figure src="IMG_6648.JPG" alt="" caption="" >}}{{< figure src="pie-butter.jpg" alt="" caption="" >}}
 
 And with extra-filled ramekins, with lattice on top. (Don't bother with crust on bottom of ramekins; it's still delish with crust only on top.) This is a fig pie!
 
-[![](figpie.jpg)](figpie.jpg)
+{{< figure src="figpie.jpg" alt="" caption="" >}}

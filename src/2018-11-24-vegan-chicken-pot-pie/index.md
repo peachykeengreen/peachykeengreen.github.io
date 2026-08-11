@@ -49,22 +49,22 @@ Add seasoning and frozen vegetables and simmer 10 more minutes. Add chick'n and 
 
 Pot pie on our 21st anniversary!
 
-[![](IMG_6683.jpg)](IMG_6683.jpg)[![](IMG_6684.jpg)](IMG_6684.jpg)
+{{< figure src="IMG_6683.jpg" alt="" caption="" >}}{{< figure src="IMG_6684.jpg" alt="" caption="" >}}
 
 The first time we made it, with Cyndy & Laurie, w/ homemade gnocchi & coconut milk:
 
-[![](IMG_0848.JPG)](IMG_0848.JPG)[![](IMG_0873.JPG)](IMG_0873.JPG)
+{{< figure src="IMG_0848.JPG" alt="" caption="" >}}{{< figure src="IMG_0873.JPG" alt="" caption="" >}}
 
 Mix of regular and mini pies, pre- and post-cooking for Thanksgiving 2025:
 
-[![](vegan-chicken-pot-pie-img-2.jpg)](vegan-chicken-pot-pie-img-2.jpg)[![](vegan-chicken-pot-pie-img-3.jpg)](vegan-chicken-pot-pie-img-3.jpg)
+{{< figure src="vegan-chicken-pot-pie-img-2.jpg" alt="" caption="" >}}{{< figure src="vegan-chicken-pot-pie-img-3.jpg" alt="" caption="" >}}
 
 Fond memories of Vegenation...
 
-[![](IMG_0784.JPG)](IMG_0784.JPG)[![](IMG_0786.JPG)](IMG_0786.JPG)
+{{< figure src="IMG_0784.JPG" alt="" caption="" >}}{{< figure src="IMG_0786.JPG" alt="" caption="" >}}
 
 Oh, back to Vegenation: the lemon merengue tart! Very lemony. The chef said the custard was half sugar, half fresh lemon juice, with LOTS of corn starch. The [merengue](https://peachykeengreen.blogspot.com/2017/12/meringue-cookies.html) was aquafaba of course - a bit runnier than I've made.
 
-[![](IMG_0792.JPG)](IMG_0792.JPG)
+{{< figure src="IMG_0792.JPG" alt="" caption="" >}}
 
-[![](IMG_0803.JPG)](IMG_0803.JPG)[![](IMG_0801.jpg)](IMG_0801.jpg)
+{{< figure src="IMG_0803.JPG" alt="" caption="" >}}{{< figure src="IMG_0801.jpg" alt="" caption="" >}}

@@ -47,8 +47,8 @@ Puree the soaked cashews.Then, puree the greens. Mix in the pureed cashews, curr
 
 Serve over tofu and garnish with garam masala. Goes well with roti or rice.
 
-[![](saag.jpg)](saag.jpg)
+{{< figure src="saag.jpg" alt="" caption="" >}}
 
-[![](IMG_2073.jpg)](IMG_2073.jpg)
+{{< figure src="IMG_2073.jpg" alt="" caption="" >}}
 
-[![](IMG_2072.JPG)](IMG_2072.JPG)
+{{< figure src="IMG_2072.JPG" alt="" caption="" >}}

@@ -45,12 +45,12 @@ Mix spices into bread crumb mixture. Add bread crumb mixture, veggie mixture, an
 
 Bake in 350 degree oven for 30 minutes. Remove and let sit for 10 minutes. Serve!
 
-[![](IMG_8212.jpg)](IMG_8212.jpg)
+{{< figure src="IMG_8212.jpg" alt="" caption="" >}}
 
-[![](IMG_8215.jpg)](IMG_8215.jpg)
+{{< figure src="IMG_8215.jpg" alt="" caption="" >}}
 
 baked, with more veggies and [carrot greens chimichurri](https://peachykeengreen.blogspot.com/2020/06/vikis-carrot-greens-chimichurri.html):
 
-[![](IMG_8425.jpg)](IMG_8425.jpg)
+{{< figure src="IMG_8425.jpg" alt="" caption="" >}}
 
-[![](IMG_8429.jpg)](IMG_8429.jpg)
+{{< figure src="IMG_8429.jpg" alt="" caption="" >}}

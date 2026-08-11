@@ -45,4 +45,4 @@ Place 1 sheet of Phyllo dough onto prepared baking sheet. Brush or spray on butt
 
 Fresh out of the oven, before cutting:
 
-[![](rolls.jpg)](rolls.jpg)
+{{< figure src="rolls.jpg" alt="" caption="" >}}

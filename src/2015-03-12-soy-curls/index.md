@@ -10,7 +10,7 @@ featured_image: "Photo-728841.jpg"
 description: "Soy Curls recipe."
 ---
 
-[![](Photo-728841.jpg)](Photo-728841.jpg)My friend Judi totally loves these [soy curls](http://veryveryverygreen.blogspot.com/search?q=soy+curls).
+{{< figure src="Photo-728841.jpg" alt="" caption="" >}}My friend Judi totally loves these [soy curls](http://veryveryverygreen.blogspot.com/search?q=soy+curls).
 
 I made her [vegan bacon](http://veryveryverygreen.blogspot.com/2014/06/vegan-umami.html) version of these and liked them; Larry thought they were too sweet. Next time I'll cut down the maple syrup.
 

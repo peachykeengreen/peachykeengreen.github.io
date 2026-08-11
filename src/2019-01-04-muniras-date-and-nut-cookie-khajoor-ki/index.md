@@ -32,8 +32,8 @@ Roll the log in coconut flakes (I used a mortar & pestle to crush shredded cocon
 
 Cut into slices and serve!
 
-[![](date-pot.JPG)](date-pot.JPG)
+{{< figure src="date-pot.JPG" alt="" caption="" >}}
 
-[![](date-roll.JPG)](date-roll.JPG)
+{{< figure src="date-roll.JPG" alt="" caption="" >}}
 
-[![](date-cookies.jpg)](date-cookies.jpg)
+{{< figure src="date-cookies.jpg" alt="" caption="" >}}

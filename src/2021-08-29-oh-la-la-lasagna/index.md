@@ -53,12 +53,12 @@ Cover the lasagna pan with foil and bake at 375 degrees for about 45 minutes or 
 
 Assembly:
 
-[![](IMG_9764.jpg)](IMG_9764.jpg)
+{{< figure src="IMG_9764.jpg" alt="" caption="" >}}
 
-[![](IMG_9765.jpg)](IMG_9765.jpg)
+{{< figure src="IMG_9765.jpg" alt="" caption="" >}}
 
-[![](IMG_9768.jpg)](IMG_9768.jpg)
+{{< figure src="IMG_9768.jpg" alt="" caption="" >}}
 
 Interesting texture once cooked:
 
-[![](IMG_9769.jpg)](IMG_9769.jpg)
+{{< figure src="IMG_9769.jpg" alt="" caption="" >}}

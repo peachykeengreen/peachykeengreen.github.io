@@ -28,15 +28,15 @@ Measure out the lentils into a bowl together and mix. Rinse well a couple of tim
 
 Warm a crepe pan on medium heat. Pour about 1/2 C of the batter on the center of the pan and spread it out in a slow, circular fashion. Cook a few minutes, until the edges start to pull away from the pan. Use a flat spatula/knife to carefully lift the dosa starting at the edges until it's completely free, and then flip it. Cook a few more minutes. Serve warm and eat immediately. Yum!
 
-[![](lentil-dosa-img-2.jpg)](lentil-dosa-img-2.jpg)
+{{< figure src="lentil-dosa-img-2.jpg" alt="" caption="" >}}
 
-[![](lentil-dosa-img-3.jpg)](lentil-dosa-img-3.jpg)
+{{< figure src="lentil-dosa-img-3.jpg" alt="" caption="" >}}
 
 [
 ](blogger_img_7548e469f5.jpg)
 
 Making the batter: Rinse and soak!
 
-[![](lentil-dosa-img-4.jpg)](lentil-dosa-img-4.jpg)
+{{< figure src="lentil-dosa-img-4.jpg" alt="" caption="" >}}
 
-[![](lentil-dosa-img-5.jpg)](lentil-dosa-img-5.jpg)
+{{< figure src="lentil-dosa-img-5.jpg" alt="" caption="" >}}

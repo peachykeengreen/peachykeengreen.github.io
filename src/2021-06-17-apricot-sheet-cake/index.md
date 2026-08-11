@@ -47,20 +47,20 @@ Bake at 350 degrees for 25-30 minutes.  Fresh out of the oven, sprinkle with po
 
 Sherry spreads out the batter.
 
-[![](IMG_9526.jpg)](IMG_9526.jpg)
+{{< figure src="IMG_9526.jpg" alt="" caption="" >}}
 
 I thought this might be too much fruit. Wrong!
 
-[![](IMG_9528.jpg)](IMG_9528.jpg)
+{{< figure src="IMG_9528.jpg" alt="" caption="" >}}
 
 Cooked and sprinkled, yum.
 
-[![](IMG_9530.jpg)](IMG_9530.jpg)
+{{< figure src="IMG_9530.jpg" alt="" caption="" >}}
 
 Hurry up and cool!!
 
-[![](IMG_9532.jpg)](IMG_9532.jpg)
+{{< figure src="IMG_9532.jpg" alt="" caption="" >}}
 
 Cut into bars the half sheet that wasn't devoured.
 
-[![](IMG_9535.jpg)](IMG_9535.jpg)
+{{< figure src="IMG_9535.jpg" alt="" caption="" >}}

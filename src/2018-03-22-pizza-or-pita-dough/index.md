@@ -63,20 +63,20 @@ Place in pan, and **flip after 30 seconds or a minute, when you see bubbles star
 
 Photos, below.
 
- [![](IMG_8951.JPG)](IMG_8951.JPG)[![](IMG_8952.jpg)](IMG_8952.jpg)
+ {{< figure src="IMG_8951.JPG" alt="" caption="" >}}{{< figure src="IMG_8952.jpg" alt="" caption="" >}}
 
 After an hour, it doubled in size and I put it in the fridge, where it got a little bigger yet. Then that evening I took it out and made pita.
 
 Frying pita!
 
-[![](frying.JPG)](frying.JPG)
+{{< figure src="frying.JPG" alt="" caption="" >}}
 
 The greek meza of pizza, stewed okra, baked eggplant, yellow split pea (fava) hummus, greek yogurt made by Yannis, dolma, capers ,and olives (purchased).
 
-[![](meza.JPG)](meza.JPG)
+{{< figure src="meza.JPG" alt="" caption="" >}}
 
-[![](yannis.jpg)](yannis.jpg)
+{{< figure src="yannis.jpg" alt="" caption="" >}}
 
 I made empanadas from the leftover dough: Rolled it out like a pita, filled with some of the leftover stewed okra and eggplant, flipped and pressed with a fork.
 
-[![](empanadas.jpg)](empanadas.jpg)
+{{< figure src="empanadas.jpg" alt="" caption="" >}}

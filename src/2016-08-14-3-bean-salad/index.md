@@ -28,4 +28,4 @@ A colleague of Larry's made this for a party at Pivotal about 3 weeks ago. So ea
 
 Drain the beans and toss in a bowl. Add tomatoes, onion, and cilantro. Whip together the olive oil, vinegar, lemon juice, salt, and pepper, and add. Mix it all up. Season to taste. Eat!
 
-[![](label.jpg)](label.jpg)
+{{< figure src="label.jpg" alt="" caption="" >}}

@@ -38,7 +38,7 @@ The best things I've learned so far from a 2-week [Purple Carrot](https://www.p
 Put ingredients in blender and blend until smooth. (I use a small ninja single-serve cup, and pulse a few times.) Pour sauce over dish! For yams, optionally top with more cashews.
 
 Baked yams on a bed of sautéed chard tossed with a pinch of salt and lime juice,
-topped with spicy cashew sauce and cashew pieces:[![](IMG_1793.jpg)](IMG_1793.jpg)
+topped with spicy cashew sauce and cashew pieces:{{< figure src="IMG_1793.jpg" alt="" caption="" >}}
 
  Smokey portabello tacos with jalapeno cashew sauce:
-[![](IMG_1821.jpg)](IMG_1821.jpg)
+{{< figure src="IMG_1821.jpg" alt="" caption="" >}}

@@ -39,7 +39,7 @@ several dashes fresh black pepper
 
 Precook veggies: Saute squash in oil, and add mushrooms after a few minutes. Remove and set aside in a bowl.
 
-[![](IMG_5857.jpg)](IMG_5857.jpg)
+{{< figure src="IMG_5857.jpg" alt="" caption="" >}}
 
 Saute the onions in oil with a pinch of salt until translucent, 4-5 minutes, over medium heat. Mix in the garlic and thyme and saute for 1 more minute.
 
@@ -53,13 +53,13 @@ With the last addition of broth, also add the cashew cream and lemon juice. Add 
 
 Here it is with diced acorn squash, cremini mushroom, and and mango wine (the best I've made!):
 
-![](IMG_9324.jpg)
+{{< figure src="IMG_9324.jpg" alt="" caption="" >}}
 
 and with zucchini and fancy mushrroms and white wine:
 
-[![](IMG_5850.jpg)](IMG_5850.jpg)
+{{< figure src="IMG_5850.jpg" alt="" caption="" >}}
 
-[![](IMG_5851.jpg)](IMG_5851.jpg)
+{{< figure src="IMG_5851.jpg" alt="" caption="" >}}
 
-[![](IMG_5852.jpg)](IMG_5852.jpg)[
+{{< figure src="IMG_5852.jpg" alt="" caption="" >}}[
 ](IMG_5852.jpg)

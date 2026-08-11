@@ -36,11 +36,11 @@ Mix the dressing. Toss all the ingredients together in a bowl. Serve!
 
 Ribboned spinach:
 
-[![](beet-quinoa-salad-img-2.jpg)](beet-quinoa-salad-img-2.jpg)
+{{< figure src="beet-quinoa-salad-img-2.jpg" alt="" caption="" >}}
 
 Toss!
-[![](beet-quinoa-salad-img-3.jpg)](beet-quinoa-salad-img-3.jpg)
+{{< figure src="beet-quinoa-salad-img-3.jpg" alt="" caption="" >}}
 
 Enjoy!
 
-[![](beet-quinoa-salad-img-4.jpg)](beet-quinoa-salad-img-4.jpg)
+{{< figure src="beet-quinoa-salad-img-4.jpg" alt="" caption="" >}}

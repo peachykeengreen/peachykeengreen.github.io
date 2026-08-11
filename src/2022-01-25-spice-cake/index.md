@@ -55,4 +55,4 @@ Remove cake and let cool. Eat as is, or optionally frost.
 
 Without frosting:
 
-[![](spice-cake-img-2.jpg)](spice-cake-img-2.jpg)
+{{< figure src="spice-cake-img-2.jpg" alt="" caption="" >}}

@@ -27,4 +27,4 @@ Press the tofu to drain some of the water. Cut into chunks.
 
 In a pan, saute diced garlic and pepper in oil. Add the tofu and saute until browned. Add the corn and saute a few more minutes. Salt to taste. Serve with rice or roti.
 
-[![](corn-tofu-munira.jpg)](corn-tofu-munira.jpg)
+{{< figure src="corn-tofu-munira.jpg" alt="" caption="" >}}

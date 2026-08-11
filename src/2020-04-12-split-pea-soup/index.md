@@ -34,4 +34,4 @@ Saute pepper, onion, celery, and carrot in oil in a soup pot for about 5 minutes
 
 4-lb bag of split peas that I ordered from Washington during the pandemic - best tasting yet!
 
-[![](peassoup.jpg)](peassoup.jpg)
+{{< figure src="peassoup.jpg" alt="" caption="" >}}

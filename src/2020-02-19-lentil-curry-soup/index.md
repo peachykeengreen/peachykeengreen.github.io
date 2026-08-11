@@ -41,14 +41,14 @@ One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has 
 
 ## Instructions
 
-[![](soup-pot.jpg)](soup-pot.jpg)
+{{< figure src="soup-pot.jpg" alt="" caption="" >}}
 
 Saute cumin seeds and diced pepper in canola oil for 30 seconds. Add chopped onion, carrots, celery, and potatoes, and saute for 5 minutes or so, until onions are translucent. Add the rest of the spices and stir 1 minute. Add tomatoes, broth, dry red lentils, and dry quinoa. Bring to a boil. Lower heat, add cooked chickpeas, and simmer 20 minutes. Add coconut milk and lime juice. Serve.
 
-[![](yum.jpg)](yum.jpg)
+{{< figure src="yum.jpg" alt="" caption="" >}}
 
 yum!
 
 How it looks if you add potatoes but no quinoa or coconut milk:
 
-[![](lentilcurry2.jpg)](lentilcurry2.jpg)
+{{< figure src="lentilcurry2.jpg" alt="" caption="" >}}

@@ -54,22 +54,22 @@ Put noodles in a bowl, drizzle with sauce, add toppings, and sprinkle with black
 
 Slicing the just egg, scallions, and plant-based ham:
 
-[![](slices.png)](slices.png)
+{{< figure src="slices.png" alt="" caption="" >}}
 
 Mixing up the sauce!
 
-[![](IMG_1762.jpg)](IMG_1762.jpg)
+{{< figure src="IMG_1762.jpg" alt="" caption="" >}}
 
 Purple Carrot version with panko-crusted tempeh:
 
-[![](zuccini-ribbons.jpg)](zuccini-ribbons.jpg)
+{{< figure src="zuccini-ribbons.jpg" alt="" caption="" >}}
 
 Optional black salt with egg-like sulfur flavor (noting this for future fake egg dishes; could use in vegan quiche?)
 
-[![](IMG_1761.jpg)](IMG_1761.jpg)
+{{< figure src="IMG_1761.jpg" alt="" caption="" >}}
 
 Version that I made months later, with veggie duck!
 
-[![](kiras-soba-noodles-with-tahini-sauce-img-1.jpg)](kiras-soba-noodles-with-tahini-sauce-img-1.jpg)
+{{< figure src="kiras-soba-noodles-with-tahini-sauce-img-1.jpg" alt="" caption="" >}}
 
-[![](kiras-soba-noodles-with-tahini-sauce-img-2.jpg)](kiras-soba-noodles-with-tahini-sauce-img-2.jpg)
+{{< figure src="kiras-soba-noodles-with-tahini-sauce-img-2.jpg" alt="" caption="" >}}

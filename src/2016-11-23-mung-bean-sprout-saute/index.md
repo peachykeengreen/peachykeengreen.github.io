@@ -34,18 +34,18 @@ Munira's family gave us some sauteed mung bean sprouts last year, and they were 
 
 Put mung bean seeds in a sprouting jar. Soak 8 hours. Rinse with cool water 2-3 times a day; swirl and drain. Always store in a tipped position in a bowl, so the water doesn't sit, but rather drips out.
 
-[![](IMG_4549.JPG)](IMG_4549.JPG)The sprouts will be ready to use in 3-5 days, when they fill the jar and it looks like this. They expand to take up about 10 times the space; it's amazing!
+{{< figure src="IMG_4549.JPG" alt="" caption="" >}}The sprouts will be ready to use in 3-5 days, when they fill the jar and it looks like this. They expand to take up about 10 times the space; it's amazing!
 
 When done, rinse one last time, and use right away or put them in a container in the refrigerator (to stop the sprouting process) for up to a few days.
 
 To saute, heat the oil in a big pan. Add red pepper flakes and cumin seeds, and roast for a minute. Add the garlic, remaining spices, and sprouts, and saute for a few minutes until lightly brown. Salt and pepper to taste. Serve!
 
-[![](IMG_4550.JPG)](IMG_4550.JPG)
+{{< figure src="IMG_4550.JPG" alt="" caption="" >}}
 
 You can sprout other kinds of beans, of course! My sprout jar has different size lids for different size seeds. On the the right is a 5-lb bag of mung beans; on the left is a small mix of alfalfa, broccoli, & red clover sprouts (shown sprouting, below).
 
-[![](IMG_5619.jpg)](IMG_5619.jpg)
+{{< figure src="IMG_5619.jpg" alt="" caption="" >}}
 
-[![](IMG_5620.jpg)](IMG_5620.jpg)
+{{< figure src="IMG_5620.jpg" alt="" caption="" >}}
 
-![](IMG_5642.jpg)
+{{< figure src="IMG_5642.jpg" alt="" caption="" >}}

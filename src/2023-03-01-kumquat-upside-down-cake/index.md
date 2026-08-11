@@ -44,6 +44,8 @@ Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Ma
 
 Preheat oven to 350ºF.
 
+{{< figure src="kumquat-upside-down-cake-img-2.jpg" alt="Kumquat version" caption="Kumquat version" >}}
+
 Lightly grease the sides of a 9 or 10-inch cast iron skillet, then heat over medium-high heat and melt butter.  When butter is bubbling and just starts to brown, stir in brown sugar.
 
 Cook until sugar has dissolved into the butter and starts to melt, then remove from heat. Spread sugar mixture evenly across the bottom of the pan.
@@ -70,10 +72,10 @@ Keep leftovers covered in the fridge, if there are any. It is also freezer frien
 
 Making the cake with fresh pineapple, and with the help of my new 10" cast-iron skillet and bicep guy:
 
-[![](kumquat-upside-down-cake-img-3.jpg)](kumquat-upside-down-cake-img-3.jpg)
+{{< figure src="kumquat-upside-down-cake-img-3.jpg" alt="" caption="" >}}
 
-[![](kumquat-upside-down-cake-img-4.jpg)](kumquat-upside-down-cake-img-4.jpg)
+{{< figure src="kumquat-upside-down-cake-img-4.jpg" alt="" caption="" >}}
 
-[![](kumquat-upside-down-cake-img-5.jpg)](kumquat-upside-down-cake-img-5.jpg)
+{{< figure src="kumquat-upside-down-cake-img-5.jpg" alt="" caption="" >}}
 
-[![](kumquat-upside-down-cake-img-6.jpg)](kumquat-upside-down-cake-img-6.jpg)
+{{< figure src="kumquat-upside-down-cake-img-6.jpg" alt="" caption="" >}}

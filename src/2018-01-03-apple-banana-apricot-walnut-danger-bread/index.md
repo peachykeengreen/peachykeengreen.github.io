@@ -35,6 +35,6 @@ Make the flax eggs in a bowl; set aside to soak. Mash the bananas, chop the appl
 
 Pour into loaf pans (I used 4 small silicon loaf pans plus a dozen cupcake/mini silicon loaves). No need to grease and flour if you use silicon! Bake at 350 degrees for 30 minutes; check and take out mini loaves. Leave larger loaves in for another 20 minutes or so (50 min total). Let them cool in the pans for 20 minutes, and then pop them out of the silicon onto a cooling rack to continue cooling.
 
-[![](smallloaf.jpg)](smallloaf.jpg)
+{{< figure src="smallloaf.jpg" alt="" caption="" >}}
 
  Small loaves in silicon loaf pan. (Mini loaves above.)
