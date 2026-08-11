@@ -30,7 +30,6 @@ Visiting Munira in Dallas, we made our favorite homemade pizza using [Trader Jo
 - Squash or eggplant, sliced in half moons
 - Spinach leaves
 - Tomatos, sliced
-
 ## Instructions
 
 Place crusts on thin cookie sheets covered by a silicon liner. Optionally brush the crusts with oil.

@@ -29,7 +29,6 @@ A delicious vegan potato salad. Fools the omnivores! Can make it the day before 
 - 1/4 cup almond milk (or other vegan milk)
 - 1/4 – 1/2 cup olive oil
 - salt and pepper to taste
-
 ## Instructions
 
 To make the [cashew mayonnaise](ttp://triumphofthelentilblog.wordpress.com/2011/11/08/chickpea-and-potato-salad-and-homemade-cashew-mayonnaise/): Soak the cashews in the water and vinegar for 1-2 hours.  Drain off water, and put cashews and 1 cup water (or less, if you like thicker mayo) into a blende or food processor. Blend until smooth, then blend in the vegan milk. Drizzle in the olive oil while blending. Add salt and pepper to taste. This will keep in the fridge for up to a week.

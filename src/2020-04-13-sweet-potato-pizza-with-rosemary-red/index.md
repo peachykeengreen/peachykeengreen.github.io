@@ -13,7 +13,6 @@ description: "Sweet Potato Pizza with Almond Ricotta recipe."
 In one of our zoom chats with friends during the pandemic, Robert & Judy shared their desktop to flip through some random photos. I asked them to pause on a beautiful pizza they made for dinner. Judy said it was one of her favorites! So I had to give it a try. I found a [crust](https://www.foodnetwork.com/recipes/food-network-kitchen/no-yeast-pizza-dough-7262814) recipe and adapted it; the dough turned out crunchy and good! We wanted a bit more flavor, so I added kalamata olives, as well as [whipped almond ricotta](https://minimalistbaker.com/whipped-almond-ricotta-5-ingredients/),  like [True Food Kitchen does](https://www.veganosity.com/butternut-squash-and-almond-ricotta-pizza/).
 
 ## Ingredients
-
 ### Toppings
 
 - Sweet potatoes or squash, cubed or sliced

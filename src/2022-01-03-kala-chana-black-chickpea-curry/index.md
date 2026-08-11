@@ -30,7 +30,6 @@ Another of Munira's yummy recipes. Black chickpeas have such a nice flavor. Of c
 - 1 tsp turmeric
 - 2 T dry (not sweet) coconut (optional)
 - 1 tsp garam masala
-
 ## Instructions
 
 Cook chickpeas in instant pot: 15 minutes with 3 C water if soaked; 30 min w/5 C water if not.

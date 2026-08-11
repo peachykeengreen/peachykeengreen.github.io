@@ -34,7 +34,6 @@ Judi made this tart from [Plant-Powered Kitchen](http://plantpoweredkitchen.com/
 - 1 tsp tamari
 - 2 T walnuts
 - 1/4 cup dried cranberries (optionally, soak them in a little water)
-
 ## Instructions
 
 Preheat oven to 400 degrees. Add oil to skillet, and cook onion, celery, and garlic over medium-high heat for 9-10 minutes, stirring occasionally, until softened and turning golden.

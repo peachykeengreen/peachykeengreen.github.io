@@ -16,7 +16,6 @@ p.s.
 A week after posting Kira's recipe, I got the ingredients for this tahini-sauce based soba: [Panko-Crusted Tempeh with Lemon Zucchini Soba & Avocado](https://www.purplecarrot.com/plant-based-recipes/panko-crusted-tempeh-with-lemon-zucchini-soba-avocado) from Purple Carrot. The best part was the zucchini ribbons! Just take off slices with a peeler, toss with a little lemon, and toss on the plate. Easy and yummy. But Kira's overall recipe is better and easier. I'll just toss zucchini ribbons on it next time.
 
 ## Ingredients
-
 ### Sauce
 
 - 2 T tahini

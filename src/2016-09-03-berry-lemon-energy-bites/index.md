@@ -25,7 +25,6 @@ Judi found a "divine" recipe for [blueberry lemon energy bites](http://dishingu
 - 1/4 tsp salt
 - shredded coconut (optional)
 - cocoa (optional)
-
 ## Instructions
 
 In a food processor, blend walnuts and cashews. Add berries, dates, oats, lemon juice, vanilla. Process until the mixture forms a rough dough. Add chia seeds, salt, and (optionally) shredded coconut if you like. Process to mix in. Taste and add more lemon if necessary.

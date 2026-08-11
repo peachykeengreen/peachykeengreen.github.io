@@ -22,7 +22,6 @@ Shelley followed up the wonderful [mango guacamole](https://peachykeengreen.blog
 - 2 cups packed baby arugula
 - Salt and freshly ground black pepper
 - (optional) 1/3 cup chopped fresh mint leaves
-
 ### Masala Dressing
 
 - 3 T extra-virgin olive oil

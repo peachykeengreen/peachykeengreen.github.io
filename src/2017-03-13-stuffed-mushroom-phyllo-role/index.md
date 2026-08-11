@@ -16,7 +16,6 @@ Larry brought in some cabbage and kale leaves from the garden, and I thought I'd
 
 - 1 sheet vegan puff pastry (about 8 oz.), thawed if frozen
 - 1 cup shredded [Daiya cheese](http://daiyafoods.com/)
-
 ### Or Tofu Mix
 
 - 1 lb. extra firm tofu, drained

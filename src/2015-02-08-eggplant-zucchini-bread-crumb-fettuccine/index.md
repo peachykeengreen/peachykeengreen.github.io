@@ -24,7 +24,6 @@ Well, you don't have to serve this with fettuccine; we serve it over [Garofalo w
 - 1/2 cup whole wheat bread crumbs
 - 1/2 tsp dried thyme
 - 1/2 tsp salt
-
 ## Instructions
 
 To make breadcrumbs, toast a piece or two of whole wheat bread in the toaster and let cool. Put the toast, thyme, and salt into a food processor or chopper and process until you have crumbs :)

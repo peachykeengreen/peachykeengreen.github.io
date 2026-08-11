@@ -23,7 +23,6 @@ Sightly adapted from a recipe in [Vegan with a Vengeance](http://www.theppk.com/
 - 1 pound extra firm tofu, drained
 - 1/4 C (heaping) nutritional yeast
 - Juice of 1/2 lemon
-
 ### Spice Blend
 
 - 2 t cumin

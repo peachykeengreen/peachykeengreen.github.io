@@ -15,7 +15,6 @@ Our neighbor Elsa gave us 4 beautiful fresh leeks from her garden. I had been pl
 ## Ingredients
 
 - 2 pie crusts; like Wholly Wholesome or  [whole wheat pie crust](https://peachykeengreen.blogspot.com/2016/11/vegan-pie-crust.html)
-
 ### Veggie Saute
 
 - 2 T canola oil

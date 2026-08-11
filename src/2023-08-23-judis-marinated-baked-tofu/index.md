@@ -23,7 +23,6 @@ Judi shared her easy marinated and baked tofu recipe, yay! I've tried other mari
 - 1 T cornstarch
 - 2 T nutritional yeast
 - (try other spices as desired; maybe hot pepper?)
-
 ## Instructions
 
 Drain and press a block of tofu, and cut into chunks. Mix the marinade. Put both into a covered container and turn to toss gently. Bake on a silicon sheet in the oven at 350 for 20-ish minutes.

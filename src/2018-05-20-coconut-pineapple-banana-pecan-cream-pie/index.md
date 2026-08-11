@@ -13,7 +13,6 @@ description: "Coconut Pineapple Banana Pecan Cream Pie recipe."
 We bought a big pineapple. It's kinda sour, and that's a lot to eat! So I googled recipes, and found a [couple](https://werefarfromnormal.com/healthy-no-bake-pineapple-coconut-pie) of no-bake pineapple cream [pies](https://chocolatecoveredkatie.com/2015/08/20/5-minute-pineapple-fantasy-pie/) that I combined. It's actually surprisingly healthy! Our friend Munira was here to enjoy the pie experiment with us, and she recommended that we add bananas to get a bit more sweetness.  I was out of fresh bananas but some frozen bananas (cut up to make "ice cream" - frozen bananas and peanut butter in a food processor, whipped, yuuuuum) -- and since we ate the first pie in a few hours,  I needed to fill that freezer space with something, right? OMG the pecan crust is delish; I'll use that for other pies, too.
 
 ## Ingredients
-
 ### Crust
 
 - 2 cups pecans (toasted)

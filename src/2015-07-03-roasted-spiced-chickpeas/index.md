@@ -22,7 +22,6 @@ I found a nice cucumber salad from [Oh She Glows](http://ohsheglows.com/2013/06/
 - 1/4 teaspoon ground ginger
 - 1/4 teaspoon cumin
 - 1/8 teaspoon ground turmeric
-
 ## Instructions
 
 Preheat oven to 400F and line a medium baking sheet with a couple pieces of paper towel.

@@ -23,7 +23,6 @@ Our friend Elsa has a bounty of collard greens, and invited us over to harvest. 
 - 1 tsp Ethiopian berbere spice (or a mix of cumin, coriander, cardamom)
 - 1/2 C vegetable stock
 - 1 carrot, thinly sliced and cut into half moons
-
 ## Instructions
 
 Clean the collards, cut out the middle spine, and cut into fine slices. On medium heat, saute onion and ginger with salt for a few minutes, and add garlic and carrots and spice and stir a minute. Add collards and broth. Stir constantly from the bottom to the top, incorporating the mixture to help the greens wilt quickly. Cover and cook, stirring frequently, until very tender, about 15 minutes. Season to taste with pepper and additional salt, if desired.

@@ -13,7 +13,6 @@ description: "Peanut Butter Oatmeal Chocolate Chip Cookies recipe."
 I needed some cookies to fill the empty space in a box I'm mailing to Dad, and I've had these [cookies by Vegan Richa](https://www.veganricha.com/vegan-peanut-butter-oatmeal-chocolate-chip-cookies/) on my list for awhile to try. I actually made some "regular" chocolate chips cookies (very similar except with vegan butter, a flax egg, and no oats) at the same time so I could compare the two, and these were much better! Here's a very slightly adapted version. Makes about 2 dozen cookies.
 
 ## Ingredients
-
 ### Dry
 
 - 3/4 C old fashioned oats

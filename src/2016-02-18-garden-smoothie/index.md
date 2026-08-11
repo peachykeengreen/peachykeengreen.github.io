@@ -21,7 +21,6 @@ After enjoying our friend [Judi's "momba" smoothies](http://veryveryverygreen.bl
 - apple or pear (1, cored)
 - almond milk (maybe a cup?)
 - frozen berries of your choice (maybe a cup?)
-
 ## Instructions
 
 Put everything in a powerful blender and pulse until mixed. I tend to mix everything but the frozen berries, and then add the berries at the end. Sometimes they come out green (if I go heavy on the kale and lighter on the berries), and sometimes they come out more purple (if I go heavy on blueberries).

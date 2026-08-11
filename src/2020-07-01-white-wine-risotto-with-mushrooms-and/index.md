@@ -35,7 +35,6 @@ several dashes fresh black pepper
 2 T fresh lemon juice
 
 1/2 C cashew cream (3 T cashew butter + water, or 1/2 cup soaked cashews blended)
-
 ## Instructions
 
 Precook veggies: Saute squash in oil, and add mushrooms after a few minutes. Remove and set aside in a bowl.

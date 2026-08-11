@@ -24,7 +24,6 @@ This is a South Mediterranean version of caponata, the famous Italian eggplant s
 - 1 cup small pitted green olives
 - 1 small jar (6 ounces) marinated artichoke hearts, (drained, each piece cut into 2 or 3 smaller pieces)
 - 1/4 cup toasted pinenuts
-
 ## Instructions
 
 1. Heat the olive oil in a large skillet. Add the onion, garlic, and salt, and saute over medium heat until the onion is soft and translucent (5 to 8 minutes).

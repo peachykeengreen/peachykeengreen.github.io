@@ -19,7 +19,6 @@ Growing up, Larry's family had a tradition of eating applesauce at most meals. S
 - juice from one lemon
 - 1 C water
 - 1/2 tsp cinnamon, or a cinnamon stick
-
 ## Instructions
 
 Chop the apples and eat around the core :) Oh, I leave the skin on, of course - it's where most of the nutrition is.

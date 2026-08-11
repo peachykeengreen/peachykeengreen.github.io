@@ -26,7 +26,6 @@ Shelley Million sent me this super [minimalist baker recipe for saag paneer](htt
 - 1/2 cup cashews, soaked in water and pureed
 - 2 tsp curry powder
 - 1 tsp garam masala
-
 ### Tofu
 
 - 15 oz block firm tofu, pressed

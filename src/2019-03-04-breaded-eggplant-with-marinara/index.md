@@ -21,7 +21,6 @@ Cyndy visited this weekend, and we made this for a dinner with Munira and Vinod.
 - salt & pepper
 - canola oil (for frying)
 - marinara sauce
-
 ## Instructions
 
 Slice eggplant, salt both sides, and let it weep (along sides of colander) for at least an hour; longer is fine. Rinse slices and pat dry.

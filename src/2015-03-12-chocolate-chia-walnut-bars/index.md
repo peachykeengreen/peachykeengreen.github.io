@@ -21,7 +21,6 @@ A raw, easy, yummy vegan dessert; see Happy Healthy Librarian's
 - 3/4 tsp vanilla extract, optional
 - 1 cup raw walnut pieces
 - Oat flour for dusting
-
 ## Instructions
 
 1.  Place dates in bowl of food processor; puree until thick paste forms.  If the dates are on the dry side, you may need to add small amounts of warm water to moisten them up.

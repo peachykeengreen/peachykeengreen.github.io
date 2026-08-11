@@ -13,7 +13,6 @@ description: "Spice Cake - with optional Pumpkin and Cream Cheese Frosting recip
 For our acappella rehearsal, Harold's wife Chris served this delicious, easy spice cake without frosting. The recipe came from her kids elementary class, made vegan so more kids could eat it. It's delish without any frosting, and I've made it as muffins, too. For a special occasion, add pumpkin to the mix and top with a cream cheese frosting.
 
 ## Ingredients
-
 ### Dry
 
 - 3 C flour

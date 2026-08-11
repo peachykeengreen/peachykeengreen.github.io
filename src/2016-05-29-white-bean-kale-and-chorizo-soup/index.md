@@ -22,7 +22,6 @@ We love [Field Roast](http://fieldroast.com/) sausage, and often buy 12-packs o
 - 4+ cups green and/or purple cabbage, chopped
 - (optional) 2 cups kale, chopped
 - 1-2 T white vinegar
-
 ### Spices
 
 - 4 cloves garlic, diced

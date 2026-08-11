@@ -13,7 +13,6 @@ description: "Pumpkin Bread recipe."
 My mom's recipe, with less sugar and whole wheat flour instead of white. Really easy to make, not overly sweet, and hard to stop eating! I like to make mini loafs to give as gifts. (Like for Judi. Her family loves this, yay!)
 
 ## Ingredients
-
 ### Dry
 
 - 3 1/3 cups whole wheat flour

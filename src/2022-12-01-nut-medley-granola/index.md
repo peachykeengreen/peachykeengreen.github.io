@@ -13,7 +13,6 @@ description: "Nut Medley Granola recipe."
 Laurie made an out-of-this-world granola when we visited last week. It's all nuts, plus coconut.  (Larry exclaimed, "What, granola without oats?!") This version is very keto, but of course you could add oats if you like. I might play with in the future. Serve as cereal or on yogurt!
 
 ## Ingredients
-
 ### Toss
 
 - 2 C shredded unsweetened coconut

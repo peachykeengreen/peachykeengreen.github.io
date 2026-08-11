@@ -26,7 +26,6 @@ Marina shared a recipe for [Cauliflower Salad Sandwiches](https://cooking.nytime
 - 1/2 C cilantro leaves
 - Salt and black pepper to taste
 - Whole wheat rolls or lettuce salad (optional)
-
 ## Instructions
 
 Preheat oven to 450.

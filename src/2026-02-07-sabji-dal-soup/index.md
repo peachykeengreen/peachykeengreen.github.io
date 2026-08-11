@@ -35,7 +35,6 @@ When Munira lived nearby, she'd make a yummy vegetable dal soup. I've wanted to 
 - A few curry leaves (if available)
 - 8 C veggie broth
 - Juice of 1 lemon
-
 ## Instructions
 
 Cook lentils (2 minutes in instant pot, if using).

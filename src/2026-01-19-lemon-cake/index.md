@@ -13,7 +13,6 @@ description: "Lemon Cake recipe."
 Our alto, Alex, had a birthday coming up, and I wanted to buy or make a cake, so I asked what kind she liked. Lemon was among her choices, and sounded delish to me, so I looked through vegan lemon cake recipes and settled on trying this [best vegan lemon cake](https://lovingitvegan.com/vegan-lemon-cake/) with a few small changes. Yum!
 
 ## Ingredients
-
 ### Dry
 
 - 2 2/3 C flour

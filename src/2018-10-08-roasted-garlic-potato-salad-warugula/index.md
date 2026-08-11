@@ -21,7 +21,6 @@ This [cashew cream potato salad](https://peachykeengreen.blogspot.com/2015/02/cr
 - 3 C arugula
 - or -
 - 1 C fresh dill, chopped
-
 ### Pesto
 
 - 1 C lightly packed fresh basil leaves

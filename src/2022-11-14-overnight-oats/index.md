@@ -20,7 +20,6 @@ My brother Jeff turned me on to this, and it's my new favorite thing! Delicious,
 - 2 T wheat germ
 - 2 T chia
 - 1-2 C vanilla soy milk (to fill the jar)
-
 ### Optional Additions for Different Flavoring
 
 - 2-3 tsp cocoa

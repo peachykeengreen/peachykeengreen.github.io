@@ -22,7 +22,6 @@ Over the holidays, I tried an air fryer to try to get more crispy tofu. The resu
 - 1-2 T soy sauce
 - 1/4 tsp salt
 - garlic salt to grind on top after (optional)
-
 ##
 
 ## Instructions

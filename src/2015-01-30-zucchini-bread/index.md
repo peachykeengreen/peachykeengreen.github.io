@@ -13,7 +13,6 @@ description: "Zucchini Bread recipe."
 Mom's easy recipe for zucchini bread, except with about half the sugar, using whole wheat flour, and with flax "eggs" to make it vegan (you can use regular eggs if you're not vegan). Moist and delicious. Thanks, Mom!
 
 ## Ingredients
-
 ### Dry
 
 - 3 C flour

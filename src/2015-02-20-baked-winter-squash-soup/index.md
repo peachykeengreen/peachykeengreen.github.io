@@ -25,7 +25,6 @@ A wonderful squash soup that I like especially with Buttercup squash, a big gree
 - 1/2 tsp nutmeg (optional)
 - 1 tsp curry (optional)
 - salt, to taste
-
 ## Instructions
 
 Cut the squash in half or thirds, scoop out the seeds.

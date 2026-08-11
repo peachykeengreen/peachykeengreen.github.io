@@ -27,7 +27,6 @@ Serve with crackers or fresh bread or garlic bread, or top with fresh bread crou
 - 1/3 cup nutritional yeast
 - 1 T balsamic vinegar
 - (optional) kale (a few leaves, chopped)
-
 ### Spices
 
 - 1 tsp dried oregano

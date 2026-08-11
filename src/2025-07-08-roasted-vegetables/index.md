@@ -27,7 +27,6 @@ So many vegetables work here; I go for a nice mix of color. I almost always use 
 - Optionally, some fast-cooking vegetables like:
 - green beans
 - asparagus
-
 ### Seasoning
 
 - 1/4 C canola oil

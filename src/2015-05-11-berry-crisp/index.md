@@ -18,7 +18,6 @@ A berry crisp that combines elements of a few recipes I've tried, including Judi
 - 2 T canola oil
 - 1/4 C brown sugar
 - 1/2 lemon
-
 ### Topping
 
 - 1 C all-purpose flour

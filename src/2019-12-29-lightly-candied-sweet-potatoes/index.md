@@ -19,7 +19,6 @@ Jeff made some delicious sweet potatoes for Thanksgiving in Nebraska. We ate the
 - 1/2 cup vegetable broth
 - 1/3 cup brown sugar (not packed)
 - salt & pepper
-
 ## Instructions
 
 Preheat oven to 350 degrees.

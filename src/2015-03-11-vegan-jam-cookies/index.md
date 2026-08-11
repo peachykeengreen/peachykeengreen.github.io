@@ -25,7 +25,6 @@ Makes 2 dozen cookies.
 - 1/2 cup canola oil
 - 1/2 cup maple syrup
 - Assorted jams of your choice.
-
 ## Instructions
 
 Preheat oven to 350. Line 2 cookie sheets with silicon liners or parchment paper. Grind 1 1/2 cup of oats into a flour. Combine walnuts, almonds, oats, oat flour, wheat flour, and flax meal in a bowl. Add canola oils and maple syrup. Mix. Let sit for 15 minutes. (Or refrigerate for up to 2 days.)

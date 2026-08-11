@@ -19,7 +19,6 @@ Larrys's sister Cyndy made these for our long-weekend get-together; easy and yum
 - 2 T water
 - 1/4 tsp cinnamon
 - 1 tsp chia seeds or tapioca (to gel a bit)
-
 ## Instructions
 
 In a pan, heat fruit and water on medium. Once bubbling, reduce heat and simmer 5-10 minutes, mixing frequently. Add cinnamon and chia or tapioca, mix, and let cool.

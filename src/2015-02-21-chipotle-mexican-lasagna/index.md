@@ -22,7 +22,6 @@ A great recipe from [Happy Healthy Long Life](http://www.happyhealthylonglife.co
 - 1/2 package roasted frozen corn
 - Ripe avocado, sliced
 - Optional: Use kale or chard as middle layer
-
 ## Instructions
 
 1. Preheat oven to 400 degrees

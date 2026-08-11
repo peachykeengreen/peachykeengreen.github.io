@@ -25,7 +25,6 @@ I've been looking for more good soup recipes, and got this yummy recipe from She
 - 1/2 tsp black pepper
 - 4 C vegetable broth
 - 1/2 C cashew cream or coconut milk
-
 ## Instructions
 
 Saute cumin seed and onion in oil for a couple of minutes. Add chopped cabbage (and potato, if using) and saute for 10 minutes until the cabbage is soft. Add garlic, turmeric, salt, and pepper, and saute a couple more minutes. Add broth. Boil, cover, and simmer for 20 minutes. Turn off heat and add coconut milk. Use an immersion blender to blend until smooth. Serve!

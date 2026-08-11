@@ -20,7 +20,6 @@ I had some phyllo dough to use up, and adapted [this recipe](https://www.bigove
 - 1 tsp vanilla extract
 - 1 T arrowroot
 - 1 tsp cinnamon
-
 ### For Turnovers
 
 - 9-12 phyllo sheets

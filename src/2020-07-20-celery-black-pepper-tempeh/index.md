@@ -15,7 +15,6 @@ I came home from Nebraska to a couple of bunches of celery in the fridge that ne
 ## Ingredients
 
 1.5 C tempeh or firm tofu, cubed in small chunks
-
 ### Marinade
 
 1 T soy sauce

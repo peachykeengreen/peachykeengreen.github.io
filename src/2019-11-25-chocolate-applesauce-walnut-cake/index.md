@@ -13,7 +13,6 @@ description: "Chocolate Applesauce Walnut Cake recipe."
 A vegan variation on a cake recipe by my college roommate Elizabeth, with orange promoted to a primary flavor -- increasing the zest in the cake from 1/2 tsp to at least a tablespoon, and adding a very zesty orange glaze. Yum! Larry loved it. And as cakes go, it's fairly healthy, with whole wheat flour, apples, and walnuts as main ingredients and not much oil.
 
 ## Ingredients
-
 ### Wet
 
 - 1/2 cup soft vegan butter (or oil is ok)

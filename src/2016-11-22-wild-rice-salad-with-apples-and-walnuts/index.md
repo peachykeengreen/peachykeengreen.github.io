@@ -21,7 +21,6 @@ Larry's sister Cyndy made this for us a decade or more ago, and then made it aga
 - 1-2 celery ribs, sliced
 - grated rind of lemon
 - 4 scallions thinly sliced
-
 ### Dressing
 
 - 3 T lemon juice

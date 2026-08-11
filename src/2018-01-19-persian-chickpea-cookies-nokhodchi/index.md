@@ -20,7 +20,6 @@ At my (new) work, Masha brought back some delicious cookies from her holidays in
 - 2 C chickpea flour (roasted flour if you can)
 - 2-3 T chopped or ground pistachios
 - Little cookie cutters, or a tablespoon measure to shape the cookies in a half disc.
-
 ## Instructions
 
 Combine the oil, sugar, & cardamom in bowl. Using a food processor or hand mixer, mix/pulse on medium for 2-3 minutes until light and creamy. Add chickpea flower and beat on low for another minute min. Dust your work surface with some chickpea flour and knead the dough for 10 minutes or pulse in a food processor with a dough blade for a few minutes and transfer to a bowl and knead until it is more workable. It seems fairly dry to start, but stick with it - it will become a dough!

@@ -26,7 +26,6 @@ The avocado in the dressing makes this, as does massaging the dressing into the 
 - Salt & pepper
 - (optional) a little mustard
 - 1 avocado (the key!)
-
 ## Instructions
 
 Wash the curly kale leaves, and rip them off the stems in small pieces. Discard the stems.

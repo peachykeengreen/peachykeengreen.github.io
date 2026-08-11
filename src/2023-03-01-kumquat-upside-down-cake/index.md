@@ -13,7 +13,6 @@ description: "Upside Down Cake (Pineapple or Kumquat!) recipe."
 Rick and Lauren brought over an AMAZING upside down cake, made using Eric and Marilyn's frozen kumquats (which had thawed out during our 2.5 day power outage). Omg, it was one of the best cakes I've had. Rick did a mashup of this [non-vegan kumquat upside down cake](https://familyspice.com/kumquat-upside-down-cake) and this [vegan pineapple upside down cake](https://lovingitvegan.com/vegan-pineapple-upside-down-cake/ ). Definitely use a cast iron skillet if you have one; I think it makes a difference (and I bought a 10" skillet just for this recipe!) If you don't have kumquats, try with pineapple or another citrus-y fruit!
 
 ## Ingredients
-
 ### Topping
 
 - 2 T vegan butter (original was 4; reduced)

@@ -32,7 +32,6 @@ I've been meaning to try to make a chana masala for awhile, and today I found a 
 - 1/2 tsp chili
 - 2 tsp masala powder or garam masala (or both! I used both, including some of Munira's homemade garam masala mix plus part of a masala packet from an Indian store)
 - 2 1/2 C water
-
 ## Instructions
 
 In a blender or grinder (I use the smaller cup that comes with my Ninja blender), combine 1/2 C chickpeas, fresh tomatoes, ginger, garlic, chili pepper, and lemon juice and blend until smooth. Set aside.

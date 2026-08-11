@@ -19,7 +19,6 @@ Yummy chocolately walnut crust from Judi (bottom crust only); try with pumpkin p
 - 1 t vanilla
 - pinch salt
 - 1/4 C cocoa
-
 ## Instructions
 
 Mix ingredients in food processor.

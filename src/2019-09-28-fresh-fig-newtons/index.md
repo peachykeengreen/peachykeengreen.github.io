@@ -13,7 +13,6 @@ description: "Fresh Fig Newtons recipe."
 Figs! So many figs. (See [previous post](http://peachykeengreen.blogspot.com/)). We love fig bars... and oh look, my favorite vegan chef, Isa, has a recipe for [whole-wheat fig bars](https://www.isachandra.com/2010/09/whole-wheat-fig-bars/) and another for Fig Not-ins in Vegan with a Vengeance. She uses dried figs in both, but I want to use my fresh ones, so I mashed up her recipes with this [Fresh Fig Newton](https://www.sugardishme.com/fresh-fig-newtons/) recipe to get the following.
 
 ## Ingredients
-
 ### Filling
 
 - 16 fresh figs, washed, dried, and quartered

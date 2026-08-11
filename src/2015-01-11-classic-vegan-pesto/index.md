@@ -22,7 +22,6 @@ May 2, 2020 Update: Try this with cilantro in place of basil! We have a ton of c
 - 1 teaspoon coarse salt
 - 1/2 cup extra-virgin olive oil, or more to taste
 - 2 teaspoons lemon juice
-
 ## Instructions
 
 Fry walnuts and garlic in olive oil for a few minutes, until walnuts are slightly browned. Combine the walnuts and garlic with basil and salt in a food processor or blender and process, adding olive oil as you go. Add the lemon juice and pulse to combine. The sauce should be the consistency of a slightly grainy paste, not a puree.

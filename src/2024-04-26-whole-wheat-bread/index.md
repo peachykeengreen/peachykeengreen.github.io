@@ -25,7 +25,6 @@ Notes: 1/4 tsp yeast is enough for slow rise white; Robert suggested 1/2 tsp for
 - 1/2 tsp instant or active dry yeast
 - 1 1/2 tsp salt
 - 1 5/8 C water (approximately; so the dough is wet but not sticky)
-
 ### For Dusting
 
 - wheat bran

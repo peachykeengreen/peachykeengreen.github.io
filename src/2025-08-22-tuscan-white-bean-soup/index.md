@@ -32,7 +32,6 @@ Elsa and John came over for dinner, and I was inspired to make a soup with white
 - 3 C white corona or cannellini beans
 - 2 C kale, finely chopped afterstems removed
 - juice from half a lemon
-
 ## Instructions
 
 Saute onion in a large pot or dutch oven with the oil, salt, and red pepper flakes.

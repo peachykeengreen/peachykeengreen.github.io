@@ -21,7 +21,6 @@ The original recipe had LOTs of sugar (2 cups granulated, 1 cup brown). It was t
 - 2 T fresh lemon juice
 - 1/4 cup granulated sugar
 - 1/4 cup brown sugar
-
 ## Instructions
 
 Stir together all the ingredients in a large Dutch oven or pot (I use an 8 qt pot). Let stand at room temperature, stirring occasionally, 2 hours (or more). Bring the mixture to a boil over medium-high heat, stirring constantly. Reduce heat to low and cook, stirring often, 1 hour or until thickened and golden. Cool completely, about 45 minutes.

@@ -19,7 +19,6 @@ So many figs! I made a[fig pie](https://peachykeengreen.blogspot.com/2015/08/eas
 - Juice from 1-2 lemons
 - 1/4 cup brown sugar
 - 1/2 tsp cinnamon
-
 ## Instructions
 
 Chop figs and apples in relatively small pieces. Mix together in a large saucepan with lemon, brown sugar, and cinnamon. Let sit for an hour or two (optional). Bring to a boil and cook for 20 minutes, stirring frequently. Turn off heat, cover, and let sit to cool. Serve on vegan ice cream, or in yogurt. or on pancakes, or just eat directly!

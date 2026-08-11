@@ -19,19 +19,31 @@ When I want something really fast, I skip the quinoa, and walnuts, and instead s
 - 2 bunches kale (curly or dino; chopping/dressing shrinks 'em)
 - 1 cup lightly candied walnuts (see below)
 - 2/3 cup dried cranberries
-[![](kale1.jpg)](kale1.jpg)2 cups cooked quinoa
-- Candied Walnuts
+- 2 cups cooked quinoa
+
+### Candied Walnuts
+
 - 1 cup walnut halves
 - 1 T vegan butter
 - 1 T sugar
 - 1/8 tsp cayenne pepper
-- Dressing
+
+### Dressing
+
 - 3 T olive oil
 - 1 lemon
 - Salt
 - lemon pepper
 - 1 avocado
-- Wash the kale leaves and rip them off the stems (to discard). I use a salad spinner to get most all of the water off the leaves. Chop up the fresh kale leaves into smaller pieces and put in a big salad bowl.
+
+## Instructions
+
+Wash the kale leaves and rip them off the stems (to discard). I use a salad spinner to get most all of the water off the leaves. Chop up the fresh kale leaves into smaller pieces and put in a big salad bowl.
+
+[![](kale1.jpg)](kale1.jpg)
+
 [![](kale3.jpg)](kale3.jpg)
-- To make the candied walnuts, heat the vegan butter in a pan on medium low, and when melted, add the walnuts. Cook 5 minutes, stirring and watching closely. Mix the sugar and cayenne in a small bowl and then mix into the nuts. Cook another 5 minutes or whatever it takes to brown, stirring and watching closely. (I set a timer for every 2 minutes to stir and check.)
-- Mix up oil, lemon, and spices. Cut up avocado. Add dressing and avocado to the kale, and massage into leaves for a few minutes to soften kale. Add walnuts, dried cranberries, and quinoa; toss and serve!
+
+To make the candied walnuts, heat the vegan butter in a pan on medium low, and when melted, add the walnuts. Cook 5 minutes, stirring and watching closely. Mix the sugar and cayenne in a small bowl and then mix into the nuts. Cook another 5 minutes or whatever it takes to brown, stirring and watching closely. (I set a timer for every 2 minutes to stir and check.)
+
+Mix up oil, lemon, and spices. Cut up avocado. Add dressing and avocado to the kale, and massage into leaves for a few minutes to soften kale. Add walnuts, dried cranberries, and quinoa; toss and serve!

@@ -22,7 +22,6 @@ I just saw pictures of folks poking through the top of the pastry to put the cre
 - 2 squares of dark chocolate, melted
 - 1 tsp vanilla extract
 - (Optional) grated chocolate and/or shredded coconut
-
 ## Instructions
 
 Soak the cashews in water for a couple 2 hours if you can (though it will still work if you can't wait -- I soaked them for 10 minutes and then lost patience :). Drain most of the water but leave a little (we want the cashew cream to be thick).

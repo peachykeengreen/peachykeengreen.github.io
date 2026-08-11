@@ -22,7 +22,6 @@ Makes about 40 large bottles (24-oz) of electrolyte water.
 - 36 grams magnesium citrate powder (about 12 tsp [NOW Mg](https://www.amazon.com/NOW-Supplements-Magnesium-Citrate-8-Ounce/dp/B004189JCW/ref=sr_1_6?crid=3ORDYQXOLJZ47&dib=eyJ2IjoiMSJ9.kWwkePvNTAIMSAt287Oj6pgc5ZkoqFjrjHpslWAU3UOAbr5y8EMYRlgp3aMuSmG_W1Rzioo6d5I5_6heAFgcx0PFcZuGgSAJRGz-RczOUnpn7qFrx1WORSSg7F-F1yKyA1ifizmU8qhpOQQ93mCc03KGkqFGgHt3HXt7C-7hL2BtaDBwvXmTakXuylKbPHCEfVS4olzsMnA_J97hVeAmaxy8aqWekf5oF5af407RzXZpYMuHsdGWRsHjI2WS7HHoPuJ72ZY5SwddbLdxj7bzfsi8FZ9eLusCEFYLlUh9bQg.8yormBxt7PsAT_vc-R2kJ6seNGe_Gv3cDNuzI9_Jb48&dib_tag=se&keywords=magnesium%2Bcitrate%2Bpowder&qid=1770356551&sprefix=magnesium%2Bcitrate%2Bpowde%2Caps%2C190&sr=8-6&th=1))
 - 1/3 C sugar (or more to taste)
 - Flavoring (optional): lemon, lime, cranberry or other fruit powder, etc.
-
 ## Instructions
 
 Combine sugar, salt, potassium, and magnesium powders in a pint mason jar and shake well.

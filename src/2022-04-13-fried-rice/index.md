@@ -25,7 +25,6 @@ Another recipe from Munira! After making us a wonderful dinner, she described ho
 - 1 tsp hing
 - 2 C mixed veggies (peas, corn)
 - 1/2 C cashews (optional)
-
 ## Instructions
 
 Cook the rice in an Instant Pot and let it cool. Sprinkle chili powder, turmeric, and salt on the rice in the Instant Pot, and mix it up with your hands. You can store it at this point, and continue the rest later, if desired.

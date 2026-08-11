@@ -19,7 +19,6 @@ description: "Shuchi's Salsa Verde recipe."
 - cilantro - 1 cup (or 1 small bunch)
 - 1 lime
 - Tortilla chips (for serving) - I like the white chips at Trader Joes that have the aztec symbol
-
 ## Instructions
 
 Add green onions, tomatoes, and cilantro in a food processor. Pulse for a few minutes till finely chopped. Add salt and squeeze lime. Serve with chips!

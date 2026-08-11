@@ -19,7 +19,6 @@ I made these cookies to bring to Munira & Vinod's for dinner because I know they
 - 1/4 tsp salt
 - 1 tsp cinnamon
 - 1/2 tsp cloves
-
 ### Wet
 
 - 3+ T fresh grated ginger (or 3 tsp ground)

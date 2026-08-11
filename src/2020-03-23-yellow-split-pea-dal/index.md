@@ -13,7 +13,6 @@ description: "Yellow Split Pea Dal recipe."
 Loving my [Vegan Richa](https://www.veganricha.com/)'s Indian Kitchen cookbook. With the uneasiness in the world, our pantry is full of dried beans and lentils - and I'll definitely be making this again. Here's a slightly adapted (and tripled) recipe from the cookbook. (Thank you, Munira, for bringing us all the great lentils and other items from your Indian grocery store - and especially for your homemade garam masala!)
 
 ## Ingredients
-
 ### 3 C Mix of Dry Lentils with Similar Cooking Time
 
 - split pigeon pea (>= 1 C)

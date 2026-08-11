@@ -47,7 +47,6 @@ Image from [Oh She Glows](http://ohsheglows.com/2011/07/13/our-perfect-veggie-bu
 1/2 tsp salt (heaping)
 
 ground pepper to taste
-
 ## Instructions
 
 Preheat oven to 350F (if baking).

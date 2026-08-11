@@ -20,7 +20,6 @@ Larry's cousin John and wife Lou hosted us at their Massachusetts home in early 
 - 2 C (or 1 can) cooked chickpeas
 - 4 garlic cloves, finely chopped
 - Cherry tomatoes (optional; if using diced tomatoes below, can skip)
-
 ### Dressing
 
 - 1 C vegetable stock

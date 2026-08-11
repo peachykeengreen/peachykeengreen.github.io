@@ -23,7 +23,6 @@ Our pantry still has lots of oatmeal and almond butter from pandemic stockups. L
 - 1/2 tsp cinnamon
 - 1/4 tsp salt
 - 1/3 C chocolate chips
-
 ## Instructions
 
 Preheat oven to 350°. In a large bowl, use a fork to mash the banana. Add the almond butter, syrup and milk, and mix to combine. Add oats, baking powder, cinnamon, and salt, and mix.

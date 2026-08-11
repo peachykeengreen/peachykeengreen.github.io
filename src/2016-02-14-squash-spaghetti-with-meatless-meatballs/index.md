@@ -17,7 +17,6 @@ A new twist on pasta from Larry's sister Cyndy. Delicious and super healthy. Her
 - 4 zucchini squash
 [homemade marinara](http://peachykeengreen.blogspot.com/2015/02/marinara.html) (with onion and mushroom to make it thicker)
 - TJ's meatless meatballs
-
 ## Instructions
 
 Using a spiral slicer, create julienne strips of the zucchini. Be careful not to cut yourself against the blades when you're twisting near the end of the zucchini!

@@ -22,7 +22,6 @@ A super easy, yummy vegan pumpkin pie, great for using up that 2-pack of Wholly 
  I've tried a few vegan pumpkin pie recipes. I used to use tofu, but am moving away from that; now doing something closer to this [minimalist baker](https://minimalistbaker.com/vegan-gluten-free-pumpkin-pie/) recipe.
 
 ## Ingredients
-
 ### Filling
 
 - 1 15 ounce can pumpkin puree

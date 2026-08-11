@@ -36,7 +36,6 @@ This recipe is adapted from a [vegetable chili con carne in Jane Brody's Good Fo
 - 2 T mild chili powder
 - 2 T cumin
 - 1 T dark chocolate or cocoa (I want to try [mole sauce](http://markethallfoods.com/mole-poblano-paste-hernan?camp_id=342233351&grp_id=26489135471&kw=&mt=&nwk=s&pos=1o5&tgt_id=pla-186410198711&loc_phys_ms=9031967&device=c&model=&ad_id=105664212431&feed=&adtype=pla&merch_id=108492388&chan=online&prod_id=8014&country=US&lang=en&part=186410198711&store=&gclid=CMWKm5elxtMCFQx-fgod5m0LkA))
-
 ## Instructions
 
 In large pan, saute the vegetables, stirring frequently, for about 10 minutes. Add tomato, spices, and beans, and bring to boil. Reduce heat, cover, and simmer for 15 minutes. Add chopped greens and corn  (if using) and simmer another 15 minutes.

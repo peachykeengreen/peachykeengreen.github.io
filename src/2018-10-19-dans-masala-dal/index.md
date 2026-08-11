@@ -27,7 +27,6 @@ Dan Suthers shared his favorite dal recipe with me. Yay! For so long I've wanted
 4 T water
 
 2 cans diced tomato (or 3 cups fresh)
-
 ### Spices
 
 12 cloves garlic (I use TJ's jar of minced)

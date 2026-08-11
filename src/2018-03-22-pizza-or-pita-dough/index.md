@@ -30,7 +30,6 @@ mostly following the recipe for
 Our verdict: Worth it for pita and empanadas. For pizza, we'll probably stick with TJs. Next time we do a greek meza, we may skip the pizza and just have the meza with pita. The pizza was fun to make, but we had plenty of food without it, and the dough didn't shine in the pizza like it did in the pita.
 
 ## Ingredients
-
 ### Dry
 
 - 2.5 cups whole wheat flour

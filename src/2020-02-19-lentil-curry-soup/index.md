@@ -27,8 +27,7 @@ One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has 
 - 1/2 C quinoa (dry, uncooked)
 - 1 can or 2 cups chickpeas, cooked
 - 1/2 to 1 can lite coconut milk
-[![](soup-pot.jpg)](soup-pot.jpg)3T fresh lime juice
-
+- 3T fresh lime juice
 ### Spices
 
 - 2 tsp cumin seeds (or ground & add w/other spices)
@@ -41,6 +40,8 @@ One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has 
 - fresh ground pepper to taste
 
 ## Instructions
+
+[![](soup-pot.jpg)](soup-pot.jpg)
 
 Saute cumin seeds and diced pepper in canola oil for 30 seconds. Add chopped onion, carrots, celery, and potatoes, and saute for 5 minutes or so, until onions are translucent. Add the rest of the spices and stir 1 minute. Add tomatoes, broth, dry red lentils, and dry quinoa. Bring to a boil. Lower heat, add cooked chickpeas, and simmer 20 minutes. Add coconut milk and lime juice. Serve.
 

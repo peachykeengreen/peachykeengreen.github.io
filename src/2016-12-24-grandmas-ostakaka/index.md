@@ -28,7 +28,6 @@ This is my grandma Esther's recipe for Ostakaka (Ost = cheese, kaka = cake), a c
 - rennet tablet (not old; may not work)
 - cinnamon and nutmeg to sprinkle on top
 - lingonberry or strawberry jam/preserves
-
 ## Instructions
 
 Warm the milk in a big pot, just to lukewarm. Mix flour with 1/2 cup milk to make a thin paste. Add it to the warm milk, stirring well. Add dissolved rennet tablet, stirring well. Let set until clabbered [thickened or curdled, about 1 hour.] Stir it and take off the whey [the yellow, translucent liquid] as it comes to the top [or drain it off using a colander lined with cheesecloth]. Add beaten eggs, sugar, cream, salt, and vanilla. Bake 1 1/2 hours in 325 degree oven.

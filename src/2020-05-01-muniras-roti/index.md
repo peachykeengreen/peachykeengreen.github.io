@@ -13,7 +13,6 @@ description: "Spiced Roti recipe."
 Our friend Judy shared this [roti for two recipe](https://veganyumyum.com/2007/01/roti-for-two/index.html)with us, which just uses flour and water, and is very good! Munira adds some spice to her roti, and luckily, she shared her secrets with me in Whatsapp. I also searched to see what other spices people use in rot. So I've adapted the recipe (below) to include some optional spicing :)
 
 ## Ingredients
-
 ##
 [
 ](roti.png)

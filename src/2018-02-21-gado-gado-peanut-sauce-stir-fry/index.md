@@ -29,7 +29,6 @@ An Indonesian dish with spicy peanut sauce that Tim and Karen made for us for di
 - juice of 1 lemon
 - 1/4 tsp cayenne (or Sriracha to taste)
 - Optional garnish: sesame oil, sesame seeds
-
 ## Instructions
 
 In a saucepan, cook the onions, garlic, bay leaf, pepper, and ginger in butter. When onions become translucent, add other ingredients. Simmer on low heat 30 minutes, stirring occasionally.

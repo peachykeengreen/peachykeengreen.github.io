@@ -21,7 +21,6 @@ Shelley made this mango guacamole and served it with pita chips and sliced jicam
 - 1 tablespoon minced garlic
 - 1 tablespoon salt
 - 3 tablespoons chopped fresh cilantro
-
 ### For Serving
 
 - pita chips

@@ -15,7 +15,6 @@ Larry is harvesting figs by the gallon. In the past I've made fig [pie, compote,
 ##
 
 ## Ingredients
-
 ### Dry
 
 - 3 C flour (I used whole wheat)

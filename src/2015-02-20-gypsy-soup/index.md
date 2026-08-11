@@ -27,7 +27,6 @@ I first had this in during college, maybe when I was visiting Chicago and Brenda
 - 1 can garbanzo beans
 - 1 can black beans (or another garbanzo, or other bean)
 - 1 C dry barley or farro (optional)
-
 ### Spices
 
 - 1 large bay leaf

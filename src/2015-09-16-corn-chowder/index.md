@@ -31,7 +31,6 @@ A hearty, nice corn chowder, from [Vegan with a Vengeance](http://www.theppk.com
 - Juice of 1 lime
 - 1/4 cup plain almond or soy milk
 - 1 T maple syrup
-
 ## Instructions
 
 Saute onions, peppers, carrots, and jalapeno in olive oil 7 minutes. Add spices and saute 1 more minute. Add broth, corn, potatoes, bay leaf, and cayenne. Cover and boil, then lower heat and simmer for 20 minutes. Uncover and simmer for 10 more minutes.
