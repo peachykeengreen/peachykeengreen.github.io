@@ -23,7 +23,7 @@
   "url" .RelPermalink
   "description" $desc
   "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
-  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (cond (and .Params.lastmod (gt .Lastmod.Year 1)) (.Lastmod.Format "2006-01-02T15:04:05Z07:00") (.Date.Format "2006-01-02T15:04:05Z07:00"))
   "author" (dict "@type" "Organization" "name" "Peachy Keen Green")
   "publisher" (dict "@type" "Organization" "name" "Peachy Keen Green" "url" "/")
 -}}

@@ -10,7 +10,7 @@
     <div class="recipe-single-meta">
       <div class="recipe-single-meta-text">
         Published on <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>
-        {{ if ne (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02") }}
+        {{ if and .Params.lastmod (gt .Lastmod.Year 1) (ne (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02")) }}
           | Updated on <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "January 02, 2006" }}</time>
         {{ end }}
       </div>
