@@ -1,7 +1,7 @@
 ---
 title: "Fake Chicken (Chick’n)"
 slug: "fake-chicken-chick-n"
-date: 2020-06-11T12:35:05-07:00
+date: 2020-06-26T12:35:05-07:00
 draft: false
 categories: [entree]
 description: "Soy curls -> chicken-like texture"
