@@ -1,29 +1,29 @@
 <div class="recipe-card">
-  {{ $imgSrc := "" }}
-  {{ if .Params.featured_image }}
-    {{ $res := .Resources.GetMatch .Params.featured_image }}
-    {{ if $res }}
-      {{ $imgSrc = $res.RelPermalink }}
-    {{ else if hasPrefix .Params.featured_image "/" }}
-      {{ $imgSrc = .Params.featured_image }}
-    {{ else }}
-      {{ $imgSrc = printf "%s%s" .RelPermalink .Params.featured_image }}
-    {{ end }}
-  {{ end }}
-  {{ if $imgSrc }}
+  {{- $imgSrc := "" -}}
+  {{- if .Params.featured_image -}}
+    {{- $res := .Resources.GetMatch .Params.featured_image -}}
+    {{- if $res -}}
+      {{- $imgSrc = $res.RelPermalink -}}
+    {{- else if hasPrefix .Params.featured_image "/" -}}
+      {{- $imgSrc = .Params.featured_image -}}
+    {{- else -}}
+      {{- $imgSrc = printf "%s%s" .RelPermalink .Params.featured_image -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $imgSrc }}
   <div class="recipe-card-img-wrapper">
     <a href="{{ .RelPermalink }}">
       <img src="{{ $imgSrc }}" alt="{{ .Title }}" class="recipe-card-img" loading="lazy" />
     </a>
   </div>
-  {{ end }}
+  {{- end }}
   <div class="recipe-card-body">
     <div class="recipe-card-meta">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 02, 2006" }}</time>
       <div class="recipe-card-categories">
-        {{ range .Params.categories }}
+        {{- range .Params.categories }}
         <a href="/categories/{{ . | urlize }}/" class="category-pill">{{ . }}</a>
-        {{ end }}
+        {{- end }}
       </div>
     </div>
     <h3 class="recipe-card-title">

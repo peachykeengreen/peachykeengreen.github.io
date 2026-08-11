@@ -13,11 +13,11 @@
   </div>
 
   <div class="recipe-grid" id="recipeGrid">
-    {{ range .Site.RegularPages }}
-      {{ if ne .Params.slug "about" }}
-        {{ partial "recipe-card.html" . }}
-      {{ end }}
-    {{ end }}
+    {{- range .Site.RegularPages }}
+      {{- if ne .Params.slug "about" }}
+{{ partial "recipe-card.html" . }}
+      {{- end }}
+    {{- end }}
   </div>
 </section>
 
