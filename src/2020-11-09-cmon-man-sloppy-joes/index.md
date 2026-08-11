@@ -50,6 +50,7 @@ Cooking: Crazy how much it looks like hamburger:
 
 And browns like hamburger:
 
-![And here's after adding the sauce!](IMG_7977.jpg)
+![](IMG_7977.jpg)
 
+And here's after adding the sauce!
 [![](IMG_7978.jpg)](IMG_7978.jpg)

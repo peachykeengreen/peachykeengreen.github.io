@@ -44,6 +44,6 @@ In skillet, cook down spinach in a little oil. Turn off heat, and transfer food 
 
 Transfer mixture to pie shell, smoothing to evenly distribute. Brush tamari/oil topping over top Sprinkle on walnuts and cranberries. Bake in preheated oven at 400 degrees for 30-35 minutes, until tart is golden on edges and top. Cool 5-10 minutes and serve.
 
-[![](bdayboy.jpg)](bdayboy.jpg)
+[![Birthday-Boy Approved!](bdayboy.jpg)](bdayboy.jpg)
 
-Birthday-Boy Approved!
+
