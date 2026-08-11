@@ -7,10 +7,10 @@ contentDir = "src"
 layoutDir = "page_layouts"
 publishDir = "docs"
 
-enableGitInfo = true
+enableGitInfo = false
 
 [frontmatter]
-  lastmod = [":git", "lastmod", ":fileModTime", ":default"]
+  lastmod = ["lastmod"]
 
 [[module.mounts]]
 source = "src"
