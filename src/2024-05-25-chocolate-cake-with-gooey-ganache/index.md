@@ -6,7 +6,7 @@ lastmod: "2026-03-07T23:11:34.490Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2015/05/chocolate-cake-with-gooey-ganache.html"]
-featured_image: "cake.jpg"
+featured_image: "chocolate-cake-with-gooey-ganache-img-1.jpg"
 description: "Chocolate Cake with Gooey Ganache recipe."
 ---
 
@@ -19,7 +19,7 @@ A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/jus
 - 1 1/2 cups sugar
 - 3 tsp vanilla extract
 - 2/3 cup canola oil
-[![](cakewithganache.jpg)](cakewithganache.jpg)Zest of 1 orange (let it infuse in the oil; optional)
+- Zest of 1 orange (let it infuse in the oil; optional)
 
 ### Dry Mix
 
@@ -33,7 +33,9 @@ A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/jus
 
 - 1 C nondairy milk
 - 12 oz semi sweet chocolate (like TJ Dark Chocolate or Chocolate Chunk Chips)
-- Frosting (more milk makes it softer, spreadable):
+
+### Frosting (More Milk Makes It Softer, Spreadable)
+
 - 8 oz semi-sweet chocolate
 - 1 1/4 C nondairy milk
 
@@ -41,7 +43,11 @@ A nice vegan [chocolate cake recipe from Isa](http://www.theppk.com/2008/08/jus
 
 Preheat oven to 350 degrees.
 
-[![](cakebeforeganache.jpg)](cakebeforeganache.jpg)Whisk together the almond milk and vinegar in a large bowl, and set aside to curdle.
+Whisk together the almond milk and vinegar in a large bowl, and set aside to curdle.
+
+[![](cakebeforeganache.jpg)](cakebeforeganache.jpg)
+
+[![](cakewithganache.jpg)](cakewithganache.jpg)
 
 Optional: Zest one orange into the oil and set aside to let it infuse. (This is really good!)
 
