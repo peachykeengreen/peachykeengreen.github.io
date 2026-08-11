@@ -25,7 +25,7 @@ Note: There's a sliding scale between cornbread and corn cake. One bread end is 
 - 1 T baking powder
 - 1 tsp salt
 - 1/4 C brown sugar (for corn bread)
-- (optional) 1/4 C agave (for corn cake :)
+- (optional) 1/4 C agave (for corn cake 🙂
 - (optional) 1 T chopped rosemary
 
 ### Wet

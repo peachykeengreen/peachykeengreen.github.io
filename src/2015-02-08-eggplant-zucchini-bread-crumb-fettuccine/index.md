@@ -27,10 +27,10 @@ Well, you don't have to serve this with fettuccine; we serve it over [Garofalo w
 
 ## Instructions
 
-To make breadcrumbs, toast a piece or two of whole wheat bread in the toaster and let cool. Put the toast, thyme, and salt into a food processor or chopper and process until you have crumbs :)
+To make breadcrumbs, toast a piece or two of whole wheat bread in the toaster and let cool. Put the toast, thyme, and salt into a food processor or chopper and process until you have crumbs 🙂
 
 In a large nonstick pan, heat olive oil on medium heat. Add eggplant and zucchini, on a single (or thin) layer is best (sometimes I cook the eggplant first, take it out, then cook the zucchini). Cook, flipping the pieces occasionally until the eggplant/zucchini is softened and lightly browned, about 15 minutes.
 
-Meanwhile, bring a large pot of water to boil for the pasta. I will assume that you know how to make pasta :)
+Meanwhile, bring a large pot of water to boil for the pasta. I will assume that you know how to make pasta 🙂
 
 Add the bread crumbs to the pan and stir to coat. Serve on top of pasta with marinara!

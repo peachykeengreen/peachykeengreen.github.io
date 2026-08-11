@@ -10,7 +10,7 @@ featured_image: "potatoes.jpg"
 description: "Indian Diced Potatoes with Onion and Tomatoes recipe."
 ---
 
-This potato dish is adapted from a recipe in [The Indian Vegetarian](https://www.amazon.com/Indian-Vegetarian-Neelam-Batra/dp/0028622855) cookbook by Neelam Batra, who also has a web site, [Neelam's California Indian Cuisine](http://californiaindiancuisine.com/). Thanks to my friend Munira for recommending it! I made this dish for a bbq at Judi's the other night, and she said it was blog worthy :)
+This potato dish is adapted from a recipe in [The Indian Vegetarian](https://www.amazon.com/Indian-Vegetarian-Neelam-Batra/dp/0028622855) cookbook by Neelam Batra, who also has a web site, [Neelam's California Indian Cuisine](http://californiaindiancuisine.com/). Thanks to my friend Munira for recommending it! I made this dish for a bbq at Judi's the other night, and she said it was blog worthy 🙂
 
 ## Ingredients
 

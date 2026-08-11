@@ -48,7 +48,7 @@ In one of our zoom chats with friends during the pandemic, Robert & Judy shared 
 
 Preheat oven to 400 degrees. Toss sweet potato/squash, onion slices, oil, rosemary (if using), salt and pepper in ziplock or bowl. Place on large baking sheet and bake for 20 minutes, and turn them once halfway through. Remove from oven.
 
-Prepare the dough: Combine dry ingredients. Combine water and oil in a separate cup and add to flour mixture. Using a wooden spoon or your hands, gently stir and mix until dough forms a ball; dough should be soft, but not sticky. Add more water if it's too dry, 1 T at a time. If it's too sticky, add flour. Knead for a few minutes, then set aside in fridge. Go on a walk or bike ride if you like :)
+Prepare the dough: Combine dry ingredients. Combine water and oil in a separate cup and add to flour mixture. Using a wooden spoon or your hands, gently stir and mix until dough forms a ball; dough should be soft, but not sticky. Add more water if it's too dry, 1 T at a time. If it's too sticky, add flour. Knead for a few minutes, then set aside in fridge. Go on a walk or bike ride if you like 🙂
 
 In small bowl, toss greens with vinegar.
 

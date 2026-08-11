@@ -10,7 +10,7 @@ featured_image: "lemonmeringuepie.jpg"
 description: "Grandma's Lemon Meringue Pie recipe."
 ---
 
-Another recipe of my grandma Esther's, easier to make than her [ostakaka](http://peachykeengreen.blogspot.com/2016/12/grandmas-ostakaka.html) and also not vegan, but vegetarian of course. Blogging it here for posterity and so I have access to it when I'm visiting Dad, in case we need to use up some of his eggs :) And here is a [similar recipe](http://allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/).
+Another recipe of my grandma Esther's, easier to make than her [ostakaka](http://peachykeengreen.blogspot.com/2016/12/grandmas-ostakaka.html) and also not vegan, but vegetarian of course. Blogging it here for posterity and so I have access to it when I'm visiting Dad, in case we need to use up some of his eggs 🙂 And here is a [similar recipe](http://allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/).
 
 ## Ingredients
 

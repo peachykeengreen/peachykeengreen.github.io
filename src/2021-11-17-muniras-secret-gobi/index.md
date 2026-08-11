@@ -10,7 +10,7 @@ featured_image: "gobi.jpg"
 description: "Munira's Secret Gobi recipe."
 ---
 
-Shhhhhh.... Munira shared her marvelous gobi recipe with me! I'm not sure what got into her, but she made us a delicious dinner (as usual!) and this time, showed me a lot of her secrets. If you know Munira, you know that's a big deal :) She also bought me some frozen methi (fenugreek) to use in recipes, and gave me some fresh-ground ginger & peppers and a container of nigella seed. What a sweetie. (Note: Of course no actual measuring was involved; amounts below are approximate.)
+Shhhhhh.... Munira shared her marvelous gobi recipe with me! I'm not sure what got into her, but she made us a delicious dinner (as usual!) and this time, showed me a lot of her secrets. If you know Munira, you know that's a big deal 🙂 She also bought me some frozen methi (fenugreek) to use in recipes, and gave me some fresh-ground ginger & peppers and a container of nigella seed. What a sweetie. (Note: Of course no actual measuring was involved; amounts below are approximate.)
 
 ## Ingredients
 

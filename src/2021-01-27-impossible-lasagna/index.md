@@ -74,7 +74,7 @@ Cooked!
 
 {{< figure src="IMG_9336.jpg" alt="" caption="" >}}
 
-Below is the original that Judy sent me. Marti was my first roommate in grad school, and Garnet was a unix server we had our email accounts on :)
+Below is the original that Judy sent me. Marti was my first roommate in grad school, and Garnet was a unix server we had our email accounts on 🙂
 
 Can you believe how much cheese we used? FIVE POUNDS total. And what's with "cover the pan with foil" before you do anything? That's just weird.
 

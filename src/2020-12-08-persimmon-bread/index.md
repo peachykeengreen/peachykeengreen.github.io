@@ -50,6 +50,6 @@ Mixing it up:
 
 {{< figure src="IMG_8224.jpg" alt="" caption="" >}}
 
-Just a few of Pat & Allen's persimmons (at their house, not ours :)
+Just a few of Pat & Allen's persimmons (at their house, not ours 🙂
 
 {{< figure src="IMG_4563.jpg" alt="" caption="" >}}

@@ -10,7 +10,7 @@ featured_image: "momba1.jpg"
 description: "Garden Smoothie recipe."
 ---
 
-After enjoying our friend [Judi's "momba" smoothies](http://veryveryverygreen.blogspot.com/2014/06/momba-v2.html) so many times, we finally bought a good (Ninja) blender so we could make our own. Dr. Gregor has some [videos about research](http://nutritionfacts.org/video/green-smoothies-what-does-the-science-say/) that shows you get all the benefits of the kale and berries in blended form, but that's not true for all fruits. And Larry notes that they taste better than they look :)
+After enjoying our friend [Judi's "momba" smoothies](http://veryveryverygreen.blogspot.com/2014/06/momba-v2.html) so many times, we finally bought a good (Ninja) blender so we could make our own. Dr. Gregor has some [videos about research](http://nutritionfacts.org/video/green-smoothies-what-does-the-science-say/) that shows you get all the benefits of the kale and berries in blended form, but that's not true for all fruits. And Larry notes that they taste better than they look 🙂
 
 ## Ingredients
 

@@ -12,7 +12,7 @@ description: "Lentil Dosa recipe."
 
 Munira is visiting from Texas, yay! We biked over with some [fig banana bread](https://peachykeengreen.blogspot.com/2022/09/fig-banana-bread.html), and she treated us to an impromptu, delicious dinner of her lentil dosa and [secret gobi](https://peachykeengreen.blogspot.com/2021/11/muniras-secret-gobi.html). I thought dosa was super hard to make, but she showed me how -- and it wasn't so hard! I'm very excited because besides their delicate deliciousness, her lentil dosas are high protein, super healthy, and a wonderful pairing with indian veggies. She also cooked up some bhindi masala for her IT guy (Larry) and sent it home with us, along with leftover dosa batter and a (loaner) dosa pan so I could practice my dosa-making skills again tomorrow.  Sweet! She recommended serving with lettuce, tomato, and chopped onion, and filling the center and rolling up into a "stuffed" wrap. Lots of possibilities!
 
-Rough measurements for ingredients follow (of course no actual measuring was done :)
+Rough measurements for ingredients follow (of course no actual measuring was done 🙂
 
 ## Ingredients
 

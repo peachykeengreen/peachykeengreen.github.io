@@ -57,7 +57,7 @@ Evening (partly for better sleep)
 
 {{< figure src="/images/magnesium.jpg" alt="" caption="" >}}
 
-Magnesium - 100-200 mg after dinner (best to take with food). We take TJ's magnesium, but have also taken Doctor's Best Magnesium chelated with the amino acids glycine and lysine (which optimize bioavailability,  and glycine is a precursor for glutathione; see COVID discussion above). [Magnesium helps sleep](https://www.ncbi.nlm.nih.gov/pubmed/23853635) (and all my researchy friends take magnesium in the evening), and has [other health benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5926493/), including possibly reducing R-loops that contribute to unstable genome and aging. [Glycine also benefits sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4397399/) so taking Doctor's Best brand gives you two for one :)
+Magnesium - 100-200 mg after dinner (best to take with food). We take TJ's magnesium, but have also taken Doctor's Best Magnesium chelated with the amino acids glycine and lysine (which optimize bioavailability,  and glycine is a precursor for glutathione; see COVID discussion above). [Magnesium helps sleep](https://www.ncbi.nlm.nih.gov/pubmed/23853635) (and all my researchy friends take magnesium in the evening), and has [other health benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5926493/), including possibly reducing R-loops that contribute to unstable genome and aging. [Glycine also benefits sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4397399/) so taking Doctor's Best brand gives you two for one 🙂
 
 Melatonin - 1.5 mg half an hour before going to bed. I get TJs chewable and eat (bite) half a pill. [Research shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6429360/) that besides helping folks fall asleep, it's an antioxidant and increases expression of SIRT genes - and we generate less melatonin as we age. (Note: melatonin may also confer some [protection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102583/) against COVID; see above.)
 
@@ -79,7 +79,7 @@ Larry's Supplement Adjustments
 
 {{< figure src="/images/larrys.jpg" alt="" caption="" >}}Larry takes mostly what I take, with a few adjustments.
 
-First, he does the same morning yogurt regime (I mix it for him!) and evening magnesium and melatonin. Like me, he takes other vitamins periodically (recall that pulsing is probably good :) In particular, he adds:
+First, he does the same morning yogurt regime (I mix it for him!) and evening magnesium and melatonin. Like me, he takes other vitamins periodically (recall that pulsing is probably good 🙂 In particular, he adds:
 
 Women's Formula Multivitamin from Trader Joe's - it's the best one we've found, without copper (we all get more copper than we need from our pipes, and copper is implicated in [Alzheimer's](https://www.ncbi.nlm.nih.gov/pubmed/28889269))
 

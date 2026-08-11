@@ -45,6 +45,6 @@ Add the cooked chickpeas and water. Cover and cook for 30-40 minutes over medium
 
 {{< figure src="chana-masala-img-2.jpg" alt="" caption="" >}}
 
-Reward for fixing our furnace today :)
+Reward for fixing our furnace today 🙂
 
 {{< figure src="chana-masala-img-3.jpg" alt="" caption="" >}}

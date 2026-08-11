@@ -45,7 +45,7 @@ Add beans and flour-water mixture. Bring to boil over high heat.
 
 Meanwhile, mix the bread cubes, herbs, and oil in a bowl.
 
-Remove skillet from heat, and transfer to cast iron dutch oven (unless that's what you used for a skillet :)
+Remove skillet from heat, and transfer to cast iron dutch oven (unless that's what you used for a skillet 🙂
 
 Cover the mixture with the prepared bread cubes. Bake 40-50 minutes at 300 degrees, then broil carefully to brown bread cube topping.
 

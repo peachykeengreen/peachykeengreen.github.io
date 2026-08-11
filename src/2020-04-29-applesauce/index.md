@@ -22,7 +22,7 @@ Growing up, Larry's family had a tradition of eating applesauce at most meals. S
 
 ## Instructions
 
-Chop the apples and eat around the core :) Oh, I leave the skin on, of course - it's where most of the nutrition is.
+Chop the apples and eat around the core 🙂 Oh, I leave the skin on, of course - it's where most of the nutrition is.
 
 Put the apples in a soup pot and add sugar, lemon, cinnamon and water. Stir and let sit awhile as you putter around (like an hour or three; whatever fits your schedule - but stir it occasionally).
 

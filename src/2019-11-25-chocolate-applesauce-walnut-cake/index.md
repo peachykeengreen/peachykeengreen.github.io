@@ -49,7 +49,7 @@ Make the flax eggs: Mix flax meal with warm water and set aside.
 
 Make curdled milk: mix non-dairy milk with 1 tsp vinegar and set aside.
 
-Mix up dry ingredients in a large bowl, from flour down to walnuts. (I used 2 cups whole wheat and 1 cup buckwheat, and it turned out just fine. I also like a bit more than a cup of walnuts :)
+Mix up dry ingredients in a large bowl, from flour down to walnuts. (I used 2 cups whole wheat and 1 cup buckwheat, and it turned out just fine. I also like a bit more than a cup of walnuts 🙂
 
 If using apples instead of applesauce, cut up apples, put in food processor, and blend to get a couple of cups of puree.
 

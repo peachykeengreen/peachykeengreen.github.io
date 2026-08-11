@@ -20,7 +20,7 @@ We discovered [mujadara](https://littlesunnykitchen.com/mujaddara/) at a middle 
 - 2 tsp cumin seed
 - 2 tsp nigella (black cumin; good for you!)
 - 1 tsp chili pwd or dried hot pepper (break in half)
-- 3 cloves garlic, diced (sometimes :)
+- 3 cloves garlic, diced (sometimes 🙂
 - 1 tsp salt
 - 2 1/2 C water
 - 2/3 C lentils, soaked (I like black beluga; vary as you like)

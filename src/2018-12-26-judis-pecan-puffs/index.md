@@ -10,7 +10,7 @@ featured_image: "puffs.jpg"
 description: "Judi's Pecan Puffs recipe."
 ---
 
-Judi makes the best pecan cookies! This recipe is super fast and easy and tasty. The photo below shows puffs along with a happy chocolate xmas dog from Sandy:)
+Judi makes the best pecan cookies! This recipe is super fast and easy and tasty. The photo below shows puffs along with a happy chocolate xmas dog from Sandy🙂
 
 The recipe below about 15 cookies.
 

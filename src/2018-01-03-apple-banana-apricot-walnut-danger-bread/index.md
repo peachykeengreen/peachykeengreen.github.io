@@ -10,7 +10,7 @@ featured_image: "miniloaf.jpg"
 description: "Apple, Banana, Apricot, Walnut \"Danger\" Bread recipe."
 ---
 
-Larry calls this "danger bread" because he can't stop eating it :)
+Larry calls this "danger bread" because he can't stop eating it 🙂
 
 ## Ingredients
 

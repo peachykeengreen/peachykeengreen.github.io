@@ -27,7 +27,7 @@ This bean dish was served at a lunch at work, in both vegan and with-bacon-and-h
 - 2 tsp dried thyme
 - 3 T chopped garlic (yes, a lot of garlic!)
 - Freshly ground black pepper to taste
-- Pinch cayenne (or more :)
+- Pinch cayenne (or more 🙂
 - 2 T chopped fresh parsley (if you have it)
 
 ## Instructions

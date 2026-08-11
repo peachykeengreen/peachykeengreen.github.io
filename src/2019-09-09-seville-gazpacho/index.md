@@ -30,7 +30,7 @@ Cut tomatoes, pepper, cucumber, and onion into rough chunks. Combine tomatoes, p
 
 With the motor running, add the vinegar and salt. Slowly drizzle in the olive oil. The mixture will turn bright orange or dark pink and become smooth and emulsified, like a salad dressing. If it still seems watery, drizzle in more olive oil until texture is creamy.
 
-(Optional) Strain the mixture through a sieve pushing all the liquid through with a spatula, and discard the solids. We didn't do this because the Ninja blender pureed it well, and we like fiber :)
+(Optional) Strain the mixture through a sieve pushing all the liquid through with a spatula, and discard the solids. We didn't do this because the Ninja blender pureed it well, and we like fiber 🙂
 
 "Transfer to a bowl and chill at least 6 hours or overnight." HAHAHAHA. That's what the original recipe says. We couldn't wait - chilled 15 minutes and ate it. It was delicious!
 

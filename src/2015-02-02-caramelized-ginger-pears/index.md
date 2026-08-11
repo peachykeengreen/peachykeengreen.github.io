@@ -10,7 +10,7 @@ featured_image: "caramelized-ginger-pears.jpg"
 description: "Ginger Pear Sauce recipe."
 ---
 
-Ginger pears are yummy and a great gift. We have a pear tree, so in the fall I make a bunch of it and refrigerate it (up to a couple of weeks). You can also freeze it (canning is too much work :) It's delicious over pancakes, or eat it like you would applesauce.
+Ginger pears are yummy and a great gift. We have a pear tree, so in the fall I make a bunch of it and refrigerate it (up to a couple of weeks). You can also freeze it (canning is too much work 🙂 It's delicious over pancakes, or eat it like you would applesauce.
 
 The original recipe had LOTs of sugar (2 cups granulated, 1 cup brown). It was too sweet. In my experimenting, I halved it, then halved that again, and it still seemed sweet enough. You can even cut the sugar out completely if you like; then it's more like unsweetened applesauce.
 

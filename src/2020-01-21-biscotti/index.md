@@ -45,7 +45,7 @@ In a separate bowl, mix together dry ingredients. Combine wet and dry ingredient
 
 Use a knife or spatula to divide the dough into two even sections. Using damp hands, form the two portions into long, semi-skinny logs (see photo). Try and make them as uniform in size and shape as possible so they bake evenly.
 
-Bake the loaves for 25-30 minutes, or until just slightly brown on the edges. Let cool slightly on the baking sheet, then use a serrated knife to gently slice into 3/4-inch pieces. Be very gentle when slicing. Eat the end pieces because they are too small :)
+Bake the loaves for 25-30 minutes, or until just slightly brown on the edges. Let cool slightly on the baking sheet, then use a serrated knife to gently slice into 3/4-inch pieces. Be very gentle when slicing. Eat the end pieces because they are too small 🙂
 
 Gently turn the biscotti on their sides and return to the oven to bake for another 20 minutes, gently flipping once at the halfway point (10 minutes), to ensure even baking.
 

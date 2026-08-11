@@ -25,6 +25,6 @@ I just saw pictures of folks poking through the top of the pastry to put the cre
 
 ## Instructions
 
-Soak the cashews in water for a couple 2 hours if you can (though it will still work if you can't wait -- I soaked them for 10 minutes and then lost patience :). Drain most of the water but leave a little (we want the cashew cream to be thick).
+Soak the cashews in water for a couple 2 hours if you can (though it will still work if you can't wait -- I soaked them for 10 minutes and then lost patience 🙂. Drain most of the water but leave a little (we want the cashew cream to be thick).
 
 Make the puff pastry cups as directed on the box. While they're cooking, make the cashew cream mousse: In a food processor, cream the cashews, sugar, and vanilla together. Scoop into a small bowl and mix in the melted chocolate (I microwave the chocolate 1 minute to melt). Spoon on top of each pastry cup. Top with fruit, and optionally coconut and/or grated chocolate.

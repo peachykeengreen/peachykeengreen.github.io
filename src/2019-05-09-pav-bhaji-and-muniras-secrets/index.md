@@ -10,7 +10,7 @@ featured_image: "pav-bhaji.jpg"
 description: "Pav Bhaji (Indian Street Food) recipe."
 ---
 
-My friend Munira is a wonderful cook! For years she would never share her recipes, saying why would we come over for dinner if we knew how to cook the food? :)
+My friend Munira is a wonderful cook! For years she would never share her recipes, saying why would we come over for dinner if we knew how to cook the food? 🙂
 
 But last weekend we arrived as she was starting to make [Pav Bhaji (from Cook w/ Manali)](https://www.cookwithmanali.com/pav-bhaji/), a popular Indian street food where rolls/buns are served with spicy mashed veggies and butter (for us, no butter) -- and she allowed me to take photos! So lots of photos below. Munira says that many things she makes have this similar base -- just add beans or whatever you feel like at the end, or use different spice mixes (Indian stores have many masala mixes; experiment!)
 

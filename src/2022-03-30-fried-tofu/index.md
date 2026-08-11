@@ -31,7 +31,7 @@ Press the tofu! I really like this [extra firm tofu press](https://smile.amazon.
 
 Saute the pepper, garlic, and salt for about a minute on medium low heat. Add the soy sauce and tofu. Saute 5-10 minutes, flipping periodically, depending on how crispy you like it. Remove and drain on paper towels. Optionally grind a little garlic salt on top!
 
-Below are some photos of pressing the tofu. I crank it tighter after a few minutes, and find that removing about 1/2 a cup of water is about perfect. (But no need to measure; I just did it for the photo :)
+Below are some photos of pressing the tofu. I crank it tighter after a few minutes, and find that removing about 1/2 a cup of water is about perfect. (But no need to measure; I just did it for the photo 🙂
 
 {{< figure src="fried-tofu-img-2.jpg" alt="" caption="" >}}
 

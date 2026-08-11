@@ -10,7 +10,7 @@ featured_image: "curry-lentil.jpg"
 description: "Lentil Curry Soup recipe."
 ---
 
-One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has a spicy red curry soup that we love -- with chickpeas, tomatoes, carrots, celery, onion, red lentils, and quinoa. Isa also has a [Sweet Potato and Red Curry Soup](http://www.theppk.com/2011/01/red-curry-soup-with-rice-purple-kale/) that looks good. So I made up a recipe that pulls from both. Larry said it was fantastic! (Originally posted September 2015; updated February 2020 to be even better :)
+One of our favorite restaurants, [Cafe Sprout](http://cafesprout.com/home), has a spicy red curry soup that we love -- with chickpeas, tomatoes, carrots, celery, onion, red lentils, and quinoa. Isa also has a [Sweet Potato and Red Curry Soup](http://www.theppk.com/2011/01/red-curry-soup-with-rice-purple-kale/) that looks good. So I made up a recipe that pulls from both. Larry said it was fantastic! (Originally posted September 2015; updated February 2020 to be even better 🙂
 
 ## Ingredients
 

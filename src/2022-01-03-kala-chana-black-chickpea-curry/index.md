@@ -10,7 +10,7 @@ featured_image: "kala-chana-black-chickpea-curry-img-1.jpg"
 description: "Kala Chana (Black Chickpea Curry) recipe."
 ---
 
-Another of Munira's yummy recipes. Black chickpeas have such a nice flavor. Of course all the measures are approximate guesses; no actual measurement tools were used in the making :)
+Another of Munira's yummy recipes. Black chickpeas have such a nice flavor. Of course all the measures are approximate guesses; no actual measurement tools were used in the making 🙂
 
 ## Ingredients
 

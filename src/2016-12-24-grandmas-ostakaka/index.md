@@ -12,7 +12,7 @@ description: "Grandma's Ostakaka recipe."
 
 This is my grandma Esther's recipe for Ostakaka (Ost = cheese, kaka = cake), a custard from her Swedish family (*) and one of Dad's favorites. It's not vegan, but I'm blogging it for posterity (and I may try to make it for Dad some day.) [This recipe is similar](http://awesomecookery.com/2013/12/04/ostkake-swedish-cheesecake/). Another favorite dessert recipe is [grandma's lemon meringue pie](http://peachykeengreen.blogspot.com/2017/03/grandmas-lemon-meringue-pie.html).
 
-1/6/17 Update: Cliff and Kathy gave us ostakaka from [Nelson Food Pride](http://www.nelsonsfoodpride.com/ostakaka1.html) during my trip to NE. (Nelson, like grandma!) Kathy makes it every Christmas, but it's an all day, error-prone affair, so they bought it this year. Just in time, phew! Dad loved it with jam. Not too sweet. And much easier than making it :)
+1/6/17 Update: Cliff and Kathy gave us ostakaka from [Nelson Food Pride](http://www.nelsonsfoodpride.com/ostakaka1.html) during my trip to NE. (Nelson, like grandma!) Kathy makes it every Christmas, but it's an all day, error-prone affair, so they bought it this year. Just in time, phew! Dad loved it with jam. Not too sweet. And much easier than making it 🙂
 
 12/29/20 Update: Lisa Nelson Callihan says there is a cheat way to make it!!!  Use cottage cheese instead of milk and rennet tablets. Use the 4% milkfat cottage cheese if you can find it.
 
@@ -35,6 +35,6 @@ Warm the milk in a big pot, just to lukewarm. Mix flour with 1/2 cup milk to mak
 
 Cool. Sprinkle cinnamon and nutmeg on top. Serve with preserves.
 
-(*) Larry and I visited Sweden in 2001, and in our travelogue we wrote: “Our lunchtime cafe's menu offers "oustakake", which turns out to be, literally, "cheesecake". Patti has an epiphany that her grandmother's custard "oustakake" was in fact a kind of cheesecake. The guides at Skansen said that the prestige item at a country smorgasbord (a potluck table of sandwiches and other food at a wedding or whatever) was that each Swedish family would bring their own particular type of cheesecake for the smorgasbord. Apparently Patti's family was the runny, custard-kind of family.” :)
+(*) Larry and I visited Sweden in 2001, and in our travelogue we wrote: “Our lunchtime cafe's menu offers "oustakake", which turns out to be, literally, "cheesecake". Patti has an epiphany that her grandmother's custard "oustakake" was in fact a kind of cheesecake. The guides at Skansen said that the prestige item at a country smorgasbord (a potluck table of sandwiches and other food at a wedding or whatever) was that each Swedish family would bring their own particular type of cheesecake for the smorgasbord. Apparently Patti's family was the runny, custard-kind of family.” 🙂
 
 {{< figure src="dad.jpg" alt="" caption="" >}}{{< figure src="osta.jpg" alt="" caption="" >}}

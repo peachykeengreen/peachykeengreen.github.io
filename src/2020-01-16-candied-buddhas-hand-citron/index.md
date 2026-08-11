@@ -61,7 +61,7 @@ Buddha's Hand tree:
 A few days later, Pat and Allen gave me 8 more! That led to
 [biscotti](https://peachykeengreen.blogspot.com/2020/01/biscotti.html)
 
-:)
+🙂
 
 {{< figure src="IMG_4952.jpg" alt="" caption="" >}}
 

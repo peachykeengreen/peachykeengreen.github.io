@@ -70,7 +70,7 @@ And some photos of the process:
 
 {{< figure src="IMG_3255.jpg" alt="" caption="" >}}
 
-Can just throw it all in a big bowl of batter! Here with carrots :)
+Can just throw it all in a big bowl of batter! Here with carrots 🙂
 
 {{< figure src="batter.jpg" alt="" caption="" >}}
 

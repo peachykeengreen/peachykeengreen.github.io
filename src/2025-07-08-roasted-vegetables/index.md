@@ -40,7 +40,7 @@ So many vegetables work here; I go for a nice mix of color. I almost always use 
 
 ## Instructions
 
-Clean the veggies and cut off any blemished ends, etc. I don't bother skinning anything but yams. Cut carrots diagonally; cut others into halves or fourths, or whatever size you prefer (not too small, not too big :)
+Clean the veggies and cut off any blemished ends, etc. I don't bother skinning anything but yams. Cut carrots diagonally; cut others into halves or fourths, or whatever size you prefer (not too small, not too big 🙂
 
 While the veggies are drying, preheat the oven to 400 degrees, and put silicon liners in a cookie sheet that has edges on all 4 sides.
 

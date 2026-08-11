@@ -44,7 +44,7 @@ Laurie tried out some new recipes for dinner when we stopped by on our way back 
 
 ## Instructions
 
-Make [mashed (cauliflower) potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html) before, during, or after the following :)
+Make [mashed (cauliflower) potatoes](https://peachykeengreen.blogspot.com/2015/05/mashed-cauliflower-potatoes.html) before, during, or after the following 🙂
 
 Cabbage steaks: Slide the cabbage into 3/4 inch thick steaks. Brush them with oil, and sprinkle garlic, paprika, pepper flakes, salt & pepper on both sides, to taste. Arrange on cookie sheet (see below) and roast in the oven on 350 degrees for 50 minutes. Remove and squeeze some lemon on top before serving.
 
