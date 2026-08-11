@@ -66,6 +66,5 @@ If making ganache, let it cool for about 15 minutes, and pour it on to drip into
 
 For frosting (uses more milk): let it cool completely and spread it on an hour later with a knife.
 
-For Judi's 50th in 2019
-
-(Judi doesn't like oranges, so no zest in this version!)
+[![](chocolate-cake-with-gooey-ganache-img-2.jpg)](chocolate-cake-with-gooey-ganache-img-2.jpg)
+<div class="img-caption">For Judi's 50th in 2019<br>(Judi doesn't like oranges, so no zest in this version!)</div>

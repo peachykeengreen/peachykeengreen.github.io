@@ -627,6 +627,16 @@ footer a:hover {
   color: var(--primary-hover);
 }
 
+/* Image Caption Styling */
+.img-caption {
+  font-size: 0.85rem;
+  color: #666666;
+  font-style: italic;
+  margin-top: 0.35rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
 /* Print Stylesheet */
 @media print {
   header, footer, nav, .search-box, .category-filter, .recipe-action-bar, .btn-print-icon, .no-print {
