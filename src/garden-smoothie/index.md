@@ -4,7 +4,7 @@ slug: "garden-smoothie"
 date: "2016-02-18T05:35:00Z"
 lastmod: "2019-11-25T05:22:50.649Z"
 draft: false
-categories: ["Dessert", "Breakfast"]
+categories: ["Dessert", "Breakfast", "Beverage"]
 aliases: ["/2016/02/garden-smoothie.html"]
 featured_image: "momba1.jpg"
 description: "Garden Smoothie recipe."

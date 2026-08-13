@@ -6,7 +6,7 @@ lastmod: "2022-08-30T22:28:27.617Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2016/08/judis-chocolately-walnut-crust.html"]
-featured_image: ""
+featured_image: "chocolate-crust.jpg"
 description: "Judi's Chocolately Walnut Crust recipe."
 ---
 

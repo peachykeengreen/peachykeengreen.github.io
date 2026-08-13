@@ -3,6 +3,8 @@
   
   
   
+  
+  
   {
     "title": "Vegan Shahi Paneer",
     "permalink": "/vegan-shahi-paneer/",
@@ -28,7 +30,7 @@
   {
     "title": "Homemade Electrolyte Powder",
     "permalink": "/homemade-electrolyte-powder/",
-    "categories": [],
+    "categories": ["Beverage"],
     "summary": "Larry plays tennis most weekends, and looked into making electrolyte powder to mix into his water bottle. He adapted this electrolyte powder recipe to make a small jar, which lasts him about 10 months when used once a week. It\u0026rsquo;s a gazillion times cheaper than pre-made powders, and has all the essential contents.\n"
   }
   
@@ -816,8 +818,6 @@
   
   
   
-  
-  
   ,
   {
     "title": "Split Pea Soup",
@@ -1494,7 +1494,7 @@
     "title": "Red Beans",
     "permalink": "/red-beans/",
     "categories": ["Entree"],
-    "summary": "This bean dish was served at a lunch at work, in both vegan and with-bacon-and-ham forms. Judi and I thought the vegan one was delicious (don\u0026rsquo;t know about the other!); I brought home leftovers, and Larry agreed. Turns out catering got the recipe from our admin assistant, Vickie, whose office is next to mine. So we bought dry red beans and tried it. The veggie broth had plenty of salt in it, so I don\u0026rsquo;t list the half teaspoon of salt called for in this recipe, after tasting it. Anyway, it was easy and very flavorful! I think dry beans taste better than canned, but you could used canned, of course. And I liked cooking the dried beans in the large soup pot for this; I usually boil beans in a smaller saucepan, and that\u0026rsquo;s messy. Big soup pot from now on for beans! Serve with rice or cauliflower rice and a veggie.\n"
+    "summary": "This bean dish was served at a lunch at work, in both vegan and with-bacon-and-ham forms. Judi and I thought the vegan one was delicious (don\u0026rsquo;t know about the other!); I brought home leftovers, and Larry agreed. Turns out catering got the recipe from our admin assistant, Vickie, whose office is next to mine. So we bought dry red beans and tried it. The veggie broth had plenty of salt in it, so I don\u0026rsquo;t list the half teaspoon of salt called for in this recipe, after tasting it. Anyway, it was easy and very flavorful! I think dry beans taste better than canned, but you could used canned, of course. And I liked cooking the dried beans in the large soup pot for this; I usually boil beans in a smaller saucepan, and that\u0026rsquo;s messy. Big soup pot from now on for beans! Serve with rice or another grain and a veggie.\n"
   }
   
   
@@ -1614,7 +1614,7 @@
   {
     "title": "Garden Smoothie",
     "permalink": "/garden-smoothie/",
-    "categories": ["Dessert","Breakfast"],
+    "categories": ["Dessert","Breakfast","Beverage"],
     "summary": "After enjoying our friend Judi\u0026rsquo;s \u0026ldquo;momba\u0026rdquo; smoothies so many times, we finally bought a good (Ninja) blender so we could make our own. Dr. Gregor has some videos about research that shows you get all the benefits of the kale and berries in blended form, but that\u0026rsquo;s not true for all fruits. And Larry notes that they taste better than they look 🙂\n"
   }
   

@@ -2,11 +2,9 @@
 title: "About"
 slug: "about"
 type: "page"
-date: "2020-04-12T17:39:00Z"
-lastmod: "2026-08-07T21:56:57Z"
+date: "2026-08-12T17:39:00Z"
 draft: false
 categories: []
-aliases: ["/sources/", "/p/sources.html"]
 description: "About Peachy Keen Green, sources, and inspiration."
 ---
 

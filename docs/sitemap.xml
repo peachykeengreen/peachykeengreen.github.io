@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-07-15T18:14:31+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2026-07-15T18:14:31+00:00</lastmod>
   </url><url>
     <loc>/categories/indian/</loc>
     <lastmod>2026-07-15T18:07:25+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2026-08-07T21:56:57+00:00</lastmod>
   </url><url>
     <loc>/vegan-shahi-paneer/</loc>
     <lastmod>2026-07-15T18:07:25+00:00</lastmod>
@@ -19,6 +21,9 @@
   </url><url>
     <loc>/categories/soup/</loc>
     <lastmod>2026-02-07T22:46:42+00:00</lastmod>
+  </url><url>
+    <loc>/categories/beverage/</loc>
+    <lastmod>2026-02-06T19:12:45+00:00</lastmod>
   </url><url>
     <loc>/homemade-electrolyte-powder/</loc>
     <lastmod>2026-02-06T19:12:45+00:00</lastmod>
@@ -258,9 +263,6 @@
   </url><url>
     <loc>/sweet-potato-pizza-with-rosemary-red/</loc>
     <lastmod>2021-11-10T03:13:39+00:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-    <lastmod>2026-08-07T21:56:57+00:00</lastmod>
   </url><url>
     <loc>/split-pea-soup/</loc>
     <lastmod>2025-12-04T23:25:53+00:00</lastmod>
