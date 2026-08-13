@@ -10,7 +10,7 @@ featured_image: "redbeans.jpg"
 description: "Red Beans recipe."
 ---
 
-This bean dish was served at a lunch at work, in both vegan and with-bacon-and-ham forms. Judi and I thought the vegan one was delicious (don't know about the other!); I brought home leftovers, and Larry agreed. Turns out catering got the recipe from our admin assistant, Vickie, whose office is next to mine. So we bought dry red beans and tried it. The veggie broth had plenty of salt in it, so I don't list the half teaspoon of salt called for in this recipe, after tasting it. Anyway, it was easy and very flavorful! I think dry beans taste better than canned, but you could used canned, of course. And I liked cooking the dried beans in the large soup pot for this; I usually boil beans in a smaller saucepan, and that's messy. Big soup pot from now on for beans! Serve with rice or cauliflower rice and a veggie.
+This bean dish was served at a lunch at work, in both vegan and with-bacon-and-ham forms. Judi and I thought the vegan one was delicious (don't know about the other!); I brought home leftovers, and Larry agreed. Turns out catering got the recipe from our admin assistant, Vickie, whose office is next to mine. So we bought dry red beans and tried it. The veggie broth had plenty of salt in it, so I don't list the half teaspoon of salt called for in this recipe, after tasting it. Anyway, it was easy and very flavorful! I think dry beans taste better than canned, but you could used canned, of course. And I liked cooking the dried beans in the large soup pot for this; I usually boil beans in a smaller saucepan, and that's messy. Big soup pot from now on for beans! Serve with rice or another grain and a veggie.
 
 ## Ingredients
 
