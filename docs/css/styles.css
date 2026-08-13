@@ -10,12 +10,12 @@
 }
 
 .site-header-container {
-  width: 88%;
+  width: 95%;
   max-width: 1100px;
   margin-left: auto !important;
   margin-right: auto !important;
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
+  padding-left: 0.75rem !important;
+  padding-right: 0.75rem !important;
   box-sizing: border-box;
 }
 
@@ -44,8 +44,8 @@
 }
 
 .site-logo-icon {
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
   object-fit: contain;
   background: transparent !important;
   flex-shrink: 0;
