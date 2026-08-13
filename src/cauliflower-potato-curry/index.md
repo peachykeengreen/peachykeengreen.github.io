@@ -6,7 +6,7 @@ lastmod: "2021-11-17T21:57:29.279Z"
 draft: false
 categories: ["Entree", "Indian"]
 aliases: ["/2020/11/cauliflower-potato-curry.html"]
-featured_image: "IMG_7974.jpg"
+featured_image: "cauliflower-potato-2.jpg"
 description: "Cauliflower Potato Curry recipe."
 ---
 
@@ -51,4 +51,4 @@ Let it all simmer, covered, for 15-20 minutes, stirring occasionally, until pref
 
 Grate lime zest on top to finish the dish. Serve over rice with fresh cilantro and some lime juice.
 
-{{< figure src="IMG_7972.jpg" alt="" caption="" >}}
+{{< figure src="cauliflower-potato-curry.jpg" alt="" caption="" >}}

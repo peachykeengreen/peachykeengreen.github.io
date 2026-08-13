@@ -6,7 +6,7 @@ lastmod: "2020-12-26T00:14:50.298Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2020/11/cmon-man-sloppy-joes.html"]
-featured_image: "IMG_7980.jpg"
+featured_image: "c-mon-4.jpg"
 description: "C'mon Man! Sloppy Joes recipe."
 ---
 
@@ -47,12 +47,12 @@ Serve on toasted bun with pickles and/or chopped onion (optional).
 
 Cooking: Crazy how much it looks like hamburger:
 
-{{< figure src="IMG_7976.jpg" alt="" caption="" >}}
+{{< figure src="c-mon-man.jpg" alt="" caption="" >}}
 
 And browns like hamburger:
 
-{{< figure src="IMG_7977.jpg" alt="" caption="" >}}
+{{< figure src="c-mon-2.jpg" alt="" caption="" >}}
 
 And here's after adding the sauce!
 
-{{< figure src="IMG_7978.jpg" alt="" caption="" >}}
+{{< figure src="c-mon-3.jpg" alt="" caption="" >}}

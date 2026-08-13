@@ -6,7 +6,7 @@ lastmod: "2020-12-12T21:29:27.487Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2020/12/persimmon-cookies.html"]
-featured_image: "IMG_8266.jpg"
+featured_image: "persimmon-cookies.jpg"
 description: "Persimmon Cookies recipe."
 ---
 
@@ -53,4 +53,4 @@ To make the orange glaze, in a medium bowl, combine the confectioners' sugar, or
 
 Note: I froze half the dough, and halved the glaze, using zest and juice of one tangerine.
 
-{{< figure src="IMG_8265.jpg" alt="" caption="" >}}
+{{< figure src="persimmon-cookies-step.jpg" alt="" caption="" >}}

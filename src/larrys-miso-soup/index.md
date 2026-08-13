@@ -6,7 +6,7 @@ lastmod: "2020-07-04T03:11:08.983Z"
 draft: false
 categories: ["Soup"]
 aliases: ["/2020/05/larrys-miso-soup.html"]
-featured_image: "IMG_5641.jpg"
+featured_image: "larry-s-3.jpg"
 description: "Larry's Miso Soup recipe."
 ---
 
@@ -14,7 +14,7 @@ Larry put Japanese miso powder on his Christmas wish list; he wanted powder sinc
 
 ##
 
-{{< figure src="IMG_5641.jpg" alt="" caption="" >}}
+{{< figure src="larry-s-3.jpg" alt="" caption="" >}}
 
 ## Ingredients
 
@@ -34,6 +34,6 @@ Pour hot water in the bowls. Stir and serve!
 
 Larry says that in Japan, on often eats it by slurping from the side of the bowl, stirring as you slurp.
 
-{{< figure src="IMG_5636.jpg" alt="" caption="" >}}
+{{< figure src="larry-s-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5631.jpg" alt="" caption="" >}}
+{{< figure src="larry-s-miso.jpg" alt="" caption="" >}}

@@ -6,7 +6,7 @@ lastmod: "2020-11-03T18:32:16.496Z"
 draft: false
 categories: ["Side Dish", "Appetizer"]
 aliases: ["/2019/09/buffalo-cauliflower.html"]
-featured_image: "IMG_3281.jpg"
+featured_image: "buffalo-cauliflower.jpg"
 description: "Buffalo Cauliflower recipe."
 ---
 
@@ -68,16 +68,16 @@ Take out and serve. Oh, topping it with chopped chives looks good, too! Yuuuum.
 
 And some photos of the process:
 
-{{< figure src="IMG_3255.jpg" alt="" caption="" >}}
+{{< figure src="buffalo-cauliflower-step.jpg" alt="" caption="" >}}
 
 Can just throw it all in a big bowl of batter! Here with carrots 🙂
 
 {{< figure src="batter.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_3256.JPG" alt="" caption="" >}}
+{{< figure src="buffalo-cauliflower-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_3258.JPG" alt="" caption="" >}}
+{{< figure src="buffalo-cauliflower-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_3260.JPG" alt="" caption="" >}}
+{{< figure src="buffalo-cauliflower-4.jpg" alt="" caption="" >}}
 
 Yea, there are some open spots in the pan in the oven... some baked cauliflower mysteriously disappeared before it went back into the oven.

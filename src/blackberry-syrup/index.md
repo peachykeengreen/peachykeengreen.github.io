@@ -6,7 +6,7 @@ lastmod: "2020-06-05T18:39:02.499Z"
 draft: false
 categories: ["Dessert", "Sauce", "Breakfast"]
 aliases: ["/2019/08/blackberry-syrup.html"]
-featured_image: "IMG_3094.JPG"
+featured_image: "blackberry-syrup.jpg"
 description: "Blackberry Syrup recipe."
 ---
 
@@ -29,22 +29,22 @@ Place the cooked blackberries in a fine-meshed sieve or colander or in a cheesec
 
 Rinse out the pot and pour the blackberry juice in it along with the sugar and lemon juice.  Bring it to a boil and boil for 3 minutes.  Stir in the pectin and boil for another minute.  Serve immediately or store in fridge for up to 2 weeks.
 
-{{< figure src="IMG_3089.JPG" alt="" caption="" >}}
+{{< figure src="blackberry-syrup-step.jpg" alt="" caption="" >}}
 
 Bring the blackberries to a boil and simmer 15-20 minutes. Mash a little with a potato masher to break up berries.
 
-{{< figure src="IMG_3090.JPG" alt="" caption="" >}}
+{{< figure src="blackberry-syrup-2.jpg" alt="" caption="" >}}
 
 Strain in a fine-mesh-sieve colander. Use a spoon to move the puree around a bit.
 
-{{< figure src="IMG_3092.JPG" alt="" caption="" >}}
+{{< figure src="blackberry-syrup-3.jpg" alt="" caption="" >}}
 
 Rinse the pot and put the juice in. Add the leom and sugar, bring to boil for 3 minutes, add the pectin and boil 1 more minute.
 
-{{< figure src="IMG_3093.JPG" alt="" caption="" >}}
+{{< figure src="blackberry-syrup-4.jpg" alt="" caption="" >}}
 
 Ladle into jars.
 
-{{< figure src="IMG_3095.JPG" alt="" caption="" >}}
+{{< figure src="blackberry-syrup-5.jpg" alt="" caption="" >}}
 
 Refrigerate for up to 2 weeks, or freeze. A great gift!

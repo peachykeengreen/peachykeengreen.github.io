@@ -6,7 +6,7 @@ lastmod: "2020-11-24T05:14:47.992Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2015/05/vegan-pumpkin-pie.html"]
-featured_image: "IMG_8077.jpg"
+featured_image: "vegan-pumpkin-5.jpg"
 description: "Vegan Pumpkin Pie recipe."
 ---
 
@@ -53,13 +53,13 @@ After an hour, the middle may still look jiggly; that's normal. (Sometimes I bak
 
 Slice and serve. Add nondairy whipped topping if desired!
 
-{{< figure src="IMG_8064.jpg" alt="" caption="" >}}
+{{< figure src="vegan-pumpkin-pie.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_8067.jpg" alt="" caption="" >}}
+{{< figure src="vegan-pumpkin-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_8068.jpg" alt="" caption="" >}}
+{{< figure src="vegan-pumpkin-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_8071.jpg" alt="" caption="" >}}
+{{< figure src="vegan-pumpkin-4.jpg" alt="" caption="" >}}
 
 And below is how it looked when I made it with tofu; it was more custardy, which was fine, but I think the tofu flavor was a little too much - at least compared to using nondairy milk.
 

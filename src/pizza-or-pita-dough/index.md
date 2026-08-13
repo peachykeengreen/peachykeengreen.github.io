@@ -6,7 +6,7 @@ lastmod: "2018-10-12T19:08:54.343Z"
 draft: false
 categories: ["Bread"]
 aliases: ["/2018/03/pizza-or-pita-dough.html"]
-featured_image: "IMG_8956.JPG"
+featured_image: "dough-pita-3.jpg"
 description: "Dough for Pita, Pizza, or Empanadas recipe."
 ---
 
@@ -65,7 +65,7 @@ Place in pan, and **flip after 30 seconds or a minute, when you see bubbles star
 
 Photos, below.
 
-{{< figure src="IMG_8951.JPG" alt="" caption="" >}}{{< figure src="IMG_8952.jpg" alt="" caption="" >}}
+{{< figure src="dough-pita-pizza.jpg" alt="" caption="" >}}{{< figure src="dough-pita-2.jpg" alt="" caption="" >}}
 
 After an hour, it doubled in size and I put it in the fridge, where it got a little bigger yet. Then that evening I took it out and made pita.
 

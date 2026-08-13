@@ -35,7 +35,7 @@ Munira is cooking us another delicious dinner, and wants rum cake! So I gave it 
 - 2/3 C canola oil
 - 3 tsp vanilla
 
-{{< figure src="IMG_2199.jpg" alt="" caption="" >}}
+{{< figure src="yummy-rummy-cake.jpg" alt="" caption="" >}}
 
 ### Glaze
 
@@ -81,4 +81,4 @@ Use a knife to make several holes in the top. With a spoon, slowly spoon half th
 
 Serve when cool! Nice with ice cream.
 
-{{< figure src="choc.jpg" alt="Vanilla coconut" caption="Vanilla coconut" >}}{{< figure src="IMG_2193.jpg" alt="Chocolate walnut" caption="Chocolate walnut" >}}
+{{< figure src="choc.jpg" alt="Vanilla coconut" caption="Vanilla coconut" >}}{{< figure src="yummy-chocolate-walnut.jpg" alt="Chocolate walnut" caption="Chocolate walnut" >}}

@@ -6,7 +6,7 @@ lastmod: "2024-01-04T22:52:58.945Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2024/01/roasted-tofu-with-chickpeas-tomatoes.html"]
-featured_image: "IMG_7168.jpg"
+featured_image: "za-atar-6.jpg"
 description: "Za\u2019atar Roasted Tofu with Chickpeas, Tomatoes and Tahini recipe."
 ---
 
@@ -52,12 +52,12 @@ Turn off oven. Remove sheet pan from oven and top with greens.  Put pan back in
 
 Spread farro (or other grain) on a large plate. Carefully transfer the roasted mixture onto the farro. Dress the plate with tahini mixture and sprinkle with remaining ¼ cup parsley. Serve!
 
-{{< figure src="IMG_7150.jpg" alt="" caption="" >}}
+{{< figure src="za-atar-roasted.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_7153.jpg" alt="" caption="" >}}
+{{< figure src="za-atar-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_7154.jpg" alt="" caption="" >}}
+{{< figure src="za-atar-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_7156.jpg" alt="" caption="" >}}
+{{< figure src="za-atar-4.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_7164.jpg" alt="" caption="" >}}
+{{< figure src="za-atar-5.jpg" alt="" caption="" >}}

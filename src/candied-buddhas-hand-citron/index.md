@@ -29,13 +29,13 @@ Put candy thermometer in a pan, add the diced citron and the water and sugar.
 
 Put it on medium heat and wait for it to boil, stirring to dissolve sugar.
 
-{{< figure src="IMG_4887.jpg" alt="" caption="" >}}Adjust the heat to a simmer and allow it to bubble slowly for an hour or two (less if pre-boiled), stirring occasionally (I set a timer for 10-15 minutes to check and stir).
+{{< figure src="candied-buddha-s.jpg" alt="" caption="" >}}Adjust the heat to a simmer and allow it to bubble slowly for an hour or two (less if pre-boiled), stirring occasionally (I set a timer for 10-15 minutes to check and stir).
 
 As it reduces, the sugar syrup will become thicker and the fruit will start to become translucent. Toward the later stage of thickening, the temperature will finally begin to climb above 220. Begin watching closely, checking every 5 minutes.
 
 Bring to 230 degrees F, the soft thread stage, then remove from heat. Do not allow the temperature to exceed this stage or you will not be able to separate the candy and it will become brittle.
 
-{{< figure src="IMG_4889.jpg" alt="" caption="" >}}Turn off the heat and rest the citron in the syrup for 30 minutes or so. The resting period helps the syrup to fully penetrate the fruit.
+{{< figure src="candied-buddha-2.jpg" alt="" caption="" >}}Turn off the heat and rest the citron in the syrup for 30 minutes or so. The resting period helps the syrup to fully penetrate the fruit.
 
 Drain the citron through a sieve or colander, retaining the delicious syrup, which should be refrigerated.
 
@@ -50,23 +50,23 @@ Thanks, Pat & Allen!
 
 Cooling 30 minutes to rest and absorb the syrup; then drain, spread on sheet, and save syrup!
 
-{{< figure src="IMG_8126.jpg" alt="" caption="" >}}{{< figure src="IMG_8128.jpg" alt="" caption="" >}}
+{{< figure src="candied-buddha-9.jpg" alt="" caption="" >}}{{< figure src="candied-buddha-10.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_8129.jpg" alt="" caption="" >}}
+{{< figure src="candied-buddha-11.jpg" alt="" caption="" >}}
 
 Buddha's Hand tree:
 
-{{< figure src="IMG_4949.jpg" alt="" caption="" >}}
+{{< figure src="candied-buddha-5.jpg" alt="" caption="" >}}
 
 A few days later, Pat and Allen gave me 8 more! That led to
 [biscotti](/biscotti/)
 
 🙂
 
-{{< figure src="IMG_4952.jpg" alt="" caption="" >}}
+{{< figure src="candied-buddha-6.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_4953.jpg" alt="" caption="" >}}{{< figure src="IMG_4954.JPG" alt="" caption="" >}}
+{{< figure src="candied-buddha-7.jpg" alt="" caption="" >}}{{< figure src="candied-buddha-8.jpg" alt="" caption="" >}}
 
 Walking through China Town in SF a few days after that, we saw them for sale - for $7 a pound!
 
-{{< figure src="IMG_4930.jpg" alt="" caption="" >}}{{< figure src="IMG_4929.jpg" alt="" caption="" >}}
+{{< figure src="candied-buddha-4.jpg" alt="" caption="" >}}{{< figure src="candied-buddha-3.jpg" alt="" caption="" >}}

@@ -6,7 +6,7 @@ lastmod: "2026-03-07T23:06:15.906Z"
 draft: false
 categories: ["Side Dish", "Indian"]
 aliases: ["/2016/11/mung-bean-sprout-saute.html"]
-featured_image: "IMG_4551.JPG"
+featured_image: "mung-bean-3.jpg"
 description: "Mung Bean Sprout Saute recipe."
 ---
 
@@ -35,18 +35,18 @@ Munira's family gave us some sauteed mung bean sprouts last year, and they were 
 
 Put mung bean seeds in a sprouting jar. Soak 8 hours. Rinse with cool water 2-3 times a day; swirl and drain. Always store in a tipped position in a bowl, so the water doesn't sit, but rather drips out.
 
-{{< figure src="IMG_4549.JPG" alt="" caption="" >}}The sprouts will be ready to use in 3-5 days, when they fill the jar and it looks like this. They expand to take up about 10 times the space; it's amazing!
+{{< figure src="mung-bean-sprout.jpg" alt="" caption="" >}}The sprouts will be ready to use in 3-5 days, when they fill the jar and it looks like this. They expand to take up about 10 times the space; it's amazing!
 
 When done, rinse one last time, and use right away or put them in a container in the refrigerator (to stop the sprouting process) for up to a few days.
 
 To saute, heat the oil in a big pan. Add red pepper flakes and cumin seeds, and roast for a minute. Add the garlic, remaining spices, and sprouts, and saute for a few minutes until lightly brown. Salt and pepper to taste. Serve!
 
-{{< figure src="IMG_4550.JPG" alt="" caption="" >}}
+{{< figure src="mung-bean-2.jpg" alt="" caption="" >}}
 
 You can sprout other kinds of beans, of course! My sprout jar has different size lids for different size seeds. On the the right is a 5-lb bag of mung beans; on the left is a small mix of alfalfa, broccoli, & red clover sprouts (shown sprouting, below).
 
-{{< figure src="IMG_5619.jpg" alt="" caption="" >}}
+{{< figure src="mung-bean-4.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5620.jpg" alt="" caption="" >}}
+{{< figure src="mung-bean-5.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5642.jpg" alt="" caption="" >}}
+{{< figure src="mung-bean-6.jpg" alt="" caption="" >}}

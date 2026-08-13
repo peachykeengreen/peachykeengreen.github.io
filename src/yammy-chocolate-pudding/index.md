@@ -6,7 +6,7 @@ lastmod: "2022-04-02T20:16:01.107Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2019/12/yammy-chocolate-pudding.html"]
-featured_image: "IMG_4628.jpg"
+featured_image: "yammy-chocolate-pudding.jpg"
 description: "Yammy Chocolate Pudding (Optionally Pie) recipe."
 ---
 

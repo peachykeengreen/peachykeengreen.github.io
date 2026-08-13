@@ -28,4 +28,4 @@ Peel the sweet potatoes and cut them up in large chunks. Put in large baking pan
 
 Remove from oven and sprinkle on brown sugar. Put back in oven *without* foil cover for another 15 minutes. Remove and eat!
 
-{{< figure src="IMG_4444.JPG" alt="" caption="" >}}{{< figure src="IMG_4447.JPG" alt="" caption="" >}}
+{{< figure src="lightly-candied-sweet.jpg" alt="" caption="" >}}{{< figure src="lightly-candied-2.jpg" alt="" caption="" >}}

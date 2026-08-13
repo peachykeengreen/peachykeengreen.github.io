@@ -6,7 +6,7 @@ lastmod: "2022-12-01T22:41:29.943Z"
 draft: false
 categories: ["Breakfast"]
 aliases: ["/2022/12/nut-medley-granola.html"]
-featured_image: "IMG_3426.jpg"
+featured_image: "nut-medley-granola.jpg"
 description: "Nut Medley Granola recipe."
 ---
 

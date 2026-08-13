@@ -46,12 +46,12 @@ Mix spices into bread crumb mixture. Add bread crumb mixture, veggie mixture, an
 
 Bake in 350 degree oven for 30 minutes. Remove and let sit for 10 minutes. Serve!
 
-{{< figure src="IMG_8212.jpg" alt="" caption="" >}}
+{{< figure src="impossible-meatloaf-step.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_8215.jpg" alt="" caption="" >}}
+{{< figure src="impossible-meatloaf-2.jpg" alt="" caption="" >}}
 
 baked, with more veggies and [carrot greens chimichurri](/vikis-carrot-greens-chimichurri/):
 
-{{< figure src="IMG_8425.jpg" alt="" caption="" >}}
+{{< figure src="impossible-meatloaf-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_8429.jpg" alt="" caption="" >}}
+{{< figure src="impossible-meatloaf-4.jpg" alt="" caption="" >}}

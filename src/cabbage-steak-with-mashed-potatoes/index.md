@@ -51,9 +51,9 @@ Cabbage steaks: Slide the cabbage into 3/4 inch thick steaks. Brush them with oi
 Mushroom gravy: Finely chop the mushrooms (and onion, if using), and saute in oil with garlic, salt, and pepper. Turn down the heat, add the cashew cream and nutritional yeast, and cook another half hour. Serve over [mashed cauliflower potatoes](/mashed-cauliflower-potatoes/)!
 Also good w/ purple cabbage (cauliflower steak, too)
 
-{{< figure src="IMG_0401.jpg" alt="" caption="" >}}{{< figure src="IMG_8326.jpg" alt="" caption="" >}}
+{{< figure src="cabbage-steak-mashed.jpg" alt="" caption="" >}}{{< figure src="cabbage-steak-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_8319.jpg" alt="" caption="" >}}
+{{< figure src="cabbage-steak-2.jpg" alt="" caption="" >}}
 
 {{< figure src="cabbage-steak-with-mashed-potatoes-img-2.jpg" alt="" caption="" >}}
 

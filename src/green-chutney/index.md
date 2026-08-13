@@ -6,7 +6,7 @@ lastmod: "2021-06-20T04:23:14.910Z"
 draft: false
 categories: ["Appetizer", "Indian", "Sauce"]
 aliases: ["/2019/05/green-chutney.html"]
-featured_image: "IMG_2328.jpg"
+featured_image: "cilantro-mint-2.jpg"
 description: "Cilantro Mint Chutney recipe."
 ---
 
@@ -36,6 +36,6 @@ In the food processor, grind the onion, peppers, and ginger coarsely (and any op
 
 I like to freeze some in ice cube trays so I can grab some when I want it for a veggie burger.
 
-{{< figure src="IMG_2325.JPG" alt="" caption="" >}}
+{{< figure src="cilantro-mint-chutney.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2329.jpg" alt="" caption="" >}}
+{{< figure src="cilantro-mint-3.jpg" alt="" caption="" >}}

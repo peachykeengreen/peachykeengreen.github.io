@@ -6,7 +6,7 @@ lastmod: "2022-07-14T01:18:53.201Z"
 draft: false
 categories: ["Side Dish", "Bread"]
 aliases: ["/2017/04/cornbread-muffins.html"]
-featured_image: "IMG_5808.JPG"
+featured_image: "cornbread-muffins.jpg"
 description: "Cornbread Muffins recipe."
 ---
 
@@ -47,7 +47,7 @@ Butter a 9x9 pan with vegan butter and pour in batter. Or if using muffin tins, 
 
 Bake for about 20 minutes. Yum!
 
-{{< figure src="IMG_5809.JPG" alt="" caption="" >}}
+{{< figure src="cornbread-muffins-step.jpg" alt="" caption="" >}}
 
 Note that [these silicon loaves](https://www.amazon.com/Pantry-Elements-Rectangular-Silicone-Baking/dp/B00ZYE43AA/) are really tiny, like 2" x 3" -- about the size of a muffin. I thought they were bigger so I was bummed when they arrived, but now I think they are cute!
 

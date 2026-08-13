@@ -6,7 +6,7 @@ lastmod: "2022-05-01T23:45:26.920Z"
 draft: false
 categories: ["Entree", "Indian"]
 aliases: ["/2022/04/fried-rice.html"]
-featured_image: "IMG_1676.jpg"
+featured_image: "fried-rice.jpg"
 description: "Fried Rice recipe."
 ---
 
@@ -34,12 +34,12 @@ In oil, saute mustard seed, hing, onion (and hot pepper, if using), cooking unti
 
 Munira does her magic:
 
-{{< figure src="IMG_1665.jpg" alt="" caption="" >}}{{< figure src="IMG_1667.jpg" alt="" caption="" >}}
+{{< figure src="fried-rice-step.jpg" alt="" caption="" >}}{{< figure src="fried-rice-2.jpg" alt="" caption="" >}}
 
 Patti continues at home:
 
-{{< figure src="IMG_1673.jpg" alt="" caption="" >}}{{< figure src="IMG_1674.jpg" alt="" caption="" >}}
+{{< figure src="fried-rice-3.jpg" alt="" caption="" >}}{{< figure src="fried-rice-4.jpg" alt="" caption="" >}}
 
 add cashews!
 
-{{< figure src="IMG_1675.jpg" alt="" caption="" >}}
+{{< figure src="fried-rice-5.jpg" alt="" caption="" >}}

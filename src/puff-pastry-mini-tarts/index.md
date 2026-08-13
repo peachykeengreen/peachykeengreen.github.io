@@ -6,7 +6,7 @@ lastmod: "2018-01-19T22:13:57.028Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2018/01/puff-pastry-mini-tarts.html"]
-featured_image: "IMG_0137.jpg"
+featured_image: "puff-pastry-mini.jpg"
 description: "Puff Pastry Mini Tarts recipe."
 ---
 

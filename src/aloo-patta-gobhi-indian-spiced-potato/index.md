@@ -6,7 +6,7 @@ lastmod: "2020-11-08T04:55:56.581Z"
 draft: false
 categories: ["Entree", "Indian"]
 aliases: ["/2020/03/aloo-patta-gobhi-indian-spiced-potato.html"]
-featured_image: "IMG_5275.jpg"
+featured_image: "aloo-patta-2.jpg"
 description: "Aloo Patta Gobhi (Indian Spiced Potato Cabbage) recipe."
 ---
 
@@ -31,4 +31,4 @@ Munira often makes a potato cabbage fry for us that is yummy. I love cabbage and
 
 Saute cumin seeds, mustard seeds, fenugreek seeds (if using), and pepper in oil. Add garlic, ginger, and cook 2 minutes. Add turmeric and salt and mix. Add potatoes and mix well. Add cabbage and mix. Cover and cook for 15 minutes. Taste and adjust salt and spice. Serve hot, garnished with cilantro.
 
-{{< figure src="IMG_5273.jpg" alt="" caption="" >}}
+{{< figure src="aloo-patta-gobhi.jpg" alt="" caption="" >}}

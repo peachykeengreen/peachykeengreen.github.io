@@ -6,7 +6,7 @@ lastmod: "2024-01-30T00:55:41.550Z"
 draft: false
 categories: ["Entree", "Indian"]
 aliases: ["/2019/05/vegan-palak-paneer-with-curried-tofu.html"]
-featured_image: "IMG_2076.jpg"
+featured_image: "palak-paneer-3.jpg"
 description: "Palak Paneer with Curried Tofu recipe."
 ---
 
@@ -50,6 +50,6 @@ Serve over tofu and garnish with garam masala. Goes well with roti or rice.
 
 {{< figure src="saag.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2073.jpg" alt="" caption="" >}}
+{{< figure src="palak-paneer-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2072.JPG" alt="" caption="" >}}
+{{< figure src="palak-paneer-curried.jpg" alt="" caption="" >}}

@@ -6,7 +6,7 @@ lastmod: "2020-06-05T18:36:26.279Z"
 draft: false
 categories: ["Dessert", "Appetizer"]
 aliases: ["/2019/09/dried-figs.html"]
-featured_image: "IMG_3319.JPG"
+featured_image: "dried-figs.jpg"
 description: "Dried Figs recipe."
 ---
 
@@ -24,4 +24,4 @@ Place them on dehydrator shelves, skin side down so they don't stick to the shel
 
 Dry on medium or high overnight, or for 10-12 hours. Check after 8 hours. When they're no longer juicy, remove and put in glass container. We keep ours in an open bowl in the fridge, but you could also put them in a jar  on the counter and eat them over a few days - if they last that long! A little jar of dried figs also makes a fun gift.
 
-{{< figure src="IMG_3320.JPG" alt="" caption="" >}}{{< figure src="IMG_3219.JPG" alt="" caption="" >}}
+{{< figure src="dried-figs-2.jpg" alt="" caption="" >}}{{< figure src="dried-figs-step.jpg" alt="" caption="" >}}

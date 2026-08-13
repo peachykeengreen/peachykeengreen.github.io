@@ -6,7 +6,7 @@ lastmod: "2024-02-11T20:00:29.823Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2021/05/blood-orange-chocolate-olive-oil-cake.html"]
-featured_image: "IMG_9293.jpg"
+featured_image: "blood-orange-8.jpg"
 description: "Blood Orange Chocolate Olive Oil Cake recipe."
 ---
 
@@ -62,18 +62,18 @@ Once the cake has cooled, pour the glaze over the cake, letting it drip down the
 
 Making the cake (double recipe):
 
-{{< figure src="IMG_9286.jpg" alt="" caption="" >}}
+{{< figure src="blood-orange-4.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_9288.jpg" alt="" caption="" >}}
+{{< figure src="blood-orange-5.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_9291.jpg" alt="" caption="" >}}
+{{< figure src="blood-orange-6.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_9292.jpg" alt="" caption="" >}}
+{{< figure src="blood-orange-7.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_9294.jpg" alt="" caption="" >}}
+{{< figure src="blood-orange-9.jpg" alt="" caption="" >}}
 
-[{{< figure src="IMG_5711%20(480x640" alt="" caption="" >}}.jpg)](IMG_5711%20(480x640).jpg)
+[{{< figure src="blood-orange-2.jpg" alt="" caption="" >}}](blood-orange-2.jpg)
 
-[{{< figure src="IMG_5708%20(640x480" alt="" caption="" >}}.jpg)](IMG_5708%20(640x480).jpg)
+[{{< figure src="blood-orange-chocolate.jpg" alt="" caption="" >}}](blood-orange-chocolate.jpg)
 
-[{{< figure src="IMG_5716%20(480x640" alt="" caption="" >}}.jpg)](IMG_5716%20(480x640).jpg)
+[{{< figure src="blood-orange-3.jpg" alt="" caption="" >}}](blood-orange-3.jpg)

@@ -48,20 +48,20 @@ Bake at 350 degrees for 25-30 minutes.  Fresh out of the oven, sprinkle with po
 
 Sherry spreads out the batter.
 
-{{< figure src="IMG_9526.jpg" alt="" caption="" >}}
+{{< figure src="apricot-sheet-cake.jpg" alt="" caption="" >}}
 
 I thought this might be too much fruit. Wrong!
 
-{{< figure src="IMG_9528.jpg" alt="" caption="" >}}
+{{< figure src="apricot-sheet-2.jpg" alt="" caption="" >}}
 
 Cooked and sprinkled, yum.
 
-{{< figure src="IMG_9530.jpg" alt="" caption="" >}}
+{{< figure src="apricot-sheet-3.jpg" alt="" caption="" >}}
 
 Hurry up and cool!!
 
-{{< figure src="IMG_9532.jpg" alt="" caption="" >}}
+{{< figure src="apricot-sheet-4.jpg" alt="" caption="" >}}
 
 Cut into bars the half sheet that wasn't devoured.
 
-{{< figure src="IMG_9535.jpg" alt="" caption="" >}}
+{{< figure src="apricot-sheet-5.jpg" alt="" caption="" >}}

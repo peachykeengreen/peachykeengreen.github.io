@@ -55,6 +55,6 @@ The crisp version (this is a tiny pan of leftover fruit after 9 turnovers, with 
 
 Making the turnovers:
 
-{{< figure src="IMG_0403.jpg" alt="" caption="" >}}
+{{< figure src="apple-crisp-turnovers.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_0405.jpg" alt="" caption="" >}}
+{{< figure src="apple-crisp-2.jpg" alt="" caption="" >}}

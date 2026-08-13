@@ -6,7 +6,7 @@ lastmod: "2022-10-06T00:05:18.594Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2022/05/kiras-soba-noodles-with-tahini-sauce.html"]
-featured_image: "IMG_1760.jpg"
+featured_image: "kira-s-soba.jpg"
 description: "Kira's Soba Noodles with Tahini Sauce recipe."
 ---
 
@@ -59,7 +59,7 @@ Slicing the just egg, scallions, and plant-based ham:
 
 Mixing up the sauce!
 
-{{< figure src="IMG_1762.jpg" alt="" caption="" >}}
+{{< figure src="kira-s-3.jpg" alt="" caption="" >}}
 
 Purple Carrot version with panko-crusted tempeh:
 
@@ -67,7 +67,7 @@ Purple Carrot version with panko-crusted tempeh:
 
 Optional black salt with egg-like sulfur flavor (noting this for future fake egg dishes; could use in vegan quiche?)
 
-{{< figure src="IMG_1761.jpg" alt="" caption="" >}}
+{{< figure src="kira-s-2.jpg" alt="" caption="" >}}
 
 Version that I made months later, with veggie duck!
 

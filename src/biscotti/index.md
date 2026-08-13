@@ -6,7 +6,7 @@ lastmod: "2025-02-11T05:18:47.951Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2020/01/biscotti.html"]
-featured_image: "IMG_4975.jpg"
+featured_image: "almond-citron-4.jpg"
 description: "Almond Citron Biscotti recipe."
 ---
 
@@ -53,12 +53,12 @@ Note: Could also dip in chocolate. To do so, add chopped chocolate to a mixing b
 
 Store covered at room temperature for 3-4 days. A large jar is ideal.
 
-{{< figure src="IMG_4968.jpg" alt="" caption="" >}}
+{{< figure src="almond-citron-biscotti.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_4970.jpg" alt="" caption="" >}}
+{{< figure src="almond-citron-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_4972.jpg" alt="" caption="" >}}
+{{< figure src="almond-citron-3.jpg" alt="" caption="" >}}
 
 Thanks to Pati for helping me make a batch!
 
-{{< figure src="IMG_5143.jpg" alt="" caption="" >}}
+{{< figure src="almond-citron-5.jpg" alt="" caption="" >}}

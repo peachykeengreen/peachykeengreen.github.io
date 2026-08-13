@@ -6,7 +6,7 @@ lastmod: "2024-11-30T19:06:51.098Z"
 draft: false
 categories: ["Side Dish", "Salad"]
 aliases: ["/2016/11/wild-rice-salad-with-apples-and-walnuts.html"]
-featured_image: "IMG_4555.JPG"
+featured_image: "wild-rice-salad.jpg"
 description: "Wild Rice Salad with Apples and Walnuts recipe."
 ---
 

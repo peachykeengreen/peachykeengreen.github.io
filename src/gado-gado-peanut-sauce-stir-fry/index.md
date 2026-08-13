@@ -36,8 +36,8 @@ In a saucepan, cook the onions, garlic, bay leaf, pepper, and ginger in butter. 
 
 Serve the sauce over an artful arrangement of cooked vegetables and tofu! Optionally garnish with a drizzle of sesame oil and/or sesame seeds.
 
-{{< figure src="IMG_3291.JPG" alt="" caption="" >}}
+{{< figure src="gado-gado-peanut.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_3293.JPG" alt="" caption="" >}}
+{{< figure src="gado-gado-2.jpg" alt="" caption="" >}}
 
 Would be nice if this were a little more yellow than brown... should I add turmeric?

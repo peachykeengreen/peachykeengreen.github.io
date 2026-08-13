@@ -42,8 +42,8 @@ Munira's roti:
 
 {{< figure src="roti1.png" alt="" caption="" >}}
 
-{{< figure src="roti-pan.png" alt="" caption="" >}}{{< figure src="IMG_5417.jpg" alt="" caption="" >}}
+{{< figure src="roti-pan.png" alt="" caption="" >}}{{< figure src="spiced-roti-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5403.jpg" alt="" caption="" >}}
+{{< figure src="spiced-roti-step.jpg" alt="" caption="" >}}
 
 {{< figure src="roti-grill.png" alt="" caption="" >}}

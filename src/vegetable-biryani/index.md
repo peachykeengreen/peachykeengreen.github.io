@@ -6,7 +6,7 @@ lastmod: "2020-11-08T04:54:16.215Z"
 draft: true
 categories: ["Entree", "Indian"]
 aliases: ["/2020/06/vegetable-biryani.html"]
-featured_image: "IMG_5821.jpg"
+featured_image: "vegetable-biryani.jpg"
 description: "Vegetable Biryani recipe."
 ---
 
@@ -56,4 +56,4 @@ Close lid with seal in place and use manual setting to cook for 6 minutes. Relea
 
 How it looks before cooking:
 
-{{< figure src="/images/IMG_5820.jpg" alt="" caption="" >}}
+{{< figure src="/images/vegetable-biryani-step.jpg" alt="" caption="" >}}

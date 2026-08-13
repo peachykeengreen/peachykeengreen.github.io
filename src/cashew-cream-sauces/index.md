@@ -6,7 +6,7 @@ lastmod: "2022-05-18T03:17:34.058Z"
 draft: false
 categories: ["Sauce"]
 aliases: ["/2022/05/cashew-cream-sauces.html"]
-featured_image: "IMG_1826.jpg"
+featured_image: "cashew-cream-3.jpg"
 description: "Cashew Cream Sauces recipe."
 ---
 
@@ -39,8 +39,8 @@ The best things I've learned so far from a 2-week [Purple Carrot](https://www.p
 Put ingredients in blender and blend until smooth. (I use a small ninja single-serve cup, and pulse a few times.) Pour sauce over dish! For yams, optionally top with more cashews.
 
 Baked yams on a bed of sautéed chard tossed with a pinch of salt and lime juice,
-topped with spicy cashew sauce and cashew pieces:{{< figure src="IMG_1793.jpg" alt="" caption="" >}}
+topped with spicy cashew sauce and cashew pieces:{{< figure src="cashew-cream-sauces.jpg" alt="" caption="" >}}
 
 Smokey portabello tacos with jalapeno cashew sauce:
 
-{{< figure src="IMG_1821.jpg" alt="" caption="" >}}
+{{< figure src="cashew-cream-2.jpg" alt="" caption="" >}}

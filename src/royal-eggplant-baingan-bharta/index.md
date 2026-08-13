@@ -50,6 +50,6 @@ Add the tomato and cilantro, and cook until liquid from the tomato evaporates, a
 
 Reduce to low and cook for 15-20 min, stirring occasionally. Transfer to a dish and garnish with cilantro. Serve with naan and/or rice.
 
-{{< figure src="IMG_5277.jpg" alt="" caption="" >}}
+{{< figure src="royal-eggplant-baingan.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5278.jpg" alt="" caption="" >}}
+{{< figure src="royal-eggplant-2.jpg" alt="" caption="" >}}

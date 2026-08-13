@@ -48,4 +48,4 @@ Done! Super thick, creamy yogurt:
 
 The OLD way -- more work than needed -- and the almond flour could be a bit grainy settling at the bottom of a jar.
 
-{{< figure src="IMG_5168.jpg" alt="" caption="" >}}
+{{< figure src="creamy-soy-yogurt.jpg" alt="" caption="" >}}

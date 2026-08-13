@@ -6,7 +6,7 @@ lastmod: "2024-11-09T22:35:50.604Z"
 draft: false
 categories: ["Side Dish"]
 aliases: ["/2016/11/spicy-roasted-brussels-sprouts.html"]
-featured_image: "IMG_4571.JPG"
+featured_image: "spicy-roasted-brussels.jpg"
 description: "Spicy Roasted Brussels Sprouts recipe."
 ---
 

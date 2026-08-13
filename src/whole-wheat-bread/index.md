@@ -56,11 +56,11 @@ Cover with lid and bake 30 minutes, then remove lid and bake another 8-10 minute
 
 Gathering the ingredients:
 
-{{< figure src="IMG_7904.jpg" alt="" caption="" >}}
+{{< figure src="whole-wheat-bread.jpg" alt="" caption="" >}}
 
 Mixed by hand, just enough to blend (careful not to overmix):
 
-{{< figure src="IMG_7905.jpg" alt="" caption="" >}}
+{{< figure src="whole-wheat-2.jpg" alt="" caption="" >}}
 
 Dough (with walnuts!) resting and rising (covered) for the next 18 hours:
 

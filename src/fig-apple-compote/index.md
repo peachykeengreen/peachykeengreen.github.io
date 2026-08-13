@@ -6,7 +6,7 @@ lastmod: "2021-02-25T19:39:29.158Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2020/09/fig-apple-compote.html"]
-featured_image: "IMG_6976.jpg"
+featured_image: "fig-apple-5.jpg"
 description: "Fig Apple Compote recipe."
 ---
 
@@ -26,7 +26,7 @@ Chop figs and apples in relatively small pieces. Mix together in a large saucepa
 
 Cooked, on stove:
 
-{{< figure src="IMG_6973.jpg" alt="" caption="" >}}
+{{< figure src="fig-apple-4.jpg" alt="" caption="" >}}
 
 ## Aside: Jam making!
 
@@ -34,8 +34,8 @@ I'm not sure that I'll do this again, so decided not to make a separate post for
 
 Still, it's great spooned into my [homemade yogurt](/soy-yogurt-with-instant-pot/) or spooned onto toast. We'll enjoy what we have, and it is kinda cool storing them in the pantry instead of filling the freezer. But I think I'll return to "freezer" jam/compote/sauce for the future -- and just give away jars frequently so they don't fill my freezer. I usually do that, but it's been a little harder to give away in COVID times, as we're not socializing as much. This time next year hopefully things will be different.
 
-{{< figure src="IMG_6910.jpg" alt="" caption="" >}}{{< figure src="jam-sugar.jpg" alt="" caption="" >}}
+{{< figure src="fig-apple-compote.jpg" alt="" caption="" >}}{{< figure src="jam-sugar.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_6912.jpg" alt="" caption="" >}}{{< figure src="wipe.jpg" alt="" caption="" >}}
+{{< figure src="fig-apple-2.jpg" alt="" caption="" >}}{{< figure src="wipe.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_6935.jpg" alt="" caption="" >}}{{< figure src="jam.jpg" alt="" caption="" >}}<
+{{< figure src="fig-apple-3.jpg" alt="" caption="" >}}{{< figure src="jam.jpg" alt="" caption="" >}}<

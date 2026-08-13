@@ -45,51 +45,51 @@ Serve with toasted bread (to make a sandwich) and garnish with red onion, cilant
 
 Shown above with Chinese broccoli that Jackie made (saute fried fresh garlic in sesame oil and a little soy sauce, and add slightly steamed Chinese broccoli, toss and serve!)
 
-{{< figure src="IMG_2016.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-indian.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2017.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2018.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2019.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-4.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2020.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-5.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2021.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-6.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2023.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-7.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2024.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-8.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2025.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-9.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2026.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-10.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2027.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-11.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2028.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-12.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2033.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-14.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2029.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-13.jpg" alt="" caption="" >}}
 
 Jackie makes her Chinese broccoli on the second burner...
 
 Munira stirs and waits... and toasts and waits...
 
-{{< figure src="IMG_2048.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-16.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2053.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-18.jpg" alt="" caption="" >}}
 
 Patti hopes she can replicate this!
 
-{{< figure src="IMG_2039.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-15.jpg" alt="" caption="" >}}
 
 And... it's ready! Yum!
 
-{{< figure src="IMG_2051.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-17.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_2057.JPG" alt="" caption="" >}}
+{{< figure src="pav-bhaji-19.jpg" alt="" caption="" >}}
 
 And fast forward to another bhaji attempt in May 2020 for the birthday boy - it was delicious!
 

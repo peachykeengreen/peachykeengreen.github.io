@@ -6,7 +6,7 @@ lastmod: "2021-05-19T03:25:56.716Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2021/01/impossible-lasagna.html"]
-featured_image: "IMG_9339.jpg"
+featured_image: "impossible-lasagna.jpg"
 description: "Impossible Lasagna recipe."
 ---
 
@@ -42,7 +42,7 @@ I made a [Vegan Lasagna with Nooch Cheese](https://www.elephantasticvegan.com/la
 
 In a large pan or soup pot, saute onion, carrot, pepper flakes, and salt in oil for a few minutes. Add garlic and paprika (and mushrooms if using), and stir another minute. Add crumbled impossible burger and saute until it turns brown.
 
-{{< figure src="IMG_9095.jpg" alt="" caption="" >}}
+{{< figure src="impossible-lasagna-2.jpg" alt="" caption="" >}}
 
 Finally, add tomatoes, oregano, and basil, and simmer for 30 minutes. Turn off and let cool. If you want to finish the lasagna tomorrow, put it in a big bowl and refrigerate overnight.
 
@@ -60,22 +60,22 @@ Bake the lasagna in the oven for about 45 minutes, until the cheese sauce is gol
 
 Making the layers:
 
-{{< figure src="IMG_9096.jpg" alt="" caption="" >}}
+{{< figure src="impossible-lasagna-3.jpg" alt="" caption="" >}}
 
 Medium pan (was too much cheese for us):
 
-{{< figure src="IMG_9097.jpg" alt="" caption="" >}}
+{{< figure src="impossible-lasagna-4.jpg" alt="" caption="" >}}
 
 Large pan with vegan mozzarella (better, but will try even less cheese next time):
 
-{{< figure src="IMG_9335.jpg" alt="" caption="" >}}
+{{< figure src="impossible-lasagna-5.jpg" alt="" caption="" >}}
 
 Cooked!
 
-{{< figure src="IMG_9336.jpg" alt="" caption="" >}}
+{{< figure src="impossible-lasagna-6.jpg" alt="" caption="" >}}
 
 Below is the original that Judy sent me. Marti was my first roommate in grad school, and Garnet was a unix server we had our email accounts on 🙂
 
 Can you believe how much cheese we used? FIVE POUNDS total. And what's with "cover the pan with foil" before you do anything? That's just weird.
 
-{{< figure src="IMG_4532.jpeg" alt="" caption="" >}}
+{{< figure src="impossible-lasagna-step.jpg" alt="" caption="" >}}

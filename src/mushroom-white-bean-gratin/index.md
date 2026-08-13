@@ -6,7 +6,7 @@ lastmod: "2026-02-14T18:54:23.075Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2024/04/mushroom-white-bean-gratin.html"]
-featured_image: "IMG_7899.jpg"
+featured_image: "mushroom-white-6.jpg"
 description: "Mushroom White Bean Gratin recipe."
 ---
 
@@ -53,20 +53,20 @@ Remove and let sit 10-15 minutes. Serve! Nice with a light salad.
 
 Gathering ingredients, including pressure-cooking the white beans:
 
-{{< figure src="IMG_7889.jpg" alt="" caption="" >}}
+{{< figure src="mushroom-white-2.jpg" alt="" caption="" >}}
 
 Ready to assemble:
 
-{{< figure src="IMG_7890.jpg" alt="" caption="" >}}
+{{< figure src="mushroom-white-3.jpg" alt="" caption="" >}}
 
 Out of the oven:
 
-{{< figure src="IMG_7897.jpg" alt="" caption="" >}}
+{{< figure src="mushroom-white-4.jpg" alt="" caption="" >}}
 
 Such a pretty top crust!
 
-{{< figure src="IMG_7898.jpg" alt="" caption="" >}}
+{{< figure src="mushroom-white-5.jpg" alt="" caption="" >}}
 
 Second version, with more root veggies and a can of diced tomatoes, served with cranberry sauce and green beans:
 
-{{< figure src="IMG_0345.jpg" alt="" caption="" >}}
+{{< figure src="mushroom-white-bean.jpg" alt="" caption="" >}}

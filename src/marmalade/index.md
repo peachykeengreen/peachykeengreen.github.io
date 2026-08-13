@@ -6,7 +6,7 @@ lastmod: "2020-07-04T03:19:14.173Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2020/06/marmalade.html"]
-featured_image: "IMG_5816.jpg"
+featured_image: "marmalade.jpg"
 description: "Marmalade recipe."
 ---
 
@@ -33,4 +33,4 @@ Spoon the marmalade into clean jars, wipe rims and seal. Chill in refrigerator. 
 
 {{< figure src="oranges.jpg" alt="" caption="" >}}{{< figure src="marm.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5819.jpg" alt="" caption="" >}}
+{{< figure src="marmalade-step-2.jpg" alt="" caption="" >}}

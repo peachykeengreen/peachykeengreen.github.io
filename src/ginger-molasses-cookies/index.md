@@ -6,7 +6,7 @@ lastmod: "2020-06-05T18:41:13.179Z"
 draft: false
 categories: ["Dessert"]
 aliases: ["/2019/05/ginger-molasses-cookies.html"]
-featured_image: "IMG_2341.jpg"
+featured_image: "ginger-molasses-2.jpg"
 description: "Ginger Molasses Crinkles recipe."
 ---
 
@@ -41,4 +41,4 @@ Roll into 1-inch balls, flatten, and press cookie tops into sugar. Place sugar-s
 
 Bake 10-12 minutes. Let cool for 5 minutes and then transfer to cookie rack.
 
-{{< figure src="IMG_2339.jpg" alt="" caption="" >}}
+{{< figure src="ginger-molasses-crinkles.jpg" alt="" caption="" >}}

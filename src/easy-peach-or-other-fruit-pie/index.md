@@ -54,7 +54,7 @@ Here it is with pears and blackberries, and 2nd crust flipped on top:
 
 And with Wholly Wholesome crust, trimmed to make criss-crosses on top, and butter dots:
 
-{{< figure src="IMG_6648.JPG" alt="" caption="" >}}{{< figure src="pie-butter.jpg" alt="" caption="" >}}
+{{< figure src="easy-delicious-fruit.jpg" alt="" caption="" >}}{{< figure src="pie-butter.jpg" alt="" caption="" >}}
 
 And with extra-filled ramekins, with lattice on top. (Don't bother with crust on bottom of ramekins; it's still delish with crust only on top.) This is a fig pie!
 

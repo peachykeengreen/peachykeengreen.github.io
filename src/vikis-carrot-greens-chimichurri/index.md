@@ -30,6 +30,6 @@ Viki brought her adaptation of a [carrot-top chimichurri](https://www.loveandlem
 
 In a small bowl, combine the carrot greens, oregano, cumin, paprika, red pepper flakes, garlic, salt, and pepper. Stir in the vinegar and olive oil. Taste and adjust seasonings.
 
-{{< figure src="vikisChimcurri.jpg" alt="" caption="" >}}{{< figure src="IMG_5834.jpg" alt="" caption="" >}}
+{{< figure src="vikisChimcurri.jpg" alt="" caption="" >}}{{< figure src="viki-s-carrot.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_5837.jpg" alt="" caption="" >}}
+{{< figure src="viki-s-2.jpg" alt="" caption="" >}}

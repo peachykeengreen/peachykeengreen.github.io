@@ -50,11 +50,11 @@ Add seasoning and frozen vegetables and simmer 10 more minutes. Add chick'n and 
 
 Pot pie on our 21st anniversary!
 
-{{< figure src="IMG_6683.jpg" alt="" caption="" >}}{{< figure src="IMG_6684.jpg" alt="" caption="" >}}
+{{< figure src="chick-n-8.jpg" alt="" caption="" >}}{{< figure src="chick-n-9.jpg" alt="" caption="" >}}
 
 The first time we made it, with Cyndy & Laurie, w/ homemade gnocchi & coconut milk:
 
-{{< figure src="IMG_0848.JPG" alt="" caption="" >}}{{< figure src="IMG_0873.JPG" alt="" caption="" >}}
+{{< figure src="chick-n-6.jpg" alt="" caption="" >}}{{< figure src="chick-n-7.jpg" alt="" caption="" >}}
 
 Mix of regular and mini pies, pre- and post-cooking for Thanksgiving 2025:
 
@@ -62,10 +62,10 @@ Mix of regular and mini pies, pre- and post-cooking for Thanksgiving 2025:
 
 Fond memories of Vegenation...
 
-{{< figure src="IMG_0784.JPG" alt="" caption="" >}}{{< figure src="IMG_0786.JPG" alt="" caption="" >}}
+{{< figure src="chick-n-pot.jpg" alt="" caption="" >}}{{< figure src="chick-n-2.jpg" alt="" caption="" >}}
 
 Oh, back to Vegenation: the lemon merengue tart! Very lemony. The chef said the custard was half sugar, half fresh lemon juice, with LOTS of corn starch. The [merengue](/meringue-cookies/) was aquafaba of course - a bit runnier than I've made.
 
-{{< figure src="IMG_0792.JPG" alt="" caption="" >}}
+{{< figure src="chick-n-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_0803.JPG" alt="" caption="" >}}{{< figure src="IMG_0801.jpg" alt="" caption="" >}}
+{{< figure src="chick-n-5.jpg" alt="" caption="" >}}{{< figure src="chick-n-4.jpg" alt="" caption="" >}}

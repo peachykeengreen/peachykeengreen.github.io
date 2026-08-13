@@ -6,7 +6,7 @@ lastmod: "2025-04-07T18:44:13.486Z"
 draft: true
 categories: []
 aliases: ["/2019/12/supplements.html"]
-featured_image: "IMG_5256.jpg"
+featured_image: "supplements.jpg"
 description: "Supplements recipe."
 ---
 
@@ -38,7 +38,7 @@ We started taking **quercetin in December for other benefits (see above). In F
 
 May/June Update:** Research suggests that N-Acetyl L-Cysteine ([NAC) may reduce COVID-19 severity](https://www.youtube.com/watch?v=Dr_6w-WPr0w) and blood clots. NAC is an antioxidant that is protective of endothelial cells, breaks up [VWF](https://pubmed.ncbi.nlm.nih.gov/21266777/), and is a precursor to glutathione (GSH), a powerful antioxidant our bodies make less of as we age -- and [low glutathione has been found to be correlated to high COVID severity](https://www.youtube.com/watch?v=OtL0B1bqXak). I had been considering NAC for other reasons, so this propelled me to order bulk powder NAC and add it to our morning yogurt. I also changed our nightly magnesium pill to one chelated with glycine, since glycine and NAC are both precursors to glutathione -- and glycine aids in sleep, too, so win-win. Dr. Seheult, the pulmonologist who runs [Medcram](https://www.medcram.com/courses/coronavirus-outbreak-symptoms-treatment) and treats COVID patients in ICU, also confirms that his daily supplement regime includes Vitamin D (2500 IU), Vitamin C, Quercetin, NAC, Zinc, and a multivitamin (see roughly [minute 5 of this COVID Q&A](https://www.youtube.com/watch?v=MPNDTYvV0vE)).
 
-{{< figure src="/images/IMG_5259.jpg" alt="" caption="" >}}We take additional supplement pills (late morning or lunchtime, with food) frequently,** like 4-5 week. (Don't worry about forgetting some days... research suggests that pulsing is actually good, so your body doesn't habituate. Yay for a rationale ;)
+{{< figure src="/images/supplements-step-2.jpg" alt="" caption="" >}}We take additional supplement pills (late morning or lunchtime, with food) frequently,** like 4-5 week. (Don't worry about forgetting some days... research suggests that pulsing is actually good, so your body doesn't habituate. Yay for a rationale ;)
 
 Vitamin D3  2000 IU (sometimes up to 4000 IU)
 
@@ -46,7 +46,7 @@ Turmeric 500 mg
 
 Bioperine 10 mg - extract of black pepper that improves absorption of turmeric and other supplements
 
-{{< figure src="/images/IMG_5261.jpg" alt="" caption="" >}}Vitamin B-12 **- methylated (esp. if taking NMN) - something all vegans need (as it only come from animal sources) - at most 2-3 times a week is all that's needed.
+{{< figure src="/images/supplements-step-3.jpg" alt="" caption="" >}}Vitamin B-12 **- methylated (esp. if taking NMN) - something all vegans need (as it only come from animal sources) - at most 2-3 times a week is all that's needed.
 
 Vitamin K-2 100 mcg, to help with calcium absorption and more
 
@@ -64,7 +64,7 @@ Melatonin - 1.5 mg half an hour before going to bed. I get TJs chewable and eat
 
 Colds/Flu - as needed
 
-{{< figure src="/images/IMG_5264.jpg" alt="" caption="" >}}If we're feeling under the weather, we pop the following. Note that [Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4488782/) is also important -- see a nice [Medcram](https://www.youtube.com/watch?v=gmqgGwT6bw0&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_&index=31) review of relevant research here -- but we get in in the sun & supplement regularly. Research shows *regular* supplementation of D--*not* a single bolus dose-- is better.
+{{< figure src="/images/supplements-step-4.jpg" alt="" caption="" >}}If we're feeling under the weather, we pop the following. Note that [Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4488782/) is also important -- see a nice [Medcram](https://www.youtube.com/watch?v=gmqgGwT6bw0&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_&index=31) review of relevant research here -- but we get in in the sun & supplement regularly. Research shows *regular* supplementation of D--*not* a single bolus dose-- is better.
 
 Oil of oregano 150 mg, a couple at start of any signs of cold/flu symptoms, for it's [antiviral](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6152729/) activity
 

@@ -6,7 +6,7 @@ lastmod: "2023-06-24T04:45:24.173Z"
 draft: false
 categories: ["Entree"]
 aliases: ["/2021/08/oh-la-la-lasagna.html"]
-featured_image: "IMG_9771.jpg"
+featured_image: "oh-la-5.jpg"
 description: "Oh la la Lasagna recipe."
 ---
 
@@ -51,12 +51,12 @@ Cover the lasagna pan with foil and bake at 375 degrees for about 45 minutes or 
 
 Assembly:
 
-{{< figure src="IMG_9764.jpg" alt="" caption="" >}}
+{{< figure src="oh-la-la.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_9765.jpg" alt="" caption="" >}}
+{{< figure src="oh-la-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_9768.jpg" alt="" caption="" >}}
+{{< figure src="oh-la-3.jpg" alt="" caption="" >}}
 
 Interesting texture once cooked:
 
-{{< figure src="IMG_9769.jpg" alt="" caption="" >}}
+{{< figure src="oh-la-4.jpg" alt="" caption="" >}}

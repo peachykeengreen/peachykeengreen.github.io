@@ -55,4 +55,4 @@ Pour into large pie pan and top with mashed potatoes/cauliflower.  Bake for abo
 
 Out of the oven:
 
-{{< figure src="IMG_8588.jpg" alt="" caption="" >}}
+{{< figure src="shepherd-s-pie.jpg" alt="" caption="" >}}

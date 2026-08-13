@@ -47,10 +47,10 @@ Toss lemon zest with veggies. Spread the miso dressing on a plate. Top with grai
 
 original recipe, with kimchi:
 
-{{< figure src="IMG_1845.jpg" alt="" caption="" >}}
+{{< figure src="crispy-sheet-3.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_1838.jpg" alt="" caption="" >}}
+{{< figure src="crispy-sheet-2.jpg" alt="" caption="" >}}
 
-{{< figure src="IMG_1837.jpg" alt="" caption="" >}}
+{{< figure src="crispy-sheet-pan.jpg" alt="" caption="" >}}
 
 * Why not continue Purple Carrot? Partly because each delivery (a) felt like 3 new tasks I had to do before the ingredients went bad, and (2) it felt wasteful with the shipping (from Las Vegas!),  packaging (many teeny plastic bottles and bags with ingredients), and lots to tear down and recycle. We're trying Thistle prepared meals at the same time, and I like a lot about it: It's very tasty (especially the salads), it appears at our doorstep, and we just put the bag with freezer packs and plastics in it on the doorstep for the delivery person to take when they leave the next bag. Delicious food with less work and waste. But I did learn new things with Purple Carrot, and am glad that I can check out [Purple Carrot Vegan Recipes](https://www.purplecarrot.com/plant-based-recipes) for new ideas anytime. The ingredients were typical for what I have around anyway, so I can choose what to make when, without the waste or pressure.

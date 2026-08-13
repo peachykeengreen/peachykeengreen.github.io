@@ -6,7 +6,7 @@ lastmod: "2020-06-05T18:39:27.910Z"
 draft: false
 categories: ["Side Dish", "Salad"]
 aliases: ["/2019/08/lentil-salad-with-cumin-roasted-carrots.html"]
-featured_image: "IMG_3067.jpg"
+featured_image: "lentil-arugula-salad.jpg"
 description: "Lentil Arugula Salad with Cumin Roasted Carrots recipe."
 ---
 
@@ -45,4 +45,4 @@ Toss together all the salad ingredients.
 
 Pour the dressing over the salad and toss gently until evenly combined.
 
-{{< figure src="IMG_3068.jpg" alt="" caption="" >}}
+{{< figure src="lentil-arugula-2.jpg" alt="" caption="" >}}

@@ -6,7 +6,7 @@ lastmod: "2020-06-05T19:04:21.917Z"
 draft: false
 categories: ["Soup"]
 aliases: ["/2019/02/jeffs-black-bean-soup.html"]
-featured_image: "IMG_1446.JPG"
+featured_image: "jeff-s-2.jpg"
 description: "Jeff's Black Bean Soup recipe."
 ---
 
@@ -39,4 +39,4 @@ In a soup pot, saute the onion, pepper, cumin seeds, and a little salt in oil fo
 
 When the instant pot beans are cooked, pour the whole lot (water and beans) into the pot. Add chopped greens and bring to a boil. Cook another 15 minutes or so, until the greens are soft. Serve!
 
-{{< figure src="IMG_1445.jpg" alt="" caption="" >}}
+{{< figure src="jeff-s-black.jpg" alt="" caption="" >}}
