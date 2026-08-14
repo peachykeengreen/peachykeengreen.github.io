@@ -8,7 +8,7 @@ categories: []
 description: "About Peachy Keen Green, sources, and inspiration."
 ---
 
-A former techie by day, and like to cook, sing, and dance IRL. I blog vegan recipes, own a farm with my brother, and try to be eco, health, and climate conscious. So "green" has many meanings to me -- even if here it's mostly about plant-based recipes. Check out my [farm blog](https://schank-farm.github.io/) and take a virtual ride in a combine!
+A former techie by day, and like to cook, sing, and dance IRL. I blog vegan recipes, own a farm with my brother, and try to be eco, health, and climate conscious. So "green" has many meanings to me -- even if here it's mostly about plant-based recipes. Check out my [farm blog](https://schankfarm.com/) and take a virtual ride in a combine!
 
 Below are a few sources I like for health, nutrition, and inspiration.
 
