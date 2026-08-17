@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Peachy Keen Green</title>
-		<link>/categories/</link>
+		<link>https://peachykeengreen.com/categories/</link>
 		<description>Recent content in Categories on Peachy Keen Green</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,82 +12,82 @@
 		
 			<lastBuildDate>Thu, 13 Aug 2026 05:22:50 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://peachykeengreen.com/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Indian</title>
-				<link>/categories/indian/</link>
+				<link>https://peachykeengreen.com/categories/indian/</link>
 				<pubDate>Sat, 11 Jul 2026 04:19:04 +0000</pubDate>
-				<guid>/categories/indian/</guid>
+				<guid>https://peachykeengreen.com/categories/indian/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Soup</title>
-				<link>/categories/soup/</link>
+				<link>https://peachykeengreen.com/categories/soup/</link>
 				<pubDate>Sat, 07 Feb 2026 22:39:00 +0000</pubDate>
-				<guid>/categories/soup/</guid>
+				<guid>https://peachykeengreen.com/categories/soup/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Beverage</title>
-				<link>/categories/beverage/</link>
+				<link>https://peachykeengreen.com/categories/beverage/</link>
 				<pubDate>Fri, 06 Feb 2026 05:02:00 +0000</pubDate>
-				<guid>/categories/beverage/</guid>
+				<guid>https://peachykeengreen.com/categories/beverage/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dessert</title>
-				<link>/categories/dessert/</link>
+				<link>https://peachykeengreen.com/categories/dessert/</link>
 				<pubDate>Mon, 19 Jan 2026 03:46:00 +0000</pubDate>
-				<guid>/categories/dessert/</guid>
+				<guid>https://peachykeengreen.com/categories/dessert/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Side Dish</title>
-				<link>/categories/side-dish/</link>
+				<link>https://peachykeengreen.com/categories/side-dish/</link>
 				<pubDate>Wed, 20 Aug 2025 19:08:00 +0000</pubDate>
-				<guid>/categories/side-dish/</guid>
+				<guid>https://peachykeengreen.com/categories/side-dish/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Entree</title>
-				<link>/categories/entree/</link>
+				<link>https://peachykeengreen.com/categories/entree/</link>
 				<pubDate>Thu, 14 Aug 2025 17:24:00 +0000</pubDate>
-				<guid>/categories/entree/</guid>
+				<guid>https://peachykeengreen.com/categories/entree/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Salad</title>
-				<link>/categories/salad/</link>
+				<link>https://peachykeengreen.com/categories/salad/</link>
 				<pubDate>Thu, 14 Aug 2025 17:04:00 +0000</pubDate>
-				<guid>/categories/salad/</guid>
+				<guid>https://peachykeengreen.com/categories/salad/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Breakfast</title>
-				<link>/categories/breakfast/</link>
+				<link>https://peachykeengreen.com/categories/breakfast/</link>
 				<pubDate>Wed, 31 Jul 2024 23:26:00 +0000</pubDate>
-				<guid>/categories/breakfast/</guid>
+				<guid>https://peachykeengreen.com/categories/breakfast/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bread</title>
-				<link>/categories/bread/</link>
+				<link>https://peachykeengreen.com/categories/bread/</link>
 				<pubDate>Fri, 26 Apr 2024 23:32:00 +0000</pubDate>
-				<guid>/categories/bread/</guid>
+				<guid>https://peachykeengreen.com/categories/bread/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sauce</title>
-				<link>/categories/sauce/</link>
+				<link>https://peachykeengreen.com/categories/sauce/</link>
 				<pubDate>Fri, 13 May 2022 20:28:00 +0000</pubDate>
-				<guid>/categories/sauce/</guid>
+				<guid>https://peachykeengreen.com/categories/sauce/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Appetizer</title>
-				<link>/categories/appetizer/</link>
+				<link>https://peachykeengreen.com/categories/appetizer/</link>
 				<pubDate>Fri, 03 Jul 2020 19:03:00 +0000</pubDate>
-				<guid>/categories/appetizer/</guid>
+				<guid>https://peachykeengreen.com/categories/appetizer/</guid>
 				<description></description>
 			</item>
 	</channel>

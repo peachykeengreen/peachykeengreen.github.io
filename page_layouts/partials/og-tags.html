@@ -1,0 +1,41 @@
+{{- $title := cond .IsHome (printf "%s — %s" .Site.Title (.Site.Params.description | default "Vegan recipes and tips.")) (printf "%s | %s" .Title .Site.Title) -}}
+{{- $rawDesc := "" -}}
+{{- if .Description -}}
+  {{- $rawDesc = .Description -}}
+{{- else if .Summary -}}
+  {{- $rawDesc = .Summary | plainify | truncate 200 "..." -}}
+{{- else -}}
+  {{- $rawDesc = .Site.Params.description | default "Vegan recipes and tips." -}}
+{{- end -}}
+
+{{- $ogImage := "" -}}
+{{- if .Params.featured_image -}}
+  {{- $res := .Resources.GetMatch .Params.featured_image -}}
+  {{- if $res -}}
+    {{- $ogImage = $res.Permalink -}}
+  {{- else if hasPrefix .Params.featured_image "http" -}}
+    {{- $ogImage = .Params.featured_image -}}
+  {{- else if hasPrefix .Params.featured_image "/" -}}
+    {{- $ogImage = .Params.featured_image | absURL -}}
+  {{- else -}}
+    {{- $ogImage = (printf "%s%s" .RelPermalink .Params.featured_image) | absURL -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $ogImage -}}
+  {{- $ogImage = "images/og-logo.png" | absURL -}}
+{{- end -}}
+
+<!-- Open Graph / Facebook / iMessage / LinkedIn / WhatsApp -->
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:title" content="{{ $title }}" />
+<meta property="og:description" content="{{ $rawDesc }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ $ogImage }}" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="{{ if .Params.featured_image }}summary_large_image{{ else }}summary{{ end }}" />
+<meta name="twitter:title" content="{{ $title }}" />
+<meta name="twitter:description" content="{{ $rawDesc }}" />
+<meta name="twitter:image" content="{{ $ogImage }}" />
