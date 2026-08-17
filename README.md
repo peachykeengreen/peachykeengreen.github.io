@@ -6,7 +6,7 @@ Peachy Keen Green is a static site for Vegan Recipies that is built with [Hugo](
 
 ## 1. Environment & Prerequisites
 
-1. **Python 3.13** & `direnv` (optional but recommended):
+1. **Python 3** & `direnv` (optional but recommended):
    If using `direnv`, allow the directory environment to set `PROJECT_ROOT`, `PYTHON_VERSION="3.13"`, and add system paths:
 
    ```bash
@@ -14,7 +14,7 @@ Peachy Keen Green is a static site for Vegan Recipies that is built with [Hugo](
    ```
 
 2. **Hugo**:
-   Ensure Hugo is installed (`hugo version`).
+   Ensure Hugo is installed (`hugo version`). `brew install hugo` will install it.
 
 3. **Virtual Environment & Dependencies (Optional)**:
    The tools use standard library modules exclusively and require no external runtime dependencies.
@@ -41,6 +41,7 @@ To create a new Leaf Bundle article directly from a title:
 This automatically creates the slugified directory (`src/foo-bar-baz/`), sets `title: "Foo Bar Baz"` and `slug: "foo-bar-baz"`, and populates `index.md` using the default archetype template ([`archetypes/default.md`](archetypes/default.md)).
 
 Generated `src/foo-bar-baz/index.md` output:
+
 ```yaml
 ---
 title: "Foo Bar Baz"
@@ -76,12 +77,6 @@ By default, `./gen.sh` cleans generated site artifacts from `docs/` (while prese
 
 ```bash
 ./gen.sh
-```
-
-To skip the clean step and build directly into `docs/`:
-
-```bash
-./gen.sh --no-clean
 ```
 
 ### Running the Hugo Local Development Server (`hugo server`)
