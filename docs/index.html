@@ -4674,10 +4674,10 @@ Ingredients 4 T vegan margarine (or butter) 1 large onion, chopped 12 large carr
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const query = urlParams.get("q");
+    const rawQuery = urlParams.get("q");
+    const query = rawQuery ? rawQuery.trim() : "";
 
-    if (query && query.trim() !== "") {
+    if (query !== "") {
       const heroSection = document.getElementById("heroSection");
       if (heroSection) {
         heroSection.style.display = "none";
@@ -4754,8 +4754,7 @@ Ingredients 4 T vegan margarine (or butter) 1 large onion, chopped 12 large carr
 
       if (!searchForm || !searchInput) return;
 
-      const urlParams = new URLSearchParams(window.location.search);
-      const currentQuery = urlParams.get("q") || "";
+      const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;
       }

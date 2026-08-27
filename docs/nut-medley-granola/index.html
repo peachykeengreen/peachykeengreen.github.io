@@ -153,8 +153,7 @@ Net Carbs: 4 g, Fat 80%/Protein 10%/Carbs 10%</p>
 
       if (!searchForm || !searchInput) return;
 
-      const urlParams = new URLSearchParams(window.location.search);
-      const currentQuery = urlParams.get("q") || "";
+      const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;
       }

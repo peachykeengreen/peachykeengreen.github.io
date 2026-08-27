@@ -190,8 +190,7 @@ The sprouts will be ready to use in 3-5 days, when they fill the jar and it look
 
       if (!searchForm || !searchInput) return;
 
-      const urlParams = new URLSearchParams(window.location.search);
-      const currentQuery = urlParams.get("q") || "";
+      const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;
       }

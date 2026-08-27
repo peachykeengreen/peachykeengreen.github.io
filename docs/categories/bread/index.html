@@ -433,8 +433,7 @@ Ingredients Dry 3 cups whole wheat flour 1 tsp salt 2 tsp baking soda 1 cup waln
 
       if (!searchForm || !searchInput) return;
 
-      const urlParams = new URLSearchParams(window.location.search);
-      const currentQuery = urlParams.get("q") || "";
+      const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;
       }
