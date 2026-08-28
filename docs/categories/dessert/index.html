@@ -60,7 +60,7 @@
     
 <div style="margin-bottom: 2rem; text-align: center;">
   <h1>Dessert</h1>
-  <p class="lead" style="color: var(--muted-color);">Browsing 50 recipes in this section.</p>
+  <p class="lead" style="color: var(--muted-color);">Browsing 51 recipes in this section.</p>
   <div style="margin-top: 1rem;">
     <button onclick="pickRandomCategoryRecipe();" class="category-pill random-recipe-btn">
       🎲 Pick a Random Dessert Recipe
@@ -69,6 +69,32 @@
 </div>
 
 <div class="recipe-grid">
+  
+    <div class="recipe-card">
+  <div class="recipe-card-img-wrapper">
+    <a href="/carrot-cake-date-bites/">
+      <img src="/carrot-cake-date-bites/carrot-cake-bites.jpg" alt="Carrot Cake Date Bites" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2026-08-28">Aug 28, 2026</time>
+      <div class="recipe-card-categories">
+        <a href="/categories/dessert/" class="category-pill">Dessert</a>
+        <a href="/categories/breakfast/" class="category-pill">Breakfast</a>
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/carrot-cake-date-bites/">Carrot Cake Date Bites</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/carrot-cake-date-bites/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Kate brought amazing carrot cake balls to our tango class. She said it was easy to make: dates, walnuts, carrots, optional frosting. The recipe seemed a lot like this Minimalist Baker recipe, and a...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
   
     <div class="recipe-card">
   <div class="recipe-card-img-wrapper">
@@ -1347,7 +1373,7 @@ Ingredients 1 1/2 cups pitted Medjool dates (be sure all pits are gone!) 1/3 cup
 <script>
   function pickRandomCategoryRecipe() {
     const recipes = [
-      "\/lemon-cake-2026\/","\/lemon-blueberry-coffee-cake\/","\/chocolate-cake-with-gooey-ganache\/","\/kumquat-upside-down-cake\/","\/vegan-pie-crust\/","\/spice-cake\/","\/apple-crisp-turnover\/","\/apricot-sheet-cake\/","\/blood-orange-chocolate-olive-oil-cake\/","\/lemon-cake\/","\/persimmon-cookies\/","\/vegan-pumpkin-pie\/","\/strawberry-rhubarb-pie\/","\/peanut-butter-oatmeal-chocolate-chip\/","\/fig-apple-compote\/","\/marmalade\/","\/applesauce\/","\/pb2-chocolate-chip-cookies\/","\/pb2-chocolate-brownies\/","\/biscotti\/","\/candied-buddhas-hand-citron\/","\/yammy-chocolate-pudding\/","\/chocolate-applesauce-walnut-cake\/","\/dried-figs\/","\/blackberry-syrup\/","\/chocolate-chip-apricot-bars\/","\/ginger-molasses-cookies\/","\/coconut-rum-cake\/","\/muniras-date-and-nut-cookie-khajoor-ki\/","\/judis-pecan-puffs\/","\/coconut-pineapple-banana-pecan-cream-pie\/","\/persian-chickpea-cookies-nokhodchi\/","\/puff-pastry-mini-tarts\/","\/meringue-cookies\/","\/pear-spice-upside-down-cake\/","\/grandmas-lemon-meringue-pie\/","\/grandmas-ostakaka\/","\/berry-lemon-energy-bites\/","\/judis-chocolately-walnut-crust\/","\/fried-honey-bananas\/","\/chocolate-cashew-cream-mousse-tarts_8\/","\/garden-smoothie\/","\/easy-peach-or-other-fruit-pie\/","\/berry-crisp\/","\/chia-pudding\/","\/strawberry-coconut-yogurt-crunch\/","\/chocolate-chia-walnut-bars\/","\/vegan-jam-cookies\/","\/caramelized-ginger-pears\/","\/hearty-chocolate-chip-cookie\/"
+      "\/carrot-cake-date-bites\/","\/lemon-cake-2026\/","\/lemon-blueberry-coffee-cake\/","\/chocolate-cake-with-gooey-ganache\/","\/kumquat-upside-down-cake\/","\/vegan-pie-crust\/","\/spice-cake\/","\/apple-crisp-turnover\/","\/apricot-sheet-cake\/","\/blood-orange-chocolate-olive-oil-cake\/","\/lemon-cake\/","\/persimmon-cookies\/","\/vegan-pumpkin-pie\/","\/strawberry-rhubarb-pie\/","\/peanut-butter-oatmeal-chocolate-chip\/","\/fig-apple-compote\/","\/marmalade\/","\/applesauce\/","\/pb2-chocolate-chip-cookies\/","\/pb2-chocolate-brownies\/","\/biscotti\/","\/candied-buddhas-hand-citron\/","\/yammy-chocolate-pudding\/","\/chocolate-applesauce-walnut-cake\/","\/dried-figs\/","\/blackberry-syrup\/","\/chocolate-chip-apricot-bars\/","\/ginger-molasses-cookies\/","\/coconut-rum-cake\/","\/muniras-date-and-nut-cookie-khajoor-ki\/","\/judis-pecan-puffs\/","\/coconut-pineapple-banana-pecan-cream-pie\/","\/persian-chickpea-cookies-nokhodchi\/","\/puff-pastry-mini-tarts\/","\/meringue-cookies\/","\/pear-spice-upside-down-cake\/","\/grandmas-lemon-meringue-pie\/","\/grandmas-ostakaka\/","\/berry-lemon-energy-bites\/","\/judis-chocolately-walnut-crust\/","\/fried-honey-bananas\/","\/chocolate-cashew-cream-mousse-tarts_8\/","\/garden-smoothie\/","\/easy-peach-or-other-fruit-pie\/","\/berry-crisp\/","\/chia-pudding\/","\/strawberry-coconut-yogurt-crunch\/","\/chocolate-chia-walnut-bars\/","\/vegan-jam-cookies\/","\/caramelized-ginger-pears\/","\/hearty-chocolate-chip-cookie\/"
     ];
     if (recipes.length > 0) {
       const randomIndex = Math.floor(Math.random() * recipes.length);

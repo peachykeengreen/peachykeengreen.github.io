@@ -14,6 +14,20 @@
 		
 			<atom:link href="https://peachykeengreen.com/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Breakfast</title>
+				<link>https://peachykeengreen.com/categories/breakfast/</link>
+				<pubDate>Fri, 28 Aug 2026 16:18:20 -0700</pubDate>
+				<guid>https://peachykeengreen.com/categories/breakfast/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dessert</title>
+				<link>https://peachykeengreen.com/categories/dessert/</link>
+				<pubDate>Fri, 28 Aug 2026 16:18:20 -0700</pubDate>
+				<guid>https://peachykeengreen.com/categories/dessert/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Indian</title>
 				<link>https://peachykeengreen.com/categories/indian/</link>
 				<pubDate>Sat, 11 Jul 2026 04:19:04 +0000</pubDate>
@@ -35,13 +49,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Dessert</title>
-				<link>https://peachykeengreen.com/categories/dessert/</link>
-				<pubDate>Mon, 19 Jan 2026 03:46:00 +0000</pubDate>
-				<guid>https://peachykeengreen.com/categories/dessert/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Side Dish</title>
 				<link>https://peachykeengreen.com/categories/side-dish/</link>
 				<pubDate>Wed, 20 Aug 2025 19:08:00 +0000</pubDate>
@@ -60,13 +67,6 @@
 				<link>https://peachykeengreen.com/categories/salad/</link>
 				<pubDate>Thu, 14 Aug 2025 17:04:00 +0000</pubDate>
 				<guid>https://peachykeengreen.com/categories/salad/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Breakfast</title>
-				<link>https://peachykeengreen.com/categories/breakfast/</link>
-				<pubDate>Wed, 31 Jul 2024 23:26:00 +0000</pubDate>
-				<guid>https://peachykeengreen.com/categories/breakfast/</guid>
 				<description></description>
 			</item>
 			<item>

@@ -2,13 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peachykeengreen.com/about/</loc>
+    <loc>https://peachykeengreen.com/categories/breakfast/</loc>
+    <lastmod>2026-08-13T05:22:50+00:00</lastmod>
+  </url><url>
+    <loc>https://peachykeengreen.com/carrot-cake-date-bites/</loc>
+  </url><url>
+    <loc>https://peachykeengreen.com/categories/</loc>
+    <lastmod>2026-08-13T05:22:50+00:00</lastmod>
+  </url><url>
+    <loc>https://peachykeengreen.com/categories/dessert/</loc>
+    <lastmod>2026-08-13T05:22:50+00:00</lastmod>
   </url><url>
     <loc>https://peachykeengreen.com/</loc>
     <lastmod>2026-08-13T05:22:50+00:00</lastmod>
   </url><url>
-    <loc>https://peachykeengreen.com/categories/</loc>
-    <lastmod>2026-08-13T05:22:50+00:00</lastmod>
+    <loc>https://peachykeengreen.com/about/</loc>
   </url><url>
     <loc>https://peachykeengreen.com/categories/indian/</loc>
     <lastmod>2026-07-15T18:07:25+00:00</lastmod>
@@ -27,9 +35,6 @@
   </url><url>
     <loc>https://peachykeengreen.com/homemade-electrolyte-powder/</loc>
     <lastmod>2026-02-06T19:12:45+00:00</lastmod>
-  </url><url>
-    <loc>https://peachykeengreen.com/categories/dessert/</loc>
-    <lastmod>2026-08-13T05:22:50+00:00</lastmod>
   </url><url>
     <loc>https://peachykeengreen.com/lemon-cake-2026/</loc>
     <lastmod>2026-01-19T04:42:33+00:00</lastmod>
@@ -63,9 +68,6 @@
   </url><url>
     <loc>https://peachykeengreen.com/baked-chickpeas-and-vegetables/</loc>
     <lastmod>2024-11-11T22:19:05+00:00</lastmod>
-  </url><url>
-    <loc>https://peachykeengreen.com/categories/breakfast/</loc>
-    <lastmod>2026-08-13T05:22:50+00:00</lastmod>
   </url><url>
     <loc>https://peachykeengreen.com/lemon-blueberry-coffee-cake/</loc>
     <lastmod>2024-08-01T00:53:36+00:00</lastmod>

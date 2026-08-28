@@ -60,7 +60,7 @@
     
 <div style="margin-bottom: 2rem; text-align: center;">
   <h1>Breakfast</h1>
-  <p class="lead" style="color: var(--muted-color);">Browsing 15 recipes in this section.</p>
+  <p class="lead" style="color: var(--muted-color);">Browsing 16 recipes in this section.</p>
   <div style="margin-top: 1rem;">
     <button onclick="pickRandomCategoryRecipe();" class="category-pill random-recipe-btn">
       🎲 Pick a Random Breakfast Recipe
@@ -69,6 +69,32 @@
 </div>
 
 <div class="recipe-grid">
+  
+    <div class="recipe-card">
+  <div class="recipe-card-img-wrapper">
+    <a href="/carrot-cake-date-bites/">
+      <img src="/carrot-cake-date-bites/carrot-cake-bites.jpg" alt="Carrot Cake Date Bites" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2026-08-28">Aug 28, 2026</time>
+      <div class="recipe-card-categories">
+        <a href="/categories/dessert/" class="category-pill">Dessert</a>
+        <a href="/categories/breakfast/" class="category-pill">Breakfast</a>
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/carrot-cake-date-bites/">Carrot Cake Date Bites</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/carrot-cake-date-bites/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">Kate brought amazing carrot cake balls to our tango class. She said it was easy to make: dates, walnuts, carrots, optional frosting. The recipe seemed a lot like this Minimalist Baker recipe, and a...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
   
     <div class="recipe-card">
   <div class="recipe-card-img-wrapper">
@@ -460,7 +486,7 @@ Ingredients 1 T high...</p>
 <script>
   function pickRandomCategoryRecipe() {
     const recipes = [
-      "\/lemon-blueberry-coffee-cake\/","\/nut-medley-granola\/","\/overnight-oats\/","\/almond-butter-chocolate-chip-oatmeal\/","\/soy-yogurt-with-instant-pot\/","\/blackberry-syrup\/","\/jeffs-blueberry-pancakes\/","\/yummy-healthy-oatmeal\/","\/pear-spice-upside-down-cake\/","\/garden-smoothie\/","\/scrambled-tofu\/","\/overnight-steel-cut-oatmeal\/","\/chia-pudding\/","\/vegan-pancakes\/","\/peanut-butter-granola-judi\/"
+      "\/carrot-cake-date-bites\/","\/lemon-blueberry-coffee-cake\/","\/nut-medley-granola\/","\/overnight-oats\/","\/almond-butter-chocolate-chip-oatmeal\/","\/soy-yogurt-with-instant-pot\/","\/blackberry-syrup\/","\/jeffs-blueberry-pancakes\/","\/yummy-healthy-oatmeal\/","\/pear-spice-upside-down-cake\/","\/garden-smoothie\/","\/scrambled-tofu\/","\/overnight-steel-cut-oatmeal\/","\/chia-pudding\/","\/vegan-pancakes\/","\/peanut-butter-granola-judi\/"
     ];
     if (recipes.length > 0) {
       const randomIndex = Math.floor(Math.random() * recipes.length);
