@@ -134,6 +134,7 @@ My friend Judi totally loves these <a href="http://veryveryverygreen.blogspot.co
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

@@ -173,6 +173,7 @@ Image from <a href="http://ohsheglows.com/2011/07/13/our-perfect-veggie-burger/"
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

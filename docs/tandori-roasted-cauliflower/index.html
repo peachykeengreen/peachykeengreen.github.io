@@ -179,6 +179,7 @@ Preheat oven to 400 degrees. Put spices in a bowl and mix; set aside.</p>
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

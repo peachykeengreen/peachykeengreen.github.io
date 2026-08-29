@@ -140,6 +140,7 @@ Bake 10 min at 350 and then remove and let cool.</p>
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

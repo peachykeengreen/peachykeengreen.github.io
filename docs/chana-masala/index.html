@@ -170,6 +170,7 @@
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

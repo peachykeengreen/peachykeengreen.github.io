@@ -708,6 +708,7 @@ January 2025 update: Laurie roasted cauliflower for us and served it with a pean
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

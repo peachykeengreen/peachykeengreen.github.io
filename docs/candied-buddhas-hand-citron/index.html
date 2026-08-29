@@ -229,6 +229,7 @@ Turn off the heat and rest the citron in the syrup for 30 minutes or so. The res
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

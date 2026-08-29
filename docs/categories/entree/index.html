@@ -1760,6 +1760,7 @@ Ingredients 2-3 medium sweet potatoes, peeled &amp; sliced 32 oz salsa (mix of..
 
       if (!searchForm || !searchInput) return;
 
+      const urlParams = new URLSearchParams(window.location.search);
       const currentQuery = (urlParams.get("q") || "").trim();
       if (currentQuery) {
         searchInput.value = currentQuery;

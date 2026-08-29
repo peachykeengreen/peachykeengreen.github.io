@@ -23,6 +23,7 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
+    const urlParams = new URLSearchParams(window.location.search);
     const rawQuery = urlParams.get("q");
     const query = rawQuery ? rawQuery.trim() : "";
 
@@ -53,8 +54,9 @@
               { name: "categories", weight: 0.2 },
               { name: "content", weight: 0.3 }
             ],
-            threshold: 0.2,
-            ignoreLocation: true
+            threshold: 0.3,
+            ignoreLocation: true,
+            minMatchCharLength: 2
           });
 
           const results = fuse.search(query);
