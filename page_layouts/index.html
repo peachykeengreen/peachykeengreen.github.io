@@ -54,26 +54,31 @@
               { name: "categories", weight: 0.2 },
               { name: "content", weight: 0.3 }
             ],
-            threshold: 0.3,
+            threshold: 0.1,
             ignoreLocation: true,
-            minMatchCharLength: 2
+            minMatchCharLength: 2,
+            includeScore: true
           });
 
           const results = fuse.search(query);
-          const matchingPermalinks = new Set(results.map(r => r.item.permalink));
-
-          let matchCount = 0;
+          const cardMap = new Map();
           const cards = grid.querySelectorAll(".recipe-card");
           cards.forEach(card => {
             const link = card.querySelector(".recipe-card-title a");
             if (link) {
               const href = link.getAttribute("href");
-              if (matchingPermalinks.has(href)) {
-                card.style.display = "flex";
-                matchCount++;
-              } else {
-                card.style.display = "none";
-              }
+              cardMap.set(href, card);
+              card.style.display = "none";
+            }
+          });
+
+          let matchCount = 0;
+          results.forEach(result => {
+            const card = cardMap.get(result.item.permalink);
+            if (card) {
+              card.style.display = "flex";
+              grid.appendChild(card);
+              matchCount++;
             }
           });
 
