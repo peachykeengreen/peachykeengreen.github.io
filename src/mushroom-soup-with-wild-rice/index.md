@@ -11,7 +11,8 @@ featured_image: "mushroom-soup.jpg"
 We decided to host a lunch for our neighbors and try something new: soup! Which soups to make? 
 Split pea? Quinoa curry lentil? Gypsy? Carrot? Something new?
 I asked Wanda what her favorite soup was, and she said mushroom with wild rice.
-Huddling with Elsa and Pat after our workout class, carrot soup and mushroom soup generated the
+Huddling with Elsa and Pat after our workout class, 
+[carrot soup](https://peachykeengreen.com/carrot-leek-soup/) and mushroom soup generated the
 most excitement. So I got Wanda's recipe, looked at a few others, and created this vegan
 version of mostly-Wanda's recipe. Delish!
 
@@ -69,14 +70,14 @@ cashew cream and olive oil.
 
 {{< figure src="making-soup.jpg" alt="" caption="Making many mushrooms" >}}
 
-{{< figure src="serving-soup.jpg" alt="" caption="Serving station" >}}
+{{< figure src="serving-soup.jpeg" alt="" caption="Serving station" >}}
 
-{{< figure src="gang1.jpg" alt="" caption="Enjoying soup and salads!" >}}
+{{< figure src="gang1.jpeg" alt="" caption="Enjoying soup and salads!" >}}
 
-{{< figure src="gang2.jpg" alt="" caption="" >}}
+{{< figure src="gang2.jpeg" alt="" caption="" >}}
 
-{{< figure src="gang3.jpg" alt="" caption="" >}}
+{{< figure src="gang3.jpeg" alt="" caption="" >}}
 
-{{< figure src="gang4.jpg" alt="" caption="" >}}
+{{< figure src="gang4.jpeg" alt="" caption="" >}}
 
 
