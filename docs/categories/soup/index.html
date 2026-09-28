@@ -60,7 +60,7 @@
     
 <div style="margin-bottom: 2rem; text-align: center;">
   <h1>Soup</h1>
-  <p class="lead" style="color: var(--muted-color);">Browsing 17 recipes in this section.</p>
+  <p class="lead" style="color: var(--muted-color);">Browsing 18 recipes in this section.</p>
   <div style="margin-top: 1rem;">
     <button onclick="pickRandomCategoryRecipe();" class="category-pill random-recipe-btn">
       🎲 Pick a Random Soup Recipe
@@ -69,6 +69,31 @@
 </div>
 
 <div class="recipe-grid">
+  
+    <div class="recipe-card">
+  <div class="recipe-card-img-wrapper">
+    <a href="/mushroom-soup-with-wild-rice/">
+      <img src="/mushroom-soup-with-wild-rice/mushroom-soup.jpg" alt="Mushroom Soup with Wild Rice" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="2026-09-27">Sep 27, 2026</time>
+      <div class="recipe-card-categories">
+        <a href="/categories/soup/" class="category-pill">Soup</a>
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="/mushroom-soup-with-wild-rice/">Mushroom Soup with Wild Rice</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="/mushroom-soup-with-wild-rice/" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">We decided to host a lunch for our neighbors and try something new: soup! Which soups to make? Split pea? Quinoa curry lentil? Gypsy? Carrot? Something new? I asked Wanda what her favorite soup was,...</p>
+      </a>
+    </div>
+  </div>
+</div>
+
   
     <div class="recipe-card">
   <div class="recipe-card-img-wrapper">
@@ -504,7 +529,7 @@ Ingredients 4 T vegan margarine (or butter) 1 large onion, chopped 12 large carr
 <script>
   function pickRandomCategoryRecipe() {
     const recipes = [
-      "\/sabji-dal-soup\/","\/tuscan-white-bean-soup\/","\/cabbage-turmeric-coconut-soup\/","\/larrys-miso-soup\/","\/split-pea-soup\/","\/lentil-curry-soup\/","\/seville-gazpacho\/","\/jeffs-black-bean-soup\/","\/chelseys-tomato-soup\/","\/carrot-leek-soup\/","\/white-bean-kale-and-chorizo-soup\/","\/corn-chowder\/","\/french-green-lentil-soup\/","\/baked-winter-squash-soup\/","\/carrot-and-orange-soup\/","\/gypsy-soup\/","\/veggie-bean-kale-soup\/"
+      "\/mushroom-soup-with-wild-rice\/","\/sabji-dal-soup\/","\/tuscan-white-bean-soup\/","\/cabbage-turmeric-coconut-soup\/","\/larrys-miso-soup\/","\/split-pea-soup\/","\/lentil-curry-soup\/","\/seville-gazpacho\/","\/jeffs-black-bean-soup\/","\/chelseys-tomato-soup\/","\/carrot-leek-soup\/","\/white-bean-kale-and-chorizo-soup\/","\/corn-chowder\/","\/french-green-lentil-soup\/","\/baked-winter-squash-soup\/","\/carrot-and-orange-soup\/","\/gypsy-soup\/","\/veggie-bean-kale-soup\/"
     ];
     if (recipes.length > 0) {
       const randomIndex = Math.floor(Math.random() * recipes.length);
