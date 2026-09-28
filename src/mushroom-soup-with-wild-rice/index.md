@@ -68,9 +68,9 @@ it up and add it back to the pot to thicken. Add greens, if using.
 Serve up in bowls optionally topped with sauteed mushrooms and drizzles of 
 cashew cream and olive oil.
 
-{{< figure src="making-soup.jpg" alt="" caption="Making many mushrooms" >}}
+{{< figure src="making-soup.jpeg" alt="" caption="Making many mushrooms" >}}
 
-{{< figure src="serving-soup.jpeg" alt="" caption="Serving station" >}}
+{{< figure src="serving-soup.jpg" alt="" caption="Serving station" >}}
 
 {{< figure src="gang1.jpeg" alt="" caption="Enjoying soup and salads!" >}}
 
