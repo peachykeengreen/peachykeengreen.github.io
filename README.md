@@ -1,6 +1,6 @@
 # Peachy Keen Green
 
-Peachy Keen Green is a static site for Vegan Recipies that is built with [Hugo](https://gohugo.io/).
+Peachy Keen Green is a static site for Vegan Recipes, built with [Hugo](https://gohugo.io/). All content is copyrighted Patricia Schank.
 
 ---
 
